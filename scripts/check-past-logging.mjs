@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {moduleUrl} from './load-app-module.mjs';
+const {validLogDate,easternDate,entryLogXp}=await import(await moduleUrl('logging-date'));
+const {rewardsFor}=await import(await moduleUrl('rewards'));
+assert(validLogDate('2024-02-29','2026-10-16'));
+for(const d of ['2025-02-29','2026-04-31','2026-13-01','2026-10-17','garbage'])assert.equal(validLogDate(d,'2026-10-16'),false,d);
+assert.equal(easternDate(Date.parse('2026-10-17T03:59:59Z')),'2026-10-16');
+assert.equal(easternDate(Date.parse('2026-10-17T04:00:00Z')),'2026-10-17');
+const stamp=Date.parse('2026-10-16T14:00:00Z');
+const row=(kind,date,payload={})=>({kind,date,payload});
+assert.equal(entryLogXp(row('meal','2026-10-15',{_loggedAt:stamp})),10);
+assert.equal(entryLogXp(row('meal','2026-10-16',{_loggedAt:stamp})),20);
+assert.equal(entryLogXp(row('meal','2026-10-15')),20);
+assert.equal(entryLogXp(row('meal','2026-10-15',{_loggedAt:null})),20);
+const rewards=rewardsFor([row('meal','2026-10-15',{_loggedAt:stamp}),row('meal','2026-10-16',{_loggedAt:stamp}),row('workout','2026-10-15',{_loggedAt:stamp}),row('workout','2026-10-16',{_loggedAt:stamp})]);
+assert.equal(rewards.mealXp,30);assert.equal(rewards.workoutXp,30);
+assert.equal(rewardsFor(Array.from({length:30},()=>row('meal','2026-10-15',{_loggedAt:stamp}))).mealXp,200);
+console.log('PASS: real dates, future denial, leap years, Eastern midnight, late/same-day/legacy XP, and daily cap.');

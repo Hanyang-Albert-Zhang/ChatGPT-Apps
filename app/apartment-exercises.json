@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Wall slide",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Slide forearms up a wall without shrugging or arching.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Adductor rock-back",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "On hands and one knee, extend the other leg sideways; shift hips back gently.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Wrist circles",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Circle relaxed wrists slowly in each direction.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "World’s greatest stretch",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Use a comfortable long lunge, support one hand and rotate the chest gently toward the front leg.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Scapular push-up",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Keep elbows straight; let shoulder blades glide together and apart. Elevate hands on a bench if needed.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Dynamic hamstring sweep",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Place one heel forward, soften the other knee and hinge gently; alternate without bouncing.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Standing trunk side bend",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Reach one arm overhead and lean slightly sideways without twisting.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Standing quadriceps mobilization",
+    "group": "Mobility",
+    "type": "recovery",
+    "cue": "Use the wall for balance, bend one knee and bring the heel toward the seat gently; release and alternate.",
+    "motion": "mobility",
+    "equipment": "body only"
+  },
+  {
+    "name": "Cable Pallof press",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Set one FTX pulley at chest height; stand sideways, brace and press the handle straight forward without rotating.",
+    "motion": "plank",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Reverse crunch",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Lie on your back, knees bent; curl the pelvis slightly upward without swinging the legs.",
+    "motion": "plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Cable wood chop",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Use a light high pulley; move the handle diagonally down with controlled trunk rotation and soft knees.",
+    "motion": "plank",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Supine heel tap",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Lie on your back with hips and knees bent; lower one heel to the floor while keeping ribs quiet.",
+    "motion": "plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Dumbbell suitcase hold",
+    "group": "Core",
+    "type": "hold",
+    "cue": "Hold one light dumbbell at your side, stand tall and resist leaning; switch sides halfway.",
+    "motion": "plank",
+    "equipment": "Dumbbells (5–50 lb per hand)"
+  },
+  {
+    "name": "Bent-knee fallout",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Lie with knees bent and feet down; let one knee open a little while the pelvis stays still.",
+    "motion": "plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Bear hover",
+    "group": "Core",
+    "type": "hold",
+    "cue": "From hands and knees, brace and lift knees slightly; keep the back quiet and breathe.",
+    "motion": "plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Standing cable lift",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Use a light low pulley and both hands; lift diagonally across the body without leaning back.",
+    "motion": "plank",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Seated knee tuck",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Sit securely on the bench, hold its edges and draw knees toward the trunk without rounding forcefully.",
+    "motion": "plank",
+    "equipment": "Bench"
+  },
+  {
+    "name": "Modified curl-up",
+    "group": "Core",
+    "type": "strength",
+    "cue": "Keep one knee bent and hands under the low back; lift head and shoulders slightly as one unit.",
+    "motion": "plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Dumbbell deadlift",
+    "group": "Posterior chain",
+    "type": "strength",
+    "cue": "Keep dumbbells close, hinge at the hips and stand tall without rounding the back.",
+    "motion": "mobility",
+    "equipment": "Dumbbells (5–50 lb per hand)"
+  },
+  {
+    "name": "Dumbbell suitcase carry",
+    "group": "Full body",
+    "type": "hold",
+    "cue": "Carry one dumbbell with short indoor steps; stay upright and switch hands halfway.",
+    "motion": "mobility",
+    "equipment": "Dumbbells (5–50 lb per hand)"
+  },
+  {
+    "name": "Cable standing row",
+    "group": "Back",
+    "type": "strength",
+    "cue": "Set FTX handles near waist height; pull toward the ribs without leaning backward.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable chest press",
+    "group": "Chest",
+    "type": "strength",
+    "cue": "Use chest-height FTX pulleys, a stable split stance and press forward with control.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable fly",
+    "group": "Chest",
+    "type": "strength",
+    "cue": "Set both FTX pulleys near shoulder height; bring soft arms together without overstretching.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable triceps pressdown",
+    "group": "Triceps",
+    "type": "strength",
+    "cue": "Use a high FTX pulley; keep elbows beside the ribs and straighten the arms without swinging.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable biceps curl",
+    "group": "Biceps",
+    "type": "strength",
+    "cue": "Use low FTX handles; curl with upper arms still and lower slowly.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable face pull",
+    "group": "Back",
+    "type": "strength",
+    "cue": "Use a light high pulley and rope; pull toward eye level without shrugging.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Half-kneeling cable pulldown",
+    "group": "Back",
+    "type": "strength",
+    "cue": "Face a high FTX pulley in half-kneeling; pull one handle toward the ribs while staying tall.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable pull-through",
+    "group": "Posterior chain",
+    "type": "strength",
+    "cue": "Face away from a low FTX pulley, hinge gently and stand by driving through the hips.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Cable split-stance press",
+    "group": "Chest",
+    "type": "strength",
+    "cue": "Set one FTX handle at chest height; use a split stance and press one arm forward while resisting rotation.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Incline cable lateral raise",
+    "group": "Shoulders",
+    "type": "strength",
+    "cue": "Use a light low FTX pulley beside an incline bench; support the torso and raise the arm only to a comfortable height.",
+    "motion": "mobility",
+    "equipment": "Inspire Fitness FTX"
+  },
+  {
+    "name": "Treadmill run / walk",
+    "group": "Conditioning",
+    "type": "cardio",
+    "cue": "Stay indoors on the treadmill. Use the safety clip and choose a conversational walking or running pace.",
+    "motion": "run",
+    "equipment": "Treadmill"
+  },
+  {
+    "name": "Elliptical intervals",
+    "group": "Conditioning",
+    "type": "cardio",
+    "cue": "Keep smooth strides; alternate controlled efforts with easy recovery and avoid leaning on the handles.",
+    "motion": "run",
+    "equipment": "Elliptical trainer"
+  },
+  {
+    "name": "Stairmaster steady climb",
+    "group": "Conditioning",
+    "type": "cardio",
+    "cue": "Use full-foot contact and a steady manageable pace; keep hands light on the rails.",
+    "motion": "run",
+    "equipment": "Stairmaster"
+  }
+]

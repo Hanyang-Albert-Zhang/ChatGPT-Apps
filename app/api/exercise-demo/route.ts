@@ -1,0 +1,1 @@
+import {exerciseMedia} from '../../exercise-media-server';export async function GET(req:Request){const id=(new URL(req.url).searchParams.get('id')||'').slice(0,500);const media=await exerciseMedia(id);return media?Response.json(media,{headers:{'Cache-Control':'public, max-age=86400'}}):Response.json({error:'Exercise unavailable.'},{status:404});}

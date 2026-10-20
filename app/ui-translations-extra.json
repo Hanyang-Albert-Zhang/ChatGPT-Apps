@@ -1,0 +1,3430 @@
+{
+  "For each logged day: max(0, 100 × (1 − |logged kcal − saved daily goal| / goal)), then average. This is a Seediva scoring choice, not a clinical target. Uses saved weekday/weekend calorie goals derived from your age, sex, height, weight, activity, and chosen weight goal.": [
+    "每个有记录的日期按以下公式评分后取平均：最大值（0，100 ×（1 − |记录热量 − 已保存每日目标| / 目标））。这是 Seediva 的评分设计，并非临床目标。采用已保存的工作日和周末热量目标，依据年龄、性别、身高、体重、活动量及所选体重目标计算。",
+    "Para cada día registrado: máximo entre 0 y 100 × (1 − |calorías registradas − objetivo diario guardado| / objetivo); después se calcula la media. Es una decisión de puntuación de Seediva, no un objetivo clínico. Usa los objetivos calóricos guardados para días laborables y fines de semana, derivados de la edad, el sexo, la altura, el peso, la actividad y el objetivo de peso elegido."
+  ],
+  "Uses least-squares slope across 28 days of daily weights. Target = signed saved weekly weight goal (lb converted to kg), capped at 2 lb/week; maintenance target = 0. Score = max(0,100 × (1 − |observed slope − goal| / max(0.25 kg/week, |goal|))). Seediva product formula, not a validated health assessment. Requires at least 7 weight dates spanning 14 days and 2 waist measurement weeks. Body-measurement changes are shown descriptively, without rewarding smaller sizes.": [
+    "采用过去 28 天每日体重的最小二乘趋势斜率。目标为已保存的每周体重变化目标（保留增减方向，磅换算为公斤），上限每周 2 磅；维持体重的目标为 0。评分 = 最大值（0，100 ×（1 − |实际斜率 − 目标| / 最大值（每周 0.25 公斤，|目标|）））。这是 Seediva 的产品公式，并非经过验证的健康评估。需至少 7 个体重记录日期，跨度不少于 14 天，并有两周腰围记录。身体围度变化仅作描述，不因尺寸变小而加分。",
+    "Usa la pendiente por mínimos cuadrados de los pesos diarios de 28 días. El objetivo es el cambio semanal guardado con su signo, convertido de libras a kilos y limitado a 2 libras por semana; para mantenimiento es 0. Puntuación = máximo(0, 100 × (1 − |pendiente observada − objetivo| / máximo(0,25 kg/semana, |objetivo|))). Es una fórmula de Seediva, no una evaluación de salud validada. Requiere al menos 7 fechas de peso a lo largo de 14 días y mediciones de cintura de dos semanas. Los cambios corporales se describen sin premiar las medidas menores."
+  ],
+  "Saved.": [
+    "已保存。",
+    "Guardado."
+  ],
+  "Active": [
+    "正常",
+    "Activa"
+  ],
+  "Email": [
+    "邮箱",
+    "Correo electrónico"
+  ],
+  "Choose": [
+    "选择",
+    "Elegir"
+  ],
+  "Month": [
+    "月",
+    "Mes"
+  ],
+  "Today": [
+    "今天",
+    "Hoy"
+  ],
+  "Locked": [
+    "尚未开放",
+    "Bloqueado"
+  ],
+  "in/week ·": [
+    "英寸/周 ·",
+    "pulgadas/semana ·"
+  ],
+  "kg/week ·": [
+    "公斤/周 ·",
+    "kg/semana ·"
+  ],
+  "/week": [
+    "/周",
+    "/semana"
+  ],
+  "/ week": [
+    "/周",
+    "/semana"
+  ],
+  "/28 days · Workout dates:": [
+    "/28 天 · 训练日期：",
+    "/28 días · Fechas de entrenamiento:"
+  ],
+  "/ 5 selected": [
+    "/ 5 个已选",
+    "/ 5 seleccionados"
+  ],
+  ". Exercises logged here are saved to this date and earn 10 XP per entry.": [
+    "。在这里记录的训练将保存到此日期，每条获得 10 经验值。",
+    ". Los ejercicios registrados aquí se guardan en esta fecha y otorgan 10 puntos de experiencia cada uno."
+  ],
+  "Watch the cooking demonstration": [
+    "观看烹饪示范",
+    "Ver la demostración de cocina"
+  ],
+  "Cooking video:": [
+    "烹饪视频：",
+    "Vídeo de cocina:"
+  ],
+  "Open video on YouTube": [
+    "在 YouTube 打开视频",
+    "Abrir vídeo en YouTube"
+  ],
+  "Independent demonstration; ingredients and portions may differ. Captions and playback depend on the video publisher.": [
+    "这是独立烹饪示范，食材和份量可能不同。字幕与播放情况取决于视频发布者。",
+    "Demostración independiente; los ingredientes y las porciones pueden variar. Los subtítulos y la reproducción dependen del autor del vídeo."
+  ],
+  "A verified embedded demonstration is not available for this dish yet. Use the video search below.": [
+    "这道菜暂时没有经过核实的嵌入式示范视频，请使用下方的视频搜索。",
+    "Todavía no hay una demostración incrustada verificada para este plato. Usa la búsqueda de vídeos de abajo."
+  ],
+  "Seediva’s ingredient lists and cooking outlines are original planning guides. Publisher libraries below offer full recipes and precise quantities. Recipe cards use credited dish photos or video thumbnails; verified demonstrations open in the cooking guide. External media availability can change.": [
+    "Seediva 的食材清单和烹饪提纲是原创规划指南。下方的食谱网站提供完整食谱和准确用量。食谱卡片使用注明来源的菜品照片或视频缩略图；烹饪指南中可观看已核实的示范视频。外部媒体的可用情况可能变化。",
+    "Las listas de ingredientes y los esquemas de cocina de Seediva son guías originales de planificación. Las bibliotecas enlazadas ofrecen recetas completas y cantidades precisas. Las tarjetas usan fotos de platos o miniaturas de vídeo con atribución; las demostraciones verificadas se abren en la guía. La disponibilidad de los medios externos puede cambiar."
+  ],
+  "Photo:": [
+    "图片：",
+    "Foto:"
+  ],
+  "YouTube thumbnail": [
+    "YouTube 视频缩略图",
+    "Miniatura de YouTube"
+  ],
+  "YouTube video thumbnail": [
+    "YouTube 视频缩略图",
+    "Miniatura de vídeo de YouTube"
+  ],
+  " round(s): 20 sec work / 40 sec easy; keep the final repetitions controlled": [
+    " 轮：运动 20 秒，轻松活动 40 秒；最后几次也要控制动作",
+    " ronda(s): 20 segundos de esfuerzo y 40 suaves; mantén el control en las últimas repeticiones"
+  ],
+  "Other entrants with progress earn +": [
+    "其他取得进展的参与者获得 +",
+    "Los demás participantes con progreso obtienen +"
+  ],
+  "min/week": [
+    "分钟/周",
+    "min/semana"
+  ],
+  "Sign in and calendar access required.": [
+    "请登录，并确认拥有训练日历访问权限。",
+    "Debes iniciar sesión y tener acceso al calendario."
+  ],
+  "Calendar unavailable. Please retry.": [
+    "日历暂不可用，请重试。",
+    "El calendario no está disponible. Inténtalo de nuevo."
+  ],
+  "Planned workout not found.": [
+    "未找到该训练安排。",
+    "No se encontró el entrenamiento planificado."
+  ],
+  "Future workouts can be planned, but cannot be marked complete yet.": [
+    "可以提前安排未来的训练，但现在不能标记为完成。",
+    "Puedes planificar entrenamientos futuros, pero todavía no marcarlos como completados."
+  ],
+  "Check the date, exercise and nonnegative values.": [
+    "请检查日期、动作及各项数值；数值不能为负。",
+    "Revisa la fecha, el ejercicio y los valores no negativos."
+  ],
+  "Could not update the calendar.": [
+    "无法更新日历。",
+    "No se pudo actualizar el calendario."
+  ],
+  "Administrator access required.": [
+    "需要管理员权限。",
+    "Se requiere acceso de administrador."
+  ],
+  "Could not load the admin center.": [
+    "无法加载管理中心。",
+    "No se pudo cargar el centro de administración."
+  ],
+  "Owner access cannot be changed.": [
+    "不能更改所有者的访问权限。",
+    "No se puede cambiar el acceso del propietario."
+  ],
+  "Account not found.": [
+    "未找到账号。",
+    "No se encontró la cuenta."
+  ],
+  "Feedback not found.": [
+    "未找到反馈。",
+    "No se encontraron los comentarios."
+  ],
+  "Check the selected status and note.": [
+    "请检查所选状态和备注。",
+    "Revisa el estado seleccionado y la nota."
+  ],
+  "Could not save. Please retry.": [
+    "无法保存，请重试。",
+    "No se pudo guardar. Inténtalo de nuevo."
+  ],
+  "Sign in and Trophies access required.": [
+    "请登录，并确认拥有奖杯页面访问权限。",
+    "Debes iniciar sesión y tener acceso a Trofeos."
+  ],
+  "Push notifications are not configured yet.": [
+    "尚未配置推送通知。",
+    "Las notificaciones push aún no están configuradas."
+  ],
+  "Maximum 10 subscribed devices. Disable another device first.": [
+    "最多可订阅 10 台设备，请先在另一台设备上关闭通知。",
+    "Se admiten hasta 10 dispositivos suscritos. Desactiva primero otro dispositivo."
+  ],
+  "Could not register this device.": [
+    "无法注册此设备。",
+    "No se pudo registrar este dispositivo."
+  ],
+  "Could not disable notifications.": [
+    "无法关闭通知。",
+    "No se pudieron desactivar las notificaciones."
+  ],
+  "Page access denied.": [
+    "无权访问该页面。",
+    "Acceso a la página denegado."
+  ],
+  "Choose today or a valid previous date.": [
+    "请选择今天或有效的过去日期。",
+    "Elige hoy o una fecha anterior válida."
+  ],
+  "Entry unavailable.": [
+    "该记录不可用。",
+    "El registro no está disponible."
+  ],
+  "Invalid edit.": [
+    "无法执行此编辑。",
+    "Edición no válida."
+  ],
+  "Invalid meal photo.": [
+    "餐食照片无效。",
+    "Foto de comida no válida."
+  ],
+  "Missing record": [
+    "缺少记录",
+    "Falta el registro"
+  ],
+  "Fiber-focused meals and 18 ways to eat well": [
+    "注重膳食纤维的餐食与 18 种健康饮食方式",
+    "Comidas centradas en la fibra y 18 formas de comer bien"
+  ],
+  "Planning ahead? Build your own workouts in the new training calendar.": [
+    "想提前安排？在全新的训练日历中创建自己的训练吧。",
+    "¿Quieres planificar? Crea tus ejercicios en el nuevo calendario de entrenamiento."
+  ],
+  "Prefer a bigger picture? Switch your custom training calendar between week and month.": [
+    "想查看整体安排？自定义训练日历支持周视图和月视图切换。",
+    "¿Prefieres una vista general? Cambia tu calendario personalizado entre la vista semanal y mensual."
+  ],
+  "Finished a planned workout? Check it off to add the workout and its XP to your history.": [
+    "完成了计划中的训练？勾选后即可添加到训练历史，并获得经验值。",
+    "¿Terminaste un entrenamiento planificado? Márcalo para añadirlo a tu historial y sumar su experiencia."
+  ],
+  "Checked a workout by mistake? Uncheck it in your calendar to undo the log and XP.": [
+    "不小心勾选了训练？在日历中取消勾选，即可撤销记录和经验值。",
+    "¿Marcaste un entrenamiento por error? Desmárcalo en el calendario para deshacer el registro y su experiencia."
+  ],
+  "Picked the wrong workout date? Use the pencil in Workout history to correct it.": [
+    "训练日期选错了？点击训练历史中的铅笔图标即可更正。",
+    "¿Elegiste una fecha incorrecta? Usa el lápiz del historial de entrenamientos para corregirla."
+  ],
+  "No matching food? Use the Google search beside your description, then paste and review the nutrition.": [
+    "没找到匹配的食物？点击描述旁的 Google 搜索，然后粘贴并核对营养信息。",
+    "¿No encuentras esa comida? Usa la búsqueda de Google junto a tu descripción; después pega y revisa la información nutricional."
+  ],
+  "Logging a favorite meal again? Your saved descriptions are searchable after you save a food log.": [
+    "又吃了喜欢的餐食？保存饮食记录后，就能搜索已保存的描述。",
+    "¿Vuelves a registrar una comida favorita? Podrás buscar tus descripciones después de guardar el registro."
+  ],
+  "Try something new: explore Mexican, Ecuadorian and Puerto Rican meal ideas.": [
+    "尝试新口味：探索墨西哥、厄瓜多尔和波多黎各餐食。",
+    "Prueba algo nuevo: explora ideas de comidas mexicanas, ecuatorianas y puertorriqueñas."
+  ],
+  "Growing together? Tap a friend’s name in the leaderboard to see their trophies.": [
+    "一起进步吧！点击排行榜中的好友名字，查看对方的奖杯。",
+    "¿Creciendo juntos? Toca el nombre de una amistad en la clasificación para ver sus trofeos."
+  ],
+  "Want a nudge from friends? Enable phone notifications in Punch reminders.": [
+    "想收到好友的鼓励提醒？在打卡提醒中启用手机通知吧。",
+    "¿Quieres recibir un empujoncito de tus amistades? Activa las notificaciones del teléfono en los recordatorios."
+  ],
+  "How is your day going? Open your health rating for a breakdown.": [
+    "今天过得怎么样？打开健康评分，看看详细分析。",
+    "¿Cómo va tu día? Abre tu valoración de bienestar para ver el desglose."
+  ],
+  "A little planning helps. Log your next meal with its portion or weight.": [
+    "提前想一想更轻松。记录下一餐时，记得填写份量或重量。",
+    "Un poco de planificación ayuda. Registra tu próxima comida con su porción o peso."
+  ],
+  "Ready to move? Open today’s training plan and choose a movement.": [
+    "准备动起来了吗？打开今天的训练计划，选一个动作吧。",
+    "¿Listo para moverte? Abre el plan de hoy y elige un ejercicio."
+  ],
+  "Small steps add up. See your progress in the workout report.": [
+    "小小进步会慢慢积累。去训练报告看看你的变化吧。",
+    "Los pequeños pasos suman. Consulta tu progreso en el informe de entrenamientos."
+  ],
+  "Want a fresh goal? Update your training preferences.": [
+    "想设定新目标？更新一下你的训练偏好吧。",
+    "¿Quieres un nuevo objetivo? Actualiza tus preferencias de entrenamiento."
+  ],
+  "Give a friend a little encouragement. Open your Inbox.": [
+    "给好友一点鼓励吧，打开收件箱聊聊。",
+    "Anima un poco a una amistad. Abre tu bandeja de entrada."
+  ],
+  "How is your weight trending? Check your daily weight chart.": [
+    "体重变化怎么样？看看你的每日体重趋势图。",
+    "¿Cómo evoluciona tu peso? Consulta tu gráfica de peso diario."
+  ],
+  "Any feature you would love? Leave a suggestion in Feedback!": [
+    "有什么想要的新功能？到反馈区留下建议吧！",
+    "¿Hay alguna función que te encantaría tener? ¡Deja tu sugerencia en Comentarios!"
+  ],
+  "Changes take time. Add your weekly body measurements to follow your progress.": [
+    "变化需要时间。记录每周身体围度，看看自己的进步吧。",
+    "Los cambios llevan tiempo. Añade tus medidas corporales semanales para seguir tu progreso."
+  ],
+  "Missed a meal? Choose its date in Nutrition details and catch up.": [
+    "漏记了一餐？在营养详情中选择对应日期，补记一下吧。",
+    "¿Olvidaste registrar una comida? Elige su fecha en Detalles nutricionales y añádela."
+  ],
+  "Drag Seedy anywhere; return to the right edge to dock": [
+    "拖动 Seedy 到任意位置；拖回右侧边缘即可停靠",
+    "Arrastra a Seedy a cualquier lugar; vuelve al borde derecho para acoplarlo"
+  ],
+  "Page access": [
+    "页面访问权限",
+    "Acceso a páginas"
+  ],
+  "All pages": [
+    "所有页面",
+    "Todas las páginas"
+  ],
+  "Selected pages only": [
+    "仅限所选页面",
+    "Solo las páginas seleccionadas"
+  ],
+  "Deny all pages": [
+    "禁止访问所有页面",
+    "Denegar todas las páginas"
+  ],
+  "Checking administrator access…": [
+    "正在验证管理员权限……",
+    "Comprobando el acceso de administrador…"
+  ],
+  "No feedback yet.": [
+    "暂无反馈。",
+    "Todavía no hay comentarios."
+  ],
+  "Reviewing": [
+    "审核中",
+    "En revisión"
+  ],
+  "Planned": [
+    "已列入计划",
+    "Planificado"
+  ],
+  "Resolved": [
+    "已解决",
+    "Resuelto"
+  ],
+  "Add / invite account": [
+    "添加或邀请账号",
+    "Añadir o invitar una cuenta"
+  ],
+  "Choose one account to manage its Seediva access. Removing an account revokes app access reversibly; it does not delete the person’s ChatGPT identity or erase their records. Account settings and sign-out remain available.": [
+    "选择一个账号，管理其 Seediva 访问权限。移除账号会撤销应用访问权限，之后可恢复；不会删除该用户的 ChatGPT 身份或记录。账号设置和退出登录功能仍可使用。",
+    "Selecciona una cuenta para gestionar su acceso a Seediva. Quitarla revoca el acceso a la aplicación y se puede revertir; no elimina su identidad de ChatGPT ni sus registros. Los ajustes de cuenta y el cierre de sesión siguen disponibles."
+  ],
+  "Search first name or email": [
+    "搜索名字或邮箱",
+    "Buscar por nombre o correo electrónico"
+  ],
+  "Choose account": [
+    "选择账号",
+    "Seleccionar cuenta"
+  ],
+  "Choose an account": [
+    "请选择账号",
+    "Selecciona una cuenta"
+  ],
+  "· Removed": [
+    "· 已移除",
+    "· Eliminada"
+  ],
+  "· Invited": [
+    "· 已邀请",
+    "· Invitada"
+  ],
+  "Restore account access": [
+    "恢复账号访问权限",
+    "Restaurar acceso a la cuenta"
+  ],
+  "Save page access": [
+    "保存页面权限",
+    "Guardar acceso a páginas"
+  ],
+  "Remove account access": [
+    "撤销账号访问权限",
+    "Revocar acceso a la cuenta"
+  ],
+  "Needs review": [
+    "待审核",
+    "Requiere revisión"
+  ],
+  "Support needed": [
+    "需要支持",
+    "Necesita asistencia"
+  ],
+  "Invite someone to Seediva": [
+    "邀请用户加入 Seediva",
+    "Invitar a alguien a Seediva"
+  ],
+  "First name": [
+    "名字",
+    "Nombre"
+  ],
+  "Create invitation": [
+    "创建邀请",
+    "Crear invitación"
+  ],
+  "The recipient signs in with ChatGPT using this email. This creates Seediva access settings, not a ChatGPT account. Automatic email sending is unavailable; open the prepared email below to send it yourself.": [
+    "受邀者需使用此邮箱通过 ChatGPT 登录。此操作设置 Seediva 访问权限，不会创建 ChatGPT 账号。目前不支持自动发送邮件；请打开下方准备好的邮件并自行发送。",
+    "La persona invitada debe iniciar sesión con ChatGPT usando este correo. Esto configura el acceso a Seediva, pero no crea una cuenta de ChatGPT. El envío automático no está disponible; abre el correo preparado a continuación para enviarlo."
+  ],
+  "Invitation link": [
+    "邀请链接",
+    "Enlace de invitación"
+  ],
+  "Open invitation email draft": [
+    "打开邀请邮件草稿",
+    "Abrir borrador de invitación"
+  ],
+  "You are invited to Seediva": [
+    "邀请你加入 Seediva",
+    "Te invitamos a Seediva"
+  ],
+  "Sign in with ChatGPT using": [
+    "通过 ChatGPT 登录，使用邮箱",
+    "Inicia sesión con ChatGPT usando"
+  ],
+  "Your plan, your pace": [
+    "自己的计划，自己的节奏",
+    "Tu plan, a tu ritmo"
+  ],
+  "Plan any day in advance. Check off completed workouts today or on a previous date to add them to Workout history. Uncheck to remove that log and reverse its XP.": [
+    "可以提前安排任意日期的训练。勾选今天或过去日期已完成的训练，即可加入训练历史；取消勾选会移除对应记录并扣回其经验值。",
+    "Planifica cualquier día con antelación. Marca los entrenamientos completados hoy o en una fecha anterior para añadirlos al historial. Desmárcalos para eliminar ese registro y revertir su experiencia."
+  ],
+  "Each calendar workout earns 20 XP, within the existing 200 workout XP daily limit. Future workouts cannot be completed. Custom exercise names are added to the shared search directory—enter exercise names only, without personal information.": [
+    "每项日历训练可获得 20 经验值，每日训练经验值上限仍为 200。不能勾选未来日期的训练。自定义动作名称会加入共享搜索目录，请仅输入动作名称，不要包含个人信息。",
+    "Cada entrenamiento del calendario otorga 20 puntos de experiencia, dentro del límite diario de 200 para entrenamientos. No se pueden completar entrenamientos futuros. Los nombres personalizados se añaden al directorio compartido: introduce solo nombres de ejercicios, sin información personal."
+  ],
+  "Previous calendar period": [
+    "上一个日历时段",
+    "Periodo anterior del calendario"
+  ],
+  "Selected date": [
+    "所选日期",
+    "Fecha seleccionada"
+  ],
+  "Next calendar period": [
+    "下一个日历时段",
+    "Periodo siguiente del calendario"
+  ],
+  "Monthly workout calendar": [
+    "月度训练日历",
+    "Calendario mensual de entrenamientos"
+  ],
+  "Weekly workout calendar": [
+    "每周训练日历",
+    "Calendario semanal de entrenamientos"
+  ],
+  "workouts": [
+    "次训练",
+    "entrenamientos"
+  ],
+  "Add workout": [
+    "添加训练",
+    "Añadir entrenamiento"
+  ],
+  "No workouts planned for this day. Add your first exercise.": [
+    "当天尚未安排训练，添加第一个动作吧。",
+    "No hay entrenamientos planificados para este día. Añade tu primer ejercicio."
+  ],
+  "Complete": [
+    "完成",
+    "Completar"
+  ],
+  "· Completed": [
+    "· 已完成",
+    "· Completado"
+  ],
+  "Remove planned": [
+    "移除已安排的训练",
+    "Eliminar del plan"
+  ],
+  "Plan ahead now. Completion becomes available on this date.": [
+    "现在可以提前安排，到该日期后才能勾选完成。",
+    "Planifica con antelación. Podrás marcarlo como completado a partir de esta fecha."
+  ],
+  "Plan a workout": [
+    "安排训练",
+    "Planificar un entrenamiento"
+  ],
+  "Plan a workout ·": [
+    "安排训练 ·",
+    "Planificar un entrenamiento ·"
+  ],
+  "Close workout planner": [
+    "关闭训练计划编辑器",
+    "Cerrar el planificador de entrenamientos"
+  ],
+  "Workout type": [
+    "训练类型",
+    "Tipo de entrenamiento"
+  ],
+  "Total weight": [
+    "总重量",
+    "Peso total"
+  ],
+  "Time (minutes)": [
+    "时长（分钟）",
+    "Tiempo (minutos)"
+  ],
+  "Private notes": [
+    "私人备注",
+    "Notas privadas"
+  ],
+  "Exercise names become searchable by everyone. Sets, reps, dates and notes stay private.": [
+    "动作名称可被所有用户搜索。组数、次数、日期和备注仅自己可见。",
+    "Los nombres de ejercicios podrán ser buscados por todos. Las series, repeticiones, fechas y notas siguen siendo privadas."
+  ],
+  "Save planned workout": [
+    "保存训练安排",
+    "Guardar entrenamiento planificado"
+  ],
+  "Could not load feedback.": [
+    "无法加载反馈。",
+    "No se pudieron cargar los comentarios."
+  ],
+  "Suggest a feature, share an improvement, or report a problem. Your feedback is private to you and the app administrator.": [
+    "提出新功能、改进建议或报告问题。反馈仅你和应用管理员可见。",
+    "Sugiere una función, comparte una mejora o informa de un problema. Tus comentarios solo son visibles para ti y para el administrador."
+  ],
+  "Thank you! Your feedback has been sent.": [
+    "谢谢！反馈已发送。",
+    "¡Gracias! Tus comentarios se han enviado."
+  ],
+  "What would make Seediva better for you? Please do not include passwords or sensitive personal information.": [
+    "哪些改进能让 Seediva 更适合你？请勿填写密码或敏感个人信息。",
+    "¿Qué mejoraría tu experiencia con Seediva? No incluyas contraseñas ni información personal sensible."
+  ],
+  "Sending…": [
+    "正在发送……",
+    "Enviando…"
+  ],
+  "Custom training plan": [
+    "自定义训练计划",
+    "Plan de entrenamiento personalizado"
+  ],
+  "Meal report log date": [
+    "饮食报告记录日期",
+    "Fecha del registro del informe de comidas"
+  ],
+  "Workout history log date": [
+    "训练历史记录日期",
+    "Fecha del registro del historial de entrenamientos"
+  ],
+  "Page access restricted": [
+    "页面访问受限",
+    "Acceso a la página restringido"
+  ],
+  "Your administrator has not enabled this page for your account.": [
+    "管理员尚未为你的账号开放此页面。",
+    "El administrador no ha habilitado esta página para tu cuenta."
+  ],
+  "Customize my own training plan": [
+    "自定义我的训练计划",
+    "Personalizar mi plan de entrenamiento"
+  ],
+  "Back to training plan": [
+    "返回训练计划",
+    "Volver al plan de entrenamiento"
+  ],
+  "New exercise names are shared in the search directory. Enter exercise names only; your workout details remain private.": [
+    "新动作名称会加入共享搜索目录。请仅输入动作名称；训练详情仍仅自己可见。",
+    "Los nuevos nombres de ejercicios se comparten en el directorio. Introduce solo nombres de ejercicios; los detalles de tus entrenamientos siguen siendo privados."
+  ],
+  "Workout log date": [
+    "训练记录日期",
+    "Fecha del registro de entrenamiento"
+  ],
+  "Eastern time (USA) · Today or an earlier date": [
+    "美国东部时间 · 今天或更早日期",
+    "Hora del este de EE. UU. · Hoy o una fecha anterior"
+  ],
+  "Enter one hand’s weight. Seediva doubles it for the total load.": [
+    "输入单手重量，Seediva 会乘以二计算总负重。",
+    "Introduce el peso de una mano. Seediva lo duplica para calcular la carga total."
+  ],
+  "Refresh": [
+    "刷新",
+    "Actualizar"
+  ],
+  "Your trophy ranking among accepted friends. Highest total XP ranks first; equal XP shares a rank.": [
+    "查看你与已添加好友的奖杯排名。总经验值越高排名越前；经验值相同则并列。",
+    "Tu clasificación de trofeos entre tus amistades aceptadas. La mayor experiencia total ocupa el primer lugar; los empates comparten posición."
+  ],
+  "Loading rankings…": [
+    "正在加载排名……",
+    "Cargando clasificación…"
+  ],
+  "Add friends in Inbox to compare your trophy progress.": [
+    "在收件箱添加好友，即可比较奖杯进度。",
+    "Añade amistades en la bandeja de entrada para comparar vuestro progreso en trofeos."
+  ],
+  "Search Google for this food description": [
+    "在 Google 搜索这段食物描述",
+    "Buscar esta descripción de comida en Google"
+  ],
+  "Search Google nutrition": [
+    "Google 营养搜索",
+    "Buscar información nutricional en Google"
+  ],
+  "Per-100g data is scaled to your portion.": [
+    "每 100 克的数据已按你的份量换算。",
+    "Los datos por 100 g se ajustan a tu porción."
+  ],
+  "Paste a nutrition answer to fill the fields": [
+    "粘贴营养信息以填写下方字段",
+    "Pega una respuesta nutricional para rellenar los campos"
+  ],
+  "Google answers open in a separate tab. Paste the answer for your exact portion here, then review and apply the detected numbers. Seediva cannot import Google AI answers automatically.": [
+    "Google 搜索结果将在新标签页打开。请将与你实际份量对应的答案粘贴到这里，核对后应用识别出的数值。Seediva 无法自动导入 Google AI 答案。",
+    "Las respuestas de Google se abren en otra pestaña. Pega aquí la respuesta correspondiente a tu porción exacta y revisa los valores detectados antes de aplicarlos. Seediva no puede importar automáticamente respuestas de la IA de Google."
+  ],
+  "Paste nutrition answer": [
+    "粘贴营养信息",
+    "Pegar respuesta nutricional"
+  ],
+  "Calories: 300 kcal; Carbs: 20 g; Protein: 15 g; Fiber: 5 g; Fat: 18 g": [
+    "热量：300 千卡；碳水化合物：20 克；蛋白质：15 克；膳食纤维：5 克；脂肪：18 克",
+    "Calorías: 300 kcal; Carbohidratos: 20 g; Proteína: 15 g; Fibra: 5 g; Grasas: 18 g"
+  ],
+  "No unambiguous values detected. Use one value per nutrient for one portion.": [
+    "未检测到明确数值。请为同一份量的每项营养素仅提供一个数值。",
+    "No se detectaron valores inequívocos. Usa un solo valor por nutriente para una misma porción."
+  ],
+  "Apply reviewed values": [
+    "应用已核对的数值",
+    "Aplicar valores revisados"
+  ],
+  "Meal log date": [
+    "饮食记录日期",
+    "Fecha del registro de comida"
+  ],
+  "Eastern time (USA) · Past-day entries earn 10 XP; today’s entries earn 20 XP.": [
+    "美国东部时间 · 补记过去日期获得 10 经验值；记录今天获得 20 经验值。",
+    "Hora del este de EE. UU. · Los registros de días anteriores otorgan 10 puntos de experiencia; los de hoy, 20."
+  ],
+  "Your description is saved to your private searchable meals only when you save this log. The meal name stays separate.": [
+    "仅在保存记录后，描述才会加入你私人的可搜索餐食目录。餐食名称与描述保持独立。",
+    "Tu descripción se guarda en tus comidas privadas y buscables solo al guardar este registro. El nombre de la comida permanece separado."
+  ],
+  "This browser does not support push. On iPhone, add Seediva to your Home Screen and open it there.": [
+    "此浏览器不支持推送。在 iPhone 上，请将 Seediva 添加到主屏幕并从那里打开。",
+    "Este navegador no admite notificaciones push. En iPhone, añade Seediva a la pantalla de inicio y ábrela desde allí."
+  ],
+  "Notifications were not allowed. You can change this in your browser or phone settings.": [
+    "通知权限未获允许，可在浏览器或手机设置中更改。",
+    "No se permitieron las notificaciones. Puedes cambiarlo en los ajustes del navegador o del teléfono."
+  ],
+  "Notifications are not configured yet.": [
+    "尚未配置通知。",
+    "Las notificaciones aún no están configuradas."
+  ],
+  "Phone notifications enabled for this device.": [
+    "已为此设备启用手机通知。",
+    "Notificaciones del teléfono activadas para este dispositivo."
+  ],
+  "Could not disable. Please retry.": [
+    "未能关闭，请重试。",
+    "No se pudo desactivar. Inténtalo de nuevo."
+  ],
+  "Phone notifications disabled.": [
+    "已关闭手机通知。",
+    "Notificaciones del teléfono desactivadas."
+  ],
+  "Disable phone notifications": [
+    "关闭手机通知",
+    "Desactivar notificaciones del teléfono"
+  ],
+  "Enable phone notifications": [
+    "启用手机通知",
+    "Activar notificaciones del teléfono"
+  ],
+  "Receive friend Punch reminders, including when Seediva is closed. On iPhone/iPad, install the Home Screen web app first. Your device controls delivery, sounds and icon badges.": [
+    "接收好友的打卡提醒，即使关闭 Seediva 也可收到。在 iPhone 或 iPad 上需先安装主屏幕网页应用。送达、声音和图标角标由设备控制。",
+    "Recibe recordatorios de tus amistades, incluso con Seediva cerrada. En iPhone o iPad, instala primero la aplicación web en la pantalla de inicio. Tu dispositivo controla la entrega, los sonidos y las insignias del icono."
+  ],
+  "Plan a week or month and check off completed workouts": [
+    "按周或月安排计划，勾选已完成的训练",
+    "Planifica una semana o un mes y marca los entrenamientos completados"
+  ],
+  "Fiber-focused meals and 15 ways to eat well": [
+    "注重膳食纤维的餐食与多种健康饮食方式",
+    "Comidas centradas en la fibra y distintas formas de comer bien"
+  ],
+  "Suggest a feature or share an improvement": [
+    "提出新功能或改进建议",
+    "Sugiere una función o comparte una mejora"
+  ],
+  "Choose a shortcut to explore Seediva.": [
+    "选择快捷入口，探索 Seediva。",
+    "Elige un acceso directo para explorar Seediva."
+  ],
+  "Find a Seediva feature": [
+    "查找 Seediva 功能",
+    "Buscar una función de Seediva"
+  ],
+  "I help you find your way around Seediva.": [
+    "我来帮你找到 Seediva 中的各项功能。",
+    "Te ayudo a orientarte por Seediva."
+  ],
+  "Training date": [
+    "训练日期",
+    "Fecha de entrenamiento"
+  ],
+  "Training plan date": [
+    "训练计划日期",
+    "Fecha del plan de entrenamiento"
+  ],
+  "Customize your goals": [
+    "自定义你的目标",
+    "Personaliza tus objetivos"
+  ],
+  "Available on this date": [
+    "到该日期后开放",
+    "Disponible a partir de esta fecha"
+  ],
+  "Viewing": [
+    "当前查看",
+    "Viendo"
+  ],
+  "Today: 20 XP per entry · Earlier dates: 10 XP · Daily max: 200 XP each for diet and workouts.": [
+    "今天：每条记录 20 经验值 · 过去日期：10 经验值 · 饮食和训练每日上限各 200 经验值。",
+    "Hoy: 20 puntos por registro · Fechas anteriores: 10 puntos · Máximo diario: 200 puntos para comidas y 200 para entrenamientos."
+  ],
+  "Weight trend:": [
+    "体重趋势：",
+    "Tendencia de peso:"
+  ],
+  "View your food diary, exercise history and trophies here in Seediva. Use Inbox to share a snapshot with friends.": [
+    "在 Seediva 查看饮食日记、训练历史和奖杯。通过收件箱与好友分享进展快照。",
+    "Consulta tu diario de comidas, historial de ejercicios y trofeos en Seediva. Usa la bandeja de entrada para compartir una instantánea con tus amistades."
+  ],
+  "The saved snapshot is visible to accepted members of each selected chat, including members who join later. It stays inside Seediva.": [
+    "所选聊天中已加入的成员均可查看保存的快照，包括之后加入的成员。快照仅保存在 Seediva 内。",
+    "La instantánea guardada es visible para los miembros aceptados de cada chat seleccionado, incluidos quienes se incorporen después. Permanece dentro de Seediva."
+  ],
+  "Private conversations and groups inside Seediva. No email or SMS delivery.": [
+    "在 Seediva 内进行私人聊天和群聊，不会发送邮件或短信。",
+    "Conversaciones privadas y grupos dentro de Seediva. No se envían correos ni SMS."
+  ],
+  "Messages stay in Seediva. Copy each link and share it with that contact; accepting binds the invitation to their signed-in account.": [
+    "消息保留在 Seediva 内。复制每个链接并分享给对应联系人；接受后，邀请将绑定其已登录账号。",
+    "Los mensajes permanecen en Seediva. Copia cada enlace y compártelo con ese contacto; al aceptarlo, la invitación queda vinculada a su cuenta."
+  ],
+  "Invitations created. Email contacts will see them when they open Seediva; phone contacts need their private link.": [
+    "邀请已创建。邮箱联系人打开 Seediva 即可看到邀请；手机联系人需使用专属链接。",
+    "Invitaciones creadas. Los contactos de correo las verán al abrir Seediva; los contactos de teléfono necesitan su enlace privado."
+  ],
+  "Email invitations appear in that account’s Seediva Inbox. Phone contacts require a private invitation link. No email or text messages are sent. Groups can have up to 20 people.": [
+    "邮箱邀请会出现在该账号的 Seediva 收件箱中。手机联系人需要专属邀请链接。不会发送邮件或短信。群组最多可有 20 人。",
+    "Las invitaciones por correo aparecen en la bandeja de entrada de Seediva de esa cuenta. Los contactos de teléfono necesitan un enlace privado. No se envían correos ni mensajes de texto. Los grupos admiten hasta 20 personas."
+  ],
+  "This is a Seediva wellness habit index, not a validated medical health assessment. Its weights and point formulas are app design choices. A high grade does not establish good health.": [
+    "这是 Seediva 的健康习惯指数，并非经过验证的医学健康评估。权重和评分公式属于应用设计选择。高分不代表医学意义上的健康。",
+    "Este es un índice de hábitos de bienestar de Seediva, no una evaluación médica validada. Sus ponderaciones y fórmulas son decisiones de diseño de la aplicación. Una puntuación alta no demuestra un buen estado de salud."
+  ],
+  "The goal names use common training terminology. Seediva’s programs are informed by these sources; custom weekly splits and cycles are Seediva programming choices.": [
+    "目标名称采用常见训练术语。Seediva 方案参考这些资料；自定义的每周分化和周期属于 Seediva 的训练设计选择。",
+    "Los objetivos usan terminología habitual de entrenamiento. Los programas de Seediva se basan en estas fuentes; las distribuciones semanales y los ciclos personalizados son decisiones propias de programación."
+  ],
+  "Three building weeks followed by a lighter fourth week is Seediva’s programming choice. Progress only after successful sessions with good form; Hold repeats the workload; Reduce lowers the suggested load. Repetitions and rest follow the goal; no one-rep maximum is inferred.": [
+    "连续三周逐步训练、第四周减量是 Seediva 的方案设计。仅在动作规范且顺利完成训练后增加负荷；保持会重复当前训练量，减量会降低建议负荷。次数和休息按目标设置，不会推算单次最大重量。",
+    "Tres semanas de progresión seguidas de una cuarta más ligera es una elección de Seediva. Progresa solo tras completar las sesiones con buena técnica; Mantener repite la carga y Reducir la disminuye. Las repeticiones y el descanso dependen del objetivo; no se estima el máximo de una repetición."
+  ],
+  "Seediva chooses the weekly split, rotations and time budget. Goal principles are informed by published programming guidance.": [
+    "Seediva 负责安排每周分化、动作轮换和时间分配。目标原则参考已发表的训练指南。",
+    "Seediva establece la distribución semanal, las rotaciones y el tiempo disponible. Los principios de los objetivos se basan en guías de programación publicadas."
+  ],
+  "Same-day food and workout entries earn 20 XP each; missed entries logged for earlier dates earn 10 XP each. Each food log earns up to 20 XP, up to 200 food XP daily. Each workout entry earns up to 20 XP, up to 200 exercise XP daily. Legend I / II / III require 300,000 / 350,000 / 400,000 XP. Mystic I / II / III require 500,000 / 700,000 / 1,000,000 XP; XP keeps growing after Mystic III. Deleting an entry recalculates XP so corrected logs stay accurate. Thresholds are cumulative.": [
+    "当天的饮食或训练记录每条获得 20 经验值；补记过去日期每条获得 10 经验值。每条饮食记录最高 20 经验值，每日饮食上限 200；每条训练记录最高 20 经验值，每日训练上限 200。传奇一级、二级、三级分别需要累计 300,000、350,000、400,000 经验值；神秘一级、二级、三级分别需要累计 500,000、700,000、1,000,000 经验值，达到神秘三级后仍可继续积累。删除记录会重新计算经验值，确保更正后的记录准确。所有门槛均为累计值。",
+    "Los registros de comida y entrenamiento del mismo día otorgan 20 puntos cada uno; los de fechas anteriores, 10. Cada comida otorga hasta 20 puntos, con un máximo diario de 200; cada entrenamiento otorga hasta 20, con otro máximo diario de 200. Leyenda I, II y III requieren 300.000, 350.000 y 400.000 puntos. Místico I, II y III requieren 500.000, 700.000 y 1.000.000; la experiencia sigue acumulándose después de Místico III. Al eliminar un registro se recalcula la experiencia. Los umbrales son acumulativos."
+  ],
+  "in/week": [
+    "英寸/周",
+    "pulgadas/semana"
+  ],
+  "kg/week": [
+    "公斤/周",
+    "kg/semana"
+  ],
+  "2-Ingredient Banana Pancakes": [
+    "双食材香蕉松饼",
+    "Tortitas de plátano con dos ingredientes"
+  ],
+  "Adana kebab plate": [
+    "阿达纳烤肉拼盘",
+    "Plato de kebab de Adana"
+  ],
+  "Aidells Chicken Apple Sausage Recipes": [
+    "艾德尔斯鸡肉苹果香肠食谱",
+    "Recetas con salchichas de pollo y manzana Aidells"
+  ],
+  "Almond Butter Toast with Banana & Honey": [
+    "杏仁酱香蕉蜂蜜吐司",
+    "Tostada con crema de almendras, plátano y miel"
+  ],
+  "Almond-Crusted Chicken": [
+    "杏仁脆皮鸡",
+    "Pollo con costra de almendras"
+  ],
+  "Aloo gobi": [
+    "印度土豆炒花椰菜",
+    "Curry de patata y coliflor"
+  ],
+  "Aloo paratha": [
+    "印度土豆馅饼",
+    "Pan paratha relleno de patata"
+  ],
+  "Amritsari fish fry": [
+    "阿姆利则炸鱼",
+    "Pescado frito de Amritsar"
+  ],
+  "Appam with stew": [
+    "印度米饼配炖菜",
+    "Appam con estofado"
+  ],
+  "Apple Cider Vinegar Drink for Weight Loss (Morning Detox Recipe)": [
+    "苹果醋饮品（原食谱称晨间排毒减重饮品）",
+    "Bebida de vinagre de manzana (la receta original la presenta como desintoxicante matinal para adelgazar)"
+  ],
+  "Apple Log": [
+    "苹果小点",
+    "Bocadillo de manzana"
+  ],
+  "Arancini": [
+    "意大利炸饭团",
+    "Bolas de arroz italianas"
+  ],
+  "Arayes": [
+    "中东肉馅皮塔饼",
+    "Pan pita relleno de carne"
+  ],
+  "Arepa with cheese": [
+    "芝士玉米饼",
+    "Arepa con queso"
+  ],
+  "Ash-e reshteh": [
+    "波斯豆类面条汤",
+    "Sopa persa de legumbres y fideos"
+  ],
+  "Asian Sticky Wings": [
+    "亚洲风味酱汁鸡翅",
+    "Alitas asiáticas con salsa glaseada"
+  ],
+  "Avocado Beef Burger (Juicy, 20‑Minute)": [
+    "牛油果牛肉汉堡（多汁，20 分钟）",
+    "Hamburguesa de ternera con aguacate (jugosa, en 20 minutos)"
+  ],
+  "Avocado Chicken Salad": [
+    "牛油果鸡肉沙拉",
+    "Ensalada de pollo y aguacate"
+  ],
+  "Avocado Toast": [
+    "牛油果吐司",
+    "Tostada de aguacate"
+  ],
+  "Avocado Toast with Eggs (The Ultimate Breakfast)": [
+    "牛油果鸡蛋吐司（丰盛早餐）",
+    "Tostada de aguacate con huevos (desayuno completo)"
+  ],
+  "Baked beef empanadas": [
+    "烤牛肉馅饼",
+    "Empanadas de ternera al horno"
+  ],
+  "Baked Chicken Drumsticks with Herbs (Budget-Friendly)": [
+    "香草烤鸡腿（实惠版）",
+    "Muslos de pollo al horno con hierbas (económicos)"
+  ],
+  "Baked Chicken Thighs": [
+    "烤鸡腿肉",
+    "Contramuslos de pollo al horno"
+  ],
+  "Baked Chicken Thighs with Broccoli (42g Protein, One Pan)": [
+    "鸡腿肉烤西兰花（单盘烹饪，标题标称蛋白质 42 克）",
+    "Contramuslos de pollo con brócoli al horno (una bandeja, 42 g de proteína según el título)"
+  ],
+  "Baked Cod with Lemon, Capers, and Herbs": [
+    "柠檬酸豆香草烤鳕鱼",
+    "Bacalao al horno con limón, alcaparras y hierbas"
+  ],
+  "Baked Crispy Wings": [
+    "香脆烤鸡翅",
+    "Alitas crujientes al horno"
+  ],
+  "Baked kibbeh": [
+    "烤中东碎麦肉饼",
+    "Kibbeh al horno"
+  ],
+  "Baked Oatmeal": [
+    "烤燕麦",
+    "Avena al horno"
+  ],
+  "Baked Salmon": [
+    "烤三文鱼",
+    "Salmón al horno"
+  ],
+  "Baked Sweet Potato Fries": [
+    "烤红薯条",
+    "Bastones de boniato al horno"
+  ],
+  "Baked Turkey Meatballs": [
+    "烤火鸡肉丸",
+    "Albóndigas de pavo al horno"
+  ],
+  "Baklava": [
+    "中东坚果酥",
+    "Baklava de frutos secos"
+  ],
+  "Balaleet": [
+    "海湾甜面配煎蛋",
+    "Fideos dulces con tortilla al estilo del Golfo"
+  ],
+  "Banana Oatmeal": [
+    "香蕉燕麦粥",
+    "Avena con plátano"
+  ],
+  "Banana Protein Smoothie": [
+    "香蕉蛋白奶昔",
+    "Batido proteico de plátano"
+  ],
+  "Banana Protein Smoothie Bowl": [
+    "香蕉蛋白奶昔碗",
+    "Bol de batido proteico de plátano"
+  ],
+  "Batata harra": [
+    "黎巴嫩香辣土豆",
+    "Patatas picantes libanesas"
+  ],
+  "BBQ beef ribs": [
+    "烧烤牛肋排",
+    "Costillas de ternera a la barbacoa"
+  ],
+  "BBQ Chicken Wraps (Quick Lunch, High Protein)": [
+    "烧烤鸡肉卷（快捷高蛋白午餐）",
+    "Wraps de pollo a la barbacoa (almuerzo rápido y rico en proteínas)"
+  ],
+  "Beef and Broccoli (Better Than Chinese Takeout)": [
+    "西兰花炒牛肉（家常版）",
+    "Ternera con brócoli (versión casera)"
+  ],
+  "Beef and Sweet Potato Bowl": [
+    "牛肉红薯碗",
+    "Bol de ternera y boniato"
+  ],
+  "Beef bulgogi": [
+    "韩式烤牛肉",
+    "Ternera bulgogi"
+  ],
+  "Beef calzone": [
+    "牛肉意式馅饼",
+    "Calzone de ternera"
+  ],
+  "Beef carpaccio": [
+    "意式生牛肉薄片",
+    "Carpaccio de ternera"
+  ],
+  "Beef chili": [
+    "香辣牛肉豆子炖锅",
+    "Chili de ternera"
+  ],
+  "Beef goulash": [
+    "匈牙利炖牛肉",
+    "Gulash de ternera"
+  ],
+  "Beef lasagna": [
+    "牛肉千层面",
+    "Lasaña de ternera"
+  ],
+  "Beef mafe": [
+    "西非花生酱炖牛肉",
+    "Estofado africano de ternera con cacahuete"
+  ],
+  "Beef meatballs & mash": [
+    "牛肉丸配土豆泥",
+    "Albóndigas de ternera con puré"
+  ],
+  "Beef nihari": [
+    "南亚慢炖牛肉",
+    "Nihari de ternera"
+  ],
+  "Beef rendang": [
+    "印尼仁当牛肉",
+    "Rendang de ternera"
+  ],
+  "Beef Stir-Fry with Bell Peppers & Broccoli": [
+    "彩椒西兰花炒牛肉",
+    "Salteado de ternera con pimientos y brócoli"
+  ],
+  "Beef stroganoff": [
+    "俄式奶油炖牛肉",
+    "Stroganoff de ternera"
+  ],
+  "Beef suya": [
+    "西非香料烤牛肉串",
+    "Brochetas de ternera suya"
+  ],
+  "Berry Smoothie": [
+    "莓果奶昔",
+    "Batido de frutos rojos"
+  ],
+  "Bhindi masala": [
+    "印度香料炒秋葵",
+    "Okra con especias"
+  ],
+  "Bibimbap": [
+    "韩式拌饭",
+    "Bibimbap coreano"
+  ],
+  "Bissara": [
+    "北非蚕豆浓汤",
+    "Puré de habas bissara"
+  ],
+  "Black Bean & Quinoa Power Bowl (Plant-Based Protein)": [
+    "黑豆藜麦能量碗（植物蛋白）",
+    "Bol energético de alubias negras y quinoa (proteína vegetal)"
+  ],
+  "Black beans with rice": [
+    "黑豆配米饭",
+    "Arroz con alubias negras"
+  ],
+  "Blackened Tilapia Fish Tacos with Slaw": [
+    "香料煎罗非鱼塔可配卷心菜丝",
+    "Tacos de tilapia especiada con ensalada de col"
+  ],
+  "Blueberry Oatmeal": [
+    "蓝莓燕麦粥",
+    "Avena con arándanos"
+  ],
+  "Blueberry Pancakes": [
+    "蓝莓松饼",
+    "Tortitas de arándanos"
+  ],
+  "Boiled Egg Salad": [
+    "水煮蛋沙拉",
+    "Ensalada de huevo cocido"
+  ],
+  "Broccoli Salad": [
+    "西兰花沙拉",
+    "Ensalada de brócoli"
+  ],
+  "Brown Rice and Black Beans": [
+    "糙米配黑豆",
+    "Arroz integral con alubias negras"
+  ],
+  "Brown Rice Bowl with Veggies & Teriyaki": [
+    "照烧蔬菜糙米碗",
+    "Bol de arroz integral con verduras y teriyaki"
+  ],
+  "Brown Rice Salad": [
+    "糙米沙拉",
+    "Ensalada de arroz integral"
+  ],
+  "Brown Rice Stir-Fry": [
+    "糙米炒饭",
+    "Arroz integral salteado"
+  ],
+  "Brownie & ice cream": [
+    "布朗尼配冰淇淋",
+    "Brownie con helado"
+  ],
+  "Buffalo Wings": [
+    "美式辣酱鸡翅",
+    "Alitas con salsa búfalo"
+  ],
+  "Bunny chow": [
+    "南非咖喱面包盅",
+    "Pan relleno de curry sudafricano"
+  ],
+  "Burrito bowl": [
+    "墨西哥卷饼碗",
+    "Bol de burrito"
+  ],
+  "Butter chicken": [
+    "印度黄油鸡",
+    "Pollo a la mantequilla"
+  ],
+  "Buttermilk pancakes": [
+    "酪乳松饼",
+    "Tortitas de suero de leche"
+  ],
+  "Caprese Pasta (Fresh Tomato, Mozzarella, Basil)": [
+    "卡普雷塞意面（鲜番茄、马苏里拉芝士、罗勒）",
+    "Pasta caprese con tomate fresco, mozzarella y albahaca"
+  ],
+  "Caprese Pasta Salad": [
+    "卡普雷塞意面沙拉",
+    "Ensalada de pasta caprese"
+  ],
+  "Caprese with bread": [
+    "卡普雷塞沙拉配面包",
+    "Ensalada caprese con pan"
+  ],
+  "Ceviche": [
+    "拉美酸橘汁腌鱼",
+    "Ceviche"
+  ],
+  "Chana masala": [
+    "印度香料鹰嘴豆",
+    "Curry de garbanzos"
+  ],
+  "Char kway teow": [
+    "炒粿条",
+    "Fideos de arroz salteados char kway teow"
+  ],
+  "Cheeseburger": [
+    "芝士汉堡",
+    "Hamburguesa con queso"
+  ],
+  "Cheesecake": [
+    "芝士蛋糕",
+    "Tarta de queso"
+  ],
+  "Chicken adobo": [
+    "菲律宾醋酱炖鸡",
+    "Pollo adobo filipino"
+  ],
+  "Chicken alfredo": [
+    "奶油白酱鸡肉意面",
+    "Pasta con pollo y salsa Alfredo"
+  ],
+  "Chicken and Broccoli Stir-Fry": [
+    "西兰花炒鸡肉",
+    "Salteado de pollo y brócoli"
+  ],
+  "Chicken biryani": [
+    "印度鸡肉香饭",
+    "Biryani de pollo"
+  ],
+  "Chicken Caesar salad": [
+    "鸡肉凯撒沙拉",
+    "Ensalada César con pollo"
+  ],
+  "Chicken Caesar Salad": [
+    "鸡肉凯撒沙拉",
+    "Ensalada César con pollo"
+  ],
+  "Chicken Caesar Salad Wrap (Macro-Friendly)": [
+    "鸡肉凯撒沙拉卷（营养搭配版）",
+    "Wrap de ensalada César con pollo (con macronutrientes equilibrados)"
+  ],
+  "Chicken Chettinad": [
+    "切蒂纳德香料鸡",
+    "Pollo chettinad"
+  ],
+  "Chicken chow mein": [
+    "鸡肉炒面",
+    "Chow mein de pollo"
+  ],
+  "Chicken couscous": [
+    "鸡肉库斯库斯",
+    "Cuscús con pollo"
+  ],
+  "Chicken donburi": [
+    "日式鸡肉盖饭",
+    "Bol japonés de arroz con pollo"
+  ],
+  "Chicken enchiladas": [
+    "鸡肉恩奇拉达",
+    "Enchiladas de pollo"
+  ],
+  "Chicken fajitas": [
+    "墨西哥鸡肉法吉塔",
+    "Fajitas de pollo"
+  ],
+  "Chicken fried rice": [
+    "鸡肉炒饭",
+    "Arroz frito con pollo"
+  ],
+  "Chicken gyros wrap": [
+    "希腊鸡肉卷",
+    "Wrap griego de pollo"
+  ],
+  "Chicken hakka noodles": [
+    "印度中式鸡肉炒面",
+    "Fideos hakka con pollo"
+  ],
+  "Chicken karahi": [
+    "巴基斯坦铁锅鸡",
+    "Pollo karahi"
+  ],
+  "Chicken kathi roll": [
+    "印度鸡肉烤饼卷",
+    "Rollo kathi de pollo"
+  ],
+  "Chicken katsu curry": [
+    "日式炸鸡排咖喱",
+    "Curry japonés con pollo empanado"
+  ],
+  "Chicken korma": [
+    "印度奶香咖喱鸡",
+    "Korma de pollo"
+  ],
+  "Chicken laksa": [
+    "鸡肉叻沙",
+    "Laksa de pollo"
+  ],
+  "Chicken larb": [
+    "老挝鸡肉香草沙拉",
+    "Ensalada laosiana de pollo larb"
+  ],
+  "Chicken lumpia": [
+    "菲律宾鸡肉春卷",
+    "Rollitos filipinos de pollo"
+  ],
+  "Chicken madfoon": [
+    "阿拉伯焖烤鸡肉香饭",
+    "Pollo madfoon con arroz"
+  ],
+  "Chicken majboos": [
+    "海湾香料鸡肉饭",
+    "Arroz majboos con pollo"
+  ],
+  "Chicken mandi": [
+    "也门曼迪鸡肉饭",
+    "Arroz mandi con pollo"
+  ],
+  "Chicken Melt Sandwich": [
+    "芝士融心鸡肉三明治",
+    "Sándwich de pollo con queso fundido"
+  ],
+  "Chicken parmigiana": [
+    "意式帕尔马鸡排",
+    "Pollo a la parmesana"
+  ],
+  "Chicken quesadilla": [
+    "鸡肉芝士夹饼",
+    "Quesadilla de pollo"
+  ],
+  "Chicken saloona": [
+    "海湾蔬菜炖鸡",
+    "Estofado saloona de pollo"
+  ],
+  "Chicken satay": [
+    "沙爹鸡肉串",
+    "Brochetas satay de pollo"
+  ],
+  "Chicken schnitzel": [
+    "炸鸡肉薄排",
+    "Escalope de pollo"
+  ],
+  "Chicken shawarma wrap": [
+    "中东鸡肉沙瓦玛卷",
+    "Wrap de shawarma de pollo"
+  ],
+  "Chicken souvlaki plate": [
+    "希腊鸡肉串拼盘",
+    "Plato de souvlaki de pollo"
+  ],
+  "Chicken tacos": [
+    "鸡肉塔可",
+    "Tacos de pollo"
+  ],
+  "Chicken tagine": [
+    "摩洛哥塔吉锅炖鸡",
+    "Tayín de pollo"
+  ],
+  "Chicken Thigh Stir-Fry": [
+    "炒鸡腿肉",
+    "Salteado de contramuslo de pollo"
+  ],
+  "Chicken Thigh Tacos": [
+    "鸡腿肉塔可",
+    "Tacos de contramuslo de pollo"
+  ],
+  "Chicken tikka masala": [
+    "印度香料咖喱鸡块",
+    "Pollo tikka masala"
+  ],
+  "Chicken Tikka Masala (Healthier Homemade Version)": [
+    "印度香料咖喱鸡块（家常改良版）",
+    "Pollo tikka masala (versión casera más saludable)"
+  ],
+  "Chicken tikka plate": [
+    "印度烤鸡块拼盘",
+    "Plato de pollo tikka"
+  ],
+  "Chicken Tortellini Soup with Spinach": [
+    "菠菜鸡肉意式饺子汤",
+    "Sopa de tortellini con pollo y espinacas"
+  ],
+  "Chicken udon": [
+    "鸡肉乌冬面",
+    "Udon con pollo"
+  ],
+  "Chicken vindaloo": [
+    "印度酸辣咖喱鸡",
+    "Vindaloo de pollo"
+  ],
+  "Chicken yassa": [
+    "塞内加尔柠檬洋葱鸡",
+    "Pollo yassa"
+  ],
+  "Chickpea Coconut Curry (Vegan, One-Pot)": [
+    "椰香鹰嘴豆咖喱（纯素一锅煮）",
+    "Curry de garbanzos y coco (vegano, en una olla)"
+  ],
+  "Chickpea fatteh": [
+    "中东鹰嘴豆酸奶脆饼",
+    "Fatteh de garbanzos"
+  ],
+  "Chilli chicken": [
+    "印度中式辣椒鸡",
+    "Pollo picante indochino"
+  ],
+  "Chole bhature": [
+    "印度鹰嘴豆咖喱配炸饼",
+    "Curry de garbanzos con pan bhature"
+  ],
+  "Churrasco & chimichurri": [
+    "炭烤牛肉配青酱",
+    "Churrasco con chimichurri"
+  ],
+  "Classic Beef Stir-Fry with Vegetables (20 Minutes)": [
+    "经典蔬菜炒牛肉（20 分钟）",
+    "Salteado clásico de ternera con verduras (20 minutos)"
+  ],
+  "Classic Burrata Salad with Heirloom Tomatoes & Basil": [
+    "经典布拉塔芝士番茄罗勒沙拉",
+    "Ensalada clásica de burrata con tomates y albahaca"
+  ],
+  "Cobb salad": [
+    "考伯沙拉",
+    "Ensalada Cobb"
+  ],
+  "Coconut Curry Shrimp (Thai-Inspired, 20 Minutes)": [
+    "泰式风味椰香咖喱虾（20 分钟）",
+    "Curry de gambas con coco (inspiración tailandesa, 20 minutos)"
+  ],
+  "Congee": [
+    "粥",
+    "Congee de arroz"
+  ],
+  "Cottage Cheese Bowl": [
+    "茅屋奶酪碗",
+    "Bol de queso cottage"
+  ],
+  "Cottage Cheese Pancakes": [
+    "茅屋奶酪松饼",
+    "Tortitas de queso cottage"
+  ],
+  "Cottage Cheese Protein Bowl": [
+    "茅屋奶酪蛋白碗",
+    "Bol proteico de queso cottage"
+  ],
+  "Cottage Cheese Protein Dip": [
+    "茅屋奶酪蛋白蘸酱",
+    "Salsa proteica de queso cottage"
+  ],
+  "Cottage Cheese Toast": [
+    "茅屋奶酪吐司",
+    "Tostada de queso cottage"
+  ],
+  "Creamed Spinach": [
+    "奶油菠菜",
+    "Espinacas a la crema"
+  ],
+  "Creamy Broccoli Soup": [
+    "奶油西兰花浓汤",
+    "Crema de brócoli"
+  ],
+  "Creamy Mushroom Risotto (Vegetarian Comfort Food)": [
+    "奶香蘑菇烩饭（素食暖心菜）",
+    "Risotto cremoso de setas (plato vegetariano reconfortante)"
+  ],
+  "Creamy Tuscan Chicken (One-Pan, 30 Minutes)": [
+    "托斯卡纳奶油鸡（单锅，30 分钟）",
+    "Pollo cremoso a la toscana (una sartén, 30 minutos)"
+  ],
+  "Crispy Chicken Parmesan (Baked, Not Fried)": [
+    "香脆帕尔马鸡排（烘烤版）",
+    "Pollo crujiente a la parmesana (al horno)"
+  ],
+  "Crispy Tofu Stir-Fry": [
+    "香脆豆腐炒菜",
+    "Salteado de tofu crujiente"
+  ],
+  "Crispy Tofu Tacos": [
+    "香脆豆腐塔可",
+    "Tacos de tofu crujiente"
+  ],
+  "Crispy Tofu Vegetable Stir-Fry (Vegan)": [
+    "香脆豆腐炒蔬菜（纯素）",
+    "Salteado de tofu crujiente y verduras (vegano)"
+  ],
+  "Dal makhani": [
+    "印度奶油黑扁豆",
+    "Lentejas negras cremosas dal makhani"
+  ],
+  "Dal tadka": [
+    "印度香料扁豆",
+    "Lentejas con especias dal tadka"
+  ],
+  "Doro wat": [
+    "埃塞俄比亚辣炖鸡",
+    "Estofado etíope picante de pollo"
+  ],
+  "Easy Chicken Meal Prep": [
+    "简易鸡肉备餐",
+    "Preparación sencilla de comidas con pollo"
+  ],
+  "Egg bhurji with pav": [
+    "印度香料炒蛋配面包",
+    "Huevos revueltos con especias y pan"
+  ],
+  "Egg brik": [
+    "北非鸡蛋脆饼",
+    "Brik de huevo"
+  ],
+  "Egg Fried Rice": [
+    "蛋炒饭",
+    "Arroz frito con huevo"
+  ],
+  "Egg Roll in a Bowl (Ground Turkey, 20 Minutes)": [
+    "春卷馅碗（火鸡肉末，20 分钟）",
+    "Bol de relleno de rollito (pavo picado, 20 minutos)"
+  ],
+  "Egg White Scramble with Veggies (28g Protein, 220 kcal)": [
+    "蔬菜炒蛋白（标题标称蛋白质 28 克、220 千卡）",
+    "Revuelto de claras con verduras (28 g de proteína y 220 kcal según el título)"
+  ],
+  "Eggs benedict": [
+    "班尼迪克蛋",
+    "Huevos benedictinos"
+  ],
+  "Egusi soup": [
+    "西非瓜子浓汤",
+    "Sopa de semillas de melón egusi"
+  ],
+  "Falafel plate": [
+    "中东炸豆丸拼盘",
+    "Plato de falafel"
+  ],
+  "Fattoush": [
+    "中东脆饼沙拉",
+    "Ensalada fattoush"
+  ],
+  "Fish & chips": [
+    "炸鱼薯条",
+    "Pescado con patatas fritas"
+  ],
+  "Fish Bowl": [
+    "鱼肉碗",
+    "Bol de pescado"
+  ],
+  "Fish moqueca": [
+    "巴西椰香炖鱼",
+    "Moqueca de pescado"
+  ],
+  "Fish tikka": [
+    "印度香料烤鱼块",
+    "Pescado tikka"
+  ],
+  "Foul medames": [
+    "中东炖蚕豆",
+    "Habas estofadas ful medames"
+  ],
+  "Freekeh with chicken": [
+    "青小麦配鸡肉",
+    "Trigo verde freekeh con pollo"
+  ],
+  "Fried calamari": [
+    "炸鱿鱼圈",
+    "Calamares fritos"
+  ],
+  "Funghi pizza": [
+    "蘑菇披萨",
+    "Pizza de setas"
+  ],
+  "Gado-gado": [
+    "印尼花生酱蔬菜沙拉",
+    "Ensalada indonesia gado-gado"
+  ],
+  "Gallo pinto breakfast": [
+    "中美洲豆饭早餐",
+    "Desayuno de gallo pinto"
+  ],
+  "Garlic Herb Roasted Potatoes, Carrots and Zucchini": [
+    "蒜香香草烤土豆胡萝卜西葫芦",
+    "Patatas, zanahorias y calabacín al horno con ajo y hierbas"
+  ],
+  "Garlic Mushrooms Cauliflower Skillet": [
+    "蒜香蘑菇炒花椰菜",
+    "Salteado de setas y coliflor al ajo"
+  ],
+  "Garlic prawns": [
+    "蒜香大虾",
+    "Gambas al ajillo"
+  ],
+  "Garlic Shrimp with Zucchini Noodles (Low-Carb)": [
+    "蒜香虾仁西葫芦面（低碳水）",
+    "Gambas al ajo con espaguetis de calabacín (bajo en carbohidratos)"
+  ],
+  "Ghormeh sabzi": [
+    "波斯香草炖肉",
+    "Estofado persa de hierbas"
+  ],
+  "Gigantes plaki": [
+    "希腊烤大白豆",
+    "Judías gigantes al horno"
+  ],
+  "Gnocchi al pomodoro": [
+    "番茄酱意式土豆团",
+    "Ñoquis con tomate"
+  ],
+  "Gobi manchurian": [
+    "印度中式香辣花椰菜",
+    "Coliflor manchuriana"
+  ],
+  "Greek Chicken Souvlaki Bowl with Tzatziki": [
+    "希腊鸡肉串碗配酸奶黄瓜酱",
+    "Bol de souvlaki de pollo con tzatziki"
+  ],
+  "Greek Quinoa Salad (Protein-Rich, No-Cook)": [
+    "希腊藜麦沙拉（高蛋白、免烹调）",
+    "Ensalada griega de quinoa (rica en proteínas, sin cocción)"
+  ],
+  "Greek salad": [
+    "希腊沙拉",
+    "Ensalada griega"
+  ],
+  "Greek Yogurt and Almonds": [
+    "希腊酸奶配杏仁",
+    "Yogur griego con almendras"
+  ],
+  "Greek Yogurt Chicken Marinade (Juiciest Chicken Ever)": [
+    "希腊酸奶腌鸡肉（多汁版）",
+    "Marinado de yogur griego para pollo jugoso"
+  ],
+  "Greek Yogurt Dip": [
+    "希腊酸奶蘸酱",
+    "Salsa de yogur griego"
+  ],
+  "Green curry with rice": [
+    "绿咖喱配米饭",
+    "Curry verde con arroz"
+  ],
+  "Green Spinach Smoothie": [
+    "菠菜绿色奶昔",
+    "Batido verde de espinacas"
+  ],
+  "Grilled buffalo wings": [
+    "烤美式辣酱鸡翅",
+    "Alitas con salsa búfalo a la parrilla"
+  ],
+  "Grilled Chicken Bowl": [
+    "烤鸡肉碗",
+    "Bol de pollo a la parrilla"
+  ],
+  "Grilled chicken pizza": [
+    "烤鸡肉披萨",
+    "Pizza de pollo a la parrilla"
+  ],
+  "Grilled Chicken Salad": [
+    "烤鸡肉沙拉",
+    "Ensalada de pollo a la parrilla"
+  ],
+  "Grilled Chicken Thigh Bowl": [
+    "烤鸡腿肉碗",
+    "Bol de contramuslo de pollo a la parrilla"
+  ],
+  "Grilled halloumi plate": [
+    "烤哈罗米芝士拼盘",
+    "Plato de halloumi a la parrilla"
+  ],
+  "Grilled lamb chops": [
+    "烤羊排",
+    "Chuletas de cordero a la parrilla"
+  ],
+  "Grilled octopus": [
+    "烤章鱼",
+    "Pulpo a la parrilla"
+  ],
+  "Grilled salmon with rice": [
+    "烤三文鱼配米饭",
+    "Salmón a la parrilla con arroz"
+  ],
+  "Grilled sea bass with vegetables": [
+    "烤海鲈鱼配蔬菜",
+    "Lubina a la parrilla con verduras"
+  ],
+  "Ground Beef Cottage Cheese Bowl": [
+    "牛肉末茅屋奶酪碗",
+    "Bol de ternera picada y queso cottage"
+  ],
+  "Ground Turkey Lettuce Wraps": [
+    "生菜包火鸡肉末",
+    "Rollitos de lechuga con pavo picado"
+  ],
+  "Ground Turkey Taco Bowl (38g Protein, One Pan)": [
+    "火鸡肉末塔可碗（单锅，标题标称蛋白质 38 克）",
+    "Bol de taco con pavo picado (una sartén, 38 g de proteína según el título)"
+  ],
+  "Gyudon": [
+    "日式牛肉盖饭",
+    "Gyudon de ternera"
+  ],
+  "Hainanese chicken rice": [
+    "海南鸡饭",
+    "Arroz con pollo de Hainan"
+  ],
+  "Haleem": [
+    "南亚肉麦浓粥",
+    "Guiso de carne y cereales haleem"
+  ],
+  "Harees": [
+    "海湾小麦肉粥",
+    "Gachas de trigo y carne harees"
+  ],
+  "Harira": [
+    "摩洛哥扁豆番茄汤",
+    "Sopa marroquí harira"
+  ],
+  "Hawaiian Chicken Sheet Pan": [
+    "夏威夷风味烤盘鸡",
+    "Pollo hawaiano en bandeja"
+  ],
+  "Healthy Chicken Wrap": [
+    "健康鸡肉卷",
+    "Wrap saludable de pollo"
+  ],
+  "Healthy Ground Beef Bowl": [
+    "健康牛肉末碗",
+    "Bol saludable de ternera picada"
+  ],
+  "Healthy Mexican Street Corn Dip (Elote Dip)": [
+    "墨西哥街头玉米蘸酱（改良版）",
+    "Salsa saludable de maíz mexicano"
+  ],
+  "Healthy Zucchini Tomato Italian Sausage Soup": [
+    "西葫芦番茄意式香肠汤",
+    "Sopa saludable de calabacín, tomate y salchicha italiana"
+  ],
+  "Hearty Red Lentil Soup (Vegan, One-Pot)": [
+    "暖心红扁豆汤（纯素一锅煮）",
+    "Sopa sustanciosa de lentejas rojas (vegana, una olla)"
+  ],
+  "Herb omelette": [
+    "香草煎蛋",
+    "Tortilla de hierbas"
+  ],
+  "Herb-Crusted Pork Tenderloin (Lean & Juicy)": [
+    "香草脆皮猪里脊（精瘦多汁）",
+    "Solomillo de cerdo con costra de hierbas (magro y jugoso)"
+  ],
+  "High Protein Chicken Salad (45g Protein, Meal Prep Ready)": [
+    "高蛋白鸡肉沙拉（适合备餐，标题标称蛋白质 45 克）",
+    "Ensalada de pollo rica en proteínas (para preparar con antelación, 45 g según el título)"
+  ],
+  "High Protein Overnight Oats (32g Protein, Grab & Go)": [
+    "高蛋白隔夜燕麦（便携，标题标称蛋白质 32 克）",
+    "Avena nocturna rica en proteínas (para llevar, 32 g según el título)"
+  ],
+  "High-Protein Chicken & Rice Bowl (Meal Prep Ready)": [
+    "高蛋白鸡肉饭碗（适合备餐）",
+    "Bol de pollo y arroz rico en proteínas (para preparar con antelación)"
+  ],
+  "Homemade Beef Meatballs": [
+    "家常牛肉丸",
+    "Albóndigas caseras de ternera"
+  ],
+  "Homemade Guacamole": [
+    "自制牛油果酱",
+    "Guacamole casero"
+  ],
+  "Homemade Trail Mix": [
+    "自制坚果果干混合零食",
+    "Mezcla casera de frutos secos y fruta deshidratada"
+  ],
+  "Honey Garlic Chicken Stir Fry (30‑Minute)": [
+    "蜂蜜蒜香炒鸡肉（30 分钟）",
+    "Salteado de pollo con miel y ajo (30 minutos)"
+  ],
+  "Honey Glaze Recipe for Chicken": [
+    "鸡肉用蜂蜜酱汁",
+    "Glaseado de miel para pollo"
+  ],
+  "Honey Sriracha Meatballs": [
+    "蜂蜜是拉差辣酱肉丸",
+    "Albóndigas con miel y sriracha"
+  ],
+  "Hot Honey Beef & Sweet Potato Bowl (Viral TikTok Recipe)": [
+    "辣蜂蜜牛肉红薯碗（热门短视频食谱）",
+    "Bol de ternera y boniato con miel picante (receta viral)"
+  ],
+  "Hummus with pita": [
+    "鹰嘴豆泥配皮塔饼",
+    "Hummus con pan pita"
+  ],
+  "Idli with sambar": [
+    "印度蒸米糕配蔬菜扁豆汤",
+    "Idli con sambar"
+  ],
+  "Italian Dressing Pasta Salad": [
+    "意式油醋汁意面沙拉",
+    "Ensalada de pasta con aliño italiano"
+  ],
+  "Japchae": [
+    "韩式杂菜粉丝",
+    "Fideos coreanos japchae"
+  ],
+  "Jollof rice with chicken": [
+    "西非番茄鸡肉饭",
+    "Arroz jollof con pollo"
+  ],
+  "Joojeh kabab": [
+    "波斯烤鸡肉串",
+    "Brochetas persas de pollo"
+  ],
+  "Juicy Pork Chops with Homemade Apple Sauce": [
+    "多汁猪排配自制苹果酱",
+    "Chuletas jugosas con salsa casera de manzana"
+  ],
+  "Kadai paneer": [
+    "印度铁锅炒奶酪",
+    "Paneer kadai"
+  ],
+  "Keema matar": [
+    "印度肉末豌豆咖喱",
+    "Curry de carne picada y guisantes"
+  ],
+  "Kerala fish curry": [
+    "喀拉拉鱼咖喱",
+    "Curry de pescado de Kerala"
+  ],
+  "Khao soi": [
+    "泰北咖喱面",
+    "Fideos khao soi"
+  ],
+  "Kimbap": [
+    "韩式紫菜包饭",
+    "Rollos coreanos de arroz kimbap"
+  ],
+  "Kimchi jjigae": [
+    "韩式泡菜汤",
+    "Guiso coreano de kimchi"
+  ],
+  "Korean Beef Bulgogi Bowl (Sweet & Savory)": [
+    "韩式烤牛肉碗（甜咸风味）",
+    "Bol de ternera bulgogi (dulce y salado)"
+  ],
+  "Korean fried chicken": [
+    "韩式炸鸡",
+    "Pollo frito coreano"
+  ],
+  "Koshari": [
+    "埃及米面豆饭",
+    "Koshari egipcio"
+  ],
+  "Kunafa": [
+    "中东奶酪细丝酥",
+    "Kunafa de queso"
+  ],
+  "Kung pao chicken": [
+    "宫保鸡丁",
+    "Pollo kung pao"
+  ],
+  "Labneh breakfast plate": [
+    "中东浓酸奶早餐拼盘",
+    "Plato de desayuno con labneh"
+  ],
+  "Lahmacun": [
+    "土耳其薄底肉饼",
+    "Pan turco con carne lahmacun"
+  ],
+  "Lamb haneeth": [
+    "也门慢烤羊肉",
+    "Cordero haneeth"
+  ],
+  "Lamb kabsa": [
+    "阿拉伯羊肉香饭",
+    "Arroz kabsa con cordero"
+  ],
+  "Lamb kofta with rice": [
+    "羊肉丸配米饭",
+    "Kofta de cordero con arroz"
+  ],
+  "Lean Spaghetti Bolognese (High Protein, Lower Fat)": [
+    "精瘦肉酱意面（高蛋白、较低脂）",
+    "Espaguetis boloñesa magros (más proteínas y menos grasa)"
+  ],
+  "Lemon Butter Salmon (Pan-Seared, 15 Minutes)": [
+    "柠檬黄油煎三文鱼（15 分钟）",
+    "Salmón a la sartén con limón y mantequilla (15 minutos)"
+  ],
+  "Lemon Garlic Chicken Thighs (Crispy Skin, 25 Minutes)": [
+    "柠檬蒜香鸡腿肉（脆皮，25 分钟）",
+    "Contramuslos de pollo con limón y ajo (piel crujiente, 25 minutos)"
+  ],
+  "Lemon Herb Chicken Bowl": [
+    "柠檬香草鸡肉碗",
+    "Bol de pollo con limón y hierbas"
+  ],
+  "Lemon Pepper Wings": [
+    "柠檬胡椒鸡翅",
+    "Alitas con limón y pimienta"
+  ],
+  "Lemon rice": [
+    "柠檬饭",
+    "Arroz al limón"
+  ],
+  "Lentil soup": [
+    "扁豆汤",
+    "Sopa de lentejas"
+  ],
+  "Loaded beef nachos": [
+    "丰盛牛肉玉米片",
+    "Nachos con ternera y guarniciones"
+  ],
+  "Lomo saltado": [
+    "秘鲁炒牛肉",
+    "Lomo saltado"
+  ],
+  "Luqaimat": [
+    "阿拉伯甜炸面团",
+    "Buñuelos árabes luqaimat"
+  ],
+  "Mac & cheese": [
+    "芝士通心粉",
+    "Macarrones con queso"
+  ],
+  "Malai kofta": [
+    "印度奶油蔬菜奶酪丸",
+    "Kofta de verduras y paneer en salsa cremosa"
+  ],
+  "Mango sticky rice": [
+    "芒果糯米饭",
+    "Arroz pegajoso con mango"
+  ],
+  "Mansaf": [
+    "约旦酸奶羊肉饭",
+    "Mansaf de cordero"
+  ],
+  "Mapo tofu with rice": [
+    "麻婆豆腐配米饭",
+    "Tofu mapo con arroz"
+  ],
+  "Maqluba": [
+    "中东倒扣饭",
+    "Arroz invertido maqluba"
+  ],
+  "Margherita pizza": [
+    "玛格丽特披萨",
+    "Pizza margarita"
+  ],
+  "Masala dosa": [
+    "印度香料土豆米薄饼",
+    "Dosa rellena de patata con especias"
+  ],
+  "Masgouf": [
+    "伊拉克烤鱼",
+    "Pescado iraquí masgouf"
+  ],
+  "Mashed Sweet Potato": [
+    "红薯泥",
+    "Puré de boniato"
+  ],
+  "Mashuai": [
+    "阿曼烤鱼饭",
+    "Pescado asado omaní con arroz"
+  ],
+  "Masoor dal with rice": [
+    "红扁豆咖喱配米饭",
+    "Lentejas rojas con arroz"
+  ],
+  "Massaman curry": [
+    "泰式玛莎曼咖喱",
+    "Curry massaman"
+  ],
+  "Mediterranean Quinoa Salad": [
+    "地中海藜麦沙拉",
+    "Ensalada mediterránea de quinoa"
+  ],
+  "Mediterranean Tuna Salad (No Mayo, High Protein)": [
+    "地中海金枪鱼沙拉（无蛋黄酱、高蛋白）",
+    "Ensalada mediterránea de atún (sin mayonesa, rica en proteínas)"
+  ],
+  "Medu vada": [
+    "印度咸味炸豆圈",
+    "Rosquillas saladas de lentejas medu vada"
+  ],
+  "Melanzane alla parmigiana": [
+    "意式芝士焗茄子",
+    "Berenjenas a la parmesana"
+  ],
+  "Mexican Beef Burrito Bowl (Chipotle-Style)": [
+    "墨西哥牛肉卷饼碗（烟熏辣椒风味）",
+    "Bol mexicano de burrito con ternera (estilo chipotle)"
+  ],
+  "Minestrone": [
+    "意大利蔬菜汤",
+    "Sopa minestrone"
+  ],
+  "Mishkak skewers": [
+    "阿曼香料肉串",
+    "Brochetas omaníes mishkak"
+  ],
+  "Mixed grill platter": [
+    "混合烤肉拼盘",
+    "Parrillada mixta"
+  ],
+  "Molokhia with chicken": [
+    "埃及锦葵汤配鸡肉",
+    "Molokhia con pollo"
+  ],
+  "Moussaka": [
+    "希腊茄子肉末焗菜",
+    "Musaca"
+  ],
+  "Mujaddara": [
+    "中东扁豆洋葱饭",
+    "Arroz con lentejas y cebolla mujaddara"
+  ],
+  "Musakhan": [
+    "巴勒斯坦香料洋葱鸡饼",
+    "Pollo palestino musakhan sobre pan"
+  ],
+  "Mushroom risotto": [
+    "蘑菇烩饭",
+    "Risotto de setas"
+  ],
+  "Mushroom soup": [
+    "蘑菇汤",
+    "Sopa de setas"
+  ],
+  "Mutabbal plate": [
+    "中东烤茄子泥拼盘",
+    "Plato de crema de berenjena mutabbal"
+  ],
+  "Mutton biryani": [
+    "羊肉香饭",
+    "Biryani de cordero"
+  ],
+  "Mutton rogan josh": [
+    "克什米尔羊肉咖喱",
+    "Curry de cordero rogan josh"
+  ],
+  "Nasi goreng": [
+    "印尼炒饭",
+    "Arroz frito indonesio"
+  ],
+  "Nyama choma": [
+    "东非烤肉",
+    "Carne asada nyama choma"
+  ],
+  "Oat Pancakes": [
+    "燕麦松饼",
+    "Tortitas de avena"
+  ],
+  "One-Pan Chicken Fajitas (20-Minute Dinner)": [
+    "单锅鸡肉法吉塔（20 分钟晚餐）",
+    "Fajitas de pollo en una sartén (cena en 20 minutos)"
+  ],
+  "Onion pakoras": [
+    "印度洋葱炸饼",
+    "Pakoras de cebolla"
+  ],
+  "Onion uttapam": [
+    "印度洋葱厚米饼",
+    "Uttapam de cebolla"
+  ],
+  "Osso buco": [
+    "意大利炖牛膝",
+    "Ossobuco"
+  ],
+  "Overnight Oats": [
+    "隔夜燕麦",
+    "Avena nocturna"
+  ],
+  "Overnight Oats with Berries (No-Cook Breakfast)": [
+    "莓果隔夜燕麦（免烹调早餐）",
+    "Avena nocturna con frutos rojos (desayuno sin cocción)"
+  ],
+  "Pad thai": [
+    "泰式炒河粉",
+    "Pad thai"
+  ],
+  "Palak paneer": [
+    "印度菠菜奶酪",
+    "Paneer con espinacas"
+  ],
+  "Pan-Seared Steak with Garlic Butter and Asparagus": [
+    "蒜香黄油煎牛排配芦笋",
+    "Filete a la sartén con mantequilla de ajo y espárragos"
+  ],
+  "Pancit": [
+    "菲律宾炒面",
+    "Fideos filipinos pancit"
+  ],
+  "Paneer butter masala": [
+    "印度黄油奶酪咖喱",
+    "Paneer con salsa de mantequilla y especias"
+  ],
+  "Panna cotta": [
+    "意式奶冻",
+    "Panna cotta"
+  ],
+  "Pasta al forno": [
+    "意式烤意面",
+    "Pasta al horno"
+  ],
+  "Pav bhaji": [
+    "印度蔬菜咖喱配面包",
+    "Curry de verduras con pan pav bhaji"
+  ],
+  "PB Banana Toast": [
+    "花生酱香蕉吐司",
+    "Tostada con crema de cacahuete y plátano"
+  ],
+  "PB&J Toast": [
+    "花生酱果酱吐司",
+    "Tostada con crema de cacahuete y mermelada"
+  ],
+  "Peach Burrata Salad with Basil & Balsamic": [
+    "桃子布拉塔芝士沙拉配罗勒香醋",
+    "Ensalada de melocotón y burrata con albahaca y balsámico"
+  ],
+  "Peanut Butter Banana Smoothie": [
+    "花生酱香蕉奶昔",
+    "Batido de plátano y crema de cacahuete"
+  ],
+  "Peanut Butter Overnight Oats": [
+    "花生酱隔夜燕麦",
+    "Avena nocturna con crema de cacahuete"
+  ],
+  "Peanut Sauce Noodles": [
+    "花生酱拌面",
+    "Fideos con salsa de cacahuete"
+  ],
+  "Penne arrabbiata": [
+    "香辣番茄通心粉",
+    "Penne a la arrabbiata"
+  ],
+  "Pesto chicken pasta": [
+    "青酱鸡肉意面",
+    "Pasta con pollo y pesto"
+  ],
+  "Philly cheesesteak": [
+    "费城芝士牛肉三明治",
+    "Bocadillo de ternera con queso estilo Filadelfia"
+  ],
+  "Pho bo": [
+    "越南牛肉河粉",
+    "Sopa vietnamita de ternera pho"
+  ],
+  "Pierogi": [
+    "波兰饺子",
+    "Empanadillas polacas pierogi"
+  ],
+  "Piri-piri chicken": [
+    "葡式辣椒烤鸡",
+    "Pollo piri-piri"
+  ],
+  "Poha": [
+    "印度香料米片",
+    "Copos de arroz especiados poha"
+  ],
+  "Porridge with fruit": [
+    "水果燕麦粥",
+    "Gachas de avena con fruta"
+  ],
+  "Prawn linguine": [
+    "大虾扁意面",
+    "Linguine con gambas"
+  ],
+  "Prawn masala": [
+    "印度香料虾",
+    "Gambas masala"
+  ],
+  "Prawn saganaki": [
+    "希腊番茄芝士焗虾",
+    "Gambas saganaki"
+  ],
+  "Prawn sinigang": [
+    "菲律宾酸汤虾",
+    "Sopa agria filipina de gambas"
+  ],
+  "Prawn summer rolls": [
+    "鲜虾越南春卷",
+    "Rollitos frescos de gambas"
+  ],
+  "Protein Oatmeal": [
+    "蛋白燕麦粥",
+    "Avena proteica"
+  ],
+  "Protein Pancakes (30g Protein, Fluffy)": [
+    "松软蛋白松饼（标题标称蛋白质 30 克）",
+    "Tortitas proteicas esponjosas (30 g de proteína según el título)"
+  ],
+  "Punjabi samosas": [
+    "旁遮普三角咖喱角",
+    "Samosas de Punyab"
+  ],
+  "Pupusas": [
+    "萨尔瓦多馅玉米饼",
+    "Pupusas"
+  ],
+  "Quattro formaggi": [
+    "四种芝士披萨",
+    "Pizza cuatro quesos"
+  ],
+  "Quinoa Bowl with Roasted Veggies & Tahini": [
+    "烤蔬菜藜麦碗配芝麻酱",
+    "Bol de quinoa con verduras asadas y tahini"
+  ],
+  "Quinoa Stir-Fry": [
+    "炒藜麦",
+    "Quinoa salteada"
+  ],
+  "Quinoa Stuffed Peppers": [
+    "藜麦酿彩椒",
+    "Pimientos rellenos de quinoa"
+  ],
+  "Quzi": [
+    "阿拉伯烤羊肉饭",
+    "Cordero asado con arroz quzi"
+  ],
+  "Rajma chawal": [
+    "印度红芸豆咖喱饭",
+    "Arroz con curry de alubias rojas"
+  ],
+  "Rasam with rice": [
+    "南印度酸辣汤配米饭",
+    "Sopa rasam con arroz"
+  ],
+  "Ratatouille": [
+    "法式炖蔬菜",
+    "Ratatouille de verduras"
+  ],
+  "Rice and Beans": [
+    "米饭配豆子",
+    "Arroz con frijoles"
+  ],
+  "Roast chicken with potatoes": [
+    "烤鸡配土豆",
+    "Pollo asado con patatas"
+  ],
+  "Roasted Broccoli with Garlic & Parmesan": [
+    "蒜香帕尔马芝士烤西兰花",
+    "Brócoli asado con ajo y parmesano"
+  ],
+  "Rosemary focaccia": [
+    "迷迭香佛卡夏面包",
+    "Focaccia de romero"
+  ],
+  "Roti with mixed sabzi": [
+    "印度薄饼配什锦蔬菜",
+    "Roti con verduras variadas"
+  ],
+  "Rotisserie Chicken Salad": [
+    "烤鸡沙拉",
+    "Ensalada de pollo asado"
+  ],
+  "Rotisserie Chicken Soup": [
+    "烤鸡汤",
+    "Sopa de pollo asado"
+  ],
+  "Rye toast with eggs": [
+    "黑麦吐司配鸡蛋",
+    "Tostada de centeno con huevos"
+  ],
+  "Salade niçoise": [
+    "尼斯沙拉",
+    "Ensalada nizarda"
+  ],
+  "Salisbury Steak Meatballs": [
+    "美式肉饼酱汁牛肉丸",
+    "Albóndigas estilo Salisbury"
+  ],
+  "Salmon Bowl": [
+    "三文鱼碗",
+    "Bol de salmón"
+  ],
+  "Salmon onigiri": [
+    "三文鱼饭团",
+    "Onigiri de salmón"
+  ],
+  "Salmon poke bowl": [
+    "夏威夷三文鱼拌饭碗",
+    "Bol poke de salmón"
+  ],
+  "Salmon Salad": [
+    "三文鱼沙拉",
+    "Ensalada de salmón"
+  ],
+  "Salmon sushi set": [
+    "三文鱼寿司拼盘",
+    "Surtido de sushi de salmón"
+  ],
+  "Samosa chaat": [
+    "印度咖喱角酸辣小吃",
+    "Chaat de samosa"
+  ],
+  "Sayadieh": [
+    "中东鱼肉香饭",
+    "Arroz con pescado sayadieh"
+  ],
+  "Scrambled Eggs with Spinach & Feta": [
+    "菠菜菲达芝士炒蛋",
+    "Huevos revueltos con espinacas y feta"
+  ],
+  "Seafood paella": [
+    "西班牙海鲜饭",
+    "Paella de marisco"
+  ],
+  "Seekh kebab platter": [
+    "南亚香料肉串拼盘",
+    "Plato de kebab seekh"
+  ],
+  "Shakshuka": [
+    "北非番茄炖蛋",
+    "Shakshuka de huevos y tomate"
+  ],
+  "Shawarma plate": [
+    "中东沙瓦玛烤肉拼盘",
+    "Plato de shawarma"
+  ],
+  "Shepherd’s pie": [
+    "英式牧羊人派",
+    "Pastel de carne de cordero"
+  ],
+  "Shiro with injera": [
+    "埃塞俄比亚豆泥配英吉拉饼",
+    "Guiso de legumbres shiro con injera"
+  ],
+  "Shish taouk plate": [
+    "黎巴嫩烤鸡串拼盘",
+    "Plato de brochetas de pollo shish taouk"
+  ],
+  "Shoyu ramen": [
+    "日式酱油拉面",
+    "Ramen de salsa de soja"
+  ],
+  "Shrimp Fried Rice (Better Than Takeout)": [
+    "虾仁炒饭（家常版）",
+    "Arroz frito con gambas (versión casera)"
+  ],
+  "Shuwa": [
+    "阿曼慢烤羊肉",
+    "Cordero omaní shuwa"
+  ],
+  "Smoked salmon & avocado toast": [
+    "烟熏三文鱼牛油果吐司",
+    "Tostada de salmón ahumado y aguacate"
+  ],
+  "Southern fried chicken": [
+    "美式南方炸鸡",
+    "Pollo frito sureño"
+  ],
+  "Spaghetti aglio e olio": [
+    "蒜香橄榄油意面",
+    "Espaguetis con ajo y aceite"
+  ],
+  "Spaghetti bolognese": [
+    "肉酱意面",
+    "Espaguetis a la boloñesa"
+  ],
+  "Spaghetti carbonara": [
+    "意式培根蛋酱意面",
+    "Espaguetis a la carbonara"
+  ],
+  "Spaghetti pomodoro": [
+    "番茄意面",
+    "Espaguetis con tomate"
+  ],
+  "Spanakopita": [
+    "希腊菠菜芝士派",
+    "Pastel griego de espinacas"
+  ],
+  "Spanish tortilla": [
+    "西班牙土豆蛋饼",
+    "Tortilla española"
+  ],
+  "Spinach & feta quiche": [
+    "菠菜菲达芝士咸派",
+    "Quiche de espinacas y feta"
+  ],
+  "Spinach Omelette with Feta & Tomatoes": [
+    "菠菜菲达芝士番茄煎蛋",
+    "Tortilla de espinacas con feta y tomate"
+  ],
+  "Spinach Salad with Strawberries & Pecans": [
+    "草莓碧根果菠菜沙拉",
+    "Ensalada de espinacas con fresas y pacanas"
+  ],
+  "Spinach-ricotta ravioli": [
+    "菠菜瑞可塔芝士意式饺子",
+    "Raviolis de espinacas y ricota"
+  ],
+  "Steak & roast vegetables": [
+    "牛排配烤蔬菜",
+    "Filete con verduras asadas"
+  ],
+  "Steamed dumplings": [
+    "蒸饺",
+    "Empanadillas al vapor"
+  ],
+  "Stovetop Beef Stew": [
+    "炉灶炖牛肉",
+    "Estofado de ternera al fuego"
+  ],
+  "Stuffed Avocado": [
+    "酿牛油果",
+    "Aguacate relleno"
+  ],
+  "Stuffed Bell Peppers (Vegetarian, Quinoa & Cheese)": [
+    "藜麦芝士酿彩椒（素食）",
+    "Pimientos rellenos de quinoa y queso (vegetarianos)"
+  ],
+  "Stuffed Sweet Potato": [
+    "酿红薯",
+    "Boniato relleno"
+  ],
+  "Sushi Rice Bowl": [
+    "寿司饭碗",
+    "Bol de arroz para sushi"
+  ],
+  "Sweet Potato & Black Bean Tacos (Vegetarian)": [
+    "红薯黑豆塔可（素食）",
+    "Tacos de boniato y alubias negras (vegetarianos)"
+  ],
+  "Sweet Potato Bowl": [
+    "红薯碗",
+    "Bol de boniato"
+  ],
+  "Sweet Potato Cottage Cheese Bowl": [
+    "红薯茅屋奶酪碗",
+    "Bol de boniato y queso cottage"
+  ],
+  "Sweet Potato Hash with Eggs (One-Pan Breakfast)": [
+    "红薯丁炒鸡蛋（单锅早餐）",
+    "Salteado de boniato con huevos (desayuno en una sartén)"
+  ],
+  "Tabbouleh": [
+    "中东欧芹碎麦沙拉",
+    "Ensalada tabulé"
+  ],
+  "Tandoori chicken": [
+    "印度坦都里烤鸡",
+    "Pollo tandoori"
+  ],
+  "Teriyaki Glazed Salmon with Steamed Rice": [
+    "照烧三文鱼配米饭",
+    "Salmón glaseado teriyaki con arroz al vapor"
+  ],
+  "Teriyaki Salmon": [
+    "照烧三文鱼",
+    "Salmón teriyaki"
+  ],
+  "Teriyaki Salmon Bowl (40g Protein, Omega-3 Rich)": [
+    "照烧三文鱼碗（标题标称蛋白质 40 克、富含欧米伽三脂肪酸）",
+    "Bol de salmón teriyaki (40 g de proteína y rico en omega 3 según el título)"
+  ],
+  "Thai basil chicken": [
+    "泰式罗勒炒鸡肉",
+    "Pollo tailandés con albahaca"
+  ],
+  "Thai Basil Chicken Stir-Fry (Pad Kra Pao)": [
+    "泰式打抛鸡",
+    "Salteado tailandés de pollo con albahaca"
+  ],
+  "Thareed": [
+    "阿拉伯面饼炖菜",
+    "Estofado árabe con pan thareed"
+  ],
+  "The Best Fresh Peach Cobbler": [
+    "鲜桃酥皮烤甜点",
+    "Pastel de melocotón fresco con cobertura crujiente"
+  ],
+  "Tiramisu": [
+    "提拉米苏",
+    "Tiramisú"
+  ],
+  "Tofu Buddha Bowl": [
+    "豆腐蔬食碗",
+    "Bol vegetal con tofu"
+  ],
+  "Tofu Scramble": [
+    "素炒碎豆腐",
+    "Revuelto de tofu"
+  ],
+  "Tom yum goong": [
+    "冬阴功虾汤",
+    "Sopa tailandesa tom yum de gambas"
+  ],
+  "Tomato bruschetta": [
+    "番茄意式烤面包",
+    "Bruschetta de tomate"
+  ],
+  "Tteokbokki": [
+    "韩式辣炒年糕",
+    "Pasteles de arroz coreanos picantes"
+  ],
+  "Tuna Avocado Wrap (36g Protein, No Cooking)": [
+    "金枪鱼牛油果卷（免烹调，标题标称蛋白质 36 克）",
+    "Wrap de atún y aguacate (sin cocción, 36 g de proteína según el título)"
+  ],
+  "Tuna pasta": [
+    "金枪鱼意面",
+    "Pasta con atún"
+  ],
+  "Tuna Poke Bowl (Hawaiian-Style, Fresh)": [
+    "夏威夷鲜金枪鱼拌饭碗",
+    "Bol poke de atún fresco al estilo hawaiano"
+  ],
+  "Tuna Salad": [
+    "金枪鱼沙拉",
+    "Ensalada de atún"
+  ],
+  "Tuna Stuffed Avocado": [
+    "金枪鱼酿牛油果",
+    "Aguacate relleno de atún"
+  ],
+  "Tuna Wrap": [
+    "金枪鱼卷",
+    "Wrap de atún"
+  ],
+  "Turkey Lettuce Wraps": [
+    "生菜火鸡肉卷",
+    "Rollitos de lechuga con pavo"
+  ],
+  "Turkey sandwich": [
+    "火鸡肉三明治",
+    "Sándwich de pavo"
+  ],
+  "Turkey Sandwich with Avocado & Greens": [
+    "牛油果绿叶菜火鸡肉三明治",
+    "Sándwich de pavo con aguacate y hojas verdes"
+  ],
+  "Turkey Sausage Breakfast Burrito (High Protein)": [
+    "火鸡香肠早餐卷饼（高蛋白）",
+    "Burrito de desayuno con salchicha de pavo (rico en proteínas)"
+  ],
+  "Turkey Stir-Fry with Peppers & Soy Sauce": [
+    "酱油彩椒炒火鸡肉",
+    "Salteado de pavo con pimientos y salsa de soja"
+  ],
+  "Turkish breakfast spread": [
+    "土耳其早餐拼盘",
+    "Surtido de desayuno turco"
+  ],
+  "Upma": [
+    "印度咸味粗麦粥",
+    "Sémola especiada upma"
+  ],
+  "Vada pav": [
+    "印度土豆饼面包",
+    "Bocadillo de buñuelo de patata vada pav"
+  ],
+  "Veg biryani": [
+    "印度蔬菜香饭",
+    "Biryani de verduras"
+  ],
+  "Veg thali": [
+    "印度素食套餐",
+    "Plato variado vegetariano thali"
+  ],
+  "Vegetable Stir-Fried Rice": [
+    "蔬菜炒饭",
+    "Arroz salteado con verduras"
+  ],
+  "Vegetariana pizza": [
+    "蔬菜披萨",
+    "Pizza vegetariana"
+  ],
+  "Veggie Omelette": [
+    "蔬菜煎蛋",
+    "Tortilla de verduras"
+  ],
+  "Warak enab & mahshi": [
+    "中东酿葡萄叶和酿蔬菜",
+    "Hojas de parra y verduras rellenas"
+  ],
+  "Yoghurt with granola": [
+    "酸奶配格兰诺拉麦片",
+    "Yogur con granola"
+  ],
+  "Yogurt Parfait": [
+    "酸奶水果麦片杯",
+    "Copa de yogur con fruta y cereales"
+  ],
+  "Yogurt Protein Bowl": [
+    "酸奶蛋白碗",
+    "Bol proteico de yogur"
+  ],
+  "Za’atar manakish": [
+    "中东百里香烤饼",
+    "Pan manakish con zaatar"
+  ],
+  "Zereshk polo ba morgh": [
+    "波斯伏牛花鸡肉饭",
+    "Arroz persa con agracejo y pollo"
+  ],
+  "International · Main Course · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "国际风味 · 主菜 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Internacional · Plato principal · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Middle Eastern · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "中东风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Oriente Medio · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "International · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "国际风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Internacional · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South Asian · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "南亚风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia meridional · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South Asian · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "南亚风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia meridional · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Italian · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "意大利风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Italiana · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Latin American · Breakfast, Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "拉丁美洲风味 · 早餐、加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Latinoamericana · Desayuno, Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Asian · Main Course · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "亚洲风味 · 主菜 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asiática · Plato principal · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Latin American · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "拉丁美洲风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Latinoamericana · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Main Course · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 主菜 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Plato principal · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Middle Eastern · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "中东风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Oriente Medio · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Middle Eastern · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "中东风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Oriente Medio · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "American · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "美国风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Estadounidense · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "East Asian · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东亚风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia oriental · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Italian · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "意大利风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Italiana · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Italian · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "意大利风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Italiana · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "European · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "欧洲风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Europea · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "African · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "非洲风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Africana · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South East Asian · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东南亚风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Sudeste asiático · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "African · Breakfast, Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "非洲风味 · 早餐、午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Africana · Desayuno, Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Latin American · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "拉丁美洲风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Latinoamericana · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mexican · Main Course · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "墨西哥风味 · 主菜 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mexicana · Plato principal · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "American · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "美国风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Estadounidense · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "American · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "美国风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Estadounidense · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Italian · Main Course · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "意大利风味 · 主菜 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Italiana · Plato principal · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Lunch, Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 午餐、加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Almuerzo, Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Latin American · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "拉丁美洲风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Latinoamericana · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "American · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "美国风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Estadounidense · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "American · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "美国风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Estadounidense · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South East Asian · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东南亚风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Sudeste asiático · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South East Asian · Dinner, Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东南亚风味 · 晚餐、加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Sudeste asiático · Cena, Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "African · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "非洲风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Africana · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Indian · Main Course · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "印度风味 · 主菜 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "India · Plato principal · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Middle Eastern · Breakfast, Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "中东风味 · 早餐、午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Oriente Medio · Desayuno, Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Latin American · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "拉丁美洲风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Latinoamericana · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "East Asian · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东亚风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia oriental · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "International · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "国际风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Internacional · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "African · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "非洲风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Africana · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South East Asian · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东南亚风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Sudeste asiático · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Latin American · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "拉丁美洲风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Latinoamericana · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South Asian · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "南亚风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia meridional · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "East Asian · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东亚风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia oriental · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mexican · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "墨西哥风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mexicana · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Middle Eastern · Lunch, Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "中东风味 · 午餐、加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Oriente Medio · Almuerzo, Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "East Asian · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东亚风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia oriental · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Middle Eastern · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "中东风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Oriente Medio · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Italian · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "意大利风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Italiana · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "South East Asian · Breakfast, Lunch, Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东南亚风味 · 早餐、午餐、晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Sudeste asiático · Desayuno, Almuerzo, Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "European · Breakfast · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "欧洲风味 · 早餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Europea · Desayuno · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "European · Dinner · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "欧洲风味 · 晚餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Europea · Cena · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "European · Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "欧洲风味 · 午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Europea · Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "East Asian · Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东亚风味 · 加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia oriental · Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "Mediterranean · Breakfast, Lunch · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "地中海风味 · 早餐、午餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Mediterránea · Desayuno, Almuerzo · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "East Asian · Lunch, Dinner, Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "东亚风味 · 午餐、晚餐、加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Asia oriental · Almuerzo, Cena, Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "European · Breakfast, Snack · Nutrition estimate for 1 serving. Confirm the recipe ingredients and your serving.": [
+    "欧洲风味 · 早餐、加餐 · 每份营养估算值。请核对食谱食材及实际份量。",
+    "Europea · Desayuno, Tentempié · Estimación nutricional para una porción. Confirma los ingredientes de la receta y tu porción."
+  ],
+  "International": [
+    "国际风味",
+    "Internacional"
+  ],
+  "Middle Eastern": [
+    "中东风味",
+    "Oriente Medio"
+  ],
+  "South Asian": [
+    "南亚风味",
+    "Asia meridional"
+  ],
+  "Italian": [
+    "意大利风味",
+    "Italiana"
+  ],
+  "Latin American": [
+    "拉丁美洲风味",
+    "Latinoamericana"
+  ],
+  "Asian": [
+    "亚洲风味",
+    "Asiática"
+  ],
+  "Mediterranean": [
+    "地中海风味",
+    "Mediterránea"
+  ],
+  "American": [
+    "美国风味",
+    "Estadounidense"
+  ],
+  "East Asian": [
+    "东亚风味",
+    "Asia oriental"
+  ],
+  "European": [
+    "欧洲风味",
+    "Europea"
+  ],
+  "African": [
+    "非洲风味",
+    "Africana"
+  ],
+  "South East Asian": [
+    "东南亚风味",
+    "Sudeste asiático"
+  ],
+  "Mexican": [
+    "墨西哥风味",
+    "Mexicana"
+  ],
+  "Indian": [
+    "印度风味",
+    "India"
+  ],
+  "Main Course": [
+    "主菜",
+    "Plato principal"
+  ],
+  "Breakfast": [
+    "早餐",
+    "Desayuno"
+  ],
+  "Lunch": [
+    "午餐",
+    "Almuerzo"
+  ],
+  "Dinner": [
+    "晚餐",
+    "Cena"
+  ],
+  "Snack": [
+    "加餐",
+    "Tentempié"
+  ],
+  "AI Meal Planner · recipe nutrition estimate": [
+    "AI Meal Planner · 食谱营养估算",
+    "AI Meal Planner · estimación nutricional de receta"
+  ],
+  "Foodakl · recipe nutrition estimate": [
+    "Foodakl · 食谱营养估算",
+    "Foodakl · estimación nutricional de receta"
+  ],
+  "Stir-fry": [
+    "快炒",
+    "Salteado"
+  ],
+  "Soup": [
+    "汤",
+    "Sopa"
+  ],
+  "Salad / fresh plate": [
+    "沙拉或生鲜拼盘",
+    "Ensalada o plato fresco"
+  ],
+  "Steam": [
+    "蒸制",
+    "Al vapor"
+  ],
+  "Gentle simmer": [
+    "小火慢炖",
+    "Cocción a fuego lento"
+  ],
+  "Oven / grill": [
+    "烘烤或烧烤",
+    "Horno o parrilla"
+  ],
+  "Grains / porridge": [
+    "谷物或粥",
+    "Cereales o gachas"
+  ],
+  "Pan-cooked": [
+    "平底锅烹制",
+    "A la sartén"
+  ],
+  "Curry / stew": [
+    "咖喱或炖菜",
+    "Curry o guiso"
+  ],
+  "Noodles": [
+    "面条",
+    "Fideos"
+  ],
+  "Dip / blend": [
+    "蘸酱或搅打",
+    "Salsa o mezcla triturada"
+  ],
+  "EXPLORE FOOD. KEEP THE JOY.": [
+    "探索美食，乐在其中。",
+    "EXPLORA LA COMIDA. CONSERVA EL PLACER."
+  ],
+  "Eat well, your way": [
+    "按自己的方式，好好吃饭",
+    "Come bien, a tu manera"
+  ],
+  "Explore 18 eating styles and cuisines, with 30 dishes in each collection: 540 dish guides. Nine Asian collections celebrate traditional dishes; nine more explore other cuisines and eating patterns.": [
+    "探索 18 种饮食方式与菜系，每个系列包含 30 道菜，共 540 份菜品指南。九个亚洲系列呈现传统菜肴，另外九个系列探索其他菜系与饮食方式。",
+    "Explora 18 estilos de alimentación y cocinas, con 30 platos por colección: 540 guías. Nueve colecciones asiáticas celebran platos tradicionales; otras nueve exploran distintas cocinas y patrones alimentarios."
+  ],
+  "Look for beans, lentils, whole grains, vegetables, nuts and seeds to build fiber. A dish containing one of these foods is not a measured high-fiber claim.": [
+    "选择豆类、扁豆、全谷物、蔬菜、坚果与种子，增加膳食纤维。菜肴含有其中某种食材，并不代表其经过测量、达到高纤维标准。",
+    "Busca legumbres, lentejas, cereales integrales, verduras, frutos secos y semillas para incorporar fibra. Que un plato incluya estos alimentos no significa que se haya medido y clasificado como rico en fibra."
+  ],
+  "Find your next meal": [
+    "发现下一餐",
+    "Descubre tu próxima comida"
+  ],
+  "Choose a style, explore the dishes, then open a cooking guide.": [
+    "选择一种风格，浏览菜品，再打开烹饪指南。",
+    "Elige un estilo, explora sus platos y abre una guía de cocina."
+  ],
+  "Diet or cuisine": [
+    "饮食方式或菜系",
+    "Dieta o cocina"
+  ],
+  "Explore 30 dishes": [
+    "探索 30 道菜",
+    "Explorar 30 platos"
+  ],
+  "Open cooking guide": [
+    "打开烹饪指南",
+    "Abrir guía de cocina"
+  ],
+  "Small ways to build a satisfying plate": [
+    "搭配满足一餐的小方法",
+    "Pequeñas formas de preparar un plato satisfactorio"
+  ],
+  "Make plants varied": [
+    "植物食材多样化",
+    "Varía los alimentos vegetales"
+  ],
+  "Rotate vegetables, beans, fruit and grains. Include a protein source and a portion that suits your hunger and activity.": [
+    "轮换搭配蔬菜、豆类、水果和谷物。加入蛋白质来源，并根据饥饿程度与活动量选择份量。",
+    "Alterna verduras, legumbres, frutas y cereales. Incluye una fuente de proteína y una porción acorde con tu hambre y actividad."
+  ],
+  "Build fiber gradually": [
+    "逐步增加膳食纤维",
+    "Aumenta la fibra poco a poco"
+  ],
+  "Add beans, oats, vegetables or seeds a little at a time and drink water. Use the ingredient filter to find plant-food ideas.": [
+    "逐量添加豆类、燕麦、蔬菜或种子，并注意饮水。使用食材筛选寻找植物性食物灵感。",
+    "Añade legumbres, avena, verduras o semillas poco a poco y bebe agua. Usa el filtro de ingredientes para encontrar ideas vegetales."
+  ],
+  "Keep the tradition": [
+    "保留传统风味",
+    "Conserva la tradición"
+  ],
+  "A vegetable side or bean dish can complement a traditional meal. You do not have to turn every dish into a substitute or fusion recipe.": [
+    "用一道蔬菜配菜或豆类菜肴，为传统餐食增添搭配。不必把每一道菜都改成替代版或融合菜。",
+    "Una guarnición de verduras o legumbres puede complementar una comida tradicional. No necesitas convertir cada plato en una sustitución o una receta de fusión."
+  ],
+  "These collections are general food education, not personalized medical diets. Allergies, health conditions and medications may change which foods or restrictions suit you.": [
+    "这些系列提供一般饮食知识，并非个性化医疗饮食方案。过敏、健康状况与药物可能影响适合你的食物或饮食限制。",
+    "Estas colecciones ofrecen educación alimentaria general, no dietas médicas personalizadas. Las alergias, las enfermedades y los medicamentos pueden cambiar qué alimentos o restricciones te convienen."
+  ],
+  "Recipe libraries & learning": [
+    "食谱资源与学习",
+    "Bibliotecas de recetas y aprendizaje"
+  ],
+  "COOKING GUIDE": [
+    "烹饪指南",
+    "GUÍA DE COCINA"
+  ],
+  "30 DISHES TO EXPLORE": [
+    "探索 30 道菜",
+    "30 PLATOS PARA EXPLORAR"
+  ],
+  "Close diet guide": [
+    "关闭饮食指南",
+    "Cerrar guía de alimentación"
+  ],
+  "Back to 30 dishes": [
+    "返回 30 道菜",
+    "Volver a los 30 platos"
+  ],
+  "Original cooking outline": [
+    "原创烹饪提纲",
+    "Esquema de cocina original"
+  ],
+  "Key ingredients": [
+    "主要食材",
+    "Ingredientes principales"
+  ],
+  "This is a shopping and cooking outline, not a tested recipe with exact portions. Use a full source recipe for quantities, timing and dish-specific technique.": [
+    "这是采购与烹饪提纲，并非经过测试、包含准确份量的食谱。请参考完整来源食谱，确定用量、时间及这道菜的具体技法。",
+    "Este es un esquema de compra y cocina, no una receta probada con porciones exactas. Consulta una receta completa para conocer cantidades, tiempos y técnicas específicas."
+  ],
+  "Fiber-containing ingredients": [
+    "含膳食纤维的食材",
+    "Ingredientes que contienen fibra"
+  ],
+  "Fiber per serving has not been calculated. Portion size and the whole meal matter.": [
+    "尚未计算每份膳食纤维含量，实际份量和整餐搭配都很重要。",
+    "No se ha calculado la fibra por porción. Importan el tamaño de la porción y la comida completa."
+  ],
+  "Cooking outline": [
+    "烹饪提纲",
+    "Esquema de preparación"
+  ],
+  "Check ingredients and sauces for allergens. Wash produce; cook dried beans thoroughly, and use a thermometer for animal proteins. Specialty ingredients require the full recipe’s preparation instructions.": [
+    "检查食材与酱料中的过敏原。清洗蔬果，彻底煮熟干豆；烹调动物性食材时使用食物温度计。特殊食材需遵循完整食谱的处理说明。",
+    "Comprueba los alérgenos de ingredientes y salsas. Lava los vegetales, cocina bien las legumbres secas y usa un termómetro para los alimentos de origen animal. Los ingredientes especiales requieren las instrucciones de la receta completa."
+  ],
+  "Full recipe, photos & video resources": [
+    "完整食谱、图片与视频资源",
+    "Receta completa, fotos y vídeos"
+  ],
+  "Open a focused search for this dish. Publisher instructions and media availability vary.": [
+    "针对这道菜进行搜索。各发布者的做法和媒体可用情况可能不同。",
+    "Abre una búsqueda específica de este plato. Las instrucciones y la disponibilidad de los medios varían según el autor."
+  ],
+  "Find full recipe": [
+    "查找完整食谱",
+    "Buscar receta completa"
+  ],
+  "Photo search": [
+    "搜索图片",
+    "Buscar fotos"
+  ],
+  "Video search": [
+    "搜索视频",
+    "Buscar vídeos"
+  ],
+  "Search Red House Spice": [
+    "搜索红屋香料食谱",
+    "Buscar en Red House Spice"
+  ],
+  "Search Omnivore’s Cookbook": [
+    "搜索杂食厨房食谱",
+    "Buscar en Omnivore’s Cookbook"
+  ],
+  "Search Mayo Clinic recipes": [
+    "搜索梅奥诊所食谱",
+    "Buscar recetas de Mayo Clinic"
+  ],
+  "Search dishes or ingredients": [
+    "搜索菜名或食材",
+    "Buscar platos o ingredientes"
+  ],
+  "e.g. tofu, beans, spinach": [
+    "例如：豆腐、豆类、菠菜",
+    "p. ej., tofu, legumbres, espinacas"
+  ],
+  "With fiber-containing plants": [
+    "含有提供膳食纤维的植物食材",
+    "Con vegetales que contienen fibra"
+  ],
+  "/ 30 dishes shown": [
+    "/ 30 道菜已显示",
+    "/ 30 platos mostrados"
+  ],
+  "No dishes match. Try another ingredient or clear the filter.": [
+    "没有匹配的菜品。请尝试其他食材，或清除筛选条件。",
+    "No hay platos coincidentes. Prueba otro ingrediente o borra el filtro."
+  ],
+  "min budget": [
+    "分钟时间预算",
+    "minutos disponibles"
+  ],
+  "sec between strength sets ·": [
+    "秒组间休息 ·",
+    "segundos entre series de fuerza ·"
+  ],
+  "min": [
+    "分钟",
+    "min"
+  ],
+  "sec": [
+    "秒",
+    "s"
+  ],
+  "kcal": [
+    "千卡",
+    "kcal"
+  ],
+  "Watch the cooking technique": [
+    "观看烹饪技法",
+    "Ver la técnica de cocina"
+  ],
+  "Technique demonstration only; it does not cover the complete dish. ": [
+    "仅演示烹饪技法，并非完整菜肴的制作过程。",
+    "Solo demuestra una técnica; no cubre el plato completo. "
+  ],
+  "Ingredient photo: ": [
+    "食材照片：",
+    "Foto del ingrediente: "
+  ],
+  "Publisher photo · externally hosted, all rights reserved": [
+    "出版方照片 · 外部托管，保留所有权利",
+    "Foto del editor · alojamiento externo, todos los derechos reservados"
+  ],
+  "YouTube video thumbnail · external media": [
+    "YouTube 视频缩略图 · 外部媒体",
+    "Miniatura de YouTube · contenido externo"
+  ],
+  "Cardio distance": [
+    "有氧运动距离",
+    "Distancia de cardio"
+  ],
+  "Cardio Regular": [
+    "有氧运动常客",
+    "Cardio habitual"
+  ],
+  "cardio miles": [
+    "有氧运动英里数",
+    "millas de cardio"
+  ],
+  "cardio miles (best month)": [
+    "有氧运动英里数（最佳月份）",
+    "millas de cardio (mejor mes)"
+  ],
+  "cardio dates": [
+    "有氧运动日期",
+    "días de cardio"
+  ],
+  "Log cardio workouts on 3 distinct dates.": [
+    "在 3 个不同日期记录有氧运动。",
+    "Registra cardio en 3 fechas distintas."
+  ],
+  "Log 5 cumulative cardio miles.": [
+    "累计记录 5 英里有氧运动。",
+    "Registra 5 millas acumuladas de cardio."
+  ],
+  "Log 100 cumulative cardio miles.": [
+    "累计记录 100 英里有氧运动。",
+    "Registra 100 millas acumuladas de cardio."
+  ],
+  "Log 500 cumulative cardio miles.": [
+    "累计记录 500 英里有氧运动。",
+    "Registra 500 millas acumuladas de cardio."
+  ],
+  "Log 1,000 cumulative cardio miles.": [
+    "累计记录 1,000 英里有氧运动。",
+    "Registra 1,000 millas acumuladas de cardio."
+  ],
+  "Log 5,000 cumulative cardio miles.": [
+    "累计记录 5,000 英里有氧运动。",
+    "Registra 5,000 millas acumuladas de cardio."
+  ],
+  "Log 25 cardio miles within one Eastern-time calendar month.": [
+    "在一个美国东部时间自然月内记录 25 英里有氧运动。",
+    "Registra 25 millas de cardio en un mes natural de la hora del Este."
+  ],
+  "Log 50 cardio miles within one Eastern-time calendar month.": [
+    "在一个美国东部时间自然月内记录 50 英里有氧运动。",
+    "Registra 50 millas de cardio en un mes natural de la hora del Este."
+  ],
+  "Weight check-ins": [
+    "体重记录次数",
+    "Registros de peso"
+  ],
+  "Food entry count": [
+    "餐食记录次数",
+    "Número de registros de comida"
+  ],
+  "Workout entry count": [
+    "训练记录次数",
+    "Número de registros de ejercicio"
+  ],
+  "Weight consistency": [
+    "体重记录连贯性",
+    "Constancia del peso"
+  ],
+  "weight check-ins": [
+    "体重记录",
+    "registros de peso"
+  ],
+  "food entries": [
+    "餐食记录",
+    "registros de comida"
+  ],
+  "workout entries": [
+    "训练记录",
+    "registros de ejercicio"
+  ],
+  "consecutive weight dates (best streak)": [
+    "连续体重记录日期（最佳连续记录）",
+    "fechas consecutivas de peso (mejor racha)"
+  ],
+  "First Weigh-in": [
+    "首次体重记录",
+    "Primer registro de peso"
+  ],
+  "First Meal Log": [
+    "首次餐食记录",
+    "Primer registro de comida"
+  ],
+  "First Exercise Log": [
+    "首次运动记录",
+    "Primer registro de ejercicio"
+  ],
+  "Weight Week": [
+    "体重记录一周",
+    "Semana de peso"
+  ],
+  "Record 1 daily weight check-in. One check-in per date counts.": [
+    "记录 1 次每日体重。每个日期计一次。",
+    "Registra el peso diario 1 vez. Cuenta un registro por fecha."
+  ],
+  "Save 1 food entry. Separate meal entries count; dates need not be consecutive.": [
+    "保存 1 条餐食记录。各条餐食分别计数，无需连续日期。",
+    "Guarda 1 registro de comida. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Save 1 workout entry. Separate workout entries count; dates need not be consecutive.": [
+    "保存 1 条训练记录。各条训练分别计数，无需连续日期。",
+    "Guarda 1 registro de ejercicio. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Record weight on 7 consecutive dates.": [
+    "连续 7 个日期记录体重。",
+    "Registra el peso durante 7 fechas consecutivas."
+  ],
+  "Seven Check-ins": [
+    "七次体重记录",
+    "Siete registros de peso"
+  ],
+  "Seven Meal Logs": [
+    "七次餐食记录",
+    "Siete registros de comida"
+  ],
+  "Seven Exercise Logs": [
+    "七次运动记录",
+    "Siete registros de ejercicio"
+  ],
+  "Weight Fortnight": [
+    "体重记录两周",
+    "Quincena de peso"
+  ],
+  "Record 7 daily weight check-ins. One check-in per date counts.": [
+    "记录 7 次每日体重。每个日期计一次。",
+    "Registra el peso diario 7 veces. Cuenta un registro por fecha."
+  ],
+  "Save 7 food entries. Separate meal entries count; dates need not be consecutive.": [
+    "保存 7 条餐食记录。各条餐食分别计数，无需连续日期。",
+    "Guarda 7 registros de comida. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Save 7 workout entries. Separate workout entries count; dates need not be consecutive.": [
+    "保存 7 条训练记录。各条训练分别计数，无需连续日期。",
+    "Guarda 7 registros de ejercicio. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Record weight on 14 consecutive dates.": [
+    "连续 14 个日期记录体重。",
+    "Registra el peso durante 14 fechas consecutivas."
+  ],
+  "Thirty Check-ins": [
+    "三十次体重记录",
+    "Treinta registros de peso"
+  ],
+  "Thirty Meal Logs": [
+    "三十次餐食记录",
+    "Treinta registros de comida"
+  ],
+  "Thirty Exercise Logs": [
+    "三十次运动记录",
+    "Treinta registros de ejercicio"
+  ],
+  "Weight Month": [
+    "体重记录一月",
+    "Mes de peso"
+  ],
+  "Record 30 daily weight check-ins. One check-in per date counts.": [
+    "记录 30 次每日体重。每个日期计一次。",
+    "Registra el peso diario 30 veces. Cuenta un registro por fecha."
+  ],
+  "Save 30 food entries. Separate meal entries count; dates need not be consecutive.": [
+    "保存 30 条餐食记录。各条餐食分别计数，无需连续日期。",
+    "Guarda 30 registros de comida. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Save 30 workout entries. Separate workout entries count; dates need not be consecutive.": [
+    "保存 30 条训练记录。各条训练分别计数，无需连续日期。",
+    "Guarda 30 registros de ejercicio. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Record weight on 30 consecutive dates.": [
+    "连续 30 个日期记录体重。",
+    "Registra el peso durante 30 fechas consecutivas."
+  ],
+  "Ninety Check-ins": [
+    "九十次体重记录",
+    "Noventa registros de peso"
+  ],
+  "Ninety Meal Logs": [
+    "九十次餐食记录",
+    "Noventa registros de comida"
+  ],
+  "Ninety Exercise Logs": [
+    "九十次运动记录",
+    "Noventa registros de ejercicio"
+  ],
+  "Weight Season": [
+    "体重记录一季",
+    "Temporada de peso"
+  ],
+  "Record 90 daily weight check-ins. One check-in per date counts.": [
+    "记录 90 次每日体重。每个日期计一次。",
+    "Registra el peso diario 90 veces. Cuenta un registro por fecha."
+  ],
+  "Save 90 food entries. Separate meal entries count; dates need not be consecutive.": [
+    "保存 90 条餐食记录。各条餐食分别计数，无需连续日期。",
+    "Guarda 90 registros de comida. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Save 90 workout entries. Separate workout entries count; dates need not be consecutive.": [
+    "保存 90 条训练记录。各条训练分别计数，无需连续日期。",
+    "Guarda 90 registros de ejercicio. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Record weight on 90 consecutive dates.": [
+    "连续 90 个日期记录体重。",
+    "Registra el peso durante 90 fechas consecutivas."
+  ],
+  "365 Check-ins": [
+    "全年体重记录",
+    "365 registros de peso"
+  ],
+  "365 Meal Logs": [
+    "全年餐食记录",
+    "365 registros de comida"
+  ],
+  "365 Exercise Logs": [
+    "全年运动记录",
+    "365 registros de ejercicio"
+  ],
+  "Weight Year": [
+    "体重记录一年",
+    "Año de peso"
+  ],
+  "Record 365 daily weight check-ins. One check-in per date counts.": [
+    "记录 365 次每日体重。每个日期计一次。",
+    "Registra el peso diario 365 veces. Cuenta un registro por fecha."
+  ],
+  "Save 365 food entries. Separate meal entries count; dates need not be consecutive.": [
+    "保存 365 条餐食记录。各条餐食分别计数，无需连续日期。",
+    "Guarda 365 registros de comida. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Save 365 workout entries. Separate workout entries count; dates need not be consecutive.": [
+    "保存 365 条训练记录。各条训练分别计数，无需连续日期。",
+    "Guarda 365 registros de ejercicio. Cada entrada cuenta; no se requieren fechas consecutivas."
+  ],
+  "Record weight on 365 consecutive dates.": [
+    "连续 365 个日期记录体重。",
+    "Registra el peso durante 365 fechas consecutivas."
+  ],
+  "All recorded cardio miles count, including running, walking, stairmaster, elliptical, cycling and rowing. The selected cardio type is used, with exercise names as a fallback for older logs.": [
+    "所有已记录的有氧运动英里数均计入，包括跑步、步行、楼梯机、椭圆机、骑行和划船。优先采用所选有氧类型，旧记录则参考运动名称。",
+    "Cuentan todas las millas de cardio registradas, incluidas correr, caminar, escaladora, elíptica, ciclismo y remo. Se usa el tipo de cardio elegido; para registros antiguos, el nombre del ejercicio."
+  ],
+  "Food and workout entry-count badges count individual saved entries; weight badges count one check-in per date.": [
+    "餐食与训练次数徽章按已保存的各条记录计数；体重徽章每个日期计一次。",
+    "Las insignias por número de entradas cuentan cada registro guardado de comida o ejercicio; las de peso cuentan un registro por fecha."
+  ],
+  "Total Cardio Miles": [
+    "有氧运动总英里数",
+    "Millas totales de cardio"
+  ],
+  "All recorded cardio miles count, including running, walking, stairmaster, elliptical, cycling and rowing. The selected cardio type is used, with exercise names as a fallback for older logs. Time and strength sets add across logs; avoid logging the same session twice. Monthly distance badges use your best calendar month, not a rolling 30 days. Attendance and balance badges count distinct dates. Food and workout entry-count badges count individual saved entries; weight badges count one check-in per date. Streaks use your Eastern-time log dates, with at least one entry per date; duplicate entries do not extend a streak. Recovery workouts count—daily hard training is not required. Existing logs qualify. Each badge is recorded once, on the date it is first recognized. If qualifying logs are removed, its bonus and earned status are recalculated; requalifying never stacks another award.": [
+    "所有已记录的有氧运动英里数均计入，包括跑步、步行、楼梯机、椭圆机、骑行和划船。优先采用所选有氧类型，旧记录则参考运动名称。训练时间和力量组数按记录累计，请勿重复记录同一次训练。每月距离徽章采用最佳自然月，而非滚动 30 天。出勤与平衡徽章按不同日期计数。餐食与训练次数徽章按各条保存记录计数；体重徽章每个日期计一次。连续记录按美国东部时间的日志日期计算，每天至少一条；重复记录不会延长连续天数。恢复训练也计入，无需每天高强度训练。既有记录同样符合条件。每枚徽章在首次识别当日登记一次。删除达标记录后，奖励与获得状态将重新计算；再次达标不会重复叠加奖励。",
+    "Cuentan todas las millas de cardio registradas, incluidas correr, caminar, escaladora, elíptica, ciclismo y remo. Se usa el tipo de cardio elegido; para registros antiguos, el nombre del ejercicio. El tiempo y las series de fuerza se acumulan; evita duplicar una sesión. Las insignias mensuales usan tu mejor mes natural, no 30 días móviles. La asistencia y el equilibrio cuentan fechas distintas. Las insignias por número de comidas y ejercicios cuentan cada entrada guardada; las de peso cuentan un registro por fecha. Las rachas usan las fechas de la hora del Este, con al menos una entrada por día; los duplicados no alargan la racha. Cuentan las sesiones de recuperación, sin entrenar intensamente a diario. Los registros existentes también cuentan. Cada insignia se registra una vez al reconocerse. Si eliminas los registros que la justifican, se recalculan su estado y bonificación; recuperarla no acumula otro premio."
+  ],
+  "Explore 20 eating styles and cuisines, ordered for your selected language.": [
+    "探索 20 种饮食方式与菜系，按所选语言优先排序。",
+    "Explora 20 estilos de alimentación y cocinas, ordenados según el idioma elegido."
+  ],
+  "Chinese home cooking includes 100 dishes, grouped by cooking method.": [
+    "中式家常菜包含 100 道菜，按烹饪方式分类。",
+    "La cocina casera china incluye 100 platos, agrupados por método de cocción."
+  ],
+  "Explore 50 dishes each from Mexico, Peru, Ecuador, Brazil and Puerto Rico.": [
+    "探索墨西哥、秘鲁、厄瓜多尔、巴西和波多黎各菜系，每类 50 道菜。",
+    "Explora 50 platos de cada cocina: mexicana, peruana, ecuatoriana, brasileña y puertorriqueña."
+  ],
+  "Explore 50 dishes each for Mediterranean, American balanced, vegetarian, vegan, DASH and keto eating patterns.": [
+    "探索地中海、美式均衡、蛋奶素食、纯素、得舒和生酮饮食，每类 50 道菜。",
+    "Explora 50 platos de cada patrón: mediterráneo, estadounidense equilibrado, vegetariano, vegano, DASH y cetogénico."
+  ],
+  "Explore {count} dishes": [
+    "探索 {count} 道菜",
+    "Explorar {count} platos"
+  ],
+  "Cooking method": [
+    "烹饪方式",
+    "Método de cocción"
+  ],
+  "Filter cooking method": [
+    "筛选烹饪方式",
+    "Filtrar método de cocción"
+  ],
+  "All cooking methods": [
+    "所有烹饪方式",
+    "Todos los métodos de cocción"
+  ],
+  "Braised / stewed": [
+    "红烧／炖煮",
+    "Braseados / guisados"
+  ],
+  "Pan-fried / pancakes": [
+    "煎制／煎饼",
+    "A la sartén / tortitas"
+  ],
+  "Back to dishes": [
+    "返回菜品列表",
+    "Volver a los platos"
+  ],
+  "DISHES TO EXPLORE": [
+    "探索菜品",
+    "PLATOS PARA EXPLORAR"
+  ],
+  "dishes shown": [
+    "道菜已显示",
+    "platos mostrados"
+  ],
+  "External recipe reference": [
+    "外部食谱参考",
+    "Receta externa de referencia"
+  ],
+  "work / 40 sec easy": [
+    "运动／轻松 40 秒",
+    "trabajo / 40 segundos suaves"
+  ],
+  "Your recipe collections now follow your language. Open Nutrition advice to explore.": [
+    "食谱系列现在会按你的语言优先排序。打开营养与饮食建议，开始探索吧。",
+    "Tus colecciones de recetas siguen tu idioma. Abre Consejos de nutrición para explorarlas."
+  ],
+  "Steamed, stir-fried or braised? Filter recipes by cooking method.": [
+    "清蒸、快炒还是红烧？按烹饪方式筛选食谱吧。",
+    "¿Al vapor, salteado o guisado? Filtra las recetas por método de cocción."
+  ],
+  "Try Peruvian and Brazilian dishes in the expanded recipe collections.": [
+    "到扩展后的食谱系列中，尝试秘鲁和巴西菜肴吧。",
+    "Prueba platos peruanos y brasileños en las colecciones ampliadas."
+  ],
+  "Want a precise check-in? Record your weight to two decimal places in kg or lb.": [
+    "想精确记录？体重支持公斤或磅，保留两位小数。",
+    "¿Quieres precisión? Registra tu peso con dos decimales en kg o lb."
+  ],
+  "Your first weight check-in earns a badge. Explore all 70 challenge badges!": [
+    "首次体重记录即可获得徽章。来探索全部 70 枚挑战徽章吧！",
+    "Tu primer registro de peso obtiene una insignia. ¡Explora las 70 insignias!"
+  ],
+  "Every saved meal counts toward the new food-entry badges, even on the same day.": [
+    "每条保存的餐食记录都计入新的餐食次数徽章，同一天也可分别计数。",
+    "Cada comida guardada cuenta para las nuevas insignias por entradas, incluso el mismo día."
+  ],
+  "Every saved workout counts toward the new workout-entry badges.": [
+    "每条保存的训练记录都计入新的训练次数徽章。",
+    "Cada ejercicio guardado cuenta para las nuevas insignias por entradas."
+  ],
+  "Walk, run or use the elliptical: all recorded cardio miles now count toward distance badges.": [
+    "步行、跑步或椭圆机：所有记录的有氧运动英里数现在都计入距离徽章。",
+    "Camina, corre o usa la elíptica: todas las millas de cardio registradas cuentan para las insignias de distancia."
+  ],
+  "Move Seedy where you like. Tips stay beside your companion across pages.": [
+    "把 Seedy 拖到喜欢的位置。切换页面后，提示仍会跟随在它身旁。",
+    "Mueve a Seedy donde quieras. Los consejos siguen junto a tu compañero en todas las páginas."
+  ],
+  "Fiber-focused meals and 20 ways to eat well": [
+    "注重膳食纤维的餐食与 20 种健康饮食方式",
+    "Comidas con fibra y 20 formas de comer bien"
+  ],
+  "badges": [
+    "徽章",
+    "insignias"
+  ],
+  "observations": [
+    "观测值",
+    "observaciones"
+  ]
+}

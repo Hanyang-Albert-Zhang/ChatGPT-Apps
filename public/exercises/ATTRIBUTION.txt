@@ -1,0 +1,18 @@
+Seediva exercise media
+
+All 12 GIFs are original programmatically drawn Seediva stick-figure movement guides.
+Created for Seediva, 2026. No third-party media incorporated.
+Each loops for 5 seconds. Simplified movement diagrams accompany written form instructions.
+
+bench.gif - Flat dumbbell bench press, side view
+incline.gif - Incline dumbbell press, side view
+dumbbellflye.gif - Dumbbell chest fly, top view lying on flat bench
+row.gif - Bent-over dumbbell row, side view
+lunge.gif - Stationary split-stance lunge, side view
+plank.gif - Forearm plank with subtle breathing, side view
+running.gif - Running stride, side view
+mobility.gif - Standing overhead side bend, front view
+pushups.gif - Push-up, side view
+squats.gif - Bodyweight squat, side view
+high_knees.gif - Alternating high knees, side view
+jumpingjacks.gif - Jumping jack, front view

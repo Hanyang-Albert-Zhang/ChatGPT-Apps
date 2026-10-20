@@ -1,0 +1,2391 @@
+[
+  {
+    "id": "mexican",
+    "recipes": [
+      {
+        "id": "mexican-31",
+        "name": "Chiles rellenos",
+        "ingredients": [
+          "poblano peppers",
+          "eggs",
+          "cheese",
+          "tomato"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.recetasnestle.com.mx/recetas/chiles-rellenos-queso-caldillo-jitomate"
+      },
+      {
+        "id": "mexican-32",
+        "name": "Caldo de pollo",
+        "ingredients": [
+          "chicken",
+          "carrot",
+          "zucchini",
+          "corn"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "carrot",
+          "corn"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/mexican-chicken-soup-caldo-de-pollo/"
+      },
+      {
+        "id": "mexican-33",
+        "name": "Caldo de res",
+        "ingredients": [
+          "beef",
+          "cabbage",
+          "carrot",
+          "corn"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "cabbage",
+          "carrot",
+          "corn"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/caldo-de-res-mexican-beef-soup/"
+      },
+      {
+        "id": "mexican-34",
+        "name": "Sopa de fideo",
+        "ingredients": [
+          "noodles",
+          "tomato",
+          "onion",
+          "garlic"
+        ],
+        "method": "soup",
+        "fiberFoods": [],
+        "recipeSource": "https://www.mexicoinmykitchen.com/sopa-de-fideos-mexican-noodle-soup/"
+      },
+      {
+        "id": "mexican-35",
+        "name": "Sopa de habas",
+        "ingredients": [
+          "fava beans",
+          "tomato",
+          "onion",
+          "cilantro"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "fava beans"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/mexican-fava-bean-soup-sopa-de-habas/"
+      },
+      {
+        "id": "mexican-36",
+        "name": "Chilaquiles verdes",
+        "ingredients": [
+          "corn tortillas",
+          "tomatillos",
+          "onion",
+          "cheese"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "corn tortillas"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/chilaquiles-verdes-with-chicken/"
+      },
+      {
+        "id": "mexican-37",
+        "name": "Enchiladas rojas",
+        "ingredients": [
+          "corn tortillas",
+          "guajillo chile",
+          "chicken",
+          "cheese"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "corn tortillas"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/red-enchiladas-recipe/"
+      },
+      {
+        "id": "mexican-38",
+        "name": "Enfrijoladas",
+        "ingredients": [
+          "corn tortillas",
+          "black beans",
+          "onion",
+          "cheese"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "corn tortillas",
+          "black beans"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/enfrijoladas-recipe-corn-tortillas/"
+      },
+      {
+        "id": "mexican-39",
+        "name": "Huevos rancheros",
+        "ingredients": [
+          "eggs",
+          "corn tortillas",
+          "tomato",
+          "beans"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "corn tortillas",
+          "beans"
+        ],
+        "recipeSource": "https://www.goya.com/es/recipes/huevos-rancheros/"
+      },
+      {
+        "id": "mexican-40",
+        "name": "Huevos a la mexicana",
+        "ingredients": [
+          "eggs",
+          "tomato",
+          "onion",
+          "chile serrano"
+        ],
+        "method": "stir",
+        "fiberFoods": [],
+        "recipeSource": "https://www.mexicoinmykitchen.com/mexican-style-scrambled-eggs/"
+      },
+      {
+        "id": "mexican-41",
+        "name": "Pollo en salsa verde",
+        "ingredients": [
+          "chicken",
+          "tomatillos",
+          "onion",
+          "cilantro"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://cocina-casera.com/mx/pollo-en-salsa-verde-receta-mexicana/"
+      },
+      {
+        "id": "mexican-42",
+        "name": "Albóndigas en caldo",
+        "ingredients": [
+          "ground beef",
+          "rice",
+          "carrot",
+          "zucchini"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "carrot"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/sopa-de-albondigas/"
+      },
+      {
+        "id": "mexican-43",
+        "name": "Pipián verde",
+        "ingredients": [
+          "chicken",
+          "pumpkin seeds",
+          "tomatillos",
+          "cilantro"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "pumpkin seeds"
+        ],
+        "recipeSource": "https://laroussecocina.mx/receta/pollo-al-pipian-verde/"
+      },
+      {
+        "id": "mexican-44",
+        "name": "Papas con rajas",
+        "ingredients": [
+          "potatoes",
+          "poblano peppers",
+          "onion",
+          "cream"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/creamy-poblano-potatoes/"
+      },
+      {
+        "id": "mexican-45",
+        "name": "Chayotes al vapor",
+        "ingredients": [
+          "chayote",
+          "water",
+          "pinch of salt"
+        ],
+        "method": "steam",
+        "fiberFoods": [
+          "chayote"
+        ],
+        "recipeSource": "https://www.lasrecetasdelaura.com/chayotes-al-vapor/"
+      },
+      {
+        "id": "mexican-46",
+        "name": "Coliflor capeada",
+        "ingredients": [
+          "cauliflower",
+          "eggs",
+          "tomato",
+          "onion"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tvazteca.com/aztecauno/venga-la-alegria/receta-prepara-rica-coliflor-capeada-en-salsa-picosita-jitomate"
+      },
+      {
+        "id": "mexican-47",
+        "name": "Tortitas de espinaca",
+        "ingredients": [
+          "spinach",
+          "eggs",
+          "cheese",
+          "onion"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "spinach"
+        ],
+        "recipeSource": "https://www.directoalpaladar.com/recetas-de-verduras/tortitas-espinacas-queso-al-estilo-mexicano-receta-facil-para-colar-verdura-mesa"
+      },
+      {
+        "id": "mexican-48",
+        "name": "Huaraches de frijol",
+        "ingredients": [
+          "masa harina",
+          "beans",
+          "nopales",
+          "salsa"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "beans",
+          "nopales"
+        ],
+        "recipeSource": "https://www.gastrolabweb.com/recetas/2022/12/7/estos-deliciosos-huaraches-de-frijol-son-el-antojito-perfecto-para-un-desayuno-mexicano-31080.html"
+      },
+      {
+        "id": "mexican-49",
+        "name": "Tacos de pescado",
+        "ingredients": [
+          "white fish",
+          "corn tortillas",
+          "cabbage",
+          "lime"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "corn tortillas",
+          "cabbage"
+        ],
+        "recipeSource": "https://patijinich.com/pati_2020/es/tacos-de-pescado-cali-baja/"
+      },
+      {
+        "id": "mexican-50",
+        "name": "Arroz rojo",
+        "ingredients": [
+          "rice",
+          "tomato",
+          "carrot",
+          "peas"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "carrot",
+          "peas"
+        ],
+        "recipeSource": "https://www.mexicoinmykitchen.com/mexican-rice-recipe-authentic/"
+      }
+    ]
+  },
+  {
+    "id": "ecuadorian",
+    "recipes": [
+      {
+        "id": "ecuadorian-31",
+        "name": "Bolón de verde",
+        "ingredients": [
+          "green plantain",
+          "cheese",
+          "butter",
+          "onion"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "green plantain"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/bolon-de-verde-green-plantain-dumplings/"
+      },
+      {
+        "id": "ecuadorian-32",
+        "name": "Patacones",
+        "ingredients": [
+          "green plantain",
+          "neutral oil",
+          "pinch of salt"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "green plantain"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/patacones-or-tostones/"
+      },
+      {
+        "id": "ecuadorian-33",
+        "name": "Maduro asado con queso",
+        "ingredients": [
+          "ripe plantain",
+          "fresh cheese",
+          "butter"
+        ],
+        "method": "roast",
+        "fiberFoods": [
+          "ripe plantain"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/platanos-asados-con-queso-or-baked-ripe-plantains-with-cheese/"
+      },
+      {
+        "id": "ecuadorian-34",
+        "name": "Molo de papa",
+        "ingredients": [
+          "potatoes",
+          "milk",
+          "butter",
+          "onion"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/molo-or-ecuadorian-mashed-potatoes/"
+      },
+      {
+        "id": "ecuadorian-35",
+        "name": "Aguacate relleno de atún",
+        "ingredients": [
+          "avocado",
+          "tuna",
+          "peas",
+          "carrot"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "avocado",
+          "peas",
+          "carrot"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/avocados-stuffed-with-tuna-salad/"
+      },
+      {
+        "id": "ecuadorian-36",
+        "name": "Aguacate relleno de camarón",
+        "ingredients": [
+          "avocado",
+          "shrimp",
+          "red onion",
+          "radish"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "avocado"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/aguacate-relleno-con-camarones-shrimp-stuffed-avocado/"
+      },
+      {
+        "id": "ecuadorian-37",
+        "name": "Ensalada de papas con camarones",
+        "ingredients": [
+          "potatoes",
+          "shrimp",
+          "carrot",
+          "onion"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/shrimp-potato-salad/"
+      },
+      {
+        "id": "ecuadorian-38",
+        "name": "Ceviche de camarón ecuatoriano",
+        "ingredients": [
+          "cooked shrimp",
+          "tomato",
+          "red onion",
+          "lime"
+        ],
+        "method": "salad",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/ceviche-camaron-shrimp-ceviche/"
+      },
+      {
+        "id": "ecuadorian-39",
+        "name": "Ceviche volquetero",
+        "ingredients": [
+          "tuna",
+          "prepared lupini beans",
+          "toasted corn",
+          "tomato"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "prepared lupini beans",
+          "toasted corn"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/tuna-fish-ceviche/"
+      },
+      {
+        "id": "ecuadorian-40",
+        "name": "Arroz con pollo ecuatoriano",
+        "ingredients": [
+          "chicken",
+          "rice",
+          "carrot",
+          "peas"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "carrot",
+          "peas"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/arroz-con-pollo-or-chicken-rice/"
+      },
+      {
+        "id": "ecuadorian-41",
+        "name": "Arroz con camarones ecuatoriano",
+        "ingredients": [
+          "shrimp",
+          "rice",
+          "onion",
+          "bell pepper"
+        ],
+        "method": "grain",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/arroz-con-camarones-or-shrimp-rice/"
+      },
+      {
+        "id": "ecuadorian-42",
+        "name": "Arroz con menestra",
+        "ingredients": [
+          "rice",
+          "lentils",
+          "onion",
+          "tomato"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "lentils"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/ecuadorian-lentil-stew-menestra/"
+      },
+      {
+        "id": "ecuadorian-43",
+        "name": "Seco de chivo",
+        "ingredients": [
+          "goat meat",
+          "tomato",
+          "onion",
+          "cilantro"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/seco-de-chivo-or-braised-goat-stew/"
+      },
+      {
+        "id": "ecuadorian-44",
+        "name": "Seco de carne",
+        "ingredients": [
+          "beef",
+          "tomato",
+          "onion",
+          "cilantro"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/seco-de-carne-or-beef-stew/"
+      },
+      {
+        "id": "ecuadorian-45",
+        "name": "Fritada de chancho",
+        "ingredients": [
+          "pork",
+          "onion",
+          "garlic",
+          "cumin"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/fritada-de-chancho-or-ecuadorian-braised-pork/"
+      },
+      {
+        "id": "ecuadorian-46",
+        "name": "Hornado de chancho",
+        "ingredients": [
+          "pork",
+          "garlic",
+          "cumin",
+          "beer"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/hornado-de-chancho-roasted-pork-leg/"
+      },
+      {
+        "id": "ecuadorian-47",
+        "name": "Guatita",
+        "ingredients": [
+          "beef tripe",
+          "potatoes",
+          "peanuts",
+          "onion"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/guatita-or-ecuadorian-tripe-stew/"
+      },
+      {
+        "id": "ecuadorian-48",
+        "name": "Sopa de fideo con queso",
+        "ingredients": [
+          "noodles",
+          "milk",
+          "fresh cheese",
+          "onion"
+        ],
+        "method": "soup",
+        "fiberFoods": [],
+        "recipeSource": "https://www.laylita.com/recipes/sopa-de-fideo-ecuadorian-noodle-soup-potatoes-cheese/"
+      },
+      {
+        "id": "ecuadorian-49",
+        "name": "Sopa de habas ecuatoriana",
+        "ingredients": [
+          "fava beans",
+          "potatoes",
+          "milk",
+          "cheese"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "fava beans",
+          "potatoes"
+        ],
+        "recipeSource": "https://www.recetasnestle.com.ec/index.php/recetas/locro-de-habas"
+      },
+      {
+        "id": "ecuadorian-50",
+        "name": "Tortillas de yuca",
+        "ingredients": [
+          "yuca",
+          "fresh cheese",
+          "eggs",
+          "onion"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.laylita.com/recipes/tortillas-de-yuca-cassava-patties/"
+      }
+    ]
+  },
+  {
+    "id": "puerto-rican",
+    "recipes": [
+      {
+        "id": "puerto-rican-31",
+        "name": "Mofongo",
+        "ingredients": [
+          "green plantain",
+          "garlic",
+          "pork cracklings",
+          "broth"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "green plantain"
+        ],
+        "recipeSource": "https://www.kitchengidget.com/2025/12/02/mofongo/"
+      },
+      {
+        "id": "puerto-rican-32",
+        "name": "Mofongo de yuca",
+        "ingredients": [
+          "yuca",
+          "garlic",
+          "olive oil",
+          "broth"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.ensalpicadas.com/mofongo-de-yuca/"
+      },
+      {
+        "id": "puerto-rican-33",
+        "name": "Pastelón",
+        "ingredients": [
+          "ripe plantain",
+          "ground beef",
+          "eggs",
+          "cheese"
+        ],
+        "method": "roast",
+        "fiberFoods": [
+          "ripe plantain"
+        ],
+        "recipeSource": "https://www.delishdlites.com/type/latin-recipes/pastelon-sweet-plantain-lasagna/"
+      },
+      {
+        "id": "puerto-rican-34",
+        "name": "Pasteles de masa",
+        "ingredients": [
+          "green banana",
+          "yautia",
+          "pork",
+          "sofrito"
+        ],
+        "method": "steam",
+        "fiberFoods": [],
+        "recipeSource": "https://www.delishdlites.com/occasion/holiday-recipes/pasteles-de-masa-puerto-rican-pasteles/"
+      },
+      {
+        "id": "puerto-rican-35",
+        "name": "Pasteles de yuca",
+        "ingredients": [
+          "yuca",
+          "pork",
+          "sofrito",
+          "banana leaf"
+        ],
+        "method": "steam",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.delishdlites.com/type/puerto-rican-recipes-2/puerto-rican-pasteles-de-yuca/"
+      },
+      {
+        "id": "puerto-rican-36",
+        "name": "Arroz con pollo boricua",
+        "ingredients": [
+          "chicken",
+          "rice",
+          "sofrito",
+          "peas"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "peas"
+        ],
+        "recipeSource": "https://www.delishdlites.com/type/latin-recipes/arroz-con-pollo-puerto-rican-chicken-rice-recipe/"
+      },
+      {
+        "id": "puerto-rican-37",
+        "name": "Arroz mamposteao",
+        "ingredients": [
+          "rice",
+          "red beans",
+          "bacon",
+          "sofrito"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "red beans"
+        ],
+        "recipeSource": "https://www.delishdlites.com/ingredients/rice-recipes-2/puerto-rican-arroz-mamposteao/"
+      },
+      {
+        "id": "puerto-rican-38",
+        "name": "Arroz con salchichas",
+        "ingredients": [
+          "rice",
+          "sausage",
+          "sofrito",
+          "tomato sauce"
+        ],
+        "method": "grain",
+        "fiberFoods": [],
+        "recipeSource": "https://chefgoya.com/receta/arroz-con-salchichas-receta-boricua/"
+      },
+      {
+        "id": "puerto-rican-39",
+        "name": "Pernil asado",
+        "ingredients": [
+          "pork shoulder",
+          "garlic",
+          "oregano",
+          "olive oil"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://www.kitchengidget.com/2015/12/13/pernil-puerto-rican-pork/"
+      },
+      {
+        "id": "puerto-rican-40",
+        "name": "Pollo al horno boricua",
+        "ingredients": [
+          "chicken",
+          "garlic",
+          "oregano",
+          "olive oil"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://www.goyapr.com/recetas/delicioso-y-crujiente-pollo-al-horno"
+      },
+      {
+        "id": "puerto-rican-41",
+        "name": "Bistec encebollado",
+        "ingredients": [
+          "beef",
+          "onion",
+          "vinegar",
+          "garlic"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.kitchengidget.com/2014/05/18/puerto-rican-bistec-encebollado/"
+      },
+      {
+        "id": "puerto-rican-42",
+        "name": "Carne guisada boricua",
+        "ingredients": [
+          "beef",
+          "potatoes",
+          "carrot",
+          "sofrito"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.kitchengidget.com/2019/06/04/puerto-rican-carne-guisada/"
+      },
+      {
+        "id": "puerto-rican-43",
+        "name": "Carne molida boricua",
+        "ingredients": [
+          "ground beef",
+          "sofrito",
+          "tomato sauce",
+          "olives"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.kitchengidget.com/2014/01/16/puerto-rican-picadillo-empanadas/"
+      },
+      {
+        "id": "puerto-rican-44",
+        "name": "Chuletas guisadas",
+        "ingredients": [
+          "pork chops",
+          "tomato",
+          "onion",
+          "bell pepper"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://cookpad.com/pri/recetas/15641406"
+      },
+      {
+        "id": "puerto-rican-45",
+        "name": "Camarones guisados",
+        "ingredients": [
+          "shrimp",
+          "sofrito",
+          "tomato sauce",
+          "bell pepper"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.kitchengidget.com/2016/05/06/camarones-guisados-stewed-shrimp/"
+      },
+      {
+        "id": "puerto-rican-46",
+        "name": "Serenata de bacalao",
+        "ingredients": [
+          "desalted cooked salt cod",
+          "green banana",
+          "avocado",
+          "onion"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "avocado"
+        ],
+        "recipeSource": "https://www.goya.com/es/recipes/cod-salad/"
+      },
+      {
+        "id": "puerto-rican-47",
+        "name": "Ensalada de pulpo",
+        "ingredients": [
+          "cooked octopus",
+          "onion",
+          "bell pepper",
+          "olive oil"
+        ],
+        "method": "salad",
+        "fiberFoods": [],
+        "recipeSource": "https://www.delishdlites.com/type/latin-recipes/ensalada-de-pulpo-octopus-salad/"
+      },
+      {
+        "id": "puerto-rican-48",
+        "name": "Ensalada de carrucho",
+        "ingredients": [
+          "cooked conch",
+          "onion",
+          "bell pepper",
+          "lime"
+        ],
+        "method": "salad",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tureceta.net/comida-puertorriquena/ensalada-de-carrucho/"
+      },
+      {
+        "id": "puerto-rican-49",
+        "name": "Tostones",
+        "ingredients": [
+          "green plantain",
+          "neutral oil",
+          "pinch of salt"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "green plantain"
+        ],
+        "recipeSource": "https://www.delishdlites.com/course/appetizer-recipes/avocado-skirt-steak-tostones/"
+      },
+      {
+        "id": "puerto-rican-50",
+        "name": "Amarillos",
+        "ingredients": [
+          "ripe plantain",
+          "neutral oil"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "ripe plantain"
+        ],
+        "recipeSource": "https://puertoricanrum.com/recipes/amarillos/"
+      }
+    ]
+  },
+  {
+    "id": "peruvian",
+    "name": "Peruvian",
+    "region": "Peru",
+    "asian": false,
+    "description": "Peruvian home cooking spans the coast, Andes and Amazon, using potatoes, corn, quinoa, beans, vegetables and many different proteins. These are traditional dishes and sides, not a prescribed diet.",
+    "tip": "Build a varied plate with a bean or vegetable side. Some traditional dishes are rich or low in fiber; use the full source recipe and choose portions that fit your needs.",
+    "recipes": [
+      {
+        "id": "peruvian-1",
+        "name": "Lomo saltado",
+        "ingredients": [
+          "beef",
+          "tomato",
+          "red onion",
+          "potatoes"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.eatperu.com/lomo-saltado-recipe/"
+      },
+      {
+        "id": "peruvian-2",
+        "name": "Pollo saltado",
+        "ingredients": [
+          "chicken",
+          "tomato",
+          "onion",
+          "soy sauce"
+        ],
+        "method": "stir",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/pollo-saltado-chicken-stir-fry/"
+      },
+      {
+        "id": "peruvian-3",
+        "name": "Saltado de vainitas",
+        "ingredients": [
+          "green beans",
+          "chicken",
+          "onion",
+          "tomato"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "green beans"
+        ],
+        "recipeSource": "https://www.eatperu.com/saltado-de-vainitas/"
+      },
+      {
+        "id": "peruvian-4",
+        "name": "Ají de gallina",
+        "ingredients": [
+          "chicken",
+          "aji amarillo",
+          "bread",
+          "milk"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/aji-de-gallina/"
+      },
+      {
+        "id": "peruvian-5",
+        "name": "Estofado de pollo peruano",
+        "ingredients": [
+          "chicken",
+          "potatoes",
+          "carrot",
+          "peas"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "potatoes",
+          "carrot",
+          "peas"
+        ],
+        "recipeSource": "https://www.eatperu.com/estofado-de-pollo-chicken-stew/"
+      },
+      {
+        "id": "peruvian-6",
+        "name": "Seco de res",
+        "ingredients": [
+          "beef",
+          "cilantro",
+          "peas",
+          "carrot"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "peas",
+          "carrot"
+        ],
+        "recipeSource": "https://www.eatperu.com/seco-de-carne-peruvian-beef-stew/"
+      },
+      {
+        "id": "peruvian-7",
+        "name": "Seco de cabrito",
+        "ingredients": [
+          "goat meat",
+          "cilantro",
+          "onion",
+          "aji amarillo"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://sibarita.pe/receta/seco-de-cabrito/"
+      },
+      {
+        "id": "peruvian-8",
+        "name": "Carapulcra",
+        "ingredients": [
+          "dried potatoes",
+          "pork",
+          "peanuts",
+          "aji panca"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "dried potatoes"
+        ],
+        "recipeSource": "https://www.eatperu.com/carapulcra-recipe/"
+      },
+      {
+        "id": "peruvian-9",
+        "name": "Olluquito con carne",
+        "ingredients": [
+          "olluco",
+          "beef",
+          "onion",
+          "aji panca"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "olluco"
+        ],
+        "recipeSource": "https://www.recetasnestle.com.pe/recetas/olluquito-con-carne"
+      },
+      {
+        "id": "peruvian-10",
+        "name": "Locro de zapallo peruano",
+        "ingredients": [
+          "squash",
+          "potatoes",
+          "peas",
+          "fresh cheese"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "squash",
+          "potatoes",
+          "peas"
+        ],
+        "recipeSource": "https://www.eatperu.com/locro-de-zapallo-pumpkin-stew/"
+      },
+      {
+        "id": "peruvian-11",
+        "name": "Guiso de quinua",
+        "ingredients": [
+          "quinoa",
+          "potatoes",
+          "carrot",
+          "fresh cheese"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "quinoa",
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.recetasnestle.com.pe/recetas/guiso-de-quinoa"
+      },
+      {
+        "id": "peruvian-12",
+        "name": "Quinua atamalada",
+        "ingredients": [
+          "quinoa",
+          "aji amarillo",
+          "onion",
+          "cheese"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "quinoa"
+        ],
+        "recipeSource": "https://perudelights.com/quinoa-atamalada-eating-the-andean-way/"
+      },
+      {
+        "id": "peruvian-13",
+        "name": "Sopa de quinua con pollo",
+        "ingredients": [
+          "quinoa",
+          "chicken",
+          "potatoes",
+          "carrot"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "quinoa",
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.eatperu.com/chicken-quinoa-soup/"
+      },
+      {
+        "id": "peruvian-14",
+        "name": "Sopa de quinua con cerdo",
+        "ingredients": [
+          "quinoa",
+          "pork",
+          "potatoes",
+          "carrot"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "quinoa",
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.eatperu.com/pork-quinoa-soup/"
+      },
+      {
+        "id": "peruvian-15",
+        "name": "Aguadito de pollo",
+        "ingredients": [
+          "chicken",
+          "rice",
+          "cilantro",
+          "peas"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "peas"
+        ],
+        "recipeSource": "https://www.eatperu.com/aguadito-de-pollo/"
+      },
+      {
+        "id": "peruvian-16",
+        "name": "Sopa a la minuta",
+        "ingredients": [
+          "beef",
+          "noodles",
+          "milk",
+          "tomato"
+        ],
+        "method": "soup",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/sopa-a-la-minuta/"
+      },
+      {
+        "id": "peruvian-17",
+        "name": "Chupe de camarones",
+        "ingredients": [
+          "shrimp",
+          "potatoes",
+          "rice",
+          "milk"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.eatperu.com/chupe-de-camarones-peruvian-shrimp-chowder/"
+      },
+      {
+        "id": "peruvian-18",
+        "name": "Chupe de habas",
+        "ingredients": [
+          "fava beans",
+          "potatoes",
+          "milk",
+          "cheese"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "fava beans",
+          "potatoes"
+        ],
+        "recipeSource": "https://perudelights.com/meatlessmondays-fava-bean-and-barley-chupe-chupe-de-habas-y-cebada/"
+      },
+      {
+        "id": "peruvian-19",
+        "name": "Parihuela",
+        "ingredients": [
+          "white fish",
+          "shrimp",
+          "tomato",
+          "onion"
+        ],
+        "method": "soup",
+        "fiberFoods": [],
+        "recipeSource": "https://canalcocina.es/receta/parihuela-de-mariscos"
+      },
+      {
+        "id": "peruvian-20",
+        "name": "Caldo de gallina",
+        "ingredients": [
+          "chicken",
+          "noodles",
+          "potatoes",
+          "eggs"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.tottus.com.pe/tottus-pe/content/recetas/caldo-de-gallina"
+      },
+      {
+        "id": "peruvian-21",
+        "name": "Menestrón peruano",
+        "ingredients": [
+          "white beans",
+          "pasta",
+          "basil",
+          "cabbage"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "white beans",
+          "cabbage"
+        ],
+        "recipeSource": "https://perudelights.com/vegetarian-menestron-peruvian-minestrone/"
+      },
+      {
+        "id": "peruvian-22",
+        "name": "Shámbar",
+        "ingredients": [
+          "wheat",
+          "pinto beans",
+          "pork",
+          "peas"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "wheat",
+          "pinto beans",
+          "peas"
+        ],
+        "recipeSource": "https://sibarita.pe/receta/shambar/"
+      },
+      {
+        "id": "peruvian-23",
+        "name": "Sancochado",
+        "ingredients": [
+          "beef",
+          "cabbage",
+          "potatoes",
+          "corn"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "cabbage",
+          "potatoes",
+          "corn"
+        ],
+        "recipeSource": "https://www.eatperu.com/sancochado/"
+      },
+      {
+        "id": "peruvian-24",
+        "name": "Arroz con pollo peruano",
+        "ingredients": [
+          "chicken",
+          "rice",
+          "cilantro",
+          "peas"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "peas"
+        ],
+        "recipeSource": "https://www.eatperu.com/arroz-con-pollo/"
+      },
+      {
+        "id": "peruvian-25",
+        "name": "Arroz con pato",
+        "ingredients": [
+          "duck",
+          "rice",
+          "cilantro",
+          "beer"
+        ],
+        "method": "grain",
+        "fiberFoods": [],
+        "recipeSource": "https://perudelights.com/rice-with-duck-peruvian-style-arroz-con-pato/"
+      },
+      {
+        "id": "peruvian-26",
+        "name": "Arroz con camarones peruano",
+        "ingredients": [
+          "shrimp",
+          "rice",
+          "aji amarillo",
+          "peas"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "peas"
+        ],
+        "recipeSource": "https://www.eatperu.com/arroz-con-camarones/"
+      },
+      {
+        "id": "peruvian-27",
+        "name": "Arroz tapado",
+        "ingredients": [
+          "rice",
+          "ground beef",
+          "raisins",
+          "eggs"
+        ],
+        "method": "grain",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/arroz-tapado/"
+      },
+      {
+        "id": "peruvian-28",
+        "name": "Arroz chaufa",
+        "ingredients": [
+          "rice",
+          "eggs",
+          "chicken",
+          "scallion"
+        ],
+        "method": "stir",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/arroz-chaufa-de-pollo-peruvian-rice/"
+      },
+      {
+        "id": "peruvian-29",
+        "name": "Chaufa de quinua",
+        "ingredients": [
+          "quinoa",
+          "eggs",
+          "chicken",
+          "scallion"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "quinoa"
+        ],
+        "recipeSource": "https://www.eatperu.com/quinoa-fried-rice/"
+      },
+      {
+        "id": "peruvian-30",
+        "name": "Tacu tacu",
+        "ingredients": [
+          "cooked beans",
+          "rice",
+          "onion",
+          "aji amarillo"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "cooked beans"
+        ],
+        "recipeSource": "https://www.eatperu.com/tacu-tacu/"
+      },
+      {
+        "id": "peruvian-31",
+        "name": "Frejoles canarios guisados",
+        "ingredients": [
+          "canary beans",
+          "onion",
+          "garlic",
+          "pork"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "canary beans"
+        ],
+        "recipeSource": "https://comidasperuanas.net/frejoles-canarios/"
+      },
+      {
+        "id": "peruvian-32",
+        "name": "Lentejas guisadas peruanas",
+        "ingredients": [
+          "lentils",
+          "onion",
+          "carrot",
+          "tomato"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "lentils",
+          "carrot"
+        ],
+        "recipeSource": "https://sibarita.pe/receta/lentejas/"
+      },
+      {
+        "id": "peruvian-33",
+        "name": "Pallares guisados",
+        "ingredients": [
+          "lima beans",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "lima beans"
+        ],
+        "recipeSource": "https://recetas.elperiodico.com/receta-de-guiso-de-pallares-77136.html"
+      },
+      {
+        "id": "peruvian-34",
+        "name": "Pepián de choclo",
+        "ingredients": [
+          "corn",
+          "chicken",
+          "onion",
+          "aji amarillo"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "corn"
+        ],
+        "recipeSource": "https://www.eatperu.com/pepian-de-choclo/"
+      },
+      {
+        "id": "peruvian-35",
+        "name": "Caigua rellena",
+        "ingredients": [
+          "caigua",
+          "ground beef",
+          "onion",
+          "raisins"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "caigua"
+        ],
+        "recipeSource": "https://perudelights.com/caiguas-rellenas-caiguas-filled-with-beef-raisins-and-olives/"
+      },
+      {
+        "id": "peruvian-36",
+        "name": "Rocoto relleno",
+        "ingredients": [
+          "rocoto peppers",
+          "ground beef",
+          "cheese",
+          "eggs"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/rocoto-relleno/"
+      },
+      {
+        "id": "peruvian-37",
+        "name": "Papa rellena",
+        "ingredients": [
+          "potatoes",
+          "ground beef",
+          "onion",
+          "eggs"
+        ],
+        "method": "pancake",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://perudelights.com/papa-rellena-a-thousand-and-one-stuffings/"
+      },
+      {
+        "id": "peruvian-38",
+        "name": "Causa limeña",
+        "ingredients": [
+          "potatoes",
+          "aji amarillo",
+          "chicken",
+          "avocado"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "potatoes",
+          "avocado"
+        ],
+        "recipeSource": "https://www.eatperu.com/causa-limena-de-pollo/"
+      },
+      {
+        "id": "peruvian-39",
+        "name": "Causa de atún",
+        "ingredients": [
+          "potatoes",
+          "tuna",
+          "avocado",
+          "lime"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "potatoes",
+          "avocado"
+        ],
+        "recipeSource": "https://www.eatperu.com/causa-de-atun/"
+      },
+      {
+        "id": "peruvian-40",
+        "name": "Papa a la huancaína",
+        "ingredients": [
+          "potatoes",
+          "aji amarillo",
+          "cheese",
+          "milk"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://www.eatperu.com/papa-a-la-huancaina/"
+      },
+      {
+        "id": "peruvian-41",
+        "name": "Ocopa arequipeña",
+        "ingredients": [
+          "potatoes",
+          "huacatay",
+          "peanuts",
+          "cheese"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "potatoes"
+        ],
+        "recipeSource": "https://perudelights.com/ocopa-sauce/"
+      },
+      {
+        "id": "peruvian-42",
+        "name": "Solterito arequipeño",
+        "ingredients": [
+          "fava beans",
+          "corn",
+          "fresh cheese",
+          "tomato"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "fava beans",
+          "corn"
+        ],
+        "recipeSource": "https://www.eatperu.com/solterito/"
+      },
+      {
+        "id": "peruvian-43",
+        "name": "Palta rellena de pollo",
+        "ingredients": [
+          "avocado",
+          "chicken",
+          "carrot",
+          "peas"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "avocado",
+          "carrot",
+          "peas"
+        ],
+        "recipeSource": "https://www.culinariamente.com/palta-rellena/"
+      },
+      {
+        "id": "peruvian-44",
+        "name": "Palta rellena de camarones",
+        "ingredients": [
+          "avocado",
+          "shrimp",
+          "onion",
+          "lime"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "avocado"
+        ],
+        "recipeSource": "https://www.eatperu.com/shrimp-stuffed-avocado/"
+      },
+      {
+        "id": "peruvian-45",
+        "name": "Ensalada de quinua peruana",
+        "ingredients": [
+          "quinoa",
+          "tomato",
+          "cucumber",
+          "avocado"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "quinoa",
+          "avocado"
+        ],
+        "recipeSource": "https://www.eatperu.com/peruvian-avocado-quinoa-salad/"
+      },
+      {
+        "id": "peruvian-46",
+        "name": "Tallarines verdes",
+        "ingredients": [
+          "pasta",
+          "spinach",
+          "basil",
+          "fresh cheese"
+        ],
+        "method": "noodle",
+        "fiberFoods": [
+          "spinach"
+        ],
+        "recipeSource": "https://www.tottus.com.pe/tottus-pe/content/recetas/tallarines-verdes"
+      },
+      {
+        "id": "peruvian-47",
+        "name": "Tallarines rojos",
+        "ingredients": [
+          "pasta",
+          "chicken",
+          "tomato",
+          "carrot"
+        ],
+        "method": "noodle",
+        "fiberFoods": [
+          "carrot"
+        ],
+        "recipeSource": "https://perudelights.com/meatlessmondays-tallarines-rojos-tomato-sauce-for-robust-appetites/"
+      },
+      {
+        "id": "peruvian-48",
+        "name": "Juane de gallina",
+        "ingredients": [
+          "rice",
+          "chicken",
+          "eggs",
+          "banana leaf"
+        ],
+        "method": "steam",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/juane-de-gallina/"
+      },
+      {
+        "id": "peruvian-49",
+        "name": "Sudado de pescado peruano",
+        "ingredients": [
+          "white fish",
+          "tomato",
+          "onion",
+          "aji amarillo"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/sudado-de-pescado/"
+      },
+      {
+        "id": "peruvian-50",
+        "name": "Pollo a la brasa",
+        "ingredients": [
+          "chicken",
+          "garlic",
+          "cumin",
+          "soy sauce"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://www.eatperu.com/pollo-a-la-brasa/"
+      }
+    ]
+  },
+  {
+    "id": "brazilian",
+    "name": "Brazilian",
+    "region": "Brazil",
+    "asian": false,
+    "description": "Brazilian home cooking varies greatly by region. Beans and rice, leafy greens, cassava, corn and fish stews appear alongside meat dishes and regional specialties.",
+    "tip": "Include beans and vegetables alongside a main. Traditional dishes differ in salt, fat and fiber; the ingredient lists here are summaries rather than measured nutrition claims.",
+    "recipes": [
+      {
+        "id": "brazilian-1",
+        "name": "Feijoada",
+        "ingredients": [
+          "black beans",
+          "pork",
+          "sausage",
+          "bay leaf"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "black beans"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/feijoada-recipe/"
+      },
+      {
+        "id": "brazilian-2",
+        "name": "Feijão carioca",
+        "ingredients": [
+          "pinto beans",
+          "onion",
+          "garlic",
+          "bay leaf"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "pinto beans"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-style-beans/"
+      },
+      {
+        "id": "brazilian-3",
+        "name": "Feijão preto",
+        "ingredients": [
+          "black beans",
+          "onion",
+          "garlic",
+          "bay leaf"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "black beans"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/111684-feijao-preto-simples-e-delicioso.html"
+      },
+      {
+        "id": "brazilian-4",
+        "name": "Feijão fradinho",
+        "ingredients": [
+          "black-eyed peas",
+          "onion",
+          "garlic",
+          "bell pepper"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "black-eyed peas"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/black-eyed-peas-recipe/"
+      },
+      {
+        "id": "brazilian-5",
+        "name": "Feijão tropeiro",
+        "ingredients": [
+          "pinto beans",
+          "eggs",
+          "collard greens",
+          "cassava flour"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "pinto beans",
+          "collard greens"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/feijao-tropeiro/"
+      },
+      {
+        "id": "brazilian-6",
+        "name": "Tutu de feijão",
+        "ingredients": [
+          "cooked beans",
+          "cassava flour",
+          "onion",
+          "garlic"
+        ],
+        "method": "dip",
+        "fiberFoods": [
+          "cooked beans"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/tutu-de-feijao/"
+      },
+      {
+        "id": "brazilian-7",
+        "name": "Baião de dois",
+        "ingredients": [
+          "rice",
+          "black-eyed peas",
+          "cheese",
+          "onion"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "black-eyed peas"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/1154-baiao-de-dois.html"
+      },
+      {
+        "id": "brazilian-8",
+        "name": "Arroz e feijão",
+        "ingredients": [
+          "rice",
+          "pinto beans",
+          "garlic",
+          "onion"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "pinto beans"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-style-beans/"
+      },
+      {
+        "id": "brazilian-9",
+        "name": "Arroz à grega",
+        "ingredients": [
+          "rice",
+          "carrot",
+          "peas",
+          "bell pepper"
+        ],
+        "method": "grain",
+        "fiberFoods": [
+          "carrot",
+          "peas"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-arroz-a-grega/"
+      },
+      {
+        "id": "brazilian-10",
+        "name": "Arroz biro-biro",
+        "ingredients": [
+          "rice",
+          "eggs",
+          "bacon",
+          "potato sticks"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "potato sticks"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-arroz-biro-biro/"
+      },
+      {
+        "id": "brazilian-11",
+        "name": "Arroz carreteiro",
+        "ingredients": [
+          "rice",
+          "dried beef",
+          "onion",
+          "tomato"
+        ],
+        "method": "grain",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/8740-arroz-carreteiro.html"
+      },
+      {
+        "id": "brazilian-12",
+        "name": "Galinhada",
+        "ingredients": [
+          "chicken",
+          "rice",
+          "tomato",
+          "bell pepper"
+        ],
+        "method": "grain",
+        "fiberFoods": [],
+        "recipeSource": "https://www.oliviascuisine.com/galinhada/"
+      },
+      {
+        "id": "brazilian-13",
+        "name": "Frango com quiabo",
+        "ingredients": [
+          "chicken",
+          "okra",
+          "onion",
+          "tomato"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "okra"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/4947-frango-com-quiabo-mineiro.html"
+      },
+      {
+        "id": "brazilian-14",
+        "name": "Frango ensopado",
+        "ingredients": [
+          "chicken",
+          "potatoes",
+          "carrot",
+          "tomato"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/20420-frango-ensopado.html"
+      },
+      {
+        "id": "brazilian-15",
+        "name": "Canja de galinha",
+        "ingredients": [
+          "chicken",
+          "rice",
+          "carrot",
+          "potatoes"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "carrot",
+          "potatoes"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/12283-canja-de-galinha.html"
+      },
+      {
+        "id": "brazilian-16",
+        "name": "Caldo verde brasileiro",
+        "ingredients": [
+          "potatoes",
+          "collard greens",
+          "sausage",
+          "onion"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "potatoes",
+          "collard greens"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/caldo-verde/"
+      },
+      {
+        "id": "brazilian-17",
+        "name": "Caldo de feijão",
+        "ingredients": [
+          "black beans",
+          "onion",
+          "garlic",
+          "broth"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "black beans"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/8370-caldo-de-feijao-a-moda-goiana.html"
+      },
+      {
+        "id": "brazilian-18",
+        "name": "Sopa de mandioca",
+        "ingredients": [
+          "yuca",
+          "onion",
+          "garlic",
+          "broth"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/2260-sopa-de-mandioca.html"
+      },
+      {
+        "id": "brazilian-19",
+        "name": "Sopa de abóbora",
+        "ingredients": [
+          "pumpkin",
+          "onion",
+          "garlic",
+          "broth"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "pumpkin"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/10503-sopa-de-abobora.html"
+      },
+      {
+        "id": "brazilian-20",
+        "name": "Sopa de ervilha",
+        "ingredients": [
+          "split peas",
+          "onion",
+          "carrot",
+          "broth"
+        ],
+        "method": "soup",
+        "fiberFoods": [
+          "split peas",
+          "carrot"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/4507-sopa-de-ervilha.html"
+      },
+      {
+        "id": "brazilian-21",
+        "name": "Vaca atolada",
+        "ingredients": [
+          "beef ribs",
+          "yuca",
+          "tomato",
+          "onion"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/972-vaca-atolada.html"
+      },
+      {
+        "id": "brazilian-22",
+        "name": "Carne de panela",
+        "ingredients": [
+          "beef",
+          "potatoes",
+          "carrot",
+          "onion"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "potatoes",
+          "carrot"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/8836-carne-de-panela.html"
+      },
+      {
+        "id": "brazilian-23",
+        "name": "Picadinho de carne",
+        "ingredients": [
+          "beef",
+          "tomato",
+          "carrot",
+          "peas"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "carrot",
+          "peas"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/5232-picadinho-de-carne.html"
+      },
+      {
+        "id": "brazilian-24",
+        "name": "Carne moída com legumes",
+        "ingredients": [
+          "ground beef",
+          "carrot",
+          "potatoes",
+          "peas"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "carrot",
+          "potatoes",
+          "peas"
+        ],
+        "recipeSource": "https://www.receiteria.com.br/receita/carne-moida-com-legumes/"
+      },
+      {
+        "id": "brazilian-25",
+        "name": "Escondidinho de carne seca",
+        "ingredients": [
+          "yuca",
+          "dried beef",
+          "onion",
+          "cheese"
+        ],
+        "method": "roast",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/13639-escondidinho-de-carne-seca.html"
+      },
+      {
+        "id": "brazilian-26",
+        "name": "Moqueca baiana",
+        "ingredients": [
+          "white fish",
+          "coconut milk",
+          "tomato",
+          "bell pepper"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.oliviascuisine.com/moqueca-baiana-brazilian-fish-stew/"
+      },
+      {
+        "id": "brazilian-27",
+        "name": "Moqueca capixaba",
+        "ingredients": [
+          "white fish",
+          "tomato",
+          "onion",
+          "cilantro"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/2743-moqueca-capixaba.html"
+      },
+      {
+        "id": "brazilian-28",
+        "name": "Moqueca de camarão",
+        "ingredients": [
+          "shrimp",
+          "coconut milk",
+          "tomato",
+          "bell pepper"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/9400-moqueca-de-camarao.html"
+      },
+      {
+        "id": "brazilian-29",
+        "name": "Bobó de camarão",
+        "ingredients": [
+          "shrimp",
+          "yuca",
+          "coconut milk",
+          "tomato"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "yuca"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/112-bobo-de-camarao.html"
+      },
+      {
+        "id": "brazilian-30",
+        "name": "Camarão na moranga",
+        "ingredients": [
+          "pumpkin",
+          "shrimp",
+          "tomato",
+          "cream cheese"
+        ],
+        "method": "roast",
+        "fiberFoods": [
+          "pumpkin"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-camarao-na-moranga/"
+      },
+      {
+        "id": "brazilian-31",
+        "name": "Peixe assado brasileiro",
+        "ingredients": [
+          "white fish",
+          "onion",
+          "tomato",
+          "lime"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://receitas.globo.com/tipos-de-prato/peixes-e-frutos-do-mar/peixe-assado-ao-molho-de-tomate-4d50da1c52e0b252bc007e7a.ghtml"
+      },
+      {
+        "id": "brazilian-32",
+        "name": "Sardinha na panela de pressão",
+        "ingredients": [
+          "sardines",
+          "tomato",
+          "onion",
+          "vinegar"
+        ],
+        "method": "braise",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/3407-sardinha-na-panela-de-pressao.html"
+      },
+      {
+        "id": "brazilian-33",
+        "name": "Couve refogada",
+        "ingredients": [
+          "collard greens",
+          "garlic",
+          "olive oil"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "collard greens"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-collard-greens-recipe/"
+      },
+      {
+        "id": "brazilian-34",
+        "name": "Abobrinha refogada",
+        "ingredients": [
+          "zucchini",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        "method": "stir",
+        "fiberFoods": [],
+        "recipeSource": "https://www.receiteria.com.br/receita/abobrinha-refogada/"
+      },
+      {
+        "id": "brazilian-35",
+        "name": "Chuchu refogado",
+        "ingredients": [
+          "chayote",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "chayote"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/5883-refogado-de-cenoura-e-chuchu.html"
+      },
+      {
+        "id": "brazilian-36",
+        "name": "Quiabo refogado",
+        "ingredients": [
+          "okra",
+          "onion",
+          "garlic",
+          "lime"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "okra"
+        ],
+        "recipeSource": "https://www.receiteria.com.br/receita/quiabo-refogado/"
+      },
+      {
+        "id": "brazilian-37",
+        "name": "Abóbora refogada",
+        "ingredients": [
+          "pumpkin",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "pumpkin"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/20441-abobora-refogada.html"
+      },
+      {
+        "id": "brazilian-38",
+        "name": "Maxixe refogado",
+        "ingredients": [
+          "maxixe",
+          "onion",
+          "tomato",
+          "garlic"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "maxixe"
+        ],
+        "recipeSource": "https://www.receiteria.com.br/receita/maxixe-refogado/"
+      },
+      {
+        "id": "brazilian-39",
+        "name": "Jiló refogado",
+        "ingredients": [
+          "jiló",
+          "onion",
+          "tomato",
+          "garlic"
+        ],
+        "method": "braise",
+        "fiberFoods": [
+          "jiló"
+        ],
+        "recipeSource": "https://www.receiteria.com.br/receita/jilo-refogado/"
+      },
+      {
+        "id": "brazilian-40",
+        "name": "Berinjela refogada",
+        "ingredients": [
+          "eggplant",
+          "onion",
+          "tomato",
+          "garlic"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "eggplant"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/5263-berinjela-refogada.html"
+      },
+      {
+        "id": "brazilian-41",
+        "name": "Salada de feijão fradinho",
+        "ingredients": [
+          "black-eyed peas",
+          "tomato",
+          "onion",
+          "bell pepper"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "black-eyed peas"
+        ],
+        "recipeSource": "https://www.oliviascuisine.com/black-eyed-pea-salad/"
+      },
+      {
+        "id": "brazilian-42",
+        "name": "Salada de palmito",
+        "ingredients": [
+          "hearts of palm",
+          "tomato",
+          "lettuce",
+          "olive oil"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "hearts of palm"
+        ],
+        "recipeSource": "https://receitas.globo.com/tipos-de-prato/saladas/salada-de-palmito-gnt.ghtml"
+      },
+      {
+        "id": "brazilian-43",
+        "name": "Vinagrete brasileiro",
+        "ingredients": [
+          "tomato",
+          "onion",
+          "bell pepper",
+          "vinegar"
+        ],
+        "method": "salad",
+        "fiberFoods": [],
+        "recipeSource": "https://www.oliviascuisine.com/brazilian-vinaigrette-salsa/"
+      },
+      {
+        "id": "brazilian-44",
+        "name": "Salpicão de frango",
+        "ingredients": [
+          "chicken",
+          "carrot",
+          "corn",
+          "peas"
+        ],
+        "method": "salad",
+        "fiberFoods": [
+          "carrot",
+          "corn",
+          "peas"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/72-salpicao-de-frango.html"
+      },
+      {
+        "id": "brazilian-45",
+        "name": "Farofa de banana",
+        "ingredients": [
+          "cassava flour",
+          "banana",
+          "onion",
+          "butter"
+        ],
+        "method": "stir",
+        "fiberFoods": [],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/16008-farofa-de-banana.html"
+      },
+      {
+        "id": "brazilian-46",
+        "name": "Farofa de couve",
+        "ingredients": [
+          "cassava flour",
+          "collard greens",
+          "onion",
+          "garlic"
+        ],
+        "method": "stir",
+        "fiberFoods": [
+          "collard greens"
+        ],
+        "recipeSource": "https://panelinha.com.br/receita/farofa-de-talo-de-couve"
+      },
+      {
+        "id": "brazilian-47",
+        "name": "Cuscuz nordestino",
+        "ingredients": [
+          "corn flakes",
+          "water",
+          "pinch of salt"
+        ],
+        "method": "steam",
+        "fiberFoods": [
+          "corn flakes"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/1060-cuscuz.html"
+      },
+      {
+        "id": "brazilian-48",
+        "name": "Cuscuz paulista",
+        "ingredients": [
+          "cornmeal",
+          "sardines",
+          "peas",
+          "tomato"
+        ],
+        "method": "steam",
+        "fiberFoods": [
+          "cornmeal",
+          "peas"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/20560-cuscuz-paulista.html"
+      },
+      {
+        "id": "brazilian-49",
+        "name": "Pamonha salgada",
+        "ingredients": [
+          "corn",
+          "milk",
+          "cheese",
+          "corn husks"
+        ],
+        "method": "steam",
+        "fiberFoods": [
+          "corn"
+        ],
+        "recipeSource": "https://www.tudogostoso.com.br/receita/2054-pamonha-salgada.html"
+      },
+      {
+        "id": "brazilian-50",
+        "name": "Pão de queijo",
+        "ingredients": [
+          "tapioca starch",
+          "eggs",
+          "cheese",
+          "milk"
+        ],
+        "method": "roast",
+        "fiberFoods": [],
+        "recipeSource": "https://www.oliviascuisine.com/easy-pao-de-queijo/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+// Stored distance stays in miles; stored external weight stays combined, in its recorded unit.
+export const cardioActivities=[['run','Run'],['walk','Walk'],['stairmaster','Stairmaster'],['bike','Bike'],['rowing','Rowing Machine'],['elliptical','Elliptical Machine'],['other','Other Cardio']] as const;
+export function normalizeWorkoutEntry(p:any){const out={...p};if(p.movementType==='cardio'){out.sets=0;out.reps=0;out.weight=0;out.miles=Number(p.miles||0)/(p.distanceUnit==='km'?1.609344:1);out.floors=p.cardioType==='stairmaster'?Number(p.floors||0):0;}else if(p.movementType==='strength'){out.miles=0;out.floors=0;out.weight=p.weightScope==='bodyWeight'?0:Number(p.weight||0)*(p.weightInput==='singleHand'&&p.weightScope==='twoHands'?2:1);}out.distanceUnit='mi';out.weightInput='combined';return out;}
+export function singleHandWeight(p:any,total:number){return p.weightScope==='oneHand'||p.weightScope==='bodyWeight'||/single|one.arm/i.test(p.name||'')?total:total/2;}

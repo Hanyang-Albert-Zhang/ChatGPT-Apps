@@ -1,0 +1,3 @@
+import {Footprints,Dumbbell,Activity,Utensils,Carrot,Leaf,Flame,Trophy,Smile,Laugh,Heart,Sun} from 'lucide-react';
+export const groupIcons=[['run','Run',Footprints],['dumbbell','Dumbbell',Dumbbell],['exercise','Exercise',Activity],['plate','Plate',Utensils],['vegetables','Vegetables',Carrot],['leaf','Leaf',Leaf],['flame','Flame',Flame],['trophy','Trophy',Trophy],['smile','Smile',Smile],['laugh','Laugh',Laugh],['heart','Heart',Heart],['sun','Sun',Sun]] as const;
+export function GroupIcon({name='exercise',size=22}:{name?:string;size?:number}){const Icon=groupIcons.find(i=>i[0]===name)?.[2]||Activity;return <Icon size={size}/>;}

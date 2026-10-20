@@ -1,0 +1,4182 @@
+{
+  "garlic": [
+    "大蒜",
+    "ajo"
+  ],
+  "cucumber": [
+    "黄瓜",
+    "pepino"
+  ],
+  "ground pork": [
+    "猪肉馅",
+    "carne de cerdo picada"
+  ],
+  "eggplant": [
+    "茄子",
+    "berenjena"
+  ],
+  "potato": [
+    "土豆",
+    "patata"
+  ],
+  "soy sauce": [
+    "酱油",
+    "salsa de soja"
+  ],
+  "tomato": [
+    "番茄",
+    "tomate"
+  ],
+  "eggs": [
+    "鸡蛋",
+    "huevos"
+  ],
+  "broccoli": [
+    "西兰花",
+    "brócoli"
+  ],
+  "ginger": [
+    "姜",
+    "jengibre"
+  ],
+  "tofu": [
+    "豆腐",
+    "tofu"
+  ],
+  "egg": [
+    "鸡蛋",
+    "huevo"
+  ],
+  "carrot": [
+    "胡萝卜",
+    "zanahoria"
+  ],
+  "celery": [
+    "芹菜",
+    "apio"
+  ],
+  "spinach": [
+    "菠菜",
+    "espinaca"
+  ],
+  "peanuts": [
+    "花生",
+    "cacahuetes"
+  ],
+  "green beans": [
+    "四季豆",
+    "judías verdes"
+  ],
+  "okra": [
+    "秋葵",
+    "okra"
+  ],
+  "water": [
+    "水",
+    "agua"
+  ],
+  "brown rice": [
+    "糙米",
+    "arroz integral"
+  ],
+  "rice": [
+    "大米",
+    "arroz"
+  ],
+  "millet": [
+    "小米",
+    "mijo"
+  ],
+  "pumpkin": [
+    "南瓜",
+    "calabaza"
+  ],
+  "watercress": [
+    "西洋菜",
+    "berro"
+  ],
+  "soybeans": [
+    "黄豆",
+    "soja"
+  ],
+  "miso": [
+    "味噌",
+    "miso"
+  ],
+  "wakame": [
+    "裙带菜",
+    "wakame"
+  ],
+  "shrimp": [
+    "虾",
+    "gamba"
+  ],
+  "mackerel": [
+    "鲭鱼",
+    "caballa"
+  ],
+  "lemon": [
+    "柠檬",
+    "limón"
+  ],
+  "salmon": [
+    "三文鱼",
+    "salmón"
+  ],
+  "natto": [
+    "纳豆",
+    "natto"
+  ],
+  "zucchini": [
+    "西葫芦",
+    "calabacín"
+  ],
+  "mushrooms": [
+    "蘑菇",
+    "setas"
+  ],
+  "radish": [
+    "萝卜",
+    "rábano"
+  ],
+  "beef": [
+    "牛肉",
+    "carne de res"
+  ],
+  "onion": [
+    "洋葱",
+    "cebolla"
+  ],
+  "kimchi": [
+    "韩式泡菜",
+    "kimchi"
+  ],
+  "barley": [
+    "大麦",
+    "cebada"
+  ],
+  "black beans": [
+    "黑豆",
+    "frijoles negros"
+  ],
+  "flour": [
+    "面粉",
+    "harina"
+  ],
+  "lettuce": [
+    "生菜",
+    "lechuga"
+  ],
+  "chickpeas": [
+    "鹰嘴豆",
+    "garbanzos"
+  ],
+  "cumin": [
+    "孜然",
+    "comino"
+  ],
+  "kidney beans": [
+    "红腰豆",
+    "frijoles rojos"
+  ],
+  "turmeric": [
+    "姜黄",
+    "cúrcuma"
+  ],
+  "lentils": [
+    "扁豆",
+    "lentejas"
+  ],
+  "tamarind": [
+    "罗望子",
+    "tamarindo"
+  ],
+  "cauliflower": [
+    "菜花",
+    "coliflor"
+  ],
+  "cabbage": [
+    "卷心菜",
+    "col"
+  ],
+  "peas": [
+    "豌豆",
+    "guisantes"
+  ],
+  "coconut": [
+    "椰子",
+    "coco"
+  ],
+  "yogurt": [
+    "酸奶",
+    "yogur"
+  ],
+  "coriander": [
+    "芫荽",
+    "cilantro"
+  ],
+  "semolina": [
+    "粗粒小麦粉",
+    "sémola"
+  ],
+  "lime": [
+    "青柠",
+    "lima"
+  ],
+  "fish sauce": [
+    "鱼露",
+    "salsa de pescado"
+  ],
+  "lemongrass": [
+    "香茅",
+    "hierba limón"
+  ],
+  "chicken": [
+    "鸡肉",
+    "pollo"
+  ],
+  "coconut milk": [
+    "椰奶",
+    "leche de coco"
+  ],
+  "basil": [
+    "罗勒",
+    "albahaca"
+  ],
+  "chili": [
+    "辣椒",
+    "chile"
+  ],
+  "mint": [
+    "薄荷",
+    "menta"
+  ],
+  "chayote": [
+    "佛手瓜",
+    "chayote"
+  ],
+  "fish": [
+    "鱼",
+    "pescado"
+  ],
+  "pineapple": [
+    "菠萝",
+    "piña"
+  ],
+  "herbs": [
+    "香草",
+    "hierbas"
+  ],
+  "corn": [
+    "玉米",
+    "maíz"
+  ],
+  "tempeh": [
+    "天贝",
+    "tempeh"
+  ],
+  "vinegar": [
+    "醋",
+    "vinagre"
+  ],
+  "pepper": [
+    "甜椒",
+    "pimiento"
+  ],
+  "spices": [
+    "香料",
+    "especias"
+  ],
+  "jicama": [
+    "凉薯",
+    "jícama"
+  ],
+  "squash": [
+    "南瓜",
+    "calabaza"
+  ],
+  "milkfish": [
+    "虱目鱼",
+    "sabalote"
+  ],
+  "olive oil": [
+    "橄榄油",
+    "aceite de oliva"
+  ],
+  "parsley": [
+    "欧芹",
+    "perejil"
+  ],
+  "olives": [
+    "橄榄",
+    "aceitunas"
+  ],
+  "feta": [
+    "菲达奶酪",
+    "feta"
+  ],
+  "dill": [
+    "莳萝",
+    "eneldo"
+  ],
+  "bulgur": [
+    "布格麦",
+    "bulgur"
+  ],
+  "pita": [
+    "皮塔饼",
+    "pan de pita"
+  ],
+  "tahini": [
+    "芝麻酱",
+    "tahini"
+  ],
+  "kale": [
+    "羽衣甘蓝",
+    "col rizada"
+  ],
+  "beans": [
+    "豆类",
+    "frijoles"
+  ],
+  "pasta": [
+    "意大利面",
+    "pasta"
+  ],
+  "rosemary": [
+    "迷迭香",
+    "romero"
+  ],
+  "capers": [
+    "刺山柑",
+    "alcaparras"
+  ],
+  "thyme": [
+    "百里香",
+    "tomillo"
+  ],
+  "peppers": [
+    "甜椒",
+    "pimientos"
+  ],
+  "paprika": [
+    "甜椒粉",
+    "pimentón"
+  ],
+  "asparagus": [
+    "芦笋",
+    "espárrago"
+  ],
+  "quinoa": [
+    "藜麦",
+    "quinoa"
+  ],
+  "wild rice": [
+    "菰米",
+    "arroz silvestre"
+  ],
+  "avocado": [
+    "牛油果",
+    "aguacate"
+  ],
+  "milk": [
+    "牛奶",
+    "leche"
+  ],
+  "berries": [
+    "浆果",
+    "bayas"
+  ],
+  "walnuts": [
+    "核桃",
+    "nueces"
+  ],
+  "apple": [
+    "苹果",
+    "manzana"
+  ],
+  "cinnamon": [
+    "肉桂",
+    "canela"
+  ],
+  "pear": [
+    "梨",
+    "pera"
+  ],
+  "oats": [
+    "燕麦",
+    "avena"
+  ],
+  "sweet potato": [
+    "红薯",
+    "batata"
+  ],
+  "cheddar": [
+    "切达奶酪",
+    "queso cheddar"
+  ],
+  "almonds": [
+    "杏仁",
+    "almendras"
+  ],
+  "tuna": [
+    "金枪鱼",
+    "atún"
+  ],
+  "ricotta": [
+    "里科塔奶酪",
+    "ricota"
+  ],
+  "mozzarella": [
+    "马苏里拉奶酪",
+    "mozzarella"
+  ],
+  "arugula": [
+    "芝麻菜",
+    "rúcula"
+  ],
+  "cottage cheese": [
+    "茅屋奶酪",
+    "queso cottage"
+  ],
+  "flaxseed": [
+    "亚麻籽",
+    "semilla de lino"
+  ],
+  "buckwheat": [
+    "荞麦",
+    "trigo sarraceno"
+  ],
+  "banana": [
+    "香蕉",
+    "plátano"
+  ],
+  "peanut butter": [
+    "花生酱",
+    "mantequilla de cacahuete"
+  ],
+  "blueberries": [
+    "蓝莓",
+    "arándanos"
+  ],
+  "cream": [
+    "奶油",
+    "nata"
+  ],
+  "ground turkey": [
+    "火鸡肉馅",
+    "carne de pavo picada"
+  ],
+  "epazote": [
+    "土荆芥",
+    "epazote"
+  ],
+  "cilantro": [
+    "香菜",
+    "cilantro"
+  ],
+  "purslane": [
+    "马齿苋",
+    "verdolaga"
+  ],
+  "tomatillos": [
+    "酸浆番茄",
+    "tomatillos"
+  ],
+  "hominy": [
+    "碱煮玉米",
+    "maíz nixtamalizado"
+  ],
+  "pork": [
+    "猪肉",
+    "carne de cerdo"
+  ],
+  "broth": [
+    "高汤",
+    "caldo"
+  ],
+  "nopales": [
+    "仙人掌茎片",
+    "nopales"
+  ],
+  "salsa": [
+    "莎莎酱",
+    "salsa"
+  ],
+  "orange": [
+    "橙子",
+    "naranja"
+  ],
+  "potatoes": [
+    "土豆",
+    "patatas"
+  ],
+  "bell pepper": [
+    "甜椒",
+    "pimiento"
+  ],
+  "beer": [
+    "啤酒",
+    "cerveza"
+  ],
+  "cheese": [
+    "奶酪",
+    "queso"
+  ],
+  "beets": [
+    "甜菜",
+    "remolacha"
+  ],
+  "sofrito": [
+    "炒香蔬菜底",
+    "sofrito"
+  ],
+  "tomato sauce": [
+    "番茄酱",
+    "salsa de tomate"
+  ],
+  "plantain": [
+    "大蕉",
+    "plátano macho"
+  ],
+  "noodles": [
+    "面条",
+    "fideos"
+  ],
+  "mayonnaise": [
+    "蛋黄酱",
+    "mayonesa"
+  ],
+  "Garlic bok choy": [
+    "蒜蓉小白菜",
+    "Pak choi al ajo"
+  ],
+  "Smashed cucumber salad": [
+    "拍黄瓜",
+    "Ensalada de pepino machacado"
+  ],
+  "Mapo tofu": [
+    "麻婆豆腐",
+    "Tofu picante de Sichuan"
+  ],
+  "Di san xian": [
+    "地三鲜",
+    "Salteado de berenjena, patata y pimiento"
+  ],
+  "Tomato and egg stir-fry": [
+    "番茄炒蛋",
+    "Tomate salteado con huevo"
+  ],
+  "Garlic broccoli": [
+    "蒜蓉西兰花",
+    "Brócoli al ajo"
+  ],
+  "Shiitake bok choy": [
+    "香菇青菜",
+    "Pak choi con shiitake"
+  ],
+  "Hot and sour soup": [
+    "酸辣汤",
+    "Sopa agripicante"
+  ],
+  "Lotus root stir-fry": [
+    "清炒藕片",
+    "Raíz de loto salteada"
+  ],
+  "Celery and dried tofu": [
+    "芹菜炒香干",
+    "Apio con tofu prensado"
+  ],
+  "Chinese cabbage with vinegar": [
+    "醋溜白菜",
+    "Col china al vinagre"
+  ],
+  "Snow peas with mushrooms": [
+    "荷兰豆炒香菇",
+    "Tirabeques con setas"
+  ],
+  "Steamed eggplant": [
+    "蒜蓉蒸茄子",
+    "Berenjena al vapor"
+  ],
+  "Winter melon soup": [
+    "冬瓜汤",
+    "Sopa de melón de invierno"
+  ],
+  "Spinach and peanut salad": [
+    "菠菜花生凉拌菜",
+    "Ensalada de espinacas y cacahuetes"
+  ],
+  "Stir-fried shredded potato": [
+    "清炒土豆丝",
+    "Patata en juliana salteada"
+  ],
+  "Dry-fried green beans": [
+    "干煸四季豆",
+    "Judías verdes salteadas en seco"
+  ],
+  "Chinese okra with garlic": [
+    "蒜蓉蒸秋葵",
+    "Okra al vapor con ajo"
+  ],
+  "Mung bean soup": [
+    "绿豆汤",
+    "Sopa de judías mungo"
+  ],
+  "Eight-treasure congee": [
+    "八宝粥",
+    "Gachas de ocho tesoros"
+  ],
+  "Red bean congee": [
+    "红豆粥",
+    "Gachas de judías rojas"
+  ],
+  "Millet pumpkin porridge": [
+    "小米南瓜粥",
+    "Gachas de mijo y calabaza"
+  ],
+  "Bitter melon with egg": [
+    "苦瓜炒蛋",
+    "Melón amargo con huevo"
+  ],
+  "Chinese chive and egg": [
+    "韭菜炒蛋",
+    "Cebollino chino con huevo"
+  ],
+  "Bamboo shoots with mushrooms": [
+    "竹笋焖香菇",
+    "Brotes de bambú con setas"
+  ],
+  "Wood ear mushroom salad": [
+    "凉拌木耳",
+    "Ensalada de setas de oreja de madera"
+  ],
+  "Steamed fish with ginger": [
+    "姜丝蒸鱼",
+    "Pescado al vapor con jengibre"
+  ],
+  "Watercress pork soup": [
+    "西洋菜瘦肉汤",
+    "Sopa de berros y cerdo"
+  ],
+  "Soybean sprout stir-fry": [
+    "清炒黄豆芽",
+    "Brotes de soja salteados"
+  ],
+  "Luffa and tofu soup": [
+    "丝瓜豆腐汤",
+    "Sopa de lufa y tofu"
+  ],
+  "Edamame": [
+    "盐水毛豆",
+    "Vainas de soja al vapor"
+  ],
+  "Kinpira gobo": [
+    "金平牛蒡",
+    "Bardana y zanahoria salteadas"
+  ],
+  "Gomaae spinach": [
+    "芝麻拌菠菜",
+    "Espinacas con sésamo"
+  ],
+  "Hijiki simmered salad": [
+    "日式炖羊栖菜",
+    "Alga hijiki guisada"
+  ],
+  "Kabocha no nimono": [
+    "日式炖南瓜",
+    "Calabaza japonesa guisada"
+  ],
+  "Nasu nibitashi": [
+    "日式高汤浸茄子",
+    "Berenjena en caldo japonés"
+  ],
+  "Kenchinjiru": [
+    "建长蔬菜豆腐汤",
+    "Sopa japonesa de verduras y tofu"
+  ],
+  "Vegetable miso soup": [
+    "蔬菜味噌汤",
+    "Sopa de miso con verduras"
+  ],
+  "Tonjiru": [
+    "猪肉味噌汤",
+    "Sopa de miso con cerdo"
+  ],
+  "Okinawan goya champuru": [
+    "冲绳苦瓜炒豆腐",
+    "Salteado de melón amargo de Okinawa"
+  ],
+  "Shiitake takikomi gohan": [
+    "香菇什锦炊饭",
+    "Arroz japonés con shiitake"
+  ],
+  "Sekihan": [
+    "红豆糯米饭",
+    "Arroz glutinoso con judías azuki"
+  ],
+  "Mugi gohan": [
+    "大麦米饭",
+    "Arroz con cebada"
+  ],
+  "Zaru soba": [
+    "冷荞麦面",
+    "Fideos de trigo sarraceno fríos"
+  ],
+  "Hiyayakko": [
+    "日式凉豆腐",
+    "Tofu frío japonés"
+  ],
+  "Yudofu": [
+    "汤豆腐",
+    "Tofu en caldo caliente"
+  ],
+  "Komatsuna ohitashi": [
+    "高汤浸小松菜",
+    "Hojas de mostaza japonesa en caldo"
+  ],
+  "Sunomono": [
+    "日式醋拌菜",
+    "Ensalada japonesa al vinagre"
+  ],
+  "Namasu": [
+    "萝卜胡萝卜醋拌菜",
+    "Ensalada de daikon y zanahoria"
+  ],
+  "Shiraae": [
+    "豆腐白拌菜",
+    "Verduras con aderezo de tofu"
+  ],
+  "Renkon kinpira": [
+    "金平莲藕",
+    "Raíz de loto salteada"
+  ],
+  "Daikon nimono": [
+    "日式炖白萝卜",
+    "Daikon guisado"
+  ],
+  "Chawanmushi": [
+    "日式茶碗蒸",
+    "Flan salado japonés al vapor"
+  ],
+  "Saba shioyaki": [
+    "盐烤鲭鱼",
+    "Caballa a la sal"
+  ],
+  "Salmon shioyaki": [
+    "盐烤三文鱼",
+    "Salmón a la sal"
+  ],
+  "Shishito peppers": [
+    "炒狮子唐椒",
+    "Pimientos japoneses salteados"
+  ],
+  "Natto rice": [
+    "纳豆拌饭",
+    "Arroz con soja fermentada"
+  ],
+  "Mushroom suimono": [
+    "日式蘑菇清汤",
+    "Caldo claro de setas"
+  ],
+  "Steamed satsumaimo": [
+    "蒸日本红薯",
+    "Boniato japonés al vapor"
+  ],
+  "Okra ohitashi": [
+    "高汤浸秋葵",
+    "Okra en caldo japonés"
+  ],
+  "Kongnamul muchim": [
+    "韩式拌黄豆芽",
+    "Brotes de soja aliñados"
+  ],
+  "Sigeumchi namul": [
+    "韩式拌菠菜",
+    "Espinacas aliñadas al estilo coreano"
+  ],
+  "Oi muchim": [
+    "韩式拌黄瓜",
+    "Pepino picante coreano"
+  ],
+  "Gaji namul": [
+    "韩式拌茄子",
+    "Berenjena aliñada coreana"
+  ],
+  "Hobak bokkeum": [
+    "韩式炒西葫芦",
+    "Calabacín salteado coreano"
+  ],
+  "Beoseot bokkeum": [
+    "韩式炒蘑菇",
+    "Setas salteadas coreanas"
+  ],
+  "Musaengchae": [
+    "韩式凉拌萝卜丝",
+    "Rábano en juliana aliñado"
+  ],
+  "Miyeok guk": [
+    "海带汤",
+    "Sopa de algas coreana"
+  ],
+  "Doenjang jjigae": [
+    "大酱汤",
+    "Guiso de pasta de soja"
+  ],
+  "Sundubu jjigae": [
+    "韩式嫩豆腐汤",
+    "Guiso de tofu suave"
+  ],
+  "Kongbiji jjigae": [
+    "韩式豆渣汤",
+    "Guiso de soja molida"
+  ],
+  "Kongnamul guk": [
+    "黄豆芽汤",
+    "Sopa de brotes de soja"
+  ],
+  "Mu guk": [
+    "韩式萝卜汤",
+    "Sopa coreana de rábano"
+  ],
+  "Japgokbap": [
+    "杂粮饭",
+    "Arroz multigrano coreano"
+  ],
+  "Boribap": [
+    "大麦饭",
+    "Arroz con cebada coreano"
+  ],
+  "Vegetable bibimbap": [
+    "蔬菜拌饭",
+    "Arroz mezclado con verduras"
+  ],
+  "Sanchae bibimbap": [
+    "山菜拌饭",
+    "Arroz con verduras silvestres"
+  ],
+  "Yeongeun jorim": [
+    "韩式酱炖莲藕",
+    "Raíz de loto braseada coreana"
+  ],
+  "Geomeun kong jorim": [
+    "韩式酱黑豆",
+    "Soja negra guisada"
+  ],
+  "Dubu jorim": [
+    "韩式炖豆腐",
+    "Tofu braseado coreano"
+  ],
+  "Dubu kimchi": [
+    "豆腐泡菜",
+    "Tofu con kimchi"
+  ],
+  "Buchujeon": [
+    "韩式韭菜煎饼",
+    "Tortita coreana de cebollino"
+  ],
+  "Pajeon": [
+    "韩式葱饼",
+    "Tortita coreana de cebolleta"
+  ],
+  "Kimchi jeon": [
+    "泡菜煎饼",
+    "Tortita de kimchi"
+  ],
+  "Baechu guk": [
+    "白菜大酱汤",
+    "Sopa de col china"
+  ],
+  "Kkaennip jjim": [
+    "蒸紫苏叶",
+    "Hojas de perilla al vapor"
+  ],
+  "Mugwort soup": [
+    "艾草汤",
+    "Sopa de artemisa"
+  ],
+  "Doraji muchim": [
+    "韩式拌桔梗",
+    "Raíz de campanilla aliñada"
+  ],
+  "Godeungeo gui": [
+    "烤鲭鱼",
+    "Caballa a la parrilla"
+  ],
+  "Ssambap": [
+    "韩式生菜包饭",
+    "Arroz envuelto en hojas de lechuga"
+  ],
+  "Chana masala": [
+    "印度香料鹰嘴豆",
+    "Garbanzos especiados"
+  ],
+  "Rajma": [
+    "印度炖红腰豆",
+    "Judías rojas al estilo indio"
+  ],
+  "Moong dal tadka": [
+    "炝香绿豆瓣",
+    "Judías mungo con especias tostadas"
+  ],
+  "Masoor dal": [
+    "红扁豆咖喱",
+    "Lentejas rojas al curry"
+  ],
+  "Palak dal": [
+    "菠菜扁豆咖喱",
+    "Lentejas con espinacas"
+  ],
+  "Sambar": [
+    "南印度蔬菜扁豆汤",
+    "Sopa sureña de lentejas y verduras"
+  ],
+  "Rasam": [
+    "南印度酸辣汤",
+    "Caldo agripicante del sur de la India"
+  ],
+  "Chole palak": [
+    "菠菜鹰嘴豆咖喱",
+    "Garbanzos con espinacas"
+  ],
+  "Lobia curry": [
+    "黑眼豆咖喱",
+    "Curry de carillas"
+  ],
+  "Kala chana curry": [
+    "黑鹰嘴豆咖喱",
+    "Curry de garbanzos negros"
+  ],
+  "Baingan bharta": [
+    "烤茄子泥咖喱",
+    "Puré de berenjena asada especiado"
+  ],
+  "Bhindi masala": [
+    "香料秋葵",
+    "Okra especiada"
+  ],
+  "Aloo gobi": [
+    "土豆花菜咖喱",
+    "Curry de patata y coliflor"
+  ],
+  "Patta gobi matar": [
+    "卷心菜豌豆炒菜",
+    "Col con guisantes"
+  ],
+  "Beans poriyal": [
+    "南印度椰香四季豆",
+    "Judías verdes con coco"
+  ],
+  "Carrot poriyal": [
+    "南印度椰香胡萝卜",
+    "Zanahoria con coco"
+  ],
+  "Beetroot thoran": [
+    "椰香甜菜炒菜",
+    "Remolacha salteada con coco"
+  ],
+  "Avial": [
+    "南印度椰香杂蔬",
+    "Verduras con coco al estilo sureño"
+  ],
+  "Vegetable kootu": [
+    "蔬菜绿豆炖菜",
+    "Guiso de verduras y mungo"
+  ],
+  "Sundal": [
+    "南印度香料鹰嘴豆",
+    "Garbanzos especiados del sur de la India"
+  ],
+  "Kosambari": [
+    "南印度绿豆沙拉",
+    "Ensalada de mungo"
+  ],
+  "Kachumber": [
+    "印度黄瓜番茄沙拉",
+    "Ensalada india de pepino y tomate"
+  ],
+  "Methi thepla": [
+    "葫芦巴薄饼",
+    "Pan plano de alholva"
+  ],
+  "Palak paratha": [
+    "菠菜夹心饼",
+    "Pan plano relleno de espinacas"
+  ],
+  "Besan chilla": [
+    "鹰嘴豆粉煎饼",
+    "Tortitas de harina de garbanzo"
+  ],
+  "Moong dal chilla": [
+    "绿豆煎饼",
+    "Tortitas de judías mungo"
+  ],
+  "Vegetable upma": [
+    "蔬菜粗麦粉粥",
+    "Sémola con verduras"
+  ],
+  "Vegetable poha": [
+    "蔬菜扁米炒饭",
+    "Arroz aplanado con verduras"
+  ],
+  "Khichdi": [
+    "米豆粥",
+    "Gachas de arroz y legumbres"
+  ],
+  "Bajra roti": [
+    "珍珠粟烙饼",
+    "Pan plano de mijo perla"
+  ],
+  "Som tam Thai": [
+    "泰式青木瓜沙拉",
+    "Ensalada tailandesa de papaya verde"
+  ],
+  "Yam makhuea yao": [
+    "泰式烤茄子沙拉",
+    "Ensalada tailandesa de berenjena asada"
+  ],
+  "Tom yum mushrooms": [
+    "冬阴功蘑菇汤",
+    "Sopa agripicante de setas"
+  ],
+  "Tom kha gai": [
+    "椰奶鸡汤",
+    "Sopa de pollo con leche de coco"
+  ],
+  "Gaeng liang": [
+    "泰式香草杂蔬汤",
+    "Sopa tailandesa de verduras y hierbas"
+  ],
+  "Gaeng som vegetables": [
+    "泰式酸咖喱蔬菜",
+    "Curry ácido de verduras"
+  ],
+  "Pad pak ruam": [
+    "泰式炒杂蔬",
+    "Verduras mixtas salteadas tailandesas"
+  ],
+  "Pad pak bung": [
+    "泰式炒空心菜",
+    "Espinaca de agua salteada"
+  ],
+  "Pad kana": [
+    "泰式炒芥蓝",
+    "Brócoli chino salteado tailandés"
+  ],
+  "Pad fak tong": [
+    "泰式炒南瓜",
+    "Calabaza salteada tailandesa"
+  ],
+  "Larb gai": [
+    "泰式香草鸡肉碎沙拉",
+    "Ensalada tailandesa de pollo picado"
+  ],
+  "Larb hed": [
+    "泰式香草蘑菇沙拉",
+    "Ensalada tailandesa de setas"
+  ],
+  "Yam tua pu": [
+    "四棱豆沙拉",
+    "Ensalada de judías aladas"
+  ],
+  "Yam wun sen": [
+    "泰式粉丝沙拉",
+    "Ensalada de fideos de cristal"
+  ],
+  "Nam prik ong": [
+    "泰式番茄肉末蘸酱",
+    "Salsa de tomate y cerdo del norte tailandés"
+  ],
+  "Nam prik noom": [
+    "泰北青椒蘸酱",
+    "Salsa de chile verde tailandesa"
+  ],
+  "Miang kham": [
+    "泰式叶包小食",
+    "Bocados envueltos en hojas"
+  ],
+  "Pla neung manao": [
+    "青柠蒸鱼",
+    "Pescado al vapor con lima"
+  ],
+  "Gaeng jued tofu": [
+    "豆腐清汤",
+    "Sopa clara de tofu"
+  ],
+  "Khao tom pla": [
+    "泰式鱼粥",
+    "Gachas tailandesas de pescado"
+  ],
+  "Pad krapao tofu": [
+    "圣罗勒炒豆腐",
+    "Tofu con albahaca sagrada"
+  ],
+  "Tao hoo song kreung": [
+    "泰式什锦豆腐",
+    "Tofu tailandés con guarnición variada"
+  ],
+  "Khai jiao cha om": [
+    "臭菜煎蛋",
+    "Tortilla con hojas de acacia"
+  ],
+  "Khao yam": [
+    "泰南香草拌饭",
+    "Ensalada de arroz del sur tailandés"
+  ],
+  "Yam som o": [
+    "泰式柚子沙拉",
+    "Ensalada tailandesa de pomelo"
+  ],
+  "Pad tua ngoh": [
+    "泰式炒绿豆芽",
+    "Brotes de mungo salteados"
+  ],
+  "Pad makhuea yao": [
+    "泰式炒茄子",
+    "Berenjena salteada tailandesa"
+  ],
+  "Gaeng pa gai": [
+    "泰式丛林鸡肉咖喱",
+    "Curry de pollo de la selva"
+  ],
+  "Yam cucumber": [
+    "泰式黄瓜沙拉",
+    "Ensalada tailandesa de pepino"
+  ],
+  "Tom jab chai": [
+    "泰式杂菜煲",
+    "Guiso tailandés de verduras"
+  ],
+  "Goi cuon": [
+    "越南鲜春卷",
+    "Rollitos frescos vietnamitas"
+  ],
+  "Goi du du": [
+    "越南青木瓜沙拉",
+    "Ensalada vietnamita de papaya verde"
+  ],
+  "Goi ngo sen": [
+    "越南莲茎沙拉",
+    "Ensalada de tallos de loto"
+  ],
+  "Goi bap chuoi": [
+    "越南香蕉花沙拉",
+    "Ensalada de flor de plátano"
+  ],
+  "Goi ga": [
+    "越南鸡肉沙拉",
+    "Ensalada vietnamita de pollo"
+  ],
+  "Rau muong xao toi": [
+    "蒜炒空心菜",
+    "Espinaca de agua al ajo"
+  ],
+  "Dau que xao toi": [
+    "蒜炒四季豆",
+    "Judías verdes al ajo"
+  ],
+  "Cai thia xao nam": [
+    "小白菜炒蘑菇",
+    "Pak choi con setas vietnamita"
+  ],
+  "Su su xao": [
+    "清炒佛手瓜",
+    "Chayote salteado"
+  ],
+  "Canh chua ca": [
+    "越南酸鱼汤",
+    "Sopa agria vietnamita de pescado"
+  ],
+  "Canh bi dao": [
+    "越南冬瓜汤",
+    "Sopa vietnamita de melón de invierno"
+  ],
+  "Canh bau": [
+    "越南葫芦汤",
+    "Sopa vietnamita de calabaza de botella"
+  ],
+  "Canh cai xanh": [
+    "越南芥菜汤",
+    "Sopa vietnamita de hojas de mostaza"
+  ],
+  "Canh mong toi": [
+    "越南木耳菜汤",
+    "Sopa de espinaca de Malabar"
+  ],
+  "Canh rau den": [
+    "越南苋菜汤",
+    "Sopa de hojas de amaranto"
+  ],
+  "Dau hu sot ca chua": [
+    "番茄汁豆腐",
+    "Tofu en salsa de tomate"
+  ],
+  "Dau hu kho nam": [
+    "越南蘑菇炖豆腐",
+    "Tofu vietnamita guisado con setas"
+  ],
+  "Ca tim nuong mo hanh": [
+    "葱油烤茄子",
+    "Berenjena asada con aceite de cebolleta"
+  ],
+  "Bap cai luoc": [
+    "水煮卷心菜",
+    "Col hervida"
+  ],
+  "Rau lang luoc": [
+    "水煮红薯叶",
+    "Hojas de boniato hervidas"
+  ],
+  "Cha la lot": [
+    "假蒟叶猪肉卷",
+    "Cerdo en hojas de betel silvestre"
+  ],
+  "Bo la lot": [
+    "假蒟叶牛肉卷",
+    "Ternera en hojas de betel silvestre"
+  ],
+  "Bun cha gio chay": [
+    "素炸春卷米粉",
+    "Fideos de arroz con rollitos vegetarianos"
+  ],
+  "Bun thit nuong": [
+    "烤猪肉米粉",
+    "Fideos de arroz con cerdo a la parrilla"
+  ],
+  "Pho chay": [
+    "越南素河粉",
+    "Sopa vietnamita vegetariana de fideos"
+  ],
+  "Chao dau xanh": [
+    "绿豆粥",
+    "Gachas de judías mungo"
+  ],
+  "Chao nam": [
+    "蘑菇粥",
+    "Gachas de setas"
+  ],
+  "Xoi dau den": [
+    "黑豆糯米饭",
+    "Arroz glutinoso con judías negras"
+  ],
+  "Che dau xanh": [
+    "越南绿豆甜汤",
+    "Postre de judías mungo"
+  ],
+  "Nom rau muong": [
+    "越南空心菜沙拉",
+    "Ensalada vietnamita de espinaca de agua"
+  ],
+  "Gado-gado": [
+    "印尼花生酱杂蔬沙拉",
+    "Ensalada indonesia con salsa de cacahuete"
+  ],
+  "Karedok": [
+    "印尼生蔬花生沙拉",
+    "Ensalada cruda indonesia con cacahuete"
+  ],
+  "Urap sayur": [
+    "椰丝拌蔬菜",
+    "Verduras con coco rallado"
+  ],
+  "Pecel sayur": [
+    "爪哇花生酱蔬菜",
+    "Verduras javanesas con salsa de cacahuete"
+  ],
+  "Sayur asem": [
+    "印尼罗望子蔬菜汤",
+    "Sopa de verduras con tamarindo"
+  ],
+  "Sayur bening bayam": [
+    "印尼菠菜清汤",
+    "Sopa clara indonesia de espinacas"
+  ],
+  "Sayur lodeh": [
+    "印尼椰奶杂蔬",
+    "Verduras indonesias con leche de coco"
+  ],
+  "Tumis kangkung": [
+    "印尼炒空心菜",
+    "Espinaca de agua salteada indonesia"
+  ],
+  "Tumis buncis": [
+    "印尼炒四季豆",
+    "Judías verdes salteadas indonesias"
+  ],
+  "Tumis tauge": [
+    "印尼炒豆芽",
+    "Brotes salteados indonesios"
+  ],
+  "Tumis labu siam": [
+    "印尼炒佛手瓜",
+    "Chayote salteado indonesio"
+  ],
+  "Cap cai": [
+    "印尼什锦炒蔬菜",
+    "Salteado indonesio de verduras variadas"
+  ],
+  "Tempe bacem": [
+    "甜酱炖天贝",
+    "Tempeh guisado dulce"
+  ],
+  "Tempe orek": [
+    "甜酱炒天贝",
+    "Tempeh salteado dulce"
+  ],
+  "Pepes tahu": [
+    "蕉叶蒸豆腐",
+    "Tofu al vapor en hoja de plátano"
+  ],
+  "Pepes ikan": [
+    "蕉叶蒸鱼",
+    "Pescado al vapor en hoja de plátano"
+  ],
+  "Botok tempe": [
+    "椰丝蒸天贝",
+    "Tempeh al vapor con coco"
+  ],
+  "Soto ayam": [
+    "印尼鸡汤",
+    "Sopa indonesia de pollo"
+  ],
+  "Sup kacang merah": [
+    "红腰豆汤",
+    "Sopa indonesia de judías rojas"
+  ],
+  "Sup oyong": [
+    "丝瓜汤",
+    "Sopa de lufa"
+  ],
+  "Acar kuning": [
+    "姜黄腌蔬菜",
+    "Verduras encurtidas con cúrcuma"
+  ],
+  "Terong balado": [
+    "印尼辣酱茄子",
+    "Berenjena con salsa picante indonesia"
+  ],
+  "Perkedel jagung": [
+    "玉米煎饼",
+    "Tortitas indonesias de maíz"
+  ],
+  "Bubur kacang hijau": [
+    "印尼绿豆甜粥",
+    "Gachas dulces de mungo"
+  ],
+  "Bubur Manado": [
+    "万鸦老蔬菜粥",
+    "Gachas de verduras de Manado"
+  ],
+  "Nasi jagung": [
+    "玉米米饭",
+    "Arroz con maíz"
+  ],
+  "Lalapan": [
+    "印尼鲜蔬拼盘",
+    "Plato indonesio de verduras frescas"
+  ],
+  "Plecing kangkung": [
+    "龙目岛辣拌空心菜",
+    "Espinaca de agua picante de Lombok"
+  ],
+  "Lawar nangka": [
+    "巴厘岛菠萝蜜椰丝拌菜",
+    "Ensalada balinesa de yaca con coco"
+  ],
+  "Jukut undis": [
+    "巴厘岛黑木豆汤",
+    "Sopa balinesa de guandules negros"
+  ],
+  "Ulam with sambal belacan": [
+    "马来鲜蔬配虾酱辣椒酱",
+    "Verduras frescas con salsa de chile y pasta de gambas"
+  ],
+  "Kerabu taugeh": [
+    "马来豆芽沙拉",
+    "Ensalada malaya de brotes"
+  ],
+  "Kerabu mangga": [
+    "马来青芒果沙拉",
+    "Ensalada malaya de mango verde"
+  ],
+  "Kerabu kacang botol": [
+    "马来四棱豆沙拉",
+    "Ensalada malaya de judías aladas"
+  ],
+  "Kerabu pucuk paku": [
+    "马来蕨菜沙拉",
+    "Ensalada malaya de brotes de helecho"
+  ],
+  "Sayur campur": [
+    "马来什锦蔬菜",
+    "Verduras variadas malayas"
+  ],
+  "Kangkung belacan": [
+    "马来虾酱空心菜",
+    "Espinaca de agua con pasta de gambas"
+  ],
+  "Kacang panjang goreng": [
+    "马来炒长豆",
+    "Judías largas salteadas"
+  ],
+  "Terung sambal": [
+    "叁巴茄子",
+    "Berenjena con salsa de chile"
+  ],
+  "Labu masak lemak": [
+    "椰奶南瓜",
+    "Calabaza con leche de coco"
+  ],
+  "Sayur lodeh Malaysia": [
+    "马来椰奶杂蔬",
+    "Verduras malayas con leche de coco"
+  ],
+  "Sup sayur": [
+    "马来蔬菜汤",
+    "Sopa malaya de verduras"
+  ],
+  "Sup kacang dhal": [
+    "马来黄扁豆汤",
+    "Sopa malaya de lentejas amarillas"
+  ],
+  "Dalca sayur": [
+    "马来蔬菜扁豆咖喱",
+    "Curry malayo de verduras y lentejas"
+  ],
+  "Rasam Malaysia": [
+    "马来酸辣汤",
+    "Caldo agripicante malayo"
+  ],
+  "Sambal tempeh": [
+    "叁巴天贝",
+    "Tempeh con salsa de chile"
+  ],
+  "Tauhu sambal": [
+    "叁巴豆腐",
+    "Tofu con salsa de chile"
+  ],
+  "Tauhu kukus": [
+    "马来蒸豆腐",
+    "Tofu al vapor malayo"
+  ],
+  "Ikan singgang": [
+    "马来香料鱼汤",
+    "Pescado en caldo de especias"
+  ],
+  "Ikan bakar": [
+    "马来烤鱼",
+    "Pescado a la parrilla malayo"
+  ],
+  "Asam pedas ikan": [
+    "酸辣鱼",
+    "Pescado agripicante malayo"
+  ],
+  "Otak-otak": [
+    "马来香料鱼糕",
+    "Pastel malayo de pescado especiado"
+  ],
+  "Nasi ulam": [
+    "马来香草拌饭",
+    "Arroz malayo con hierbas"
+  ],
+  "Nasi kerabu": [
+    "马来蓝花香草饭",
+    "Arroz azul malayo con hierbas"
+  ],
+  "Bubur lambuk": [
+    "马来咸粥",
+    "Gachas saladas malayas"
+  ],
+  "Hakka lei cha rice": [
+    "客家擂茶饭",
+    "Arroz hakka con té molido"
+  ],
+  "Popiah": [
+    "薄饼春卷",
+    "Rollitos finos malayos"
+  ],
+  "Choy sum with garlic": [
+    "蒜蓉菜心",
+    "Choy sum al ajo"
+  ],
+  "Okra with sambal": [
+    "叁巴秋葵",
+    "Okra con salsa de chile"
+  ],
+  "ABC soup": [
+    "马来土豆番茄胡萝卜汤",
+    "Sopa malaya de patata, tomate y zanahoria"
+  ],
+  "Ginisang monggo": [
+    "菲律宾炒绿豆",
+    "Judías mungo salteadas filipinas"
+  ],
+  "Pinakbet": [
+    "菲律宾虾酱杂蔬",
+    "Verduras filipinas con pasta fermentada"
+  ],
+  "Dinengdeng": [
+    "菲律宾鱼汤杂蔬",
+    "Verduras en caldo de pescado filipino"
+  ],
+  "Laswa": [
+    "菲律宾蔬菜清汤",
+    "Sopa clara filipina de verduras"
+  ],
+  "Utan bisaya": [
+    "维萨亚蔬菜汤",
+    "Sopa de verduras de las Bisayas"
+  ],
+  "Ginisang ampalaya": [
+    "菲律宾炒苦瓜",
+    "Melón amargo salteado filipino"
+  ],
+  "Ginisang sayote": [
+    "菲律宾炒佛手瓜",
+    "Chayote salteado filipino"
+  ],
+  "Ginisang pechay": [
+    "菲律宾炒小白菜",
+    "Pak choi salteado filipino"
+  ],
+  "Ginisang upo": [
+    "菲律宾炒葫芦",
+    "Calabaza de botella salteada"
+  ],
+  "Ginisang sitaw": [
+    "菲律宾炒长豆",
+    "Judías largas salteadas filipinas"
+  ],
+  "Adobong kangkong": [
+    "醋酱炖空心菜",
+    "Espinaca de agua guisada en vinagre y soja"
+  ],
+  "Adobong sitaw": [
+    "醋酱炖长豆",
+    "Judías largas guisadas en vinagre y soja"
+  ],
+  "Adobong puso ng saging": [
+    "醋酱炖香蕉花",
+    "Flor de plátano guisada en vinagre y soja"
+  ],
+  "Laing": [
+    "椰奶炖芋叶",
+    "Hojas de taro con leche de coco"
+  ],
+  "Ginataang kalabasa at sitaw": [
+    "椰奶炖南瓜长豆",
+    "Calabaza y judías largas con coco"
+  ],
+  "Ensaladang talong": [
+    "菲律宾烤茄子沙拉",
+    "Ensalada filipina de berenjena asada"
+  ],
+  "Ensaladang pipino": [
+    "菲律宾黄瓜沙拉",
+    "Ensalada filipina de pepino"
+  ],
+  "Ensaladang labanos": [
+    "菲律宾萝卜沙拉",
+    "Ensalada filipina de rábano"
+  ],
+  "Ensaladang pako": [
+    "菲律宾蕨菜沙拉",
+    "Ensalada filipina de helecho"
+  ],
+  "Atchara": [
+    "菲律宾腌青木瓜",
+    "Papaya verde encurtida filipina"
+  ],
+  "Tortang talong": [
+    "菲律宾茄子煎蛋",
+    "Tortilla filipina de berenjena"
+  ],
+  "Tortang dulong with malunggay": [
+    "辣木叶小银鱼煎蛋",
+    "Tortilla de pececillos y moringa"
+  ],
+  "Sinigang na bangus": [
+    "罗望子虱目鱼酸汤",
+    "Sopa ácida de sabalote"
+  ],
+  "Sinigang na hipon": [
+    "罗望子虾酸汤",
+    "Sopa ácida de gambas"
+  ],
+  "Tinolang manok": [
+    "姜香鸡汤",
+    "Sopa filipina de pollo y jengibre"
+  ],
+  "Tinolang isda": [
+    "姜香鱼汤",
+    "Sopa filipina de pescado y jengibre"
+  ],
+  "Pesang isda": [
+    "姜椒鱼汤",
+    "Pescado en caldo de jengibre y pimienta"
+  ],
+  "Lumpiang sariwa": [
+    "菲律宾鲜春卷",
+    "Rollitos frescos filipinos"
+  ],
+  "Nilagang baka": [
+    "菲律宾清炖牛肉",
+    "Ternera hervida con verduras"
+  ],
+  "Inihaw na bangus": [
+    "烤虱目鱼",
+    "Sabalote a la parrilla"
+  ],
+  "Greek lentil soup": [
+    "希腊扁豆汤",
+    "Sopa griega de lentejas"
+  ],
+  "Fasolada": [
+    "希腊白豆汤",
+    "Sopa griega de judías blancas"
+  ],
+  "Gigantes plaki": [
+    "番茄烤大白豆",
+    "Judiones al horno con tomate"
+  ],
+  "Revithada": [
+    "希腊慢炖鹰嘴豆",
+    "Garbanzos guisados griegos"
+  ],
+  "Fakes salad": [
+    "希腊扁豆沙拉",
+    "Ensalada griega de lentejas"
+  ],
+  "Horiatiki": [
+    "希腊乡村沙拉",
+    "Ensalada griega tradicional"
+  ],
+  "Spanakorizo": [
+    "菠菜米饭",
+    "Arroz con espinacas griego"
+  ],
+  "Briam": [
+    "希腊烤杂蔬",
+    "Verduras al horno griegas"
+  ],
+  "Horta vrasta": [
+    "水煮绿叶菜",
+    "Verduras de hoja hervidas"
+  ],
+  "Fasolakia lathera": [
+    "橄榄油炖四季豆",
+    "Judías verdes guisadas con aceite de oliva"
+  ],
+  "Tabbouleh": [
+    "黎凡特欧芹麦粒沙拉",
+    "Ensalada de perejil y trigo bulgur"
+  ],
+  "Fattoush": [
+    "黎凡特脆饼沙拉",
+    "Ensalada levantina con pan crujiente"
+  ],
+  "Hummus": [
+    "鹰嘴豆泥",
+    "Puré de garbanzos"
+  ],
+  "Baba ganoush": [
+    "烤茄子芝麻酱泥",
+    "Puré de berenjena con tahini"
+  ],
+  "Mujaddara": [
+    "扁豆焦葱饭",
+    "Arroz con lentejas y cebolla"
+  ],
+  "Loubieh bi zeit": [
+    "橄榄油炖四季豆",
+    "Judías verdes en aceite de oliva"
+  ],
+  "Shorbat adas": [
+    "中东扁豆汤",
+    "Sopa de lentejas de Oriente Medio"
+  ],
+  "Ribollita": [
+    "托斯卡纳蔬菜面包汤",
+    "Sopa toscana de verduras y pan"
+  ],
+  "Minestrone": [
+    "意式杂蔬汤",
+    "Sopa italiana de verduras"
+  ],
+  "Pasta e ceci": [
+    "鹰嘴豆意面",
+    "Pasta con garbanzos"
+  ],
+  "Pasta e fagioli": [
+    "豆子意面",
+    "Pasta con judías"
+  ],
+  "Tuscan white bean salad": [
+    "托斯卡纳白豆沙拉",
+    "Ensalada toscana de judías blancas"
+  ],
+  "Caponata": [
+    "西西里酸甜茄子",
+    "Berenjena agridulce siciliana"
+  ],
+  "Ratatouille": [
+    "普罗旺斯炖菜",
+    "Verduras guisadas provenzales"
+  ],
+  "Socca": [
+    "鹰嘴豆薄饼",
+    "Tortita de harina de garbanzo"
+  ],
+  "Escalivada": [
+    "加泰罗尼亚烤蔬菜",
+    "Verduras asadas catalanas"
+  ],
+  "Espinacas con garbanzos": [
+    "菠菜炖鹰嘴豆",
+    "Espinacas con garbanzos"
+  ],
+  "Gazpacho": [
+    "西班牙番茄冷汤",
+    "Gazpacho"
+  ],
+  "Sardines with lemon": [
+    "柠檬沙丁鱼",
+    "Sardinas con limón"
+  ],
+  "Whole-wheat pasta primavera": [
+    "春蔬全麦意面",
+    "Pasta integral con verduras de primavera"
+  ],
+  "Three-bean chili": [
+    "三豆辣炖菜",
+    "Guiso picante de tres judías"
+  ],
+  "Turkey and bean chili": [
+    "火鸡豆子辣炖菜",
+    "Guiso picante de pavo y judías"
+  ],
+  "Black bean soup": [
+    "黑豆汤",
+    "Sopa de judías negras"
+  ],
+  "Split pea soup": [
+    "豌豆瓣汤",
+    "Sopa de guisantes partidos"
+  ],
+  "Vegetable barley soup": [
+    "蔬菜大麦汤",
+    "Sopa de verduras y cebada"
+  ],
+  "Chicken vegetable soup": [
+    "鸡肉蔬菜汤",
+    "Sopa de pollo y verduras"
+  ],
+  "Lentil vegetable soup": [
+    "扁豆蔬菜汤",
+    "Sopa de lentejas y verduras"
+  ],
+  "White bean kale soup": [
+    "白豆羽衣甘蓝汤",
+    "Sopa de judías blancas y col rizada"
+  ],
+  "Corn and bean salad": [
+    "玉米豆子沙拉",
+    "Ensalada de maíz y judías"
+  ],
+  "Quinoa harvest bowl": [
+    "丰收藜麦碗",
+    "Cuenco de quinoa de la cosecha"
+  ],
+  "Farro vegetable bowl": [
+    "法罗麦蔬菜碗",
+    "Cuenco de farro y verduras"
+  ],
+  "Wild rice mushroom pilaf": [
+    "野米蘑菇饭",
+    "Arroz silvestre con setas"
+  ],
+  "Brown rice black bean bowl": [
+    "糙米黑豆碗",
+    "Cuenco de arroz integral y judías negras"
+  ],
+  "Oatmeal with berries": [
+    "浆果燕麦粥",
+    "Gachas de avena con frutos rojos"
+  ],
+  "Apple cinnamon oatmeal": [
+    "苹果肉桂燕麦粥",
+    "Avena con manzana y canela"
+  ],
+  "Pear walnut porridge": [
+    "梨核桃粥",
+    "Gachas de pera y nueces"
+  ],
+  "Overnight chia oats": [
+    "隔夜奇亚籽燕麦",
+    "Avena nocturna con chía"
+  ],
+  "Sweet potato black bean bake": [
+    "烤红薯黑豆",
+    "Boniato y judías negras al horno"
+  ],
+  "Stuffed bell peppers": [
+    "酿甜椒",
+    "Pimientos rellenos"
+  ],
+  "Roasted Brussels sprouts": [
+    "烤抱子甘蓝",
+    "Coles de Bruselas asadas"
+  ],
+  "Roasted broccoli": [
+    "烤西兰花",
+    "Brócoli asado"
+  ],
+  "Roasted root vegetables": [
+    "烤根茎蔬菜",
+    "Hortalizas de raíz asadas"
+  ],
+  "Collard greens and beans": [
+    "羽衣甘蓝炖豆",
+    "Berza con judías"
+  ],
+  "Green beans almondine": [
+    "杏仁四季豆",
+    "Judías verdes con almendras"
+  ],
+  "Lentil sloppy joes": [
+    "扁豆酱三明治",
+    "Bocadillos de lentejas en salsa"
+  ],
+  "Black bean burgers": [
+    "黑豆汉堡",
+    "Hamburguesas de judías negras"
+  ],
+  "Salmon and asparagus": [
+    "三文鱼配芦笋",
+    "Salmón con espárragos"
+  ],
+  "Chicken and vegetable tray bake": [
+    "鸡肉蔬菜烤盘",
+    "Pollo y verduras al horno"
+  ],
+  "Tuna white bean salad": [
+    "金枪鱼白豆沙拉",
+    "Ensalada de atún y judías blancas"
+  ],
+  "Whole-grain vegetable pasta": [
+    "全谷物蔬菜意面",
+    "Pasta integral con verduras"
+  ],
+  "Lentil shepherd’s pie": [
+    "扁豆牧羊人派",
+    "Pastel de lentejas con puré de patata"
+  ],
+  "Chickpea spinach stew": [
+    "鹰嘴豆菠菜炖菜",
+    "Guiso de garbanzos y espinacas"
+  ],
+  "White bean mushroom skillet": [
+    "白豆蘑菇煎锅菜",
+    "Judías blancas y setas a la sartén"
+  ],
+  "Lentil walnut salad": [
+    "扁豆核桃沙拉",
+    "Ensalada de lentejas y nueces"
+  ],
+  "Quinoa chickpea salad": [
+    "藜麦鹰嘴豆沙拉",
+    "Ensalada de quinoa y garbanzos"
+  ],
+  "Barley roasted vegetable bowl": [
+    "大麦烤蔬菜碗",
+    "Cuenco de cebada y verduras asadas"
+  ],
+  "Farro mushroom pilaf": [
+    "法罗麦蘑菇饭",
+    "Farro con setas"
+  ],
+  "Spinach ricotta whole-grain pasta": [
+    "菠菜乳清奶酪全谷意面",
+    "Pasta integral con espinacas y ricota"
+  ],
+  "Broccoli pea pasta": [
+    "西兰花豌豆意面",
+    "Pasta con brócoli y guisantes"
+  ],
+  "Lentil tomato pasta": [
+    "扁豆番茄意面",
+    "Pasta con lentejas y tomate"
+  ],
+  "Black bean sweet potato chili": [
+    "黑豆红薯辣炖菜",
+    "Guiso picante de judías negras y boniato"
+  ],
+  "Pumpkin white bean soup": [
+    "南瓜白豆汤",
+    "Sopa de calabaza y judías blancas"
+  ],
+  "Carrot lentil soup": [
+    "胡萝卜扁豆汤",
+    "Sopa de zanahoria y lentejas"
+  ],
+  "Pea mint soup": [
+    "豌豆薄荷汤",
+    "Sopa de guisantes y menta"
+  ],
+  "Mushroom barley soup": [
+    "蘑菇大麦汤",
+    "Sopa de setas y cebada"
+  ],
+  "Stuffed zucchini": [
+    "酿西葫芦",
+    "Calabacín relleno"
+  ],
+  "Lentil stuffed eggplant": [
+    "扁豆酿茄子",
+    "Berenjena rellena de lentejas"
+  ],
+  "Portobello bean bake": [
+    "烤褐菇豆子",
+    "Portobellos y judías al horno"
+  ],
+  "Chickpea vegetable frittata": [
+    "鹰嘴豆蔬菜烘蛋",
+    "Tortilla de garbanzos y verduras"
+  ],
+  "Broccoli cheddar frittata": [
+    "西兰花切达奶酪烘蛋",
+    "Tortilla de brócoli y queso cheddar"
+  ],
+  "Swiss chard white beans": [
+    "瑞士甜菜白豆",
+    "Acelgas con judías blancas"
+  ],
+  "Roasted cauliflower tahini": [
+    "芝麻酱烤花菜",
+    "Coliflor asada con tahini"
+  ],
+  "Beet lentil bowl": [
+    "甜菜扁豆碗",
+    "Cuenco de remolacha y lentejas"
+  ],
+  "Egg and avocado toast": [
+    "鸡蛋牛油果吐司",
+    "Tostada de huevo y aguacate"
+  ],
+  "Savory oat bowl": [
+    "咸味燕麦碗",
+    "Cuenco salado de avena"
+  ],
+  "Cottage cheese berry oats": [
+    "茅屋奶酪浆果燕麦",
+    "Avena con requesón y frutos rojos"
+  ],
+  "Pear almond yogurt bowl": [
+    "梨杏仁酸奶碗",
+    "Cuenco de yogur con pera y almendras"
+  ],
+  "Chickpea cucumber pita": [
+    "鹰嘴豆黄瓜皮塔饼",
+    "Pita de garbanzos y pepino"
+  ],
+  "Butter bean tomato bake": [
+    "番茄烤大白豆",
+    "Judías manteca al horno con tomate"
+  ],
+  "Roasted squash lentil salad": [
+    "烤南瓜扁豆沙拉",
+    "Ensalada de calabaza asada y lentejas"
+  ],
+  "Smoky black bean stew": [
+    "烟熏风味炖黑豆",
+    "Guiso ahumado de judías negras"
+  ],
+  "Red lentil carrot pot": [
+    "红扁豆胡萝卜煲",
+    "Lentejas rojas con zanahoria"
+  ],
+  "Chickpea pumpkin stew": [
+    "鹰嘴豆南瓜炖菜",
+    "Guiso de garbanzos y calabaza"
+  ],
+  "White bean rosemary soup": [
+    "白豆迷迭香汤",
+    "Sopa de judías blancas y romero"
+  ],
+  "Split pea vegetable pot": [
+    "豌豆瓣蔬菜煲",
+    "Guisantes partidos con verduras"
+  ],
+  "Kale chickpea soup": [
+    "羽衣甘蓝鹰嘴豆汤",
+    "Sopa de col rizada y garbanzos"
+  ],
+  "Tempeh broccoli skillet": [
+    "天贝西兰花煎锅菜",
+    "Tempeh con brócoli a la sartén"
+  ],
+  "Tofu cabbage skillet": [
+    "豆腐卷心菜煎锅菜",
+    "Tofu con col a la sartén"
+  ],
+  "Tofu mushroom bake": [
+    "豆腐蘑菇焗菜",
+    "Tofu y setas al horno"
+  ],
+  "Lentil mushroom loaf": [
+    "扁豆蘑菇烤饼",
+    "Pastel de lentejas y setas"
+  ],
+  "Chickpea oat patties": [
+    "鹰嘴豆燕麦饼",
+    "Tortitas de garbanzos y avena"
+  ],
+  "White bean herb spread": [
+    "白豆香草抹酱",
+    "Crema de judías blancas y hierbas"
+  ],
+  "Beet chickpea hummus": [
+    "甜菜鹰嘴豆泥",
+    "Puré de garbanzos con remolacha"
+  ],
+  "Roasted carrot lentil dip": [
+    "烤胡萝卜扁豆蘸酱",
+    "Crema de zanahoria asada y lentejas"
+  ],
+  "Black bean corn salsa": [
+    "黑豆玉米莎莎酱",
+    "Salsa de judías negras y maíz"
+  ],
+  "Quinoa black bean bowl": [
+    "藜麦黑豆碗",
+    "Cuenco de quinoa y judías negras"
+  ],
+  "Millet vegetable pilaf": [
+    "小米蔬菜饭",
+    "Mijo con verduras"
+  ],
+  "Bulgur parsley chickpea bowl": [
+    "布格麦欧芹鹰嘴豆碗",
+    "Cuenco de bulgur, perejil y garbanzos"
+  ],
+  "Brown rice lentil pilaf": [
+    "糙米扁豆饭",
+    "Arroz integral con lentejas"
+  ],
+  "Buckwheat mushroom bowl": [
+    "荞麦蘑菇碗",
+    "Cuenco de trigo sarraceno y setas"
+  ],
+  "Roasted vegetable farro": [
+    "烤蔬菜法罗麦",
+    "Farro con verduras asadas"
+  ],
+  "Whole-grain walnut pasta": [
+    "全谷物核桃意面",
+    "Pasta integral con nueces"
+  ],
+  "Pea basil pasta": [
+    "豌豆罗勒意面",
+    "Pasta con guisantes y albahaca"
+  ],
+  "Tomato butter bean pasta": [
+    "番茄大白豆意面",
+    "Pasta con tomate y judías manteca"
+  ],
+  "Chia berry pudding": [
+    "奇亚籽浆果布丁",
+    "Pudín de chía y frutos rojos"
+  ],
+  "Apple flax oats": [
+    "苹果亚麻籽燕麦",
+    "Avena con manzana y lino"
+  ],
+  "Banana peanut porridge": [
+    "香蕉花生粥",
+    "Gachas de plátano y cacahuete"
+  ],
+  "Roasted cauliflower chickpeas": [
+    "烤花菜鹰嘴豆",
+    "Coliflor y garbanzos asados"
+  ],
+  "Sweet potato lentil bake": [
+    "红薯扁豆烤菜",
+    "Boniato y lentejas al horno"
+  ],
+  "Warm Brussels sprout bean salad": [
+    "温拌抱子甘蓝豆子沙拉",
+    "Ensalada templada de coles de Bruselas y judías"
+  ],
+  "Lemon herb lentil salad": [
+    "柠檬香草扁豆沙拉",
+    "Ensalada de lentejas con limón y hierbas"
+  ],
+  "No-salt chickpea vegetable soup": [
+    "无盐鹰嘴豆蔬菜汤",
+    "Sopa de garbanzos y verduras sin sal"
+  ],
+  "White bean lemon mash": [
+    "白豆柠檬泥",
+    "Puré de judías blancas con limón"
+  ],
+  "Herbed quinoa pilaf": [
+    "香草藜麦饭",
+    "Quinoa con hierbas"
+  ],
+  "Brown rice mushroom pilaf": [
+    "糙米蘑菇饭",
+    "Arroz integral con setas"
+  ],
+  "Oatmeal blueberry bowl": [
+    "蓝莓燕麦碗",
+    "Cuenco de avena y arándanos"
+  ],
+  "Apple bran porridge": [
+    "苹果麦麸粥",
+    "Gachas de manzana y salvado"
+  ],
+  "Pear chia yogurt": [
+    "梨奇亚籽酸奶",
+    "Yogur con pera y chía"
+  ],
+  "Berry flax yogurt bowl": [
+    "浆果亚麻籽酸奶碗",
+    "Cuenco de yogur con frutos rojos y lino"
+  ],
+  "Lentil vegetable skillet": [
+    "扁豆蔬菜煎锅菜",
+    "Lentejas y verduras a la sartén"
+  ],
+  "Black bean pepper salad": [
+    "黑豆甜椒沙拉",
+    "Ensalada de judías negras y pimiento"
+  ],
+  "Roasted beet barley salad": [
+    "烤甜菜大麦沙拉",
+    "Ensalada de remolacha asada y cebada"
+  ],
+  "Garlic green beans": [
+    "蒜蓉四季豆",
+    "Judías verdes al ajo"
+  ],
+  "Paprika roasted chickpeas": [
+    "甜椒粉烤鹰嘴豆",
+    "Garbanzos asados con pimentón"
+  ],
+  "Cumin roasted carrots": [
+    "孜然烤胡萝卜",
+    "Zanahorias asadas con comino"
+  ],
+  "Herb roasted cauliflower": [
+    "香草烤花菜",
+    "Coliflor asada con hierbas"
+  ],
+  "Rosemary sweet potato": [
+    "迷迭香红薯",
+    "Boniato al romero"
+  ],
+  "Lemon asparagus": [
+    "柠檬芦笋",
+    "Espárragos al limón"
+  ],
+  "Garlic kale white beans": [
+    "蒜香羽衣甘蓝白豆",
+    "Judías blancas con col rizada y ajo"
+  ],
+  "Tomato lentil soup": [
+    "番茄扁豆汤",
+    "Sopa de tomate y lentejas"
+  ],
+  "Pea carrot barley soup": [
+    "豌豆胡萝卜大麦汤",
+    "Sopa de guisantes, zanahoria y cebada"
+  ],
+  "Pumpkin chickpea soup": [
+    "南瓜鹰嘴豆汤",
+    "Sopa de calabaza y garbanzos"
+  ],
+  "Lemon baked fish": [
+    "柠檬烤鱼",
+    "Pescado al horno con limón"
+  ],
+  "Dill salmon with broccoli": [
+    "莳萝三文鱼配西兰花",
+    "Salmón al eneldo con brócoli"
+  ],
+  "Herb chicken vegetable bake": [
+    "香草鸡肉蔬菜烤菜",
+    "Pollo y verduras al horno con hierbas"
+  ],
+  "Turkey vegetable patties": [
+    "火鸡蔬菜饼",
+    "Tortitas de pavo y verduras"
+  ],
+  "Spinach mushroom egg bake": [
+    "菠菜蘑菇烘蛋",
+    "Huevos al horno con espinacas y setas"
+  ],
+  "Avocado white bean toast": [
+    "牛油果白豆吐司",
+    "Tostada de aguacate y judías blancas"
+  ],
+  "Whole-grain tomato pasta": [
+    "全谷物番茄意面",
+    "Pasta integral con tomate"
+  ],
+  "Walnut apple cabbage slaw": [
+    "核桃苹果卷心菜沙拉",
+    "Ensalada de col, manzana y nueces"
+  ],
+  "Spinach mushroom omelet": [
+    "菠菜蘑菇煎蛋",
+    "Tortilla de espinacas y setas"
+  ],
+  "Broccoli egg bake": [
+    "西兰花烘蛋",
+    "Huevos al horno con brócoli"
+  ],
+  "Asparagus frittata": [
+    "芦笋烘蛋",
+    "Tortilla de espárragos"
+  ],
+  "Zucchini goat cheese frittata": [
+    "西葫芦山羊奶酪烘蛋",
+    "Tortilla de calabacín y queso de cabra"
+  ],
+  "Avocado egg salad": [
+    "牛油果鸡蛋沙拉",
+    "Ensalada de aguacate y huevo"
+  ],
+  "Salmon avocado salad": [
+    "三文鱼牛油果沙拉",
+    "Ensalada de salmón y aguacate"
+  ],
+  "Tuna celery lettuce cups": [
+    "金枪鱼芹菜生菜杯",
+    "Hojas de lechuga con atún y apio"
+  ],
+  "Chicken cabbage slaw": [
+    "鸡肉卷心菜丝沙拉",
+    "Ensalada de pollo y col"
+  ],
+  "Turkey spinach skillet": [
+    "火鸡菠菜煎锅菜",
+    "Pavo con espinacas a la sartén"
+  ],
+  "Garlic shrimp zucchini": [
+    "蒜香虾仁西葫芦",
+    "Gambas al ajo con calabacín"
+  ],
+  "Lemon fish and broccoli": [
+    "柠檬鱼配西兰花",
+    "Pescado al limón con brócoli"
+  ],
+  "Salmon asparagus tray bake": [
+    "三文鱼芦笋烤盘",
+    "Salmón y espárragos al horno"
+  ],
+  "Chicken cauliflower tray bake": [
+    "鸡肉花菜烤盘",
+    "Pollo y coliflor al horno"
+  ],
+  "Tofu bok choy skillet": [
+    "豆腐小白菜煎锅菜",
+    "Tofu y pak choi a la sartén"
+  ],
+  "Cauliflower mushroom skillet": [
+    "花菜蘑菇煎锅菜",
+    "Coliflor y setas a la sartén"
+  ],
+  "Zucchini walnut ribbons": [
+    "西葫芦丝配核桃",
+    "Cintas de calabacín con nueces"
+  ],
+  "Eggplant tahini plate": [
+    "茄子芝麻酱拼盘",
+    "Berenjena con tahini"
+  ],
+  "Roasted cabbage wedges": [
+    "烤卷心菜瓣",
+    "Gajos de col asada"
+  ],
+  "Broccoli almond side": [
+    "西兰花杏仁配菜",
+    "Guarnición de brócoli y almendras"
+  ],
+  "Garlic sautéed spinach": [
+    "蒜蓉炒菠菜",
+    "Espinacas salteadas al ajo"
+  ],
+  "Mushroom cream soup": [
+    "奶油蘑菇汤",
+    "Crema de setas"
+  ],
+  "Broccoli cheddar soup": [
+    "西兰花切达奶酪汤",
+    "Sopa de brócoli y queso cheddar"
+  ],
+  "Cauliflower herb soup": [
+    "花菜香草汤",
+    "Sopa de coliflor y hierbas"
+  ],
+  "Chia coconut pudding": [
+    "奇亚籽椰奶布丁",
+    "Pudín de chía y coco"
+  ],
+  "Flax chia porridge": [
+    "亚麻籽奇亚籽粥",
+    "Gachas de lino y chía"
+  ],
+  "Greek yogurt walnut bowl": [
+    "希腊酸奶核桃碗",
+    "Cuenco de yogur griego y nueces"
+  ],
+  "Avocado cucumber bowl": [
+    "牛油果黄瓜碗",
+    "Cuenco de aguacate y pepino"
+  ],
+  "Roasted radish herb tray": [
+    "香草烤萝卜",
+    "Rábanos asados con hierbas"
+  ],
+  "Stuffed portobello eggs": [
+    "褐菇酿鸡蛋",
+    "Portobellos rellenos de huevo"
+  ],
+  "Chicken lettuce wraps": [
+    "鸡肉生菜包",
+    "Rollitos de lechuga con pollo"
+  ],
+  "Frijoles de olla": [
+    "墨西哥锅煮豆",
+    "Frijoles de olla"
+  ],
+  "Frijoles negros de olla": [
+    "墨西哥锅煮黑豆",
+    "Frijoles negros de olla"
+  ],
+  "Frijoles refritos": [
+    "墨西哥煎豆泥",
+    "Frijoles refritos"
+  ],
+  "Sopa de frijol negro": [
+    "墨西哥黑豆汤",
+    "Sopa de frijol negro"
+  ],
+  "Sopa de lentejas": [
+    "墨西哥扁豆汤",
+    "Sopa de lentejas"
+  ],
+  "Calabacitas a la mexicana": [
+    "墨西哥风味西葫芦",
+    "Calabacitas a la mexicana"
+  ],
+  "Calabacitas con elote": [
+    "西葫芦炒玉米",
+    "Calabacitas con elote"
+  ],
+  "Nopales a la mexicana": [
+    "墨西哥风味仙人掌",
+    "Nopales a la mexicana"
+  ],
+  "Ensalada de nopales": [
+    "仙人掌沙拉",
+    "Ensalada de nopales"
+  ],
+  "Nopales con huevo": [
+    "仙人掌炒蛋",
+    "Nopales con huevo"
+  ],
+  "Ejotes con huevo": [
+    "四季豆炒蛋",
+    "Ejotes con huevo"
+  ],
+  "Verdolagas en salsa verde": [
+    "青酱马齿苋",
+    "Verdolagas en salsa verde"
+  ],
+  "Quelites con ajo": [
+    "蒜炒野菜",
+    "Quelites con ajo"
+  ],
+  "Hongos a la mexicana": [
+    "墨西哥风味蘑菇",
+    "Hongos a la mexicana"
+  ],
+  "Rajas con elote": [
+    "烤椒条炒玉米",
+    "Rajas con elote"
+  ],
+  "Chayotes a la mexicana": [
+    "墨西哥风味佛手瓜",
+    "Chayotes a la mexicana"
+  ],
+  "Sopa de verduras": [
+    "墨西哥蔬菜汤",
+    "Sopa de verduras"
+  ],
+  "Caldo tlalpeño": [
+    "特拉尔潘鸡汤",
+    "Caldo tlalpeño"
+  ],
+  "Pozole verde de pollo": [
+    "墨西哥绿酱鸡肉玉米粒汤",
+    "Pozole verde de pollo"
+  ],
+  "Pozole rojo": [
+    "墨西哥红酱玉米粒汤",
+    "Pozole rojo"
+  ],
+  "Sopa de tortilla": [
+    "墨西哥玉米饼汤",
+    "Sopa de tortilla"
+  ],
+  "Tinga de pollo": [
+    "墨西哥番茄辣椒手撕鸡",
+    "Tinga de pollo"
+  ],
+  "Pescado a la veracruzana": [
+    "韦拉克鲁斯番茄鱼",
+    "Pescado a la veracruzana"
+  ],
+  "Pescado en hoja de plátano": [
+    "蕉叶包鱼",
+    "Pescado en hoja de plátano"
+  ],
+  "Ensalada de jícama": [
+    "凉薯沙拉",
+    "Ensalada de jícama"
+  ],
+  "Guacamole": [
+    "牛油果酱",
+    "Guacamole"
+  ],
+  "Pico de gallo": [
+    "番茄洋葱鲜莎莎酱",
+    "Pico de gallo"
+  ],
+  "Salsa de pepita": [
+    "南瓜籽酱",
+    "Salsa de pepita"
+  ],
+  "Tlacoyos de frijol": [
+    "豆馅玉米饼",
+    "Tlacoyos de frijol"
+  ],
+  "Tacos de hongos": [
+    "蘑菇塔可",
+    "Tacos de hongos"
+  ],
+  "Fanesca": [
+    "厄瓜多尔复活节谷豆鱼汤",
+    "Fanesca"
+  ],
+  "Menestra de lentejas": [
+    "厄瓜多尔炖扁豆",
+    "Menestra de lentejas"
+  ],
+  "Menestra de fréjol": [
+    "厄瓜多尔炖豆",
+    "Menestra de fréjol"
+  ],
+  "Ensalada de chochos": [
+    "羽扇豆沙拉",
+    "Ensalada de chochos"
+  ],
+  "Chochos con tostado": [
+    "羽扇豆配烤玉米",
+    "Chochos con tostado"
+  ],
+  "Cevichocho": [
+    "厄瓜多尔酸拌羽扇豆",
+    "Cevichocho"
+  ],
+  "Ensalada de habas": [
+    "蚕豆沙拉",
+    "Ensalada de habas"
+  ],
+  "Habas con queso": [
+    "奶酪蚕豆",
+    "Habas con queso"
+  ],
+  "Mote con queso": [
+    "奶酪大粒玉米",
+    "Mote con queso"
+  ],
+  "Mote pillo": [
+    "大粒玉米炒蛋",
+    "Mote pillo"
+  ],
+  "Mote sucio": [
+    "猪油炒大粒玉米",
+    "Mote sucio"
+  ],
+  "Locro de papa": [
+    "厄瓜多尔土豆奶酪汤",
+    "Locro de papa"
+  ],
+  "Sopa de quinua": [
+    "藜麦汤",
+    "Sopa de quinua"
+  ],
+  "Sopa de cebada": [
+    "大麦汤",
+    "Sopa de cebada"
+  ],
+  "Sopa de zapallo": [
+    "南瓜汤",
+    "Sopa de zapallo"
+  ],
+  "Sopa de arvejas": [
+    "豌豆汤",
+    "Sopa de arvejas"
+  ],
+  "Repe lojano": [
+    "洛哈青香蕉浓汤",
+    "Repe lojano"
+  ],
+  "Repe de arvejas con guineo": [
+    "青香蕉豌豆汤",
+    "Repe de arvejas con guineo"
+  ],
+  "Caldo de bolas de verde": [
+    "青大蕉丸子汤",
+    "Caldo de bolas de verde"
+  ],
+  "Sango de verde": [
+    "厄瓜多尔青大蕉糊",
+    "Sango de verde"
+  ],
+  "Encebollado": [
+    "厄瓜多尔洋葱鱼汤",
+    "Encebollado"
+  ],
+  "Sudado de pescado": [
+    "厄瓜多尔炖鱼",
+    "Sudado de pescado"
+  ],
+  "Pescado encocado": [
+    "椰奶鱼",
+    "Pescado encocado"
+  ],
+  "Camarones encocados": [
+    "椰奶虾",
+    "Camarones encocados"
+  ],
+  "Seco de pollo": [
+    "厄瓜多尔香炖鸡",
+    "Seco de pollo"
+  ],
+  "Llapingachos": [
+    "厄瓜多尔奶酪土豆饼",
+    "Llapingachos"
+  ],
+  "Tigrillo": [
+    "青大蕉鸡蛋奶酪炒菜",
+    "Tigrillo"
+  ],
+  "Humitas": [
+    "厄瓜多尔玉米包",
+    "Humitas"
+  ],
+  "Ensalada de remolacha": [
+    "甜菜沙拉",
+    "Ensalada de remolacha"
+  ],
+  "Curtido de cebolla y tomate": [
+    "酸拌洋葱番茄",
+    "Curtido de cebolla y tomate"
+  ],
+  "Habichuelas guisadas": [
+    "波多黎各炖红豆",
+    "Habichuelas guisadas"
+  ],
+  "Habichuelas rosadas guisadas": [
+    "波多黎各炖粉红豆",
+    "Habichuelas rosadas guisadas"
+  ],
+  "Habichuelas blancas guisadas": [
+    "波多黎各炖白豆",
+    "Habichuelas blancas guisadas"
+  ],
+  "Habichuelas negras guisadas": [
+    "波多黎各炖黑豆",
+    "Habichuelas negras guisadas"
+  ],
+  "Gandules guisados": [
+    "波多黎各炖木豆",
+    "Gandules guisados"
+  ],
+  "Garbanzos guisados": [
+    "波多黎各炖鹰嘴豆",
+    "Garbanzos guisados"
+  ],
+  "Lentejas guisadas": [
+    "波多黎各炖扁豆",
+    "Lentejas guisadas"
+  ],
+  "Arroz con gandules": [
+    "波多黎各木豆饭",
+    "Arroz con gandules"
+  ],
+  "Arroz con habichuelas": [
+    "波多黎各红豆饭",
+    "Arroz con habichuelas"
+  ],
+  "Arroz con garbanzos": [
+    "波多黎各鹰嘴豆饭",
+    "Arroz con garbanzos"
+  ],
+  "Arroz con maíz": [
+    "波多黎各玉米饭",
+    "Arroz con maíz"
+  ],
+  "Arroz con vegetales": [
+    "波多黎各蔬菜饭",
+    "Arroz con vegetales"
+  ],
+  "Asopao de gandules": [
+    "波多黎各木豆浓汤饭",
+    "Asopao de gandules"
+  ],
+  "Asopao de pollo": [
+    "波多黎各鸡肉浓汤饭",
+    "Asopao de pollo"
+  ],
+  "Asopao de camarones": [
+    "波多黎各虾仁浓汤饭",
+    "Asopao de camarones"
+  ],
+  "Sancocho": [
+    "加勒比杂肉蔬菜汤",
+    "Sancocho"
+  ],
+  "Sopa de pollo boricua": [
+    "波多黎各鸡汤",
+    "Sopa de pollo boricua"
+  ],
+  "Sopa de plátano": [
+    "大蕉汤",
+    "Sopa de plátano"
+  ],
+  "Crema de calabaza": [
+    "南瓜奶油汤",
+    "Crema de calabaza"
+  ],
+  "Viandas hervidas": [
+    "水煮根茎拼盘",
+    "Viandas hervidas"
+  ],
+  "Guineos en escabeche": [
+    "腌青香蕉",
+    "Guineos en escabeche"
+  ],
+  "Yuca al mojo": [
+    "蒜香木薯",
+    "Yuca al mojo"
+  ],
+  "Berenjena guisada": [
+    "波多黎各炖茄子",
+    "Berenjena guisada"
+  ],
+  "Repollo guisado": [
+    "波多黎各炖卷心菜",
+    "Repollo guisado"
+  ],
+  "Ensalada de aguacate": [
+    "牛油果沙拉",
+    "Ensalada de aguacate"
+  ],
+  "Ensalada de coditos": [
+    "通心粉沙拉",
+    "Ensalada de coditos"
+  ],
+  "Ensalada de bacalao": [
+    "咸鳕鱼沙拉",
+    "Ensalada de bacalao"
+  ],
+  "Bacalao guisado": [
+    "波多黎各炖咸鳕鱼",
+    "Bacalao guisado"
+  ],
+  "Pollo guisado": [
+    "波多黎各炖鸡",
+    "Pollo guisado"
+  ],
+  "Pescado en escabeche": [
+    "醋腌熟鱼",
+    "Pescado en escabeche"
+  ],
+  "bok choy": [
+    "小白菜",
+    "pak choi"
+  ],
+  "neutral oil": [
+    "中性食用油",
+    "aceite de sabor neutro"
+  ],
+  "light soy sauce": [
+    "生抽",
+    "salsa de soja clara"
+  ],
+  "rice vinegar": [
+    "米醋",
+    "vinagre de arroz"
+  ],
+  "sesame oil": [
+    "芝麻油",
+    "aceite de sésamo"
+  ],
+  "firm tofu": [
+    "老豆腐",
+    "tofu firme"
+  ],
+  "doubanjiang": [
+    "豆瓣酱",
+    "pasta picante de habas"
+  ],
+  "Sichuan pepper": [
+    "花椒",
+    "pimienta de Sichuan"
+  ],
+  "green pepper": [
+    "青椒",
+    "pimiento verde"
+  ],
+  "scallion": [
+    "葱",
+    "cebolleta"
+  ],
+  "shiitake mushrooms": [
+    "香菇",
+    "setas shiitake"
+  ],
+  "wood ear mushrooms": [
+    "木耳",
+    "setas de oreja de madera"
+  ],
+  "bamboo shoots": [
+    "竹笋",
+    "brotes de bambú"
+  ],
+  "black vinegar": [
+    "黑醋",
+    "vinagre negro"
+  ],
+  "lotus root": [
+    "莲藕",
+    "raíz de loto"
+  ],
+  "pressed tofu": [
+    "香干",
+    "tofu prensado"
+  ],
+  "napa cabbage": [
+    "大白菜",
+    "col china"
+  ],
+  "dried chili": [
+    "干辣椒",
+    "chile seco"
+  ],
+  "snow peas": [
+    "荷兰豆",
+    "tirabeques"
+  ],
+  "winter melon": [
+    "冬瓜",
+    "melón de invierno"
+  ],
+  "dried shrimp": [
+    "虾米",
+    "gambas secas"
+  ],
+  "mung beans": [
+    "绿豆",
+    "judías mungo"
+  ],
+  "dried tangerine peel": [
+    "陈皮",
+    "cáscara seca de mandarina"
+  ],
+  "red beans": [
+    "红豆",
+    "judías rojas"
+  ],
+  "lotus seeds": [
+    "莲子",
+    "semillas de loto"
+  ],
+  "bitter melon": [
+    "苦瓜",
+    "melón amargo"
+  ],
+  "Chinese chives": [
+    "韭菜",
+    "cebollino chino"
+  ],
+  "white fish": [
+    "白肉鱼",
+    "pescado blanco"
+  ],
+  "lean pork": [
+    "瘦猪肉",
+    "cerdo magro"
+  ],
+  "soybean sprouts": [
+    "黄豆芽",
+    "brotes de soja"
+  ],
+  "luffa gourd": [
+    "丝瓜",
+    "lufa"
+  ],
+  "edamame pods": [
+    "毛豆荚",
+    "vainas de soja verde"
+  ],
+  "pinch of salt": [
+    "少许盐",
+    "una pizca de sal"
+  ],
+  "burdock root": [
+    "牛蒡",
+    "raíz de bardana"
+  ],
+  "sesame seeds": [
+    "芝麻",
+    "semillas de sésamo"
+  ],
+  "mirin": [
+    "味醂",
+    "vino dulce de arroz japonés"
+  ],
+  "hijiki seaweed": [
+    "羊栖菜",
+    "alga hijiki"
+  ],
+  "aburaage": [
+    "日式油豆腐",
+    "tofu frito japonés"
+  ],
+  "kabocha squash": [
+    "日本南瓜",
+    "calabaza japonesa"
+  ],
+  "dashi": [
+    "日式高汤",
+    "caldo japonés"
+  ],
+  "daikon": [
+    "白萝卜",
+    "rábano blanco japonés"
+  ],
+  "bonito flakes": [
+    "柴鱼片",
+    "copos de bonito"
+  ],
+  "glutinous rice": [
+    "糯米",
+    "arroz glutinoso"
+  ],
+  "azuki beans": [
+    "红小豆",
+    "judías azuki"
+  ],
+  "pearl barley": [
+    "珍珠大麦",
+    "cebada perlada"
+  ],
+  "buckwheat soba": [
+    "荞麦面",
+    "fideos de trigo sarraceno"
+  ],
+  "nori": [
+    "海苔",
+    "alga nori"
+  ],
+  "silken tofu": [
+    "内酯豆腐",
+    "tofu sedoso"
+  ],
+  "kombu": [
+    "昆布",
+    "alga kombu"
+  ],
+  "komatsuna greens": [
+    "小松菜",
+    "hojas de mostaza japonesa"
+  ],
+  "sesame paste": [
+    "芝麻酱",
+    "pasta de sésamo"
+  ],
+  "shishito peppers": [
+    "狮子唐椒",
+    "pimientos japoneses"
+  ],
+  "enoki mushrooms": [
+    "金针菇",
+    "setas enoki"
+  ],
+  "Japanese sweet potato": [
+    "日本红薯",
+    "boniato japonés"
+  ],
+  "gochugaru": [
+    "韩式辣椒粉",
+    "copos de chile coreano"
+  ],
+  "wakame seaweed": [
+    "裙带菜",
+    "alga wakame"
+  ],
+  "doenjang": [
+    "韩式大酱",
+    "pasta de soja fermentada coreana"
+  ],
+  "soft tofu": [
+    "嫩豆腐",
+    "tofu suave"
+  ],
+  "clams": [
+    "蛤蜊",
+    "almejas"
+  ],
+  "ground soybeans": [
+    "磨碎黄豆",
+    "soja molida"
+  ],
+  "anchovy broth": [
+    "鳀鱼高汤",
+    "caldo de anchoas"
+  ],
+  "lean beef": [
+    "瘦牛肉",
+    "ternera magra"
+  ],
+  "gochujang": [
+    "韩式辣椒酱",
+    "pasta de chile coreana"
+  ],
+  "fernbrake": [
+    "蕨菜",
+    "brotes de helecho"
+  ],
+  "bellflower root": [
+    "桔梗根",
+    "raíz de campanilla"
+  ],
+  "rice syrup": [
+    "米糖浆",
+    "jarabe de arroz"
+  ],
+  "black soybeans": [
+    "黑大豆",
+    "soja negra"
+  ],
+  "garlic chives": [
+    "韭菜",
+    "cebollino chino"
+  ],
+  "perilla leaves": [
+    "紫苏叶",
+    "hojas de perilla"
+  ],
+  "mugwort greens": [
+    "艾草叶",
+    "hojas de artemisa"
+  ],
+  "clam broth": [
+    "蛤蜊高汤",
+    "caldo de almejas"
+  ],
+  "ssamjang": [
+    "韩式包饭酱",
+    "pasta coreana para envolver"
+  ],
+  "mung dal": [
+    "去皮绿豆瓣",
+    "judías mungo peladas y partidas"
+  ],
+  "red lentils": [
+    "红扁豆",
+    "lentejas rojas"
+  ],
+  "toor dal": [
+    "黄木豆瓣",
+    "guandules partidos"
+  ],
+  "drumstick pods": [
+    "辣木荚",
+    "vainas de moringa"
+  ],
+  "sambar powder": [
+    "南印度桑巴香料粉",
+    "mezcla de especias para sopa de lentejas"
+  ],
+  "black pepper": [
+    "黑胡椒",
+    "pimienta negra"
+  ],
+  "curry leaves": [
+    "咖喱叶",
+    "hojas de curry"
+  ],
+  "black-eyed peas": [
+    "黑眼豆",
+    "carillas"
+  ],
+  "black chickpeas": [
+    "黑鹰嘴豆",
+    "garbanzos negros"
+  ],
+  "grated coconut": [
+    "椰丝",
+    "coco rallado"
+  ],
+  "mustard seeds": [
+    "芥菜籽",
+    "semillas de mostaza"
+  ],
+  "beetroot": [
+    "甜菜根",
+    "remolacha"
+  ],
+  "ash gourd": [
+    "冬瓜",
+    "calabaza de cera"
+  ],
+  "moong dal": [
+    "去皮绿豆瓣",
+    "judías mungo peladas y partidas"
+  ],
+  "soaked moong dal": [
+    "浸泡过的绿豆瓣",
+    "judías mungo partidas remojadas"
+  ],
+  "whole-wheat flour": [
+    "全麦面粉",
+    "harina integral de trigo"
+  ],
+  "fenugreek leaves": [
+    "葫芦巴叶",
+    "hojas de alholva"
+  ],
+  "chickpea flour": [
+    "鹰嘴豆粉",
+    "harina de garbanzo"
+  ],
+  "soaked mung dal": [
+    "浸泡过的绿豆瓣",
+    "judías mungo partidas remojadas"
+  ],
+  "flattened rice": [
+    "扁米片",
+    "arroz aplanado"
+  ],
+  "pearl millet flour": [
+    "珍珠粟粉",
+    "harina de mijo perla"
+  ],
+  "warm water": [
+    "温水",
+    "agua templada"
+  ],
+  "green papaya": [
+    "青木瓜",
+    "papaya verde"
+  ],
+  "long beans": [
+    "豇豆",
+    "judías largas"
+  ],
+  "shallot": [
+    "红葱头",
+    "chalota"
+  ],
+  "galangal": [
+    "高良姜",
+    "galanga"
+  ],
+  "lime leaves": [
+    "青柠叶",
+    "hojas de lima"
+  ],
+  "baby corn": [
+    "玉米笋",
+    "mazorquitas de maíz"
+  ],
+  "shrimp paste": [
+    "虾酱",
+    "pasta de gambas"
+  ],
+  "curry paste": [
+    "咖喱酱",
+    "pasta de curry"
+  ],
+  "water spinach": [
+    "空心菜",
+    "espinaca de agua"
+  ],
+  "soybean paste": [
+    "黄豆酱",
+    "pasta de soja"
+  ],
+  "Chinese broccoli": [
+    "芥蓝",
+    "brócoli chino"
+  ],
+  "oyster sauce": [
+    "蚝油",
+    "salsa de ostras"
+  ],
+  "Thai basil": [
+    "泰国罗勒",
+    "albahaca tailandesa"
+  ],
+  "minced chicken": [
+    "鸡肉末",
+    "pollo picado"
+  ],
+  "toasted rice powder": [
+    "烤米粉",
+    "arroz tostado molido"
+  ],
+  "winged beans": [
+    "四棱豆",
+    "judías aladas"
+  ],
+  "glass noodles": [
+    "粉丝",
+    "fideos de cristal"
+  ],
+  "minced pork": [
+    "猪肉末",
+    "cerdo picado"
+  ],
+  "green chili": [
+    "青辣椒",
+    "chile verde"
+  ],
+  "betel leaves": [
+    "蒌叶",
+    "hojas de betel"
+  ],
+  "toasted coconut": [
+    "烤椰丝",
+    "coco tostado"
+  ],
+  "holy basil": [
+    "圣罗勒",
+    "albahaca sagrada"
+  ],
+  "cha om leaves": [
+    "臭菜叶",
+    "hojas de acacia comestible"
+  ],
+  "pomelo": [
+    "柚子",
+    "pomelo"
+  ],
+  "mung bean sprouts": [
+    "绿豆芽",
+    "brotes de judías mungo"
+  ],
+  "jungle curry paste": [
+    "泰式丛林咖喱酱",
+    "pasta de curry de la selva"
+  ],
+  "Chinese cabbage": [
+    "大白菜",
+    "col china"
+  ],
+  "rice paper": [
+    "米纸",
+    "papel de arroz"
+  ],
+  "rice vermicelli": [
+    "细米粉",
+    "fideos finos de arroz"
+  ],
+  "lotus stems": [
+    "莲茎",
+    "tallos de loto"
+  ],
+  "banana blossom": [
+    "香蕉花",
+    "flor de plátano"
+  ],
+  "bean sprouts": [
+    "豆芽",
+    "brotes de legumbres"
+  ],
+  "bottle gourd": [
+    "葫芦",
+    "calabaza de botella"
+  ],
+  "mustard greens": [
+    "芥菜",
+    "hojas de mostaza"
+  ],
+  "Malabar spinach": [
+    "木耳菜",
+    "espinaca de Malabar"
+  ],
+  "amaranth greens": [
+    "苋菜",
+    "hojas de amaranto"
+  ],
+  "sweet potato leaves": [
+    "红薯叶",
+    "hojas de boniato"
+  ],
+  "rice noodles": [
+    "米粉",
+    "fideos de arroz"
+  ],
+  "vegetable spring rolls": [
+    "蔬菜春卷",
+    "rollitos de verduras"
+  ],
+  "grilled pork": [
+    "烤猪肉",
+    "cerdo a la parrilla"
+  ],
+  "star anise": [
+    "八角",
+    "anís estrellado"
+  ],
+  "pandan": [
+    "班兰叶",
+    "hojas de pandano"
+  ],
+  "small amount of sugar": [
+    "少量糖",
+    "una pequeña cantidad de azúcar"
+  ],
+  "peanut sauce": [
+    "花生酱汁",
+    "salsa de cacahuete"
+  ],
+  "palm sugar": [
+    "棕榈糖",
+    "azúcar de palma"
+  ],
+  "kecap manis": [
+    "印尼甜酱油",
+    "salsa de soja dulce indonesia"
+  ],
+  "banana leaf": [
+    "香蕉叶",
+    "hoja de plátano"
+  ],
+  "petai cina": [
+    "银合欢种子",
+    "semillas comestibles de leucaena"
+  ],
+  "sambal": [
+    "印尼辣椒酱",
+    "salsa de chile indonesia"
+  ],
+  "young jackfruit": [
+    "嫩菠萝蜜",
+    "yaca tierna"
+  ],
+  "black pigeon peas": [
+    "黑木豆",
+    "guandules negros"
+  ],
+  "sambal belacan": [
+    "马来虾酱辣椒酱",
+    "salsa malaya de chile y pasta de gambas"
+  ],
+  "green mango": [
+    "青芒果",
+    "mango verde"
+  ],
+  "fiddlehead ferns": [
+    "嫩蕨菜",
+    "brotes tiernos de helecho"
+  ],
+  "belacan": [
+    "马来虾酱",
+    "pasta de gambas malaya"
+  ],
+  "yellow lentils": [
+    "黄扁豆",
+    "lentejas amarillas"
+  ],
+  "laksa leaves": [
+    "叻沙叶",
+    "cilantro vietnamita"
+  ],
+  "tea leaves": [
+    "茶叶",
+    "hojas de té"
+  ],
+  "spring roll wrappers": [
+    "春卷皮",
+    "obleas para rollitos"
+  ],
+  "choy sum": [
+    "菜心",
+    "choy sum"
+  ],
+  "malunggay leaves": [
+    "辣木叶",
+    "hojas de moringa"
+  ],
+  "bagoong": [
+    "菲律宾发酵虾鱼酱",
+    "pasta filipina fermentada de pescado o gambas"
+  ],
+  "fish broth": [
+    "鱼高汤",
+    "caldo de pescado"
+  ],
+  "leafy greens": [
+    "绿叶菜",
+    "verduras de hoja"
+  ],
+  "dried taro leaves": [
+    "干芋叶",
+    "hojas secas de taro"
+  ],
+  "edible fern": [
+    "食用蕨菜",
+    "helecho comestible"
+  ],
+  "dulong fish": [
+    "菲律宾小银鱼",
+    "pececillos filipinos"
+  ],
+  "kangkong": [
+    "空心菜",
+    "espinaca de agua"
+  ],
+  "peppercorns": [
+    "胡椒粒",
+    "granos de pimienta"
+  ],
+  "fresh wrappers": [
+    "鲜春卷皮",
+    "obleas para rollitos frescos"
+  ],
+  "calamansi": [
+    "四季橘",
+    "calamondina"
+  ],
+  "white beans": [
+    "白豆",
+    "judías blancas"
+  ],
+  "giant beans": [
+    "大白豆",
+    "judiones"
+  ],
+  "sumac": [
+    "漆树果香料",
+    "zumaque"
+  ],
+  "whole-grain bread": [
+    "全谷物面包",
+    "pan integral"
+  ],
+  "whole-wheat pasta": [
+    "全麦意面",
+    "pasta integral de trigo"
+  ],
+  "red onion": [
+    "红洋葱",
+    "cebolla roja"
+  ],
+  "sardines": [
+    "沙丁鱼",
+    "sardinas"
+  ],
+  "pinto beans": [
+    "花斑豆",
+    "frijoles pintos"
+  ],
+  "chili powder": [
+    "辣椒粉",
+    "chile en polvo"
+  ],
+  "lean turkey": [
+    "瘦火鸡肉",
+    "pavo magro"
+  ],
+  "split peas": [
+    "豌豆瓣",
+    "guisantes partidos"
+  ],
+  "pumpkin seeds": [
+    "南瓜籽",
+    "semillas de calabaza"
+  ],
+  "farro": [
+    "法罗麦",
+    "farro"
+  ],
+  "rolled oats": [
+    "压片燕麦",
+    "copos de avena"
+  ],
+  "chia seeds": [
+    "奇亚籽",
+    "semillas de chía"
+  ],
+  "bell peppers": [
+    "甜椒",
+    "pimientos"
+  ],
+  "Brussels sprouts": [
+    "抱子甘蓝",
+    "coles de Bruselas"
+  ],
+  "parsnip": [
+    "欧洲防风根",
+    "chirivía"
+  ],
+  "collard greens": [
+    "羽衣甘蓝",
+    "berza"
+  ],
+  "whole-grain buns": [
+    "全谷物小圆面包",
+    "panecillos integrales"
+  ],
+  "vegetable broth": [
+    "蔬菜高汤",
+    "caldo de verduras"
+  ],
+  "portobello mushrooms": [
+    "褐菇",
+    "setas portobello"
+  ],
+  "Swiss chard": [
+    "瑞士甜菜",
+    "acelgas"
+  ],
+  "plain yogurt": [
+    "原味酸奶",
+    "yogur natural"
+  ],
+  "whole-wheat pita": [
+    "全麦皮塔饼",
+    "pan pita integral"
+  ],
+  "butter beans": [
+    "利马大白豆",
+    "judías manteca"
+  ],
+  "ground flaxseed": [
+    "亚麻籽粉",
+    "semillas de lino molidas"
+  ],
+  "fortified soy milk": [
+    "营养强化豆奶",
+    "bebida de soja enriquecida"
+  ],
+  "no-salt-added chickpeas": [
+    "无添加盐鹰嘴豆",
+    "garbanzos sin sal añadida"
+  ],
+  "unsalted vegetable broth": [
+    "无盐蔬菜高汤",
+    "caldo de verduras sin sal"
+  ],
+  "no-salt-added white beans": [
+    "无添加盐白豆",
+    "judías blancas sin sal añadida"
+  ],
+  "low-fat milk": [
+    "低脂牛奶",
+    "leche baja en grasa"
+  ],
+  "oat bran": [
+    "燕麦麸",
+    "salvado de avena"
+  ],
+  "plain low-fat yogurt": [
+    "低脂原味酸奶",
+    "yogur natural bajo en grasa"
+  ],
+  "no-salt-added black beans": [
+    "无添加盐黑豆",
+    "judías negras sin sal añadida"
+  ],
+  "no-salt-added tomato": [
+    "无添加盐番茄",
+    "tomate sin sal añadida"
+  ],
+  "unsalted broth": [
+    "无盐高汤",
+    "caldo sin sal"
+  ],
+  "whole-grain low-sodium bread": [
+    "低钠全谷物面包",
+    "pan integral bajo en sodio"
+  ],
+  "goat cheese": [
+    "山羊奶酪",
+    "queso de cabra"
+  ],
+  "unsweetened coconut milk": [
+    "无糖椰奶",
+    "leche de coco sin azúcar"
+  ],
+  "unsweetened almond milk": [
+    "无糖杏仁奶",
+    "bebida de almendras sin azúcar"
+  ],
+  "plain unsweetened Greek yogurt": [
+    "无糖原味希腊酸奶",
+    "yogur griego natural sin azúcar"
+  ],
+  "cooked pinto beans": [
+    "煮熟花斑豆",
+    "frijoles pintos cocidos"
+  ],
+  "cooked black beans": [
+    "煮熟黑豆",
+    "judías negras cocidas"
+  ],
+  "chile serrano": [
+    "塞拉诺辣椒",
+    "chile serrano"
+  ],
+  "queso fresco": [
+    "鲜奶酪",
+    "queso fresco"
+  ],
+  "cooked nopales": [
+    "煮熟仙人掌茎片",
+    "nopales cocidos"
+  ],
+  "quelites greens": [
+    "墨西哥食用野菜",
+    "quelites"
+  ],
+  "roasted poblano peppers": [
+    "烤波布拉诺椒",
+    "chiles poblanos asados"
+  ],
+  "chipotle": [
+    "烟熏墨西哥辣椒",
+    "chile chipotle"
+  ],
+  "guajillo chile": [
+    "瓜希略辣椒",
+    "chile guajillo"
+  ],
+  "corn tortillas": [
+    "玉米薄饼",
+    "tortillas de maíz"
+  ],
+  "pasilla chile": [
+    "帕西亚辣椒",
+    "chile pasilla"
+  ],
+  "achiote": [
+    "胭脂树籽",
+    "achiote"
+  ],
+  "chile powder": [
+    "辣椒粉",
+    "chile en polvo"
+  ],
+  "masa harina": [
+    "碱化玉米粉",
+    "harina de maíz nixtamalizado"
+  ],
+  "cooked beans": [
+    "煮熟豆子",
+    "judías cocidas"
+  ],
+  "salt cod": [
+    "咸鳕鱼",
+    "bacalao salado"
+  ],
+  "prepared lupini beans": [
+    "处理妥当的羽扇豆",
+    "altramuces preparados"
+  ],
+  "toasted corn": [
+    "烤玉米",
+    "maíz tostado"
+  ],
+  "cooked fava beans": [
+    "煮熟蚕豆",
+    "habas cocidas"
+  ],
+  "fava beans": [
+    "蚕豆",
+    "habas"
+  ],
+  "fresh cheese": [
+    "鲜奶酪",
+    "queso fresco"
+  ],
+  "cooked hominy": [
+    "煮熟碱化大粒玉米",
+    "maíz nixtamalizado cocido"
+  ],
+  "pork drippings": [
+    "猪肉炼出的油脂",
+    "grasa de cocción de cerdo"
+  ],
+  "green bananas": [
+    "青香蕉",
+    "plátanos verdes"
+  ],
+  "green plantain": [
+    "青大蕉",
+    "plátano macho verde"
+  ],
+  "yuca": [
+    "木薯",
+    "yuca"
+  ],
+  "fresh corn": [
+    "鲜玉米",
+    "maíz tierno"
+  ],
+  "corn husks": [
+    "玉米苞叶",
+    "hojas de maíz"
+  ],
+  "pink beans": [
+    "粉红豆",
+    "habichuelas rosadas"
+  ],
+  "bay leaf": [
+    "月桂叶",
+    "hoja de laurel"
+  ],
+  "pigeon peas": [
+    "木豆",
+    "guandules"
+  ],
+  "malanga": [
+    "芋类根茎",
+    "malanga"
+  ],
+  "green banana": [
+    "青香蕉",
+    "plátano verde"
+  ],
+  "elbow macaroni": [
+    "弯管通心粉",
+    "macarrones de codo"
+  ],
+  "desalted cooked salt cod": [
+    "脱盐煮熟咸鳕鱼",
+    "bacalao desalado y cocido"
+  ],
+  "desalted salt cod": [
+    "脱盐咸鳕鱼",
+    "bacalao desalado"
+  ],
+  "cooked fish": [
+    "熟鱼肉",
+    "pescado cocido"
+  ],
+  "garam masala": [
+    "印度混合香料",
+    "mezcla india de especias"
+  ],
+  "Chinese home cooking": [
+    "中式家常菜",
+    "Cocina casera china"
+  ],
+  "China": [
+    "中国",
+    "China"
+  ],
+  "Japanese": [
+    "日式料理",
+    "Cocina japonesa"
+  ],
+  "Japan": [
+    "日本",
+    "Japón"
+  ],
+  "Korean": [
+    "韩式料理",
+    "Cocina coreana"
+  ],
+  "Korea": [
+    "韩国",
+    "Corea"
+  ],
+  "Indian": [
+    "印度料理",
+    "Cocina india"
+  ],
+  "India": [
+    "印度",
+    "India"
+  ],
+  "Thai": [
+    "泰式料理",
+    "Cocina tailandesa"
+  ],
+  "Thailand": [
+    "泰国",
+    "Tailandia"
+  ],
+  "Vietnamese": [
+    "越南料理",
+    "Cocina vietnamita"
+  ],
+  "Vietnam": [
+    "越南",
+    "Vietnam"
+  ],
+  "Indonesian": [
+    "印尼料理",
+    "Cocina indonesia"
+  ],
+  "Indonesia": [
+    "印度尼西亚",
+    "Indonesia"
+  ],
+  "Malaysian": [
+    "马来西亚料理",
+    "Cocina malasia"
+  ],
+  "Malaysia": [
+    "马来西亚",
+    "Malasia"
+  ],
+  "Filipino": [
+    "菲律宾料理",
+    "Cocina filipina"
+  ],
+  "Philippines": [
+    "菲律宾",
+    "Filipinas"
+  ],
+  "Mediterranean": [
+    "地中海饮食",
+    "Alimentación mediterránea"
+  ],
+  "American balanced": [
+    "美式均衡饮食",
+    "Alimentación estadounidense equilibrada"
+  ],
+  "United States": [
+    "美国",
+    "Estados Unidos"
+  ],
+  "Vegetarian": [
+    "蛋奶素食",
+    "Alimentación vegetariana"
+  ],
+  "Plant-forward": [
+    "以植物为主",
+    "Predominio vegetal"
+  ],
+  "Vegan": [
+    "纯素饮食",
+    "Alimentación vegana"
+  ],
+  "Plant-based": [
+    "植物性饮食",
+    "Alimentación vegetal"
+  ],
+  "DASH / lower sodium": [
+    "得舒饮食／低钠",
+    "Dieta DASH / menos sodio"
+  ],
+  "Balanced eating pattern": [
+    "均衡饮食模式",
+    "Patrón alimentario equilibrado"
+  ],
+  "Keto / very low carbohydrate": [
+    "生酮／极低碳水饮食",
+    "Dieta cetogénica / muy baja en carbohidratos"
+  ],
+  "Diet pattern": [
+    "饮食模式",
+    "Patrón alimentario"
+  ],
+  "Mexican": [
+    "墨西哥料理",
+    "Cocina mexicana"
+  ],
+  "Mexico": [
+    "墨西哥",
+    "México"
+  ],
+  "Ecuadorian": [
+    "厄瓜多尔料理",
+    "Cocina ecuatoriana"
+  ],
+  "Ecuador": [
+    "厄瓜多尔",
+    "Ecuador"
+  ],
+  "Puerto Rican": [
+    "波多黎各料理",
+    "Cocina puertorriqueña"
+  ],
+  "Puerto Rico": [
+    "波多黎各",
+    "Puerto Rico"
+  ],
+  "Regional Chinese home cooking offers many vegetable, tofu and bean dishes. Build a varied table with a vegetable side, a protein dish and a suitable portion of rice or noodles.": [
+    "中国各地的家常菜有丰富的蔬菜、豆腐和豆类菜肴。搭配一份蔬菜配菜、一份蛋白质菜肴和适量米饭或面食，让餐桌更丰富。",
+    "La cocina casera de las regiones de China ofrece muchas verduras, tofu y legumbres. Combine una guarnición vegetal, un plato proteico y una porción adecuada de arroz o fideos."
+  ],
+  "Choose steamed or quickly stir-fried vegetables often; measure oil and salty sauces. Serve brown rice alongside the traditional dish if you enjoy it.": [
+    "经常选择蒸菜或快炒蔬菜；量取油和咸味酱料。喜欢的话，可在传统菜肴旁搭配糙米饭。",
+    "Elija a menudo verduras al vapor o salteadas brevemente; mida el aceite y las salsas saladas. Acompañe el plato tradicional con arroz integral si le gusta."
+  ],
+  "Japanese meals often combine rice, soup and several small dishes. Beans, sea vegetables and seasonal vegetables add variety; fish and tofu can provide protein.": [
+    "日式餐食常由米饭、汤和几样小菜组成。豆类、海藻和时令蔬菜增加多样性，鱼和豆腐可提供蛋白质。",
+    "Las comidas japonesas suelen combinar arroz, sopa y varios platos pequeños. Las legumbres, las algas y las verduras de temporada aportan variedad; el pescado y el tofu pueden proporcionar proteínas."
+  ],
+  "Enjoy miso and soy sauce in modest amounts. Edamame, vegetables and mixed-grain rice can help build a fiber-containing meal.": [
+    "适量使用味噌和酱油。毛豆、蔬菜和杂粮饭有助于组成含膳食纤维的一餐。",
+    "Disfrute del miso y la salsa de soja con moderación. La soja verde, las verduras y el arroz multigrano ayudan a formar una comida con fibra."
+  ],
+  "Korean home meals offer soups, rice and banchan: small vegetable and protein side dishes. Choose a mix of colors and include beans, tofu or fish.": [
+    "韩式家常餐食有汤、米饭和小份蔬菜或蛋白质配菜。选择多种颜色，并加入豆类、豆腐或鱼。",
+    "Las comidas caseras coreanas ofrecen sopas, arroz y pequeñas guarniciones de verduras y proteínas. Combine colores e incluya legumbres, tofu o pescado."
+  ],
+  "Fermented foods and sauces can be salty. Balance smaller portions of kimchi and sauces with unsalted vegetables and multigrain rice.": [
+    "发酵食品和酱料可能含盐较多。用少量泡菜和酱料，搭配不加盐的蔬菜及杂粮饭。",
+    "Los fermentados y las salsas pueden ser salados. Equilibre pequeñas porciones de kimchi y salsas con verduras sin sal y arroz multigrano."
+  ],
+  "Indian regional cooking includes many pulses, vegetables and whole-grain breads. Dal, chana and bean dishes are useful plant-protein and fiber building blocks.": [
+    "印度各地料理包含多种豆类、蔬菜和全谷物面饼。扁豆、鹰嘴豆和其他豆类菜肴是植物蛋白和纤维的良好搭配基础。",
+    "Las cocinas regionales de la India incluyen legumbres, verduras y panes integrales. Las lentejas, los garbanzos y otras judías ayudan a aportar proteína vegetal y fibra."
+  ],
+  "Keep the traditional spices; adjust portions of ghee, oil and salty pickles. Pair dal with vegetables and an appropriate serving of rice or roti.": [
+    "保留传统香料风味，调整酥油、食用油和咸味腌菜的份量。将豆类炖菜搭配蔬菜，以及适量米饭或面饼。",
+    "Conserve las especias tradicionales; ajuste las cantidades de mantequilla clarificada, aceite y encurtidos salados. Acompañe las lentejas con verduras y una porción adecuada de arroz o pan plano."
+  ],
+  "Thai food balances herbs, sourness, heat and savory seasonings. Vegetable dishes, clear soups and smaller portions of rich curries can fit a varied eating pattern.": [
+    "泰国菜讲究香草、酸味、辣味和鲜味的平衡。蔬菜、清汤和较小份量的浓郁咖喱可融入多样化饮食。",
+    "La cocina tailandesa equilibra hierbas, acidez, picante y sabores salados. Las verduras, las sopas claras y pequeñas porciones de curris cremosos pueden integrarse en una alimentación variada."
+  ],
+  "Use fish sauce and curry paste thoughtfully. Add a separate vegetable dish rather than changing the identity of a traditional recipe.": [
+    "合理使用鱼露和咖喱酱。可另配一道蔬菜，而不必改变传统食谱的特色。",
+    "Use la salsa de pescado y la pasta de curry con cuidado. Añada un plato de verduras aparte en lugar de cambiar la identidad de una receta tradicional."
+  ],
+  "Vietnamese meals feature fresh herbs, vegetables, broths and rice. Bean dishes, vegetable sides and herb-rich plates create variety without relying on large amounts of oil.": [
+    "越南餐食以新鲜香草、蔬菜、汤和米饭为特色。豆类、蔬菜配菜及香草丰富的餐盘无需大量用油也能提供多样性。",
+    "La cocina vietnamita destaca las hierbas frescas, las verduras, los caldos y el arroz. Las legumbres y las guarniciones vegetales con hierbas crean variedad sin depender de mucho aceite."
+  ],
+  "Broths, dipping sauces and pickles can add sodium. Taste before adding more sauce and include plenty of vegetables.": [
+    "汤、蘸酱和腌菜会增加钠摄入。加酱前先尝味，并搭配充足蔬菜。",
+    "Los caldos, las salsas y los encurtidos pueden aportar sodio. Pruebe antes de añadir más salsa e incluya abundantes verduras."
+  ],
+  "Indonesia has a rich range of regional vegetable, tempeh and tofu dishes. Build meals around vegetables and pulses, with coconut-rich sauces in portions that suit your needs.": [
+    "印尼各地有丰富的蔬菜、天贝和豆腐菜肴。以蔬菜和豆类搭配餐食，并按需要控制椰香浓酱的份量。",
+    "Indonesia cuenta con gran variedad de platos regionales de verduras, tempeh y tofu. Organice las comidas en torno a verduras y legumbres, con porciones de salsas de coco acordes con sus necesidades."
+  ],
+  "Tempeh and vegetables offer fiber-containing choices. Peanut sauces and coconut milk are flavorful but energy-dense, so serve thoughtfully.": [
+    "天贝和蔬菜可提供膳食纤维。花生酱汁和椰奶风味浓郁但能量较高，注意份量。",
+    "El tempeh y las verduras ofrecen opciones con fibra. Las salsas de cacahuete y la leche de coco son sabrosas pero energéticas; sirva porciones adecuadas."
+  ],
+  "Malaysian cooking reflects distinct Malay, Chinese and Indian traditions. Vegetable sides, lentil dishes and ulam provide many ways to build a plant-rich plate.": [
+    "马来西亚料理体现马来、华人和印度的不同传统。蔬菜配菜、扁豆和鲜蔬拼盘提供多种植物性搭配方式。",
+    "La cocina malasia refleja tradiciones malayas, chinas e indias. Las guarniciones vegetales, las lentejas y las verduras frescas ofrecen muchas formas de preparar un plato rico en vegetales."
+  ],
+  "Include ulam or cooked vegetables and choose portions of rice, coconut gravies and sweet sauces that fit your appetite.": [
+    "搭配鲜蔬或熟蔬菜，并按食量选择米饭、椰奶酱汁和甜酱的份量。",
+    "Incluya verduras frescas o cocidas y ajuste a su apetito las porciones de arroz, salsas de coco y salsas dulces."
+  ],
+  "Filipino home cooking includes leafy soups, mung bean stews and vegetable dishes alongside rice and protein. Explore regional vegetable dishes rather than treating one dish as a complete diet.": [
+    "菲律宾家常菜包含绿叶菜汤、绿豆炖菜和蔬菜，搭配米饭与蛋白质。探索各地蔬菜菜肴，不把某一道菜当成完整的饮食方案。",
+    "La cocina casera filipina incluye sopas de hojas verdes, guisos de mungo y verduras junto con arroz y proteínas. Explore los platos vegetales regionales sin considerar un solo plato una dieta completa."
+  ],
+  "Choose more vegetables and mung beans; balance salty condiments and fried foods with soups and steamed sides.": [
+    "多选择蔬菜和绿豆；用汤和蒸菜平衡咸味调料及油炸食品。",
+    "Elija más verduras y judías mungo; equilibre los condimentos salados y los fritos con sopas y guarniciones al vapor."
+  ],
+  "A Mediterranean pattern emphasizes vegetables, fruit, legumes, whole grains, olive oil and nuts, with fish and other proteins. It is an eating pattern rather than a single country’s cuisine.": [
+    "地中海饮食重视蔬菜、水果、豆类、全谷物、橄榄油和坚果，同时搭配鱼等蛋白质来源。这是一种饮食模式，并非某一个国家的菜系。",
+    "El patrón mediterráneo prioriza verduras, frutas, legumbres, cereales integrales, aceite de oliva y frutos secos, junto con pescado y otras proteínas. Es un patrón alimentario, no la cocina de un solo país."
+  ],
+  "Build fiber through beans, lentils, vegetables and whole grains. Olive oil and nuts are useful foods, but portions still matter.": [
+    "通过豆类、扁豆、蔬菜和全谷物增加纤维。橄榄油和坚果是有用的食物，但仍需注意份量。",
+    "Aporte fibra mediante judías, lentejas, verduras y cereales integrales. El aceite de oliva y los frutos secos son útiles, pero las porciones siguen siendo importantes."
+  ],
+  "A balanced American-style plate can include familiar soups, grain bowls and vegetable sides. Choose minimally processed ingredients often and include beans, whole grains and seasonal produce.": [
+    "均衡的美式餐盘可包含熟悉的汤、谷物碗和蔬菜配菜。经常选择少加工食材，并加入豆类、全谷物和时令蔬果。",
+    "Un plato estadounidense equilibrado puede incluir sopas familiares, cuencos de cereales y guarniciones vegetales. Elija a menudo ingredientes poco procesados e incluya legumbres, cereales integrales y productos de temporada."
+  ],
+  "Aim for a colorful plate with vegetables, a protein source and whole grains or starchy vegetables. Adjust portions to your needs.": [
+    "让餐盘色彩丰富，包含蔬菜、蛋白质，以及全谷物或淀粉类蔬菜。按自身需要调整份量。",
+    "Busque un plato colorido con verduras, una fuente de proteína y cereales integrales o verduras feculentas. Ajuste las porciones a sus necesidades."
+  ],
+  "Vegetarian eating excludes meat and fish but may include eggs and dairy. Make protein, iron, calcium and vitamin B12 part of your planning, alongside varied plant foods.": [
+    "蛋奶素食不吃肉和鱼，但可包含鸡蛋及乳制品。除多样植物性食物外，也要规划蛋白质、铁、钙和维生素B12。",
+    "La alimentación vegetariana excluye carne y pescado, pero puede incluir huevos y lácteos. Planifique las proteínas, el hierro, el calcio y la vitamina B12 junto con alimentos vegetales variados."
+  ],
+  "Use beans, lentils, tofu, eggs or dairy for protein. Fiber comes from plant ingredients; cheese-heavy meals do not automatically provide much fiber.": [
+    "用豆类、扁豆、豆腐、鸡蛋或乳制品获取蛋白质。纤维来自植物性食材；奶酪较多的一餐不一定富含纤维。",
+    "Use judías, lentejas, tofu, huevos o lácteos como proteínas. La fibra procede de los ingredientes vegetales; una comida con mucho queso no aporta automáticamente mucha fibra."
+  ],
+  "Vegan eating excludes animal-derived foods. Beans, soy foods, grains, nuts, seeds and vegetables create variety; reliable vitamin B12 and attention to other key nutrients are important.": [
+    "纯素饮食不含动物来源食物。豆类、豆制品、谷物、坚果、种子和蔬菜提供多样性；可靠的维生素B12来源及其他关键营养素同样重要。",
+    "La alimentación vegana excluye los alimentos de origen animal. Las legumbres, la soja, los cereales, los frutos secos, las semillas y las verduras aportan variedad; son importantes una fuente fiable de vitamina B12 y otros nutrientes esenciales."
+  ],
+  "Include a substantial plant protein and a calcium source. Choose fortified products when appropriate; unfortified plant foods are not a reliable B12 source.": [
+    "搭配充足植物蛋白和钙来源，必要时选择营养强化食品。未经强化的植物性食物不是可靠的维生素B12来源。",
+    "Incluya una fuente abundante de proteína vegetal y una fuente de calcio. Elija productos enriquecidos cuando corresponda; los vegetales sin enriquecer no son una fuente fiable de vitamina B12."
+  ],
+  "DASH emphasizes vegetables, fruit, whole grains, beans, nuts, and suitable low-fat dairy or alternatives. Lower sodium choices and an overall balanced pattern matter more than a single recipe.": [
+    "得舒饮食重视蔬菜、水果、全谷物、豆类、坚果，以及合适的低脂乳制品或替代品。低钠选择和整体均衡比单一道食谱更重要。",
+    "La dieta DASH prioriza verduras, frutas, cereales integrales, legumbres, frutos secos y lácteos bajos en grasa o alternativas adecuadas. Reducir el sodio y mantener el equilibrio global importa más que una receta aislada."
+  ],
+  "Use no-salt-added beans and broth, rinse canned beans, and flavor with herbs, garlic, spices and citrus. These recipes have no added salt in the outlines.": [
+    "使用无添加盐豆类和高汤，冲洗罐装豆类，并用香草、大蒜、香料和柑橘调味。这些烹饪提纲不额外加盐。",
+    "Use legumbres y caldos sin sal añadida, enjuague las conservas y sazone con hierbas, ajo, especias y cítricos. Estas guías no añaden sal."
+  ],
+  "Ketogenic eating sharply limits carbohydrate and usually increases fat. It is not necessary for everyone and can make fiber harder to obtain; focus on non-starchy vegetables, seeds and nuts.": [
+    "生酮饮食严格限制碳水化合物，通常增加脂肪。并非人人都需要，而且可能更难摄入足够纤维；应关注非淀粉类蔬菜、种子和坚果。",
+    "La alimentación cetogénica limita mucho los carbohidratos y suele aumentar la grasa. No es necesaria para todo el mundo y puede dificultar obtener fibra; priorice verduras no feculentas, semillas y frutos secos."
+  ],
+  "These are lower-carbohydrate meal ideas, not calculated keto prescriptions. Portions and total daily carbohydrate determine whether a meal fits your plan. Discuss major restrictions with your clinician when relevant.": [
+    "这些是较低碳水餐食创意，并非经过计算的生酮处方。份量和全天碳水总量决定是否适合您的计划。如需大幅限制饮食，请咨询医生。",
+    "Estas son ideas con menos carbohidratos, no prescripciones cetogénicas calculadas. Las porciones y el total diario de carbohidratos determinan si encajan en su plan. Consulte con su profesional sanitario sobre restricciones importantes cuando corresponda."
+  ],
+  "Mexican regional cooking includes beans, corn, squash, nopales and many vegetable preparations. Explore traditional dishes and sides together rather than treating a cuisine as one restrictive diet.": [
+    "墨西哥各地料理包含豆类、玉米、南瓜、仙人掌和丰富蔬菜做法。将传统主菜与配菜一起探索，而非把整个菜系视为一种限制性饮食。",
+    "La cocina regional mexicana incluye frijoles, maíz, calabaza, nopales y numerosas preparaciones vegetales. Explore platos y guarniciones tradicionales sin tratar toda una cocina como una dieta restrictiva."
+  ],
+  "Combine a traditional main with beans or vegetables. Measure oil and salty toppings; these outlines do not establish nutrient amounts.": [
+    "传统主菜可搭配豆类或蔬菜。量取油和咸味配料；这些提纲未确定营养含量。",
+    "Combine un plato tradicional con frijoles o verduras. Mida el aceite y los acompañamientos salados; estas guías no establecen cantidades de nutrientes."
+  ],
+  "Ecuadorian coastal and Andean traditions include beans, lupini, corn, quinoa, plantain and vegetable-rich soups. The dishes here span those traditions; serving customs vary by region and household.": [
+    "厄瓜多尔沿海和安第斯传统包含豆类、羽扇豆、玉米、藜麦、大蕉和丰富蔬菜汤。这里的菜肴涵盖这些传统；上菜习惯因地区和家庭而异。",
+    "Las tradiciones costeras y andinas de Ecuador incluyen fréjoles, chochos, maíz, quinua, plátano y sopas con muchas verduras. Estos platos abarcan ambas tradiciones; las costumbres varían según la región y el hogar."
+  ],
+  "Try a bean or chocho salad alongside a main. Choose portions of rice, plantain and potatoes that fit your meal, and use full recipes for specialty preparation.": [
+    "主菜旁可搭配豆类或羽扇豆沙拉。按整餐需要选择米饭、大蕉和土豆份量，特殊食材请参阅完整食谱。",
+    "Pruebe una ensalada de fréjoles o chochos junto al plato principal. Ajuste las porciones de arroz, plátano y patata a su comida y consulte recetas completas para preparaciones especiales."
+  ],
+  "Puerto Rican cooking brings together sofrito, legumes, root vegetables, rice and seafood. Explore vegetable and bean sides with traditional main dishes; not every traditional dish is high in fiber.": [
+    "波多黎各料理融合香料蔬菜底酱、豆类、根茎、米饭和海鲜。将蔬菜和豆类配菜与传统主菜搭配；并非每道传统菜都富含纤维。",
+    "La cocina puertorriqueña reúne sofrito, legumbres, raíces, arroz y mariscos. Explore guarniciones vegetales y de legumbres con platos tradicionales; no todos los platos tradicionales son ricos en fibra."
+  ],
+  "Include habichuelas, gandules or a vegetable side when building your plate. Salt cod needs desalting and raw root vegetables need proper cooking; consult a complete recipe.": [
+    "搭配红豆、木豆或蔬菜配菜。咸鳕鱼需要脱盐，生根茎需要妥善烹调；请参阅完整食谱。",
+    "Incluya habichuelas, gandules o una guarnición vegetal. El bacalao necesita desalarse y las raíces crudas requieren cocción adecuada; consulte una receta completa."
+  ],
+  "Wash and cut the vegetables into similar sizes. Drain tofu or cooked beans, if used; slice other protein separately.": [
+    "清洗蔬菜，切成大小相近的块。使用豆腐或熟豆时先沥干，其他蛋白质食材另行切好。",
+    "Lave las verduras y córtelas en tamaños similares. Escurra el tofu o las legumbres cocidas, si se usan; corte las demás proteínas por separado."
+  ],
+  "Heat a small measured amount of oil in a wide pan. Briefly soften the listed aromatics, then add the firmest vegetables first.": [
+    "在宽锅中加热量取好的少量油。将所列葱姜蒜等炒香，再先放入最硬的蔬菜。",
+    "Caliente una pequeña cantidad medida de aceite en una sartén amplia. Ablande brevemente los aromáticos indicados y añada primero las verduras más firmes."
+  ],
+  "Add tender vegetables and the protein, keeping raw meat or seafood separate from ready-to-eat ingredients until cooked. Stir often; add a splash of water if needed.": [
+    "加入嫩蔬菜和蛋白质食材；生肉或海鲜煮熟前不要接触即食食材。经常翻炒，必要时加少许水。",
+    "Añada las verduras tiernas y la proteína; mantenga la carne o el marisco crudos separados de los alimentos listos para comer hasta que estén cocidos. Remueva a menudo y agregue un poco de agua si hace falta."
+  ],
+  "Add the listed sauce or acid near the end. Taste before adding salt. Cook until the vegetables are tender and any animal protein reaches a safe internal temperature.": [
+    "接近出锅时加入所列酱料或酸味调料。加盐前先尝味。炒至蔬菜熟软，动物性蛋白达到安全内部温度。",
+    "Añada la salsa o el ingrediente ácido indicado al final. Pruebe antes de salar. Cocine hasta que las verduras estén tiernas y las proteínas animales alcancen una temperatura interna segura."
+  ],
+  "Wash and chop the vegetables; rinse pulses. Use cooked beans unless the detailed recipe specifically describes cooking dried beans.": [
+    "清洗切好蔬菜，冲洗豆类。除非完整食谱明确说明如何煮干豆，否则请使用煮熟豆类。",
+    "Lave y pique las verduras; enjuague las legumbres. Use legumbres cocidas salvo que la receta completa indique cómo cocinar las secas."
+  ],
+  "Soften the listed aromatics in a little oil or water. Add firm vegetables, pulses and enough water or unsalted broth to cover.": [
+    "用少量油或水炒软所列葱姜蒜等。加入较硬蔬菜、豆类及足以没过食材的水或无盐高汤。",
+    "Ablande los aromáticos indicados con un poco de aceite o agua. Añada las verduras firmes, las legumbres y suficiente agua o caldo sin sal para cubrir."
+  ],
+  "Simmer until the firm ingredients are tender. Add delicate greens, tofu or noodles near the end; cook animal proteins fully.": [
+    "小火煮至较硬食材变软。临近完成时加入嫩叶菜、豆腐或面条；动物性蛋白须彻底煮熟。",
+    "Cueza a fuego lento hasta que los ingredientes firmes estén tiernos. Añada las hojas delicadas, el tofu o los fideos al final; cocine completamente las proteínas animales."
+  ],
+  "Season with the listed herbs, spices or acid. Adjust the liquid to your preferred consistency and serve hot.": [
+    "用所列香草、香料或酸味调料调味。按喜好调整汤的浓稠度，趁热食用。",
+    "Sazone con las hierbas, las especias o el ácido indicados. Ajuste el líquido a la consistencia deseada y sirva caliente."
+  ],
+  "Wash all produce and herbs well. Cook any beans, grains, eggs, seafood or meat before combining; cool promptly if serving cold.": [
+    "充分清洗蔬果和香草。豆类、谷物、鸡蛋、海鲜和肉类应先煮熟再混合；冷食时及时降温。",
+    "Lave bien todos los vegetales y las hierbas. Cocine las legumbres, los cereales, los huevos, el marisco o la carne antes de mezclarlos; enfríe pronto si se sirven fríos."
+  ],
+  "Cut or shred the vegetables as appropriate to the dish. Blanch firm greens or sprouts when the traditional preparation calls for it.": [
+    "按菜肴需要切块或切丝。传统做法有要求时，将较硬叶菜或芽菜焯水。",
+    "Corte o ralle las verduras según el plato. Escalde las hojas firmes o los brotes cuando lo requiera la preparación tradicional."
+  ],
+  "Combine the listed acid, aromatics and a modest amount of oil or sauce separately. Toss with the prepared ingredients just before serving.": [
+    "另将所列酸味调料、葱姜蒜等和适量油或酱料混合。临上桌前再拌入处理好的食材。",
+    "Mezcle por separado el ácido, los aromáticos y una cantidad moderada de aceite o salsa indicados. Aliñe los ingredientes preparados justo antes de servir."
+  ],
+  "Add nuts, seeds or fresh herbs at the end. Keep chilled until serving, and check the source recipe for any dish-specific preparation.": [
+    "最后加入坚果、种子或新鲜香草。食用前保持冷藏，并查阅原食谱的具体处理要求。",
+    "Añada los frutos secos, las semillas o las hierbas frescas al final. Mantenga refrigerado hasta servir y consulte la receta original para la preparación específica."
+  ],
+  "Prepare the vegetables or protein in evenly sized pieces and place in a heatproof dish. Add the listed aromatics.": [
+    "将蔬菜或蛋白质食材处理成大小均匀的块，放入耐热盘中，加入所列葱姜蒜等。",
+    "Prepare las verduras o proteínas en trozos uniformes y colóquelos en un recipiente resistente al calor. Añada los aromáticos indicados."
+  ],
+  "Bring water to a steady simmer in a steamer. Keep the food above the water; cover while cooking.": [
+    "将蒸锅的水加热至稳定沸腾。食物应高于水面，蒸制时盖好锅盖。",
+    "Lleve el agua de la vaporera a una ebullición suave y constante. Mantenga los alimentos por encima del agua y tape durante la cocción."
+  ],
+  "Steam until the vegetables are tender and any eggs, meat or seafood are fully cooked. Top up the steamer water when needed.": [
+    "蒸至蔬菜熟软，鸡蛋、肉或海鲜彻底熟透。必要时为蒸锅补水。",
+    "Cocine al vapor hasta que las verduras estén tiernas y los huevos, la carne o el marisco estén completamente hechos. Reponga el agua de la vaporera cuando haga falta."
+  ],
+  "Carefully remove the hot dish, then add the listed sauce or fresh herbs. Follow the full source recipe for timing and special ingredients.": [
+    "小心取出热盘，再加入所列酱料或新鲜香草。具体时间及特殊食材请遵循完整食谱。",
+    "Retire con cuidado el recipiente caliente y añada la salsa o las hierbas frescas indicadas. Siga la receta completa para tiempos e ingredientes especiales."
+  ],
+  "Rinse and cut the vegetables. Use cooked pulses, or cook dried pulses separately before starting.": [
+    "冲洗并切好蔬菜。使用熟豆，或提前另锅煮熟干豆。",
+    "Enjuague y corte las verduras. Use legumbres cocidas o cueza las secas por separado antes de empezar."
+  ],
+  "Soften the aromatics with a measured amount of oil. Add the main ingredients and the listed sauce, tomato or spices.": [
+    "用量取好的油炒软葱姜蒜等。加入主食材及所列酱料、番茄或香料。",
+    "Ablande los aromáticos con una cantidad medida de aceite. Añada los ingredientes principales y la salsa, el tomate o las especias indicados."
+  ],
+  "Add enough water or unsalted broth to keep the ingredients moist. Cover and simmer gently, stirring occasionally.": [
+    "加入足量水或无盐高汤，使食材保持湿润。盖锅小火慢炖，不时搅拌。",
+    "Añada suficiente agua o caldo sin sal para mantener húmedos los ingredientes. Tape y cueza suavemente, removiendo de vez en cuando."
+  ],
+  "Uncover near the end if the sauce needs thickening. Cook until tender and safely cooked, then finish with herbs or acid.": [
+    "如需收浓酱汁，接近完成时揭盖。炖至食材熟软且安全熟透，再加入香草或酸味调料。",
+    "Destape al final si necesita espesar la salsa. Cocine hasta que todo esté tierno y bien hecho; termine con hierbas o un ingrediente ácido."
+  ],
+  "Preheat the oven and prepare a baking tray or ovenproof dish. A temperature around 200°C / 390°F suits many vegetable dishes; use the full recipe for delicate fish, eggs and dough.": [
+    "预热烤箱并准备烤盘或耐热烤皿。许多蔬菜适合约200摄氏度／390华氏度；易熟鱼、鸡蛋和面团请遵循完整食谱。",
+    "Precaliente el horno y prepare una bandeja o fuente apta. Unos 200 °C / 390 °F sirven para muchas verduras; siga la receta completa para pescados delicados, huevos y masas."
+  ],
+  "Cut the vegetables evenly. Combine with the listed herbs or spices and a measured amount of oil; arrange without crowding.": [
+    "将蔬菜切均匀，拌入所列香草或香料及量取好的油；分散摆放，避免过于拥挤。",
+    "Corte las verduras de manera uniforme. Mezcle con las hierbas o especias indicadas y una cantidad medida de aceite; distribuya sin amontonar."
+  ],
+  "Bake until tender, turning vegetables where useful. Check fish, poultry and eggs for safe doneness rather than relying on browning alone.": [
+    "烤至熟软，必要时翻动蔬菜。鱼、禽肉和鸡蛋须检查是否安全熟透，不要只看表面上色。",
+    "Hornee hasta que estén tiernas y dé la vuelta a las verduras cuando convenga. Compruebe que pescado, aves y huevos estén bien cocinados, sin fiarse solo del dorado."
+  ],
+  "Add fresh herbs, lemon or a listed dressing after cooking. For stuffed dishes, cook the pulse or grain filling first.": [
+    "烤好后加入新鲜香草、柠檬或所列调味汁。制作酿馅菜时，应先煮熟豆类或谷物馅。",
+    "Añada hierbas frescas, limón o el aliño indicado después de cocinar. En platos rellenos, cocine primero las legumbres o los cereales del relleno."
+  ],
+  "Rinse the grain when appropriate. Cook dried beans separately; never rely on a short grain-cooking time to make raw beans safe.": [
+    "需要时淘洗谷物。干豆应另锅煮熟；不可指望短时间煮谷物就能让生豆安全可食。",
+    "Enjuague el cereal cuando corresponda. Cueza las legumbres secas aparte; una cocción breve de cereales nunca basta para hacer seguras las legumbres crudas."
+  ],
+  "Combine the grain with the amount of water specified on its package. Add firm vegetables or cooked pulses if the dish calls for them.": [
+    "按照包装说明加入相应量的水。按菜肴要求加入较硬蔬菜或熟豆。",
+    "Combine el cereal con la cantidad de agua indicada en el envase. Añada verduras firmes o legumbres cocidas si lo requiere el plato."
+  ],
+  "Simmer gently until tender, stirring porridge often. Add delicate greens, milk or other perishable toppings near the end.": [
+    "小火煮至软熟，煮粥时经常搅拌。嫩叶菜、牛奶或其他易腐配料在接近完成时加入。",
+    "Cueza suavemente hasta que esté tierno y remueva las gachas a menudo. Añada hojas delicadas, leche u otros ingredientes perecederos al final."
+  ],
+  "Rest cooked rice or grains briefly before fluffing. Finish with the listed herbs, nuts, seeds or fruit; follow the full recipe for specialty rice dishes.": [
+    "米饭或谷物煮好后稍焖再拨松。最后加入所列香草、坚果、种子或水果；特色米饭请遵循完整食谱。",
+    "Deje reposar brevemente el arroz o los cereales antes de soltarlos. Termine con las hierbas, los frutos secos, las semillas o la fruta indicados; siga la receta completa para arroces especiales."
+  ],
+  "Prepare the listed vegetables finely. For pulse batters, soak and grind only as directed by the full recipe.": [
+    "将所列蔬菜切细。制作豆类面糊时，只按完整食谱的要求浸泡和磨制。",
+    "Pique finamente las verduras indicadas. Para masas de legumbres, remoje y triture solo según las instrucciones de la receta completa."
+  ],
+  "Combine the flour, egg or pulse base with the listed ingredients. Add water gradually to make the dough or batter appropriate to the dish.": [
+    "将面粉、鸡蛋或豆类基底与所列食材混合。逐渐加水，调成适合该菜肴的面团或面糊。",
+    "Mezcle la harina, el huevo o la base de legumbres con los ingredientes indicados. Añada agua poco a poco hasta obtener la masa adecuada al plato."
+  ],
+  "Heat a nonstick pan with a small measured amount of oil. Cook small portions, turning carefully, until both sides are cooked through.": [
+    "在不粘锅中加热量取好的少量油。分小份煎制，小心翻面，直至两面和内部均熟透。",
+    "Caliente una sartén antiadherente con una pequeña cantidad medida de aceite. Cocine porciones pequeñas y gírelas con cuidado hasta que ambos lados y el interior estén hechos."
+  ],
+  "Serve promptly with a vegetable side. Dough thickness and cooking time vary; consult a full recipe for flatbreads and traditional batters.": [
+    "及时上桌并搭配蔬菜。面团厚度和烹饪时间各不相同；传统面饼和面糊请参阅完整食谱。",
+    "Sirva enseguida con una guarnición vegetal. El grosor y el tiempo de cocción varían; consulte una receta completa para panes planos y masas tradicionales."
+  ],
+  "Prepare the vegetables and rinse pulses; use already cooked beans unless following a full dried-bean recipe.": [
+    "准备蔬菜并冲洗豆类；除非遵循完整干豆食谱，否则使用煮熟豆类。",
+    "Prepare las verduras y enjuague las legumbres; use judías cocidas salvo que siga una receta completa para legumbres secas."
+  ],
+  "Warm the listed spices or curry paste with a measured amount of oil, then add aromatics and firm ingredients.": [
+    "用量取好的油炒香所列香料或咖喱酱，再加入葱姜蒜等及较硬食材。",
+    "Caliente las especias o la pasta de curry indicadas con una cantidad medida de aceite; añada después los aromáticos y los ingredientes firmes."
+  ],
+  "Add tomato, broth or coconut milk as listed. Simmer gently until tender, adding delicate greens near the end.": [
+    "按食材表加入番茄、高汤或椰奶。小火煮至软熟，接近完成时再加入嫩叶菜。",
+    "Añada tomate, caldo o leche de coco según la lista. Cueza suavemente hasta que estén tiernos y agregue las hojas delicadas al final."
+  ],
+  "Taste and finish with the listed herbs or acid. Cook any animal protein fully; serve with a suitable portion of your preferred staple.": [
+    "尝味后加入所列香草或酸味调料。动物性蛋白须彻底煮熟，并搭配适量喜爱的主食。",
+    "Pruebe y termine con las hierbas o el ácido indicados. Cocine completamente las proteínas animales y acompañe con una porción adecuada de su alimento básico preferido."
+  ],
+  "Bring water to a boil and cook noodles according to the package. Drain; rinse only when appropriate for the noodle type.": [
+    "将水煮沸，按包装说明煮面。沥干；只有适合该面条的情况下才过水冲洗。",
+    "Hierva agua y cocine los fideos según el envase. Escurra y enjuague solo cuando sea adecuado para ese tipo de fideo."
+  ],
+  "Prepare vegetables, herbs and sauce ingredients while the noodles cook. Cook all meat, eggs or seafood safely before serving.": [
+    "煮面时准备蔬菜、香草和酱料。上桌前将肉、鸡蛋或海鲜安全煮熟。",
+    "Prepare las verduras, las hierbas y la salsa mientras se cuecen los fideos. Cocine de forma segura toda carne, huevo o marisco antes de servir."
+  ],
+  "For warm noodles, combine briefly in the pan or broth; for cold noodles, cool promptly and toss with the prepared dressing.": [
+    "热面可在锅内或汤中短暂拌匀；冷面应及时降温，再拌入准备好的调味汁。",
+    "Para fideos calientes, mezcle brevemente en la sartén o el caldo; para fideos fríos, enfríe pronto y aliñe con la salsa preparada."
+  ],
+  "Add herbs and crunchy toppings at the end. Keep sauces moderate and include a generous vegetable portion.": [
+    "最后加入香草和脆口配料。适量用酱，并搭配充足蔬菜。",
+    "Añada las hierbas y los ingredientes crujientes al final. Modere las salsas e incluya una porción abundante de verduras."
+  ],
+  "Cook pulses or roast the main vegetable until tender, if the dish requires it; cool enough to handle.": [
+    "如菜肴需要，先将豆类煮熟或将主要蔬菜烤软，稍凉至可操作。",
+    "Cueza las legumbres o ase la verdura principal hasta que esté tierna si lo requiere el plato; deje enfriar lo suficiente para manipularla."
+  ],
+  "Combine the listed ingredients by blending, mashing or finely chopping according to the dish. For gazpacho, use washed raw produce.": [
+    "按菜肴要求将所列食材搅打、压泥或切碎。制作番茄冷汤时使用洗净的生蔬果。",
+    "Combine los ingredientes indicados triturándolos, aplastándolos o picándolos según el plato. Para gazpacho, use vegetales crudos bien lavados."
+  ],
+  "Add lemon, vinegar or water gradually to adjust texture. Taste before adding salt.": [
+    "逐渐加入柠檬、醋或水调整质地。加盐前先尝味。",
+    "Añada limón, vinagre o agua poco a poco para ajustar la textura. Pruebe antes de salar."
+  ],
+  "Serve with vegetables or a suitable whole-grain side. Refrigerate leftovers promptly.": [
+    "搭配蔬菜或合适的全谷物配食。剩余食物应及时冷藏。",
+    "Sirva con verduras o una guarnición integral adecuada. Refrigere pronto las sobras."
+  ],
+  "Mexico In My Kitchen: traditional recipe library": [
+    "墨西哥厨房：传统食谱库",
+    "Mexico In My Kitchen: biblioteca de recetas tradicionales"
+  ],
+  "Laylita: Ecuadorian and Latin recipes": [
+    "蕾莉塔：厄瓜多尔与拉丁美洲食谱",
+    "Laylita: recetas ecuatorianas y latinas"
+  ],
+  "Delish D’Lites: Puerto Rican stewed beans": [
+    "德丽什美味：波多黎各炖豆",
+    "Delish D’Lites: habichuelas guisadas puertorriqueñas"
+  ],
+  "Harvard Nutrition Source: recipes": [
+    "哈佛营养之源：食谱",
+    "Fuente de Nutrición de Harvard: recetas"
+  ],
+  "Mayo Clinic: high-fiber recipes": [
+    "梅奥诊所：高纤维食谱",
+    "Mayo Clinic: recetas ricas en fibra"
+  ],
+  "Red House Spice: Chinese recipe library": [
+    "红房子香料：中式食谱库",
+    "Red House Spice: biblioteca de recetas chinas"
+  ],
+  "Omnivore’s Cookbook: Chinese recipes": [
+    "杂食者食谱：中式食谱",
+    "Omnivore’s Cookbook: recetas chinas"
+  ],
+  "Diet types: introductory overview": [
+    "饮食类型：入门概览",
+    "Tipos de dietas: introducción"
+  ]
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "fiber-week",
+    "name": "Fiber Focus Week",
+    "category": "Diet",
+    "metric": "fiberStreak",
+    "target": 7,
+    "days": 7,
+    "unit": "days at 25 g fiber",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-month",
+    "name": "30-Day Fiber Streak",
+    "category": "Diet",
+    "metric": "fiberStreak",
+    "target": 30,
+    "days": 30,
+    "unit": "days at 25 g fiber",
+    "mode": "all"
+  },
+  {
+    "id": "food-week",
+    "name": "Mindful Diary Week",
+    "category": "Diet",
+    "metric": "foodDays",
+    "target": 7,
+    "days": 7,
+    "unit": "food-log days",
+    "mode": "all"
+  },
+  {
+    "id": "food-month",
+    "name": "Mindful Diary Month",
+    "category": "Diet",
+    "metric": "foodDays",
+    "target": 30,
+    "days": 30,
+    "unit": "food-log days",
+    "mode": "all"
+  },
+  {
+    "id": "balanced-week",
+    "name": "Balanced Week",
+    "category": "Diet",
+    "metric": "balancedDays",
+    "target": 7,
+    "days": 7,
+    "unit": "days with food and exercise",
+    "mode": "all"
+  },
+  {
+    "id": "protein-week",
+    "name": "Protein Tracking Week",
+    "category": "Diet",
+    "metric": "proteinDays",
+    "target": 7,
+    "days": 7,
+    "unit": "days logging protein",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-hundred",
+    "name": "Fiber Hundred",
+    "category": "Diet",
+    "metric": "fiberTotal",
+    "target": 100,
+    "days": 7,
+    "unit": "g fiber logged",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-six-hundred",
+    "name": "Fiber Month Builder",
+    "category": "Diet",
+    "metric": "fiberTotal",
+    "target": 600,
+    "days": 30,
+    "unit": "g fiber logged",
+    "mode": "all"
+  },
+  {
+    "id": "food-variety",
+    "name": "Food Variety Week",
+    "category": "Diet",
+    "metric": "foodVariety",
+    "target": 10,
+    "days": 7,
+    "unit": "different food names logged",
+    "mode": "all"
+  },
+  {
+    "id": "diary-hundred",
+    "name": "Hundred Meal Entries",
+    "category": "Diet",
+    "metric": "mealCount",
+    "target": 100,
+    "days": 30,
+    "unit": "food entries",
+    "mode": "all"
+  },
+  {
+    "id": "run-ten",
+    "name": "Run Ten Together",
+    "category": "Fitness",
+    "metric": "runMiles",
+    "target": 10,
+    "days": 7,
+    "unit": "running miles",
+    "mode": "all"
+  },
+  {
+    "id": "big3-week",
+    "name": "Big 3 Hundred Race",
+    "category": "Fitness",
+    "metric": "big3Reps",
+    "target": 100,
+    "days": 7,
+    "unit": "reps each: bench, squat, deadlift",
+    "mode": "first"
+  },
+  {
+    "id": "marathon-week",
+    "name": "Marathon Week Race",
+    "category": "Fitness",
+    "metric": "runMiles",
+    "target": 26.2,
+    "days": 7,
+    "unit": "running miles",
+    "mode": "first"
+  },
+  {
+    "id": "ultra-month",
+    "name": "Ultra Marathon Month",
+    "category": "Fitness",
+    "metric": "runWalkMiles",
+    "target": 78.6,
+    "days": 30,
+    "unit": "running / walking miles",
+    "mode": "first"
+  },
+  {
+    "id": "minutes-month",
+    "name": "1,200 Minute Month",
+    "category": "Fitness",
+    "metric": "minutes",
+    "target": 1200,
+    "days": 30,
+    "unit": "exercise minutes",
+    "mode": "all"
+  },
+  {
+    "id": "miles-twenty",
+    "name": "Twenty Miles Together",
+    "category": "Fitness",
+    "metric": "runWalkMiles",
+    "target": 20,
+    "days": 7,
+    "unit": "running / walking miles",
+    "mode": "all"
+  },
+  {
+    "id": "minutes-week",
+    "name": "150 Minute Week",
+    "category": "Fitness",
+    "metric": "minutes",
+    "target": 150,
+    "days": 7,
+    "unit": "exercise minutes",
+    "mode": "all"
+  },
+  {
+    "id": "movement-week",
+    "name": "Seven Days of Movement",
+    "category": "Fitness",
+    "metric": "workoutDays",
+    "target": 7,
+    "days": 7,
+    "unit": "exercise-log days",
+    "mode": "all"
+  },
+  {
+    "id": "sets-month",
+    "name": "Century of Strength Sets",
+    "category": "Fitness",
+    "metric": "sets",
+    "target": 100,
+    "days": 30,
+    "unit": "strength sets",
+    "mode": "all"
+  },
+  {
+    "id": "run-fifty",
+    "name": "Fifty Mile Month Race",
+    "category": "Fitness",
+    "metric": "runMiles",
+    "target": 50,
+    "days": 30,
+    "unit": "running miles",
+    "mode": "first"
+  },
+  {
+    "id": "walk-week",
+    "name": "Walk Fifteen Together",
+    "category": "Fitness",
+    "metric": "walkMiles",
+    "target": 15,
+    "days": 7,
+    "unit": "walking miles",
+    "mode": "all"
+  },
+  {
+    "id": "bike-week",
+    "name": "Fifty Mile Ride Week",
+    "category": "Fitness",
+    "metric": "bikeMiles",
+    "target": 50,
+    "days": 7,
+    "unit": "cycling miles",
+    "mode": "all"
+  },
+  {
+    "id": "bike-month",
+    "name": "Two Hundred Mile Ride Race",
+    "category": "Fitness",
+    "metric": "bikeMiles",
+    "target": 200,
+    "days": 30,
+    "unit": "cycling miles",
+    "mode": "first"
+  },
+  {
+    "id": "miles-hundred",
+    "name": "Hundred Mile Month",
+    "category": "Fitness",
+    "metric": "runWalkMiles",
+    "target": 100,
+    "days": 30,
+    "unit": "running / walking miles",
+    "mode": "all"
+  },
+  {
+    "id": "big3-month",
+    "name": "Big 3 Five Hundred Race",
+    "category": "Fitness",
+    "metric": "big3Reps",
+    "target": 500,
+    "days": 30,
+    "unit": "reps each: bench, squat, deadlift",
+    "mode": "first"
+  },
+  {
+    "id": "variety-week",
+    "name": "Movement Explorer Week",
+    "category": "Fitness",
+    "metric": "variety",
+    "target": 10,
+    "days": 7,
+    "unit": "different exercise names",
+    "mode": "all"
+  },
+  {
+    "id": "minutes-race",
+    "name": "300 Minute Week Race",
+    "category": "Fitness",
+    "metric": "minutes",
+    "target": 300,
+    "days": 7,
+    "unit": "exercise minutes",
+    "mode": "first"
+  },
+  {
+    "id": "active-month",
+    "name": "Twenty Active Days",
+    "category": "Fitness",
+    "metric": "workoutDays",
+    "target": 20,
+    "days": 30,
+    "unit": "exercise-log days",
+    "mode": "all"
+  },
+  {
+    "id": "sets-week",
+    "name": "Fifty Set Week",
+    "category": "Fitness",
+    "metric": "sets",
+    "target": 50,
+    "days": 7,
+    "unit": "strength sets",
+    "mode": "all"
+  },
+  {
+    "id": "miles-five",
+    "name": "First Five Together",
+    "category": "Fitness",
+    "metric": "runWalkMiles",
+    "target": 5,
+    "days": 7,
+    "unit": "running / walking miles",
+    "mode": "all"
+  },
+  {
+    "id": "movement-three",
+    "name": "Three Movement Days",
+    "category": "Fitness",
+    "metric": "workoutDays",
+    "target": 3,
+    "days": 7,
+    "unit": "exercise-log days",
+    "mode": "all"
+  },
+  {
+    "id": "minutes-sixty",
+    "name": "Sixty Minute Starter Week",
+    "category": "Fitness",
+    "metric": "minutes",
+    "target": 60,
+    "days": 7,
+    "unit": "exercise minutes",
+    "mode": "all"
+  },
+  {
+    "id": "walk-five",
+    "name": "Five Mile Walking Week",
+    "category": "Fitness",
+    "metric": "walkMiles",
+    "target": 5,
+    "days": 7,
+    "unit": "walking miles",
+    "mode": "all"
+  },
+  {
+    "id": "cardio-five-week",
+    "name": "Five Cardio Miles Together",
+    "category": "Fitness",
+    "metric": "cardioMiles",
+    "target": 5,
+    "days": 7,
+    "unit": "cardio miles",
+    "mode": "all"
+  },
+  {
+    "id": "stairs-twenty-week",
+    "name": "Twenty Floors Together",
+    "category": "Fitness",
+    "metric": "floors",
+    "target": 20,
+    "days": 7,
+    "unit": "stairmaster floors",
+    "mode": "all"
+  },
+  {
+    "id": "sets-twenty",
+    "name": "Twenty Strength Sets",
+    "category": "Fitness",
+    "metric": "sets",
+    "target": 20,
+    "days": 7,
+    "unit": "strength sets",
+    "mode": "all"
+  },
+  {
+    "id": "variety-five",
+    "name": "Five Exercise Explorer",
+    "category": "Fitness",
+    "metric": "variety",
+    "target": 5,
+    "days": 7,
+    "unit": "different exercise names",
+    "mode": "all"
+  },
+  {
+    "id": "weight-four-week",
+    "name": "Four Weight Check-ins",
+    "category": "Fitness",
+    "metric": "weightDays",
+    "target": 4,
+    "days": 7,
+    "unit": "weight check-in days",
+    "mode": "all"
+  },
+  {
+    "id": "minutes-six-hundred",
+    "name": "Six Hundred Minute Month",
+    "category": "Fitness",
+    "metric": "minutes",
+    "target": 600,
+    "days": 30,
+    "unit": "exercise minutes",
+    "mode": "all"
+  },
+  {
+    "id": "weight-twenty-month",
+    "name": "Twenty Weight Check-ins",
+    "category": "Fitness",
+    "metric": "weightDays",
+    "target": 20,
+    "days": 30,
+    "unit": "weight check-in days",
+    "mode": "all"
+  },
+  {
+    "id": "food-five",
+    "name": "Five Diary Days",
+    "category": "Diet",
+    "metric": "foodDays",
+    "target": 5,
+    "days": 7,
+    "unit": "food-log days",
+    "mode": "all"
+  },
+  {
+    "id": "food-three",
+    "name": "Three Diary Days",
+    "category": "Diet",
+    "metric": "foodDays",
+    "target": 3,
+    "days": 7,
+    "unit": "food-log days",
+    "mode": "all"
+  },
+  {
+    "id": "protein-three",
+    "name": "Three Protein Tracking Days",
+    "category": "Diet",
+    "metric": "proteinDays",
+    "target": 3,
+    "days": 7,
+    "unit": "days logging protein",
+    "mode": "all"
+  },
+  {
+    "id": "protein-five",
+    "name": "Five Protein Tracking Days",
+    "category": "Diet",
+    "metric": "proteinDays",
+    "target": 5,
+    "days": 7,
+    "unit": "days logging protein",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-fifty",
+    "name": "Fiber Fifty Week",
+    "category": "Diet",
+    "metric": "fiberTotal",
+    "target": 50,
+    "days": 7,
+    "unit": "g fiber logged",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-seventy-five",
+    "name": "Fiber Seventy-Five Week",
+    "category": "Diet",
+    "metric": "fiberTotal",
+    "target": 75,
+    "days": 7,
+    "unit": "g fiber logged",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-one-fifty",
+    "name": "Fiber One-Fifty Week",
+    "category": "Diet",
+    "metric": "fiberTotal",
+    "target": 150,
+    "days": 7,
+    "unit": "g fiber logged",
+    "mode": "all"
+  },
+  {
+    "id": "variety-five-foods",
+    "name": "Five Food Names Week",
+    "category": "Diet",
+    "metric": "foodVariety",
+    "target": 5,
+    "days": 7,
+    "unit": "different food names logged",
+    "mode": "all"
+  },
+  {
+    "id": "variety-seven-foods",
+    "name": "Seven Food Names Week",
+    "category": "Diet",
+    "metric": "foodVariety",
+    "target": 7,
+    "days": 7,
+    "unit": "different food names logged",
+    "mode": "all"
+  },
+  {
+    "id": "variety-twelve-foods",
+    "name": "Twelve Food Names Week",
+    "category": "Diet",
+    "metric": "foodVariety",
+    "target": 12,
+    "days": 7,
+    "unit": "different food names logged",
+    "mode": "all"
+  },
+  {
+    "id": "meal-ten",
+    "name": "Ten Meal Entries Week",
+    "category": "Diet",
+    "metric": "mealCount",
+    "target": 10,
+    "days": 7,
+    "unit": "food entries",
+    "mode": "all"
+  },
+  {
+    "id": "meal-fourteen",
+    "name": "Fourteen Meal Entries Week",
+    "category": "Diet",
+    "metric": "mealCount",
+    "target": 14,
+    "days": 7,
+    "unit": "food entries",
+    "mode": "all"
+  },
+  {
+    "id": "balanced-three",
+    "name": "Three Connected Days",
+    "category": "Diet",
+    "metric": "balancedDays",
+    "target": 3,
+    "days": 7,
+    "unit": "days with food and exercise",
+    "mode": "all"
+  },
+  {
+    "id": "balanced-five",
+    "name": "Five Connected Days",
+    "category": "Diet",
+    "metric": "balancedDays",
+    "target": 5,
+    "days": 7,
+    "unit": "days with food and exercise",
+    "mode": "all"
+  },
+  {
+    "id": "food-twenty",
+    "name": "Twenty Diary Days",
+    "category": "Diet",
+    "metric": "foodDays",
+    "target": 20,
+    "days": 30,
+    "unit": "food-log days",
+    "mode": "all"
+  },
+  {
+    "id": "protein-twenty",
+    "name": "Twenty Protein Tracking Days",
+    "category": "Diet",
+    "metric": "proteinDays",
+    "target": 20,
+    "days": 30,
+    "unit": "days logging protein",
+    "mode": "all"
+  },
+  {
+    "id": "fiber-three-hundred",
+    "name": "Fiber Three Hundred Month",
+    "category": "Diet",
+    "metric": "fiberTotal",
+    "target": 300,
+    "days": 30,
+    "unit": "g fiber logged",
+    "mode": "all"
+  },
+  {
+    "id": "variety-twenty-foods",
+    "name": "Twenty Food Names Month",
+    "category": "Diet",
+    "metric": "foodVariety",
+    "target": 20,
+    "days": 30,
+    "unit": "different food names logged",
+    "mode": "all"
+  },
+  {
+    "id": "meal-sixty",
+    "name": "Sixty Meal Entries Month",
+    "category": "Diet",
+    "metric": "mealCount",
+    "target": 60,
+    "days": 30,
+    "unit": "food entries",
+    "mode": "all"
+  },
+  {
+    "id": "balanced-twelve",
+    "name": "Twelve Connected Days",
+    "category": "Diet",
+    "metric": "balancedDays",
+    "target": 12,
+    "days": 30,
+    "unit": "days with food and exercise",
+    "mode": "all"
+  }
+]

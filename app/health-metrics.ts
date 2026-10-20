@@ -1,0 +1,28 @@
+
+import {weightTrend,seriesTrend} from './weight-trends';
+import {Profile,dailyTarget} from './fitness';import {movementType} from './workout-utils';import {trophyStats} from './trophy-stats';
+const clamp=(n:number)=>Math.max(0,Math.min(100,n));
+export const healthGrade=(score:number)=>score===100?'SSS':score>=95?'SS':score>=90?'S':score>=85?'A':score>=80?'B':score>=70?'C':score>=60?'D':'F';
+export function healthMetrics(rows:any[],profile:Profile|null,today:string,weights:any[]=[],measurements:any[]=[]){
+ const wt=weightTrend(weights,today),waistSeries=measurements.filter(r=>r.key==='waist'&&!r.deletedAt).map(r=>({date:r.week,value:r.value})),waistTrend=seriesTrend(waistSeries);if(profile&&wt.average)profile={...profile,weight:wt.average};
+ const begin=new Date(today+'T12:00:00Z');begin.setUTCDate(begin.getUTCDate()-27);const start=begin.toISOString().slice(0,10),recent=rows.filter(r=>r.date>=start&&r.date<=today),meals=recent.filter(r=>r.kind==='meal'),workouts=recent.filter(r=>r.kind==='workout'),days=[...new Set<string>(meals.map(r=>r.date))];
+ const total=(list:any[],key:string)=>list.reduce((sum,r)=>sum+Math.max(0,Number(r.payload[key])||0),0);
+ const avg=(key:string)=>days.length?total(meals,key)/days.length:null;
+ const fiberTarget=profile?.age?(profile.sex==='male'?profile.age<=50?38:30:profile.age<=50?25:21):null,proteinTarget=profile?.weight?profile.weight*1.2:null;
+ const strengthDays=new Set(workouts.filter(r=>movementType(r.payload)==='strength').map(r=>r.date)).size;
+ const energyScores=profile?.target?days.map(d=>{const logged=total(meals.filter(r=>r.date===d),'calories'),goal=dailyTarget(profile,d);return clamp(100*(1-Math.abs(logged-goal)/goal));}):[];
+ const expected=profile?profile.goal==='Maintain weight'?0:(profile.goal==='Lose weight'?-1:1)*Math.min(2,profile.rate??1)/2.2046226218:0,tolerance=Math.max(.25,Math.abs(expected)),trendReady=wt.recent.length>=7&&!!wt.trend&&wt.trend.spanDays>=14&&!!waistTrend&&waistTrend.spanDays>=7,trendScore=trendReady?clamp(100*(1-Math.abs(wt.trend!.slope-expected)/tolerance)):null;
+ const components=[
+ {name:'Movement habit',weight:25,value:workouts.length?total(workouts,'minutes')/4:null,target:150,unit:'min/week',score:workouts.length?clamp(total(workouts,'minutes')/4/150*100):null,detail:'Logged exercise minutes ÷ 4 weeks ÷ 150 × 100, capped at 100. WHO recommends at least 150 moderate aerobic minutes weekly; this app uses all logged exercise as a habit proxy. Strength/recovery minutes and missing intensity mean this is not verified aerobic adherence or endurance.'},
+ {name:'Strength habit',weight:15,value:workouts.length?strengthDays/4:null,target:2,unit:'days/week',score:workouts.length?clamp(strengthDays/4/2*100):null,detail:'Distinct strength dates ÷ 4 weeks ÷ 2 × 100, capped at 100. WHO recommends strength activity on at least 2 days/week for all major muscle groups. Logs do not establish muscle-group coverage, test strength, or determine age/sex strength percentiles.'},
+ {name:'Fiber goal',weight:15,value:avg('fiber'),target:fiberTarget,unit:'g/logged day',score:avg('fiber')!==null&&fiberTarget?clamp(avg('fiber')!/fiberTarget*100):null,detail:'Average fiber on logged food days ÷ age/sex reference × 100, capped at 100. National Academies reference: men ≤50: 38 g, >50: 30 g; women ≤50: 25 g, >50: 21 g.'},
+ {name:'Protein goal',weight:15,value:avg('protein'),target:proteinTarget,unit:'g/logged day',score:avg('protein')!==null&&proteinTarget?clamp(avg('protein')!/proteinTarget*100):null,detail:'Average protein on logged food days ÷ (1.2 × weight in kg) × 100, capped at 100. Uses the lower end of the 2025–2030 US dietary guideline target of 1.2–1.6 g/kg/day. Individual dietary needs can differ.'},
+ {name:'Energy goal alignment',weight:10,value:avg('calories'),target:profile?.target||null,unit:'kcal/logged day',score:energyScores.length?energyScores.reduce((a,b)=>a+b,0)/energyScores.length:null,detail:'For each logged day: max(0, 100 × (1 − |logged kcal − saved daily goal| / goal)), then average. This is a Seediva scoring choice, not a clinical target. Uses saved weekday/weekend calorie goals derived from your age, sex, height, weight, activity, and chosen weight goal.'}
+ ,{name:'Weight-goal trend',weight:20,value:wt.trend?.slope??null,target:expected,unit:'kg/week',score:trendScore,detail:'Uses least-squares slope across 28 days of daily weights. Target = signed saved weekly weight goal (lb converted to kg), capped at 2 lb/week; maintenance target = 0. Score = max(0,100 × (1 − |observed slope − goal| / max(0.25 kg/week, |goal|))). Seediva product formula, not a validated health assessment. Requires at least 7 weight dates spanning 14 days and 2 waist measurement weeks. Body-measurement changes are shown descriptively, without rewarding smaller sizes.'}
+ ];
+ const available=components.filter(c=>c.score!==null),coverage=days.length,ready=profile&&coverage>=14&&workouts.length>0&&available.length===6,raw=available.length?Math.round(available.reduce((s,c)=>s+c.score!*c.weight,0)/available.reduce((s,c)=>s+c.weight,0)):null,score=ready?raw:null;
+ const bmi=profile?.weight&&profile.height?profile.weight/(profile.height/100)**2:null;
+ const bodyFat=bmi&&profile?.age?1.2*bmi+.23*profile.age-10.8*(profile.sex==='male'?1:0)-5.4:null;
+ const stats=trophyStats(rows,today);
+ return {start,today,components,coverage,workoutDays:new Set(workouts.map(r=>r.date)).size,score,grade:score!==null?healthGrade(score):null,bmi,bodyFat:bodyFat!==null&&bodyFat>=0&&bodyFat<=75?bodyFat:null,stats,weightAverage:wt.average,trendReady,waistTrend,allFoodDays:new Set(rows.filter(r=>r.kind==='meal').map(r=>r.date)).size,allWorkoutDays:new Set(rows.filter(r=>r.kind==='workout').map(r=>r.date)).size};
+}

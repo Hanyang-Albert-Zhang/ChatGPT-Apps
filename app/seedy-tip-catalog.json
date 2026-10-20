@@ -1,0 +1,352 @@
+[
+  {
+    "id": "tip-01",
+    "text": "Your recipe collections now follow your language. Open Nutrition advice to explore.",
+    "action": "Nutrition advice",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-02",
+    "text": "Steamed, stir-fried or braised? Filter recipes by cooking method.",
+    "action": "Nutrition advice",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-03",
+    "text": "Try Peruvian and Brazilian dishes in the expanded recipe collections.",
+    "action": "Nutrition advice",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-04",
+    "text": "Want a precise check-in? Record your weight to two decimal places in kg or lb.",
+    "action": "weight",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-05",
+    "text": "Your first weight check-in earns a badge. Explore all 70 challenge badges!",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-06",
+    "text": "Every saved meal counts toward the new food-entry badges, even on the same day.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-07",
+    "text": "Every saved workout counts toward the new workout-entry badges.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-08",
+    "text": "Walk, run or use the elliptical: all recorded cardio miles now count toward distance badges.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-09",
+    "text": "Move Seedy where you like. Tips stay beside your companion across pages.",
+    "action": "Home",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-10",
+    "text": "Planning ahead? Build your own workouts in the new training calendar.",
+    "action": "Custom training plan",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-11",
+    "text": "How is your day going? Open your health rating for a breakdown.",
+    "action": "Home",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-12",
+    "text": "A little planning helps. Log your next meal with its portion or weight.",
+    "action": "meal",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-13",
+    "text": "Ready to move? Open today’s training plan and choose a movement.",
+    "action": "Training plan",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-14",
+    "text": "Small steps add up. See your progress in the workout report.",
+    "action": "Workout report",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-15",
+    "text": "Want a fresh goal? Update your training preferences.",
+    "action": "Goals",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-16",
+    "text": "Give a friend a little encouragement. Open your Inbox.",
+    "action": "Inbox",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-17",
+    "text": "How is your weight trending? Check your daily weight chart.",
+    "action": "weight",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-18",
+    "text": "Any feature you would love? Leave a suggestion in Feedback!",
+    "action": "feedback",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-19",
+    "text": "Changes take time. Add your weekly body measurements to follow your progress.",
+    "action": "Body Measurements",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-20",
+    "text": "Missed a meal? Choose its date in Nutrition details and catch up.",
+    "action": "nutrition-history",
+    "recent": false,
+    "category": "Navigation"
+  },
+  {
+    "id": "tip-21",
+    "text": "Peak icons now show a crowned mountain. Explore the Trophy Journey.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-22",
+    "text": "Badge levels award 300, 1,000, 3,000, 10,000 and 30,000 XP.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-23",
+    "text": "Reach Level 27 at one million XP, then keep climbing through unlimited Peaks.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-24",
+    "text": "Peak 1 starts at 1,050,000 XP. Each additional Peak takes another 50,000 XP.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-25",
+    "text": "The global leaderboard shows every registered member. Tap a name to view trophies.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-26",
+    "text": "The top three global ranks earn weekly XP bonuses on Sunday night Eastern time.",
+    "action": "Trophies",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-27",
+    "text": "Start a group challenge: choose from 30 fitness and 30 diet options.",
+    "action": "Inbox",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-28",
+    "text": "Each group can have one open challenge. Different groups can run challenges together.",
+    "action": "Inbox",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-29",
+    "text": "Thirty-day challenges award 2,000 XP to qualifying finishers.",
+    "action": "Inbox",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-30",
+    "text": "Group members can add their existing friends without sending invitation emails.",
+    "action": "Inbox",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-31",
+    "text": "Tap Send message on a friend card to open your private conversation.",
+    "action": "Inbox",
+    "recent": true,
+    "category": "Social"
+  },
+  {
+    "id": "tip-32",
+    "text": "Administrators can choose up to 50 Seedy tips for the site. Each selected tip appears before the cycle repeats.",
+    "action": "Account",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-33",
+    "text": "The super admin manages administrator roles. Check your account if your access changes.",
+    "action": "Account",
+    "recent": true,
+    "category": "Latest updates"
+  },
+  {
+    "id": "tip-34",
+    "text": "Describe your food and its portion to look up editable nutrition estimates.",
+    "action": "meal",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-35",
+    "text": "Meal names and food descriptions stay separate. New descriptions become searchable only after saving.",
+    "action": "meal",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-36",
+    "text": "No food match? Use Google search, then paste and review the nutrition numbers.",
+    "action": "meal",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-37",
+    "text": "Attach a meal photo and open it later from your nutrition report.",
+    "action": "Nutrition report",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-38",
+    "text": "Edit a food or exercise entry to correct its log date to today or an earlier date.",
+    "action": "nutrition-history",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-39",
+    "text": "Explore 100 Chinese home dishes when using Simplified Chinese.",
+    "action": "Nutrition advice",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-40",
+    "text": "English recipe collections include Mediterranean, balanced, vegetarian, vegan, DASH and keto dishes.",
+    "action": "Nutrition advice",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-41",
+    "text": "Spanish recipe collections include Mexican, Peruvian, Ecuadorian, Brazilian and Puerto Rican dishes.",
+    "action": "Nutrition advice",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-42",
+    "text": "Open a recipe for its cooking outline, publisher reference and video.",
+    "action": "Nutrition advice",
+    "recent": false,
+    "category": "Food"
+  },
+  {
+    "id": "tip-43",
+    "text": "Search exercises by name, muscle group or equipment when logging a workout.",
+    "action": "workout",
+    "recent": false,
+    "category": "Training"
+  },
+  {
+    "id": "tip-44",
+    "text": "Record stairmaster floors, cardio distance and workout minutes for more progress insights.",
+    "action": "workout",
+    "recent": false,
+    "category": "Training"
+  },
+  {
+    "id": "tip-45",
+    "text": "Use the pencil in workout history to correct an exercise entry.",
+    "action": "workout-history",
+    "recent": false,
+    "category": "Training"
+  },
+  {
+    "id": "tip-46",
+    "text": "Check off a completed planned workout to add it to your exercise history.",
+    "action": "Custom training plan",
+    "recent": false,
+    "category": "Training"
+  },
+  {
+    "id": "tip-47",
+    "text": "Body measurements help you follow weekly changes alongside your weight trend.",
+    "action": "Body Measurements",
+    "recent": false,
+    "category": "Progress"
+  },
+  {
+    "id": "tip-48",
+    "text": "Compare nutrition and workout reports over 7, 28, 90 days or a full year.",
+    "action": "Workout report",
+    "recent": false,
+    "category": "Progress"
+  },
+  {
+    "id": "tip-49",
+    "text": "Use Punch reminders to encourage a friend to keep moving.",
+    "action": "phone-notifications",
+    "recent": false,
+    "category": "Social"
+  },
+  {
+    "id": "tip-50",
+    "text": "Change your app language in Account. Navigation and searchable catalogs follow your selection.",
+    "action": "Account",
+    "recent": false,
+    "category": "Navigation"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "source": "https://ai-mealplan.com/recipes",
+  "kitchens": 41,
+  "checked": 444,
+  "imported": 429,
+  "missingNutrition": [
+    "https://ai-mealplan.com/recipes/high-protein",
+    "https://ai-mealplan.com/recipes/chicken",
+    "https://ai-mealplan.com/recipes/breakfast",
+    "https://ai-mealplan.com/recipes/fish",
+    "https://ai-mealplan.com/recipes/vegetarian",
+    "https://ai-mealplan.com/recipes/quick-meals",
+    "https://ai-mealplan.com/recipes/meal-prep",
+    "https://ai-mealplan.com/recipes/beef",
+    "https://ai-mealplan.com/recipes/low-carb",
+    "https://ai-mealplan.com/recipes/asian",
+    "https://ai-mealplan.com/recipes/gluten-free",
+    "https://ai-mealplan.com/recipes/mexican",
+    "https://ai-mealplan.com/recipes/salmon",
+    "https://ai-mealplan.com/recipes/turkey",
+    "https://ai-mealplan.com/recipes/bowls"
+  ],
+  "errors": [],
+  "foodakl": "Public recipe schemas imported; missing fiber remains blank",
+  "importedAt": "2026-10-15T04:06:42.438Z"
+}

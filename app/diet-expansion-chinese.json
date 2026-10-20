@@ -1,0 +1,989 @@
+[
+  {
+    "id": "chinese-31",
+    "name": "Chinese steamed eggs",
+    "ingredients": [
+      "eggs",
+      "water",
+      "light soy sauce"
+    ],
+    "method": "steam",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/chinese-steamed-eggs/"
+  },
+  {
+    "id": "chinese-32",
+    "name": "Steamed enoki mushrooms",
+    "ingredients": [
+      "enoki mushrooms",
+      "garlic",
+      "light soy sauce"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "enoki mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/steamed-enoki-mushroom/"
+  },
+  {
+    "id": "chinese-33",
+    "name": "Steamed chicken with mushrooms",
+    "ingredients": [
+      "chicken",
+      "shiitake mushrooms",
+      "ginger"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "shiitake mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/steamed-chicken-mushroom/"
+  },
+  {
+    "id": "chinese-34",
+    "name": "Pearl meatballs",
+    "ingredients": [
+      "ground pork",
+      "glutinous rice",
+      "ginger",
+      "scallion"
+    ],
+    "method": "steam",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/pearl-meatballs/"
+  },
+  {
+    "id": "chinese-35",
+    "name": "Steamed cabbage rolls",
+    "ingredients": [
+      "napa cabbage",
+      "ground pork",
+      "shiitake mushrooms"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "napa cabbage",
+      "shiitake mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/chinese-steamed-cabbage-rolls/"
+  },
+  {
+    "id": "chinese-36",
+    "name": "Steamed ribs with black beans",
+    "ingredients": [
+      "pork ribs",
+      "fermented black beans",
+      "garlic"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "fermented black beans"
+    ],
+    "recipeSource": "https://redhousespice.com/steamed-ribs-with-black-beans/"
+  },
+  {
+    "id": "chinese-37",
+    "name": "Steamed garlic shrimp with vermicelli",
+    "ingredients": [
+      "shrimp",
+      "glass noodles",
+      "garlic",
+      "scallion"
+    ],
+    "method": "steam",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/steamed-garlic-prawns/"
+  },
+  {
+    "id": "chinese-38",
+    "name": "Lo mai gai",
+    "ingredients": [
+      "glutinous rice",
+      "chicken",
+      "shiitake mushrooms"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "shiitake mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/lo-mai-gai/"
+  },
+  {
+    "id": "chinese-39",
+    "name": "Shrimp and pork shumai",
+    "ingredients": [
+      "shrimp",
+      "ground pork",
+      "wonton wrappers",
+      "shiitake mushrooms"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "shiitake mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/shrimp-pork-shumai/"
+  },
+  {
+    "id": "chinese-40",
+    "name": "Five-spice edamame",
+    "ingredients": [
+      "edamame pods",
+      "star anise",
+      "Sichuan pepper"
+    ],
+    "method": "steam",
+    "fiberFoods": [
+      "edamame pods"
+    ],
+    "recipeSource": "https://redhousespice.com/five-spice-edamame/"
+  },
+  {
+    "id": "chinese-41",
+    "name": "Water spinach stir-fry",
+    "ingredients": [
+      "water spinach",
+      "garlic",
+      "neutral oil"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "water spinach"
+    ],
+    "recipeSource": "https://redhousespice.com/water-spinach-stir-fry/"
+  },
+  {
+    "id": "chinese-42",
+    "name": "Chinese broccoli with oyster sauce",
+    "ingredients": [
+      "Chinese broccoli",
+      "oyster sauce",
+      "garlic"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "Chinese broccoli"
+    ],
+    "recipeSource": "https://redhousespice.com/chinese-broccoli-two-ways/"
+  },
+  {
+    "id": "chinese-43",
+    "name": "Dry-pot cauliflower",
+    "ingredients": [
+      "cauliflower",
+      "pork belly",
+      "garlic",
+      "dried chili"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "cauliflower"
+    ],
+    "recipeSource": "https://redhousespice.com/dry-pot-cauliflower/"
+  },
+  {
+    "id": "chinese-44",
+    "name": "Shrimp and egg stir-fry",
+    "ingredients": [
+      "shrimp",
+      "eggs",
+      "scallion"
+    ],
+    "method": "stir",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/shrimp-egg-stir-fry/"
+  },
+  {
+    "id": "chinese-45",
+    "name": "Egg and pickled chili stir-fry",
+    "ingredients": [
+      "eggs",
+      "pickled chili",
+      "scallion"
+    ],
+    "method": "stir",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/egg-pickled-chili-stir-fry/"
+  },
+  {
+    "id": "chinese-46",
+    "name": "King oyster mushrooms with garlic sauce",
+    "ingredients": [
+      "king oyster mushrooms",
+      "garlic",
+      "black vinegar",
+      "soy sauce"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "king oyster mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/king-oyster-mushroom-garlic-sauce/"
+  },
+  {
+    "id": "chinese-47",
+    "name": "Eggplant with garlic sauce",
+    "ingredients": [
+      "eggplant",
+      "garlic",
+      "doubanjiang",
+      "black vinegar"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "eggplant"
+    ],
+    "recipeSource": "https://redhousespice.com/eggplant-with-garlic-sauce/"
+  },
+  {
+    "id": "chinese-48",
+    "name": "Tiger-skin peppers",
+    "ingredients": [
+      "green pepper",
+      "garlic",
+      "black vinegar",
+      "soy sauce"
+    ],
+    "method": "stir",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/tiger-skin-pepper/"
+  },
+  {
+    "id": "chinese-49",
+    "name": "Scallion tofu",
+    "ingredients": [
+      "tofu",
+      "scallion",
+      "sesame oil"
+    ],
+    "method": "salad",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/scallion-tofu/"
+  },
+  {
+    "id": "chinese-50",
+    "name": "Kung pao chicken",
+    "ingredients": [
+      "chicken",
+      "peanuts",
+      "dried chili",
+      "Sichuan pepper"
+    ],
+    "method": "stir",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/kung-pao-chicken/"
+  },
+  {
+    "id": "chinese-51",
+    "name": "Black pepper beef",
+    "ingredients": [
+      "beef",
+      "onion",
+      "green pepper",
+      "black pepper"
+    ],
+    "method": "stir",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/black-pepper-beef-stir-fry/"
+  },
+  {
+    "id": "chinese-52",
+    "name": "Sichuan shredded pork with garlic sauce",
+    "ingredients": [
+      "pork",
+      "wood ear mushrooms",
+      "carrot",
+      "doubanjiang"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "wood ear mushrooms",
+      "carrot"
+    ],
+    "recipeSource": "https://redhousespice.com/sichuan-shredded-pork-garlic-sauce/"
+  },
+  {
+    "id": "chinese-53",
+    "name": "Peking shredded pork",
+    "ingredients": [
+      "pork",
+      "sweet bean sauce",
+      "scallion",
+      "cucumber"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "sweet bean sauce",
+      "cucumber"
+    ],
+    "recipeSource": "https://redhousespice.com/peking-shredded-pork/"
+  },
+  {
+    "id": "chinese-54",
+    "name": "Moo shu pork",
+    "ingredients": [
+      "pork",
+      "eggs",
+      "wood ear mushrooms",
+      "cucumber"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "wood ear mushrooms",
+      "cucumber"
+    ],
+    "recipeSource": "https://redhousespice.com/moo-shu-pork/"
+  },
+  {
+    "id": "chinese-55",
+    "name": "Twice-cooked pork",
+    "ingredients": [
+      "pork belly",
+      "garlic sprouts",
+      "doubanjiang",
+      "fermented black beans"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "fermented black beans"
+    ],
+    "recipeSource": "https://redhousespice.com/twice-cooked-pork-fast-version/"
+  },
+  {
+    "id": "chinese-56",
+    "name": "Cumin lamb stir-fry",
+    "ingredients": [
+      "lamb",
+      "onion",
+      "cumin",
+      "coriander"
+    ],
+    "method": "stir",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/spicy-cumin-lamb-stir-fry/"
+  },
+  {
+    "id": "chinese-57",
+    "name": "Chicken and mushroom stir-fry",
+    "ingredients": [
+      "chicken",
+      "shiitake mushrooms",
+      "ginger",
+      "scallion"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "shiitake mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/chicken-mushroom-stir-fry/"
+  },
+  {
+    "id": "chinese-58",
+    "name": "Beef with Chinese broccoli",
+    "ingredients": [
+      "beef",
+      "Chinese broccoli",
+      "ginger",
+      "oyster sauce"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "Chinese broccoli"
+    ],
+    "recipeSource": "https://redhousespice.com/beef-chinese-broccoli/"
+  },
+  {
+    "id": "chinese-59",
+    "name": "Shrimp and broccoli",
+    "ingredients": [
+      "shrimp",
+      "broccoli",
+      "garlic"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "broccoli"
+    ],
+    "recipeSource": "https://redhousespice.com/shrimp-and-broccoli/"
+  },
+  {
+    "id": "chinese-60",
+    "name": "Stir-fried napa cabbage",
+    "ingredients": [
+      "napa cabbage",
+      "garlic",
+      "dried chili"
+    ],
+    "method": "stir",
+    "fiberFoods": [
+      "napa cabbage"
+    ],
+    "recipeSource": "https://redhousespice.com/stir-fried-napa-cabbage/"
+  },
+  {
+    "id": "chinese-61",
+    "name": "Braised chicken wings",
+    "ingredients": [
+      "chicken wings",
+      "ginger",
+      "soy sauce",
+      "star anise"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/braised-chicken-wings/"
+  },
+  {
+    "id": "chinese-62",
+    "name": "Braised beef with daikon",
+    "ingredients": [
+      "beef",
+      "daikon",
+      "ginger",
+      "star anise"
+    ],
+    "method": "braise",
+    "fiberFoods": [
+      "daikon"
+    ],
+    "recipeSource": "https://redhousespice.com/braised-beef-with-daikon/"
+  },
+  {
+    "id": "chinese-63",
+    "name": "Soy sauce chicken",
+    "ingredients": [
+      "chicken",
+      "soy sauce",
+      "ginger",
+      "scallion"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/soy-sauce-chicken/"
+  },
+  {
+    "id": "chinese-64",
+    "name": "Three-cup chicken",
+    "ingredients": [
+      "chicken",
+      "basil",
+      "sesame oil",
+      "soy sauce",
+      "rice wine"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/three-cup-chicken/"
+  },
+  {
+    "id": "chinese-65",
+    "name": "Red-cooked pork belly",
+    "ingredients": [
+      "pork belly",
+      "ginger",
+      "soy sauce",
+      "star anise"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/red-cooked-pork-belly/"
+  },
+  {
+    "id": "chinese-66",
+    "name": "Lion's head meatballs",
+    "ingredients": [
+      "ground pork",
+      "napa cabbage",
+      "ginger",
+      "scallion"
+    ],
+    "method": "braise",
+    "fiberFoods": [
+      "napa cabbage"
+    ],
+    "recipeSource": "https://redhousespice.com/lions-head-meatballs/"
+  },
+  {
+    "id": "chinese-67",
+    "name": "Braised beef shank",
+    "ingredients": [
+      "beef shank",
+      "soy sauce",
+      "star anise",
+      "Sichuan pepper"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/braised-beef-shank/"
+  },
+  {
+    "id": "chinese-68",
+    "name": "Sichuan braised tofu",
+    "ingredients": [
+      "firm tofu",
+      "wood ear mushrooms",
+      "green pepper",
+      "doubanjiang"
+    ],
+    "method": "braise",
+    "fiberFoods": [
+      "wood ear mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/braised-tofu-sichuan-style/"
+  },
+  {
+    "id": "chinese-69",
+    "name": "Glass noodles with napa cabbage",
+    "ingredients": [
+      "napa cabbage",
+      "glass noodles",
+      "pork",
+      "ginger"
+    ],
+    "method": "braise",
+    "fiberFoods": [
+      "napa cabbage"
+    ],
+    "recipeSource": "https://redhousespice.com/glass-noodles-napa-cabbage/"
+  },
+  {
+    "id": "chinese-70",
+    "name": "Oyster sauce chicken",
+    "ingredients": [
+      "chicken",
+      "oyster sauce",
+      "ginger",
+      "scallion"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/oyster-sauce-chicken/"
+  },
+  {
+    "id": "chinese-71",
+    "name": "Pork rib soup",
+    "ingredients": [
+      "pork ribs",
+      "corn",
+      "carrot",
+      "ginger"
+    ],
+    "method": "soup",
+    "fiberFoods": [
+      "corn",
+      "carrot"
+    ],
+    "recipeSource": "https://redhousespice.com/pork-rib-soup/"
+  },
+  {
+    "id": "chinese-72",
+    "name": "Seaweed egg drop soup",
+    "ingredients": [
+      "nori",
+      "eggs",
+      "dried shrimp",
+      "scallion"
+    ],
+    "method": "soup",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/seaweed-egg-drop-soup/"
+  },
+  {
+    "id": "chinese-73",
+    "name": "Chicken corn soup",
+    "ingredients": [
+      "chicken",
+      "corn",
+      "eggs",
+      "ginger"
+    ],
+    "method": "soup",
+    "fiberFoods": [
+      "corn"
+    ],
+    "recipeSource": "https://redhousespice.com/chicken-corn-soup/"
+  },
+  {
+    "id": "chinese-74",
+    "name": "Winter melon meatball soup",
+    "ingredients": [
+      "winter melon",
+      "ground pork",
+      "ginger",
+      "scallion"
+    ],
+    "method": "soup",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/winter-melon-soup-with-meatballs/"
+  },
+  {
+    "id": "chinese-75",
+    "name": "Classic egg drop soup",
+    "ingredients": [
+      "eggs",
+      "tomato",
+      "scallion",
+      "water"
+    ],
+    "method": "soup",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/classic-egg-drop-soup/"
+  },
+  {
+    "id": "chinese-76",
+    "name": "Tofu and dried shrimp soup",
+    "ingredients": [
+      "tofu",
+      "dried shrimp",
+      "nori",
+      "scallion"
+    ],
+    "method": "soup",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/tofu-soup-papery-dried-shrimp/"
+  },
+  {
+    "id": "chinese-77",
+    "name": "Pork wonton soup",
+    "ingredients": [
+      "ground pork",
+      "wonton wrappers",
+      "ginger",
+      "scallion"
+    ],
+    "method": "soup",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/pork-wonton-soup/"
+  },
+  {
+    "id": "chinese-78",
+    "name": "Chicken meatball noodle soup",
+    "ingredients": [
+      "ground chicken",
+      "noodles",
+      "bok choy",
+      "ginger"
+    ],
+    "method": "noodle",
+    "fiberFoods": [
+      "bok choy"
+    ],
+    "recipeSource": "https://redhousespice.com/chicken-meatball-noodle-soup/"
+  },
+  {
+    "id": "chinese-79",
+    "name": "Tomato egg noodle soup",
+    "ingredients": [
+      "tomato",
+      "eggs",
+      "noodles",
+      "scallion"
+    ],
+    "method": "noodle",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/tomato-egg-noodle-soup/"
+  },
+  {
+    "id": "chinese-80",
+    "name": "Sichuan boiled fish",
+    "ingredients": [
+      "white fish",
+      "soybean sprouts",
+      "doubanjiang",
+      "Sichuan pepper"
+    ],
+    "method": "soup",
+    "fiberFoods": [
+      "soybean sprouts"
+    ],
+    "recipeSource": "https://redhousespice.com/sichuan-boiled-fish/"
+  },
+  {
+    "id": "chinese-81",
+    "name": "Pan-fried tofu",
+    "ingredients": [
+      "firm tofu",
+      "scallion",
+      "soy sauce",
+      "sesame seeds"
+    ],
+    "method": "pancake",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/pan-fried-tofu/"
+  },
+  {
+    "id": "chinese-82",
+    "name": "Pan-fried belt fish",
+    "ingredients": [
+      "belt fish",
+      "ginger",
+      "Shaoxing wine",
+      "neutral oil"
+    ],
+    "method": "pancake",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/pan-fried-belt-fish/"
+  },
+  {
+    "id": "chinese-83",
+    "name": "Scallion pork chops",
+    "ingredients": [
+      "pork chops",
+      "scallion",
+      "soy sauce",
+      "ginger"
+    ],
+    "method": "braise",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/scallion-pork-chops/"
+  },
+  {
+    "id": "chinese-84",
+    "name": "Zucchini pancakes",
+    "ingredients": [
+      "zucchini",
+      "eggs",
+      "flour",
+      "water"
+    ],
+    "method": "pancake",
+    "fiberFoods": [
+      "zucchini"
+    ],
+    "recipeSource": "https://redhousespice.com/zucchini-pancakes/"
+  },
+  {
+    "id": "chinese-85",
+    "name": "Chinese chive pockets",
+    "ingredients": [
+      "Chinese chives",
+      "eggs",
+      "flour",
+      "glass noodles"
+    ],
+    "method": "pancake",
+    "fiberFoods": [
+      "Chinese chives"
+    ],
+    "recipeSource": "https://redhousespice.com/chinese-chive-pockets/"
+  },
+  {
+    "id": "chinese-86",
+    "name": "Pan-fried pork and chive dumplings",
+    "ingredients": [
+      "ground pork",
+      "Chinese chives",
+      "dumpling wrappers"
+    ],
+    "method": "pancake",
+    "fiberFoods": [
+      "Chinese chives"
+    ],
+    "recipeSource": "https://redhousespice.com/pan-fried-pork-chive-dumplings/"
+  },
+  {
+    "id": "chinese-87",
+    "name": "Scallion pancakes",
+    "ingredients": [
+      "flour",
+      "scallion",
+      "neutral oil",
+      "water"
+    ],
+    "method": "pancake",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/spring-onion-pancake/"
+  },
+  {
+    "id": "chinese-88",
+    "name": "Tofu omelet",
+    "ingredients": [
+      "tofu",
+      "eggs",
+      "scallion",
+      "carrot"
+    ],
+    "method": "pancake",
+    "fiberFoods": [
+      "carrot"
+    ],
+    "recipeSource": "https://redhousespice.com/tofu-omelet/"
+  },
+  {
+    "id": "chinese-89",
+    "name": "Northeast tiger salad",
+    "ingredients": [
+      "cucumber",
+      "green pepper",
+      "scallion",
+      "coriander"
+    ],
+    "method": "salad",
+    "fiberFoods": [
+      "cucumber"
+    ],
+    "recipeSource": "https://redhousespice.com/northeast-tiger-salad/"
+  },
+  {
+    "id": "chinese-90",
+    "name": "Xinjiang tiger salad",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "green pepper",
+      "coriander"
+    ],
+    "method": "salad",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/xinjiang-tiger-salad/"
+  },
+  {
+    "id": "chinese-91",
+    "name": "Silken tofu salad",
+    "ingredients": [
+      "silken tofu",
+      "scallion",
+      "soy sauce",
+      "sesame oil"
+    ],
+    "method": "salad",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/silken-tofu-salad/"
+  },
+  {
+    "id": "chinese-92",
+    "name": "Glass noodle salad",
+    "ingredients": [
+      "glass noodles",
+      "cucumber",
+      "carrot",
+      "black vinegar"
+    ],
+    "method": "salad",
+    "fiberFoods": [
+      "cucumber",
+      "carrot"
+    ],
+    "recipeSource": "https://redhousespice.com/glass-noodle-salad/"
+  },
+  {
+    "id": "chinese-93",
+    "name": "Bang bang chicken",
+    "ingredients": [
+      "chicken",
+      "cucumber",
+      "sesame paste",
+      "chili oil"
+    ],
+    "method": "salad",
+    "fiberFoods": [
+      "cucumber"
+    ],
+    "recipeSource": "https://redhousespice.com/bang-bang-chicken/"
+  },
+  {
+    "id": "chinese-94",
+    "name": "Spinach and soybean salad",
+    "ingredients": [
+      "spinach",
+      "soybeans",
+      "carrot",
+      "sesame oil"
+    ],
+    "method": "salad",
+    "fiberFoods": [
+      "spinach",
+      "soybeans",
+      "carrot"
+    ],
+    "recipeSource": "https://redhousespice.com/spinach-soybean-salad/"
+  },
+  {
+    "id": "chinese-95",
+    "name": "Chicken mushroom congee",
+    "ingredients": [
+      "rice",
+      "chicken",
+      "shiitake mushrooms",
+      "ginger"
+    ],
+    "method": "grain",
+    "fiberFoods": [
+      "shiitake mushrooms"
+    ],
+    "recipeSource": "https://redhousespice.com/congee-with-chicken-mushroom/"
+  },
+  {
+    "id": "chinese-96",
+    "name": "Clay pot rice",
+    "ingredients": [
+      "rice",
+      "Chinese sausage",
+      "bok choy",
+      "soy sauce"
+    ],
+    "method": "grain",
+    "fiberFoods": [
+      "bok choy"
+    ],
+    "recipeSource": "https://redhousespice.com/clay-pot-rice/"
+  },
+  {
+    "id": "chinese-97",
+    "name": "Yangzhou fried rice",
+    "ingredients": [
+      "rice",
+      "shrimp",
+      "eggs",
+      "peas",
+      "carrot"
+    ],
+    "method": "grain",
+    "fiberFoods": [
+      "peas",
+      "carrot"
+    ],
+    "recipeSource": "https://redhousespice.com/yangzhou-fried-rice/"
+  },
+  {
+    "id": "chinese-98",
+    "name": "Zha jiang mian",
+    "ingredients": [
+      "noodles",
+      "ground pork",
+      "sweet bean sauce",
+      "cucumber"
+    ],
+    "method": "noodle",
+    "fiberFoods": [
+      "sweet bean sauce",
+      "cucumber"
+    ],
+    "recipeSource": "https://redhousespice.com/zha-jiang-mian/"
+  },
+  {
+    "id": "chinese-99",
+    "name": "Scallion oil noodles",
+    "ingredients": [
+      "noodles",
+      "scallion",
+      "soy sauce",
+      "neutral oil"
+    ],
+    "method": "noodle",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/spring-onion-oil-noodles/"
+  },
+  {
+    "id": "chinese-100",
+    "name": "Dan dan noodles",
+    "ingredients": [
+      "noodles",
+      "ground pork",
+      "preserved mustard greens",
+      "sesame paste"
+    ],
+    "method": "noodle",
+    "fiberFoods": [],
+    "recipeSource": "https://redhousespice.com/dan-dan-noodles/"
+  }
+]

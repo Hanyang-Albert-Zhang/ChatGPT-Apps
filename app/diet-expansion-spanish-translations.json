@@ -1,0 +1,1178 @@
+{
+  "Peruvian": [
+    "秘鲁菜",
+    "Peruana"
+  ],
+  "Peru": [
+    "秘鲁",
+    "Perú"
+  ],
+  "Brazilian": [
+    "巴西菜",
+    "Brasileña"
+  ],
+  "Brazil": [
+    "巴西",
+    "Brasil"
+  ],
+  "poblano peppers": [
+    "波布拉诺辣椒",
+    "chiles poblanos"
+  ],
+  "ripe plantain": [
+    "熟大蕉",
+    "plátano maduro"
+  ],
+  "cooked shrimp": [
+    "熟虾",
+    "camarones cocidos"
+  ],
+  "goat meat": [
+    "山羊肉",
+    "carne de cabra"
+  ],
+  "beef tripe": [
+    "牛肚",
+    "mondongo de res"
+  ],
+  "pork cracklings": [
+    "炸猪皮",
+    "chicharrón de cerdo"
+  ],
+  "pork shoulder": [
+    "猪肩肉",
+    "paleta de cerdo"
+  ],
+  "cooked octopus": [
+    "熟章鱼",
+    "pulpo cocido"
+  ],
+  "cooked conch": [
+    "熟海螺",
+    "carrucho cocido"
+  ],
+  "aji amarillo": [
+    "秘鲁黄辣椒",
+    "ají amarillo"
+  ],
+  "dried potatoes": [
+    "风干土豆",
+    "papas secas"
+  ],
+  "aji panca": [
+    "秘鲁潘卡辣椒",
+    "ají panca"
+  ],
+  "olluco": [
+    "乌卢科块茎",
+    "olluco"
+  ],
+  "canary beans": [
+    "秘鲁黄豆",
+    "frijoles canarios"
+  ],
+  "lima beans": [
+    "利马豆",
+    "pallares"
+  ],
+  "caigua": [
+    "菜瓜",
+    "caigua"
+  ],
+  "rocoto peppers": [
+    "洛科托辣椒",
+    "rocotos"
+  ],
+  "huacatay": [
+    "秘鲁黑薄荷",
+    "huacatay"
+  ],
+  "cassava flour": [
+    "木薯粉",
+    "harina de yuca"
+  ],
+  "potato sticks": [
+    "土豆细条",
+    "papas en tiras"
+  ],
+  "dried beef": [
+    "风干牛肉",
+    "carne seca"
+  ],
+  "beef ribs": [
+    "牛排骨",
+    "costillas de res"
+  ],
+  "maxixe": [
+    "巴西刺瓜",
+    "pepinillo maxixe"
+  ],
+  "jiló": [
+    "巴西苦茄",
+    "berenjena jiló"
+  ],
+  "hearts of palm": [
+    "棕榈心",
+    "palmitos"
+  ],
+  "corn flakes": [
+    "蒸制用玉米粗粉",
+    "sémola de maíz para cocer al vapor"
+  ],
+  "tapioca starch": [
+    "木薯淀粉",
+    "almidón de yuca"
+  ],
+  "Chiles rellenos": [
+    "芝士馅辣椒",
+    "Chiles rellenos"
+  ],
+  "eggs": [
+    "鸡蛋",
+    "huevos"
+  ],
+  "cheese": [
+    "奶酪",
+    "queso"
+  ],
+  "tomato": [
+    "番茄",
+    "tomate"
+  ],
+  "Caldo de pollo": [
+    "墨西哥鸡汤",
+    "Caldo de pollo"
+  ],
+  "chicken": [
+    "鸡肉",
+    "pollo"
+  ],
+  "carrot": [
+    "胡萝卜",
+    "zanahoria"
+  ],
+  "zucchini": [
+    "西葫芦",
+    "calabacín"
+  ],
+  "corn": [
+    "玉米",
+    "maíz"
+  ],
+  "Caldo de res": [
+    "墨西哥牛肉蔬菜汤",
+    "Caldo de res"
+  ],
+  "beef": [
+    "牛肉",
+    "carne de res"
+  ],
+  "cabbage": [
+    "卷心菜",
+    "col"
+  ],
+  "Sopa de fideo": [
+    "墨西哥番茄细面汤",
+    "Sopa de fideo"
+  ],
+  "noodles": [
+    "面条",
+    "fideos"
+  ],
+  "onion": [
+    "洋葱",
+    "cebolla"
+  ],
+  "garlic": [
+    "大蒜",
+    "ajo"
+  ],
+  "Sopa de habas": [
+    "蚕豆汤",
+    "Sopa de habas"
+  ],
+  "fava beans": [
+    "蚕豆",
+    "habas"
+  ],
+  "cilantro": [
+    "香菜",
+    "cilantro"
+  ],
+  "Chilaquiles verdes": [
+    "青酱玉米脆片",
+    "Chilaquiles verdes"
+  ],
+  "corn tortillas": [
+    "玉米薄饼",
+    "tortillas de maíz"
+  ],
+  "tomatillos": [
+    "酸浆番茄",
+    "tomatillos"
+  ],
+  "Enchiladas rojas": [
+    "红酱玉米卷",
+    "Enchiladas rojas"
+  ],
+  "guajillo chile": [
+    "瓜希略辣椒",
+    "chile guajillo"
+  ],
+  "Enfrijoladas": [
+    "豆酱玉米卷",
+    "Enfrijoladas"
+  ],
+  "black beans": [
+    "黑豆",
+    "frijoles negros"
+  ],
+  "Huevos rancheros": [
+    "墨西哥牧场煎蛋",
+    "Huevos rancheros"
+  ],
+  "beans": [
+    "豆类",
+    "frijoles"
+  ],
+  "Huevos a la mexicana": [
+    "墨西哥番茄辣椒炒蛋",
+    "Huevos a la mexicana"
+  ],
+  "chile serrano": [
+    "塞拉诺辣椒",
+    "chile serrano"
+  ],
+  "Pollo en salsa verde": [
+    "青酱炖鸡",
+    "Pollo en salsa verde"
+  ],
+  "Albóndigas en caldo": [
+    "墨西哥肉丸汤",
+    "Albóndigas en caldo"
+  ],
+  "ground beef": [
+    "牛肉馅",
+    "carne de res picada"
+  ],
+  "rice": [
+    "大米",
+    "arroz"
+  ],
+  "Pipián verde": [
+    "南瓜籽青酱炖鸡",
+    "Pipián verde"
+  ],
+  "pumpkin seeds": [
+    "南瓜籽",
+    "semillas de calabaza"
+  ],
+  "Papas con rajas": [
+    "辣椒土豆条",
+    "Papas con rajas"
+  ],
+  "potatoes": [
+    "土豆",
+    "patatas"
+  ],
+  "cream": [
+    "奶油",
+    "nata"
+  ],
+  "Chayotes al vapor": [
+    "清蒸佛手瓜",
+    "Chayotes al vapor"
+  ],
+  "chayote": [
+    "佛手瓜",
+    "chayote"
+  ],
+  "water": [
+    "水",
+    "agua"
+  ],
+  "pinch of salt": [
+    "少许盐",
+    "una pizca de sal"
+  ],
+  "Coliflor capeada": [
+    "裹蛋花菜配番茄酱",
+    "Coliflor capeada"
+  ],
+  "cauliflower": [
+    "菜花",
+    "coliflor"
+  ],
+  "Tortitas de espinaca": [
+    "菠菜蛋饼",
+    "Tortitas de espinaca"
+  ],
+  "spinach": [
+    "菠菜",
+    "espinaca"
+  ],
+  "Huaraches de frijol": [
+    "豆泥长形玉米饼",
+    "Huaraches de frijol"
+  ],
+  "masa harina": [
+    "碱化玉米粉",
+    "harina de maíz nixtamalizado"
+  ],
+  "nopales": [
+    "仙人掌茎片",
+    "nopales"
+  ],
+  "salsa": [
+    "莎莎酱",
+    "salsa"
+  ],
+  "Tacos de pescado": [
+    "墨西哥鱼肉玉米卷",
+    "Tacos de pescado"
+  ],
+  "white fish": [
+    "白肉鱼",
+    "pescado blanco"
+  ],
+  "lime": [
+    "青柠",
+    "lima"
+  ],
+  "Arroz rojo": [
+    "墨西哥番茄饭",
+    "Arroz rojo"
+  ],
+  "peas": [
+    "豌豆",
+    "guisantes"
+  ],
+  "Bolón de verde": [
+    "厄瓜多尔青蕉丸",
+    "Bolón de verde"
+  ],
+  "green plantain": [
+    "青大蕉",
+    "plátano macho verde"
+  ],
+  "butter": [
+    "黄油",
+    "mantequilla"
+  ],
+  "Patacones": [
+    "双煎青蕉饼",
+    "Patacones"
+  ],
+  "neutral oil": [
+    "中性食用油",
+    "aceite de sabor neutro"
+  ],
+  "Maduro asado con queso": [
+    "烤熟蕉夹奶酪",
+    "Maduro asado con queso"
+  ],
+  "fresh cheese": [
+    "鲜奶酪",
+    "queso fresco"
+  ],
+  "Molo de papa": [
+    "厄瓜多尔土豆泥",
+    "Molo de papa"
+  ],
+  "milk": [
+    "牛奶",
+    "leche"
+  ],
+  "Aguacate relleno de atún": [
+    "金枪鱼酿牛油果",
+    "Aguacate relleno de atún"
+  ],
+  "avocado": [
+    "牛油果",
+    "aguacate"
+  ],
+  "tuna": [
+    "金枪鱼",
+    "atún"
+  ],
+  "Aguacate relleno de camarón": [
+    "虾仁酿牛油果",
+    "Aguacate relleno de camarón"
+  ],
+  "shrimp": [
+    "虾",
+    "gamba"
+  ],
+  "red onion": [
+    "红洋葱",
+    "cebolla roja"
+  ],
+  "radish": [
+    "萝卜",
+    "rábano"
+  ],
+  "Ensalada de papas con camarones": [
+    "虾仁土豆沙拉",
+    "Ensalada de papas con camarones"
+  ],
+  "Ceviche de camarón ecuatoriano": [
+    "厄瓜多尔酸橘虾",
+    "Ceviche de camarón ecuatoriano"
+  ],
+  "Ceviche volquetero": [
+    "金枪鱼玉米酸橘沙拉",
+    "Ceviche volquetero"
+  ],
+  "prepared lupini beans": [
+    "处理妥当的羽扇豆",
+    "altramuces preparados"
+  ],
+  "toasted corn": [
+    "烤玉米",
+    "maíz tostado"
+  ],
+  "Arroz con pollo ecuatoriano": [
+    "厄瓜多尔鸡肉饭",
+    "Arroz con pollo ecuatoriano"
+  ],
+  "Arroz con camarones ecuatoriano": [
+    "厄瓜多尔虾饭",
+    "Arroz con camarones ecuatoriano"
+  ],
+  "bell pepper": [
+    "甜椒",
+    "pimiento"
+  ],
+  "Arroz con menestra": [
+    "豆炖饭",
+    "Arroz con menestra"
+  ],
+  "lentils": [
+    "扁豆",
+    "lentejas"
+  ],
+  "Seco de chivo": [
+    "厄瓜多尔炖羊肉",
+    "Seco de chivo"
+  ],
+  "Seco de carne": [
+    "厄瓜多尔炖牛肉",
+    "Seco de carne"
+  ],
+  "Fritada de chancho": [
+    "厄瓜多尔焖煎猪肉",
+    "Fritada de chancho"
+  ],
+  "pork": [
+    "猪肉",
+    "carne de cerdo"
+  ],
+  "cumin": [
+    "孜然",
+    "comino"
+  ],
+  "Hornado de chancho": [
+    "厄瓜多尔慢烤猪肉",
+    "Hornado de chancho"
+  ],
+  "beer": [
+    "啤酒",
+    "cerveza"
+  ],
+  "Guatita": [
+    "花生酱炖牛肚",
+    "Guatita"
+  ],
+  "peanuts": [
+    "花生",
+    "cacahuetes"
+  ],
+  "Sopa de fideo con queso": [
+    "奶酪细面汤",
+    "Sopa de fideo con queso"
+  ],
+  "Sopa de habas ecuatoriana": [
+    "厄瓜多尔蚕豆汤",
+    "Sopa de habas ecuatoriana"
+  ],
+  "Tortillas de yuca": [
+    "木薯奶酪饼",
+    "Tortillas de yuca"
+  ],
+  "yuca": [
+    "木薯",
+    "yuca"
+  ],
+  "Mofongo": [
+    "波多黎各蒜香青蕉泥",
+    "Mofongo"
+  ],
+  "broth": [
+    "高汤",
+    "caldo"
+  ],
+  "Mofongo de yuca": [
+    "蒜香木薯泥",
+    "Mofongo de yuca"
+  ],
+  "olive oil": [
+    "橄榄油",
+    "aceite de oliva"
+  ],
+  "Pastelón": [
+    "波多黎各熟蕉肉馅烤盘",
+    "Pastelón"
+  ],
+  "Pasteles de masa": [
+    "波多黎各根茎蒸包",
+    "Pasteles de masa"
+  ],
+  "green banana": [
+    "青香蕉",
+    "plátano verde"
+  ],
+  "yautia": [
+    "黄肉芋",
+    "yautía"
+  ],
+  "sofrito": [
+    "炒香蔬菜底",
+    "sofrito"
+  ],
+  "Pasteles de yuca": [
+    "波多黎各木薯蒸包",
+    "Pasteles de yuca"
+  ],
+  "banana leaf": [
+    "香蕉叶",
+    "hoja de plátano"
+  ],
+  "Arroz con pollo boricua": [
+    "波多黎各鸡肉饭",
+    "Arroz con pollo boricua"
+  ],
+  "Arroz mamposteao": [
+    "波多黎各豆肉炒饭",
+    "Arroz mamposteao"
+  ],
+  "red beans": [
+    "红豆",
+    "judías rojas"
+  ],
+  "bacon": [
+    "培根",
+    "beicon"
+  ],
+  "Arroz con salchichas": [
+    "波多黎各香肠饭",
+    "Arroz con salchichas"
+  ],
+  "sausage": [
+    "香肠",
+    "salchicha"
+  ],
+  "tomato sauce": [
+    "番茄酱",
+    "salsa de tomate"
+  ],
+  "Pernil asado": [
+    "波多黎各烤猪肩",
+    "Pernil asado"
+  ],
+  "oregano": [
+    "牛至",
+    "orégano"
+  ],
+  "Pollo al horno boricua": [
+    "波多黎各烤鸡",
+    "Pollo al horno boricua"
+  ],
+  "Bistec encebollado": [
+    "波多黎各洋葱牛排",
+    "Bistec encebollado"
+  ],
+  "vinegar": [
+    "醋",
+    "vinagre"
+  ],
+  "Carne guisada boricua": [
+    "波多黎各炖牛肉",
+    "Carne guisada boricua"
+  ],
+  "Carne molida boricua": [
+    "波多黎各番茄肉末",
+    "Carne molida boricua"
+  ],
+  "olives": [
+    "橄榄",
+    "aceitunas"
+  ],
+  "Chuletas guisadas": [
+    "波多黎各炖猪排",
+    "Chuletas guisadas"
+  ],
+  "pork chops": [
+    "猪排",
+    "chuletas de cerdo"
+  ],
+  "Camarones guisados": [
+    "波多黎各炖虾",
+    "Camarones guisados"
+  ],
+  "Serenata de bacalao": [
+    "鳕鱼根茎沙拉",
+    "Serenata de bacalao"
+  ],
+  "desalted cooked salt cod": [
+    "脱盐煮熟咸鳕鱼",
+    "bacalao desalado y cocido"
+  ],
+  "Ensalada de pulpo": [
+    "波多黎各章鱼沙拉",
+    "Ensalada de pulpo"
+  ],
+  "Ensalada de carrucho": [
+    "波多黎各海螺沙拉",
+    "Ensalada de carrucho"
+  ],
+  "Tostones": [
+    "波多黎各双煎青蕉",
+    "Tostones"
+  ],
+  "Amarillos": [
+    "波多黎各煎熟蕉",
+    "Amarillos"
+  ],
+  "Lomo saltado": [
+    "秘鲁炒牛肉",
+    "Lomo saltado"
+  ],
+  "Pollo saltado": [
+    "秘鲁炒鸡肉",
+    "Pollo saltado"
+  ],
+  "soy sauce": [
+    "酱油",
+    "salsa de soja"
+  ],
+  "Saltado de vainitas": [
+    "秘鲁鸡肉炒四季豆",
+    "Saltado de vainitas"
+  ],
+  "green beans": [
+    "四季豆",
+    "judías verdes"
+  ],
+  "Ají de gallina": [
+    "秘鲁黄椒鸡丝",
+    "Ají de gallina"
+  ],
+  "bread": [
+    "面包",
+    "pan"
+  ],
+  "Estofado de pollo peruano": [
+    "秘鲁炖鸡",
+    "Estofado de pollo peruano"
+  ],
+  "Seco de res": [
+    "秘鲁香菜炖牛肉",
+    "Seco de res"
+  ],
+  "Seco de cabrito": [
+    "秘鲁香菜炖山羊肉",
+    "Seco de cabrito"
+  ],
+  "Carapulcra": [
+    "秘鲁风干土豆猪肉炖锅",
+    "Carapulcra"
+  ],
+  "Olluquito con carne": [
+    "秘鲁乌卢科块茎炖牛肉",
+    "Olluquito con carne"
+  ],
+  "Locro de zapallo peruano": [
+    "秘鲁南瓜炖菜",
+    "Locro de zapallo peruano"
+  ],
+  "squash": [
+    "南瓜",
+    "calabaza"
+  ],
+  "Guiso de quinua": [
+    "秘鲁藜麦炖菜",
+    "Guiso de quinua"
+  ],
+  "quinoa": [
+    "藜麦",
+    "quinoa"
+  ],
+  "Quinua atamalada": [
+    "秘鲁浓稠藜麦炖菜",
+    "Quinua atamalada"
+  ],
+  "Sopa de quinua con pollo": [
+    "鸡肉藜麦汤",
+    "Sopa de quinua con pollo"
+  ],
+  "Sopa de quinua con cerdo": [
+    "猪肉藜麦汤",
+    "Sopa de quinua con cerdo"
+  ],
+  "Aguadito de pollo": [
+    "秘鲁香菜鸡肉米汤",
+    "Aguadito de pollo"
+  ],
+  "Sopa a la minuta": [
+    "秘鲁快手牛肉面汤",
+    "Sopa a la minuta"
+  ],
+  "Chupe de camarones": [
+    "秘鲁浓虾汤",
+    "Chupe de camarones"
+  ],
+  "Chupe de habas": [
+    "秘鲁蚕豆浓汤",
+    "Chupe de habas"
+  ],
+  "Parihuela": [
+    "秘鲁海鲜汤",
+    "Parihuela"
+  ],
+  "Caldo de gallina": [
+    "秘鲁母鸡汤",
+    "Caldo de gallina"
+  ],
+  "Menestrón peruano": [
+    "秘鲁罗勒蔬菜豆汤",
+    "Menestrón peruano"
+  ],
+  "white beans": [
+    "白豆",
+    "judías blancas"
+  ],
+  "pasta": [
+    "意大利面",
+    "pasta"
+  ],
+  "basil": [
+    "罗勒",
+    "albahaca"
+  ],
+  "Shámbar": [
+    "秘鲁小麦豆肉汤",
+    "Shámbar"
+  ],
+  "wheat": [
+    "小麦",
+    "trigo"
+  ],
+  "pinto beans": [
+    "花斑豆",
+    "frijoles pintos"
+  ],
+  "Sancochado": [
+    "秘鲁牛肉蔬菜汤",
+    "Sancochado"
+  ],
+  "Arroz con pollo peruano": [
+    "秘鲁香菜鸡肉饭",
+    "Arroz con pollo peruano"
+  ],
+  "Arroz con pato": [
+    "秘鲁鸭肉饭",
+    "Arroz con pato"
+  ],
+  "duck": [
+    "鸭肉",
+    "pato"
+  ],
+  "Arroz con camarones peruano": [
+    "秘鲁黄椒虾饭",
+    "Arroz con camarones peruano"
+  ],
+  "Arroz tapado": [
+    "秘鲁肉馅盖饭",
+    "Arroz tapado"
+  ],
+  "raisins": [
+    "葡萄干",
+    "pasa"
+  ],
+  "Arroz chaufa": [
+    "秘鲁中式炒饭",
+    "Arroz chaufa"
+  ],
+  "scallion": [
+    "葱",
+    "cebolleta"
+  ],
+  "Chaufa de quinua": [
+    "秘鲁藜麦炒饭",
+    "Chaufa de quinua"
+  ],
+  "Tacu tacu": [
+    "秘鲁豆饭煎饼",
+    "Tacu tacu"
+  ],
+  "cooked beans": [
+    "煮熟豆子",
+    "judías cocidas"
+  ],
+  "Frejoles canarios guisados": [
+    "秘鲁炖黄豆",
+    "Frejoles canarios guisados"
+  ],
+  "Lentejas guisadas peruanas": [
+    "秘鲁炖扁豆",
+    "Lentejas guisadas peruanas"
+  ],
+  "Pallares guisados": [
+    "秘鲁炖利马豆",
+    "Pallares guisados"
+  ],
+  "Pepián de choclo": [
+    "秘鲁玉米鸡肉炖菜",
+    "Pepián de choclo"
+  ],
+  "Caigua rellena": [
+    "秘鲁酿菜瓜",
+    "Caigua rellena"
+  ],
+  "Rocoto relleno": [
+    "秘鲁酿洛科托辣椒",
+    "Rocoto relleno"
+  ],
+  "Papa rellena": [
+    "秘鲁肉馅土豆饼",
+    "Papa rellena"
+  ],
+  "Causa limeña": [
+    "利马土豆鸡肉叠饼",
+    "Causa limeña"
+  ],
+  "Causa de atún": [
+    "秘鲁金枪鱼土豆叠饼",
+    "Causa de atún"
+  ],
+  "Papa a la huancaína": [
+    "万卡约黄椒奶酪土豆",
+    "Papa a la huancaína"
+  ],
+  "Ocopa arequipeña": [
+    "阿雷基帕香草酱土豆",
+    "Ocopa arequipeña"
+  ],
+  "Solterito arequipeño": [
+    "阿雷基帕蚕豆奶酪沙拉",
+    "Solterito arequipeño"
+  ],
+  "Palta rellena de pollo": [
+    "鸡肉酿牛油果",
+    "Palta rellena de pollo"
+  ],
+  "Palta rellena de camarones": [
+    "虾仁酿牛油果",
+    "Palta rellena de camarones"
+  ],
+  "Ensalada de quinua peruana": [
+    "秘鲁藜麦沙拉",
+    "Ensalada de quinua peruana"
+  ],
+  "cucumber": [
+    "黄瓜",
+    "pepino"
+  ],
+  "Tallarines verdes": [
+    "秘鲁菠菜罗勒青酱面",
+    "Tallarines verdes"
+  ],
+  "Tallarines rojos": [
+    "秘鲁番茄鸡肉面",
+    "Tallarines rojos"
+  ],
+  "Juane de gallina": [
+    "秘鲁蕉叶鸡肉饭包",
+    "Juane de gallina"
+  ],
+  "Sudado de pescado peruano": [
+    "秘鲁焖鱼",
+    "Sudado de pescado peruano"
+  ],
+  "Pollo a la brasa": [
+    "秘鲁炭烤鸡",
+    "Pollo a la brasa"
+  ],
+  "Feijoada": [
+    "巴西黑豆炖肉",
+    "Guiso brasileño de frijoles negros y cerdo"
+  ],
+  "bay leaf": [
+    "月桂叶",
+    "hoja de laurel"
+  ],
+  "Feijão carioca": [
+    "巴西斑豆",
+    "Frijoles pintos brasileños"
+  ],
+  "Feijão preto": [
+    "巴西炖黑豆",
+    "Frijoles negros brasileños"
+  ],
+  "Feijão fradinho": [
+    "巴西眉豆炖菜",
+    "Frijoles carita brasileños"
+  ],
+  "black-eyed peas": [
+    "黑眼豆",
+    "carillas"
+  ],
+  "Feijão tropeiro": [
+    "巴西豆肉木薯粉炒菜",
+    "Frijoles tropeiros"
+  ],
+  "collard greens": [
+    "羽衣甘蓝",
+    "berza"
+  ],
+  "Tutu de feijão": [
+    "巴西豆泥",
+    "Puré brasileño de frijoles"
+  ],
+  "Baião de dois": [
+    "巴西双豆奶酪饭",
+    "Arroz brasileño con frijoles y queso"
+  ],
+  "Arroz e feijão": [
+    "巴西豆饭",
+    "Arroz con frijoles brasileño"
+  ],
+  "Arroz à grega": [
+    "巴西彩蔬饭",
+    "Arroz brasileño con verduras"
+  ],
+  "Arroz biro-biro": [
+    "巴西鸡蛋培根饭",
+    "Arroz brasileño con huevo y tocino"
+  ],
+  "Arroz carreteiro": [
+    "巴西牛肉饭",
+    "Arroz brasileño con carne seca"
+  ],
+  "Galinhada": [
+    "巴西鸡肉饭",
+    "Arroz brasileño con pollo"
+  ],
+  "Frango com quiabo": [
+    "巴西秋葵炖鸡",
+    "Pollo brasileño con quimbombó"
+  ],
+  "okra": [
+    "秋葵",
+    "okra"
+  ],
+  "Frango ensopado": [
+    "巴西炖鸡",
+    "Pollo guisado brasileño"
+  ],
+  "Canja de galinha": [
+    "巴西鸡肉米汤",
+    "Sopa brasileña de pollo y arroz"
+  ],
+  "Caldo verde brasileiro": [
+    "巴西羽衣甘蓝土豆汤",
+    "Caldo verde brasileño"
+  ],
+  "Caldo de feijão": [
+    "巴西豆汤",
+    "Sopa brasileña de frijoles"
+  ],
+  "Sopa de mandioca": [
+    "巴西木薯汤",
+    "Sopa brasileña de yuca"
+  ],
+  "Sopa de abóbora": [
+    "巴西南瓜汤",
+    "Sopa brasileña de calabaza"
+  ],
+  "pumpkin": [
+    "南瓜",
+    "calabaza"
+  ],
+  "Sopa de ervilha": [
+    "巴西豌豆汤",
+    "Sopa brasileña de guisantes"
+  ],
+  "split peas": [
+    "豌豆瓣",
+    "guisantes partidos"
+  ],
+  "Vaca atolada": [
+    "巴西木薯炖牛排骨",
+    "Costillas brasileñas con yuca"
+  ],
+  "Carne de panela": [
+    "巴西锅炖牛肉",
+    "Carne de res guisada brasileña"
+  ],
+  "Picadinho de carne": [
+    "巴西蔬菜牛肉丁",
+    "Carne brasileña en dados con verduras"
+  ],
+  "Carne moída com legumes": [
+    "巴西蔬菜肉末",
+    "Carne molida brasileña con verduras"
+  ],
+  "Escondidinho de carne seca": [
+    "巴西牛肉木薯泥焗盘",
+    "Pastel brasileño de yuca y carne seca"
+  ],
+  "Moqueca baiana": [
+    "巴伊亚椰汁鱼锅",
+    "Guiso bahiano de pescado con coco"
+  ],
+  "coconut milk": [
+    "椰奶",
+    "leche de coco"
+  ],
+  "Moqueca capixaba": [
+    "圣埃斯皮里图番茄鱼锅",
+    "Guiso capixaba de pescado"
+  ],
+  "Moqueca de camarão": [
+    "巴西椰汁虾锅",
+    "Guiso brasileño de camarones con coco"
+  ],
+  "Bobó de camarão": [
+    "巴西木薯虾泥锅",
+    "Crema brasileña de yuca con camarones"
+  ],
+  "Camarão na moranga": [
+    "巴西南瓜盅虾",
+    "Calabaza brasileña rellena de camarones"
+  ],
+  "cream cheese": [
+    "奶油奶酪",
+    "queso crema"
+  ],
+  "Peixe assado brasileiro": [
+    "巴西烤鱼",
+    "Pescado asado brasileño"
+  ],
+  "Sardinha na panela de pressão": [
+    "巴西高压焖沙丁鱼",
+    "Sardinas brasileñas en olla a presión"
+  ],
+  "sardines": [
+    "沙丁鱼",
+    "sardinas"
+  ],
+  "Couve refogada": [
+    "巴西蒜炒羽衣甘蓝",
+    "Berza brasileña salteada"
+  ],
+  "Abobrinha refogada": [
+    "巴西炒西葫芦",
+    "Calabacín brasileño salteado"
+  ],
+  "Chuchu refogado": [
+    "巴西炒佛手瓜",
+    "Chayote brasileño salteado"
+  ],
+  "Quiabo refogado": [
+    "巴西炒秋葵",
+    "Quimbombó brasileño salteado"
+  ],
+  "Abóbora refogada": [
+    "巴西焖南瓜",
+    "Calabaza brasileña salteada"
+  ],
+  "Maxixe refogado": [
+    "巴西焖刺瓜",
+    "Pepinillo maxixe guisado"
+  ],
+  "Jiló refogado": [
+    "巴西焖苦茄",
+    "Berenjena jiló guisada"
+  ],
+  "Berinjela refogada": [
+    "巴西炒茄子",
+    "Berenjena brasileña salteada"
+  ],
+  "eggplant": [
+    "茄子",
+    "berenjena"
+  ],
+  "Salada de feijão fradinho": [
+    "巴西眉豆沙拉",
+    "Ensalada brasileña de frijoles carita"
+  ],
+  "Salada de palmito": [
+    "巴西棕榈心沙拉",
+    "Ensalada brasileña de palmitos"
+  ],
+  "lettuce": [
+    "生菜",
+    "lechuga"
+  ],
+  "Vinagrete brasileiro": [
+    "巴西番茄洋葱沙拉",
+    "Ensalada brasileña de tomate y cebolla"
+  ],
+  "Salpicão de frango": [
+    "巴西鸡丝蔬菜沙拉",
+    "Ensalada brasileña de pollo"
+  ],
+  "Farofa de banana": [
+    "巴西香蕉木薯粉",
+    "Harina de yuca tostada con plátano"
+  ],
+  "banana": [
+    "香蕉",
+    "plátano"
+  ],
+  "Farofa de couve": [
+    "巴西羽衣甘蓝木薯粉",
+    "Harina de yuca tostada con berza"
+  ],
+  "Cuscuz nordestino": [
+    "巴西东北蒸玉米粉",
+    "Cuscús brasileño de maíz al vapor"
+  ],
+  "Cuscuz paulista": [
+    "圣保罗蔬菜鱼肉玉米糕",
+    "Pastel paulista de maíz y pescado"
+  ],
+  "cornmeal": [
+    "玉米粉",
+    "harina de maíz"
+  ],
+  "Pamonha salgada": [
+    "巴西咸玉米蒸包",
+    "Tamal brasileño salado de maíz"
+  ],
+  "corn husks": [
+    "玉米苞叶",
+    "hojas de maíz"
+  ],
+  "Pão de queijo": [
+    "巴西奶酪面包",
+    "Pan brasileño de queso"
+  ],
+  "Peruvian home cooking spans the coast, Andes and Amazon, using potatoes, corn, quinoa, beans, vegetables and many different proteins. These are traditional dishes and sides, not a prescribed diet.": [
+    "秘鲁家常菜涵盖海岸、安第斯山区和亚马逊地区，使用土豆、玉米、藜麦、豆类、蔬菜和多种蛋白质食材。这些是传统菜肴和配菜，并非规定的饮食方案。",
+    "La cocina casera peruana abarca la costa, los Andes y la Amazonía, con papas, maíz, quinua, legumbres, verduras y diversas proteínas. Son platos y acompañamientos tradicionales, no una dieta prescrita."
+  ],
+  "Build a varied plate with a bean or vegetable side. Some traditional dishes are rich or low in fiber; use the full source recipe and choose portions that fit your needs.": [
+    "以豆类或蔬菜配菜丰富餐盘。有些传统菜肴较浓郁或纤维较少；请参阅完整食谱并选择适合自己的份量。",
+    "Completa el plato con legumbres o verduras. Algunos platos tradicionales son ricos en grasa o bajos en fibra; consulta la receta completa y elige porciones adecuadas para ti."
+  ],
+  "Brazilian home cooking varies greatly by region. Beans and rice, leafy greens, cassava, corn and fish stews appear alongside meat dishes and regional specialties.": [
+    "巴西家常菜因地区而异。豆饭、绿叶菜、木薯、玉米和炖鱼，与肉类菜肴及地区特色美食共同组成日常餐桌。",
+    "La cocina casera brasileña varía mucho según la región. Los frijoles y el arroz, las verduras de hoja, la yuca, el maíz y los guisos de pescado acompañan carnes y especialidades regionales."
+  ],
+  "Include beans and vegetables alongside a main. Traditional dishes differ in salt, fat and fiber; the ingredient lists here are summaries rather than measured nutrition claims.": [
+    "主菜搭配豆类和蔬菜。传统菜肴的盐、脂肪和纤维含量各不相同；此处食材列表仅为概述，并非实测营养数据。",
+    "Acompaña el plato principal con frijoles y verduras. Los platos tradicionales varían en sal, grasa y fibra; estas listas de ingredientes son resúmenes, no valores nutricionales medidos."
+  ]
+}

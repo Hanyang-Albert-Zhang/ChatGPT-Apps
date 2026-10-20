@@ -1,0 +1,614 @@
+{
+  "Chinese steamed eggs": [
+    "蒸蛋羹",
+    "Huevos chinos al vapor"
+  ],
+  "Steamed enoki mushrooms": [
+    "蒜蓉蒸金针菇",
+    "Setas enoki al vapor"
+  ],
+  "Steamed chicken with mushrooms": [
+    "香菇蒸鸡",
+    "Pollo al vapor con setas"
+  ],
+  "Pearl meatballs": [
+    "珍珠丸子",
+    "Albóndigas perladas"
+  ],
+  "Steamed cabbage rolls": [
+    "白菜蒸肉卷",
+    "Rollitos de col al vapor"
+  ],
+  "Steamed ribs with black beans": [
+    "豉汁蒸排骨",
+    "Costillas al vapor con judías negras fermentadas"
+  ],
+  "Steamed garlic shrimp with vermicelli": [
+    "蒜蓉粉丝蒸虾",
+    "Camarones al vapor con ajo y fideos"
+  ],
+  "Lo mai gai": [
+    "糯米鸡",
+    "Arroz glutinoso con pollo en hoja de loto"
+  ],
+  "Shrimp and pork shumai": [
+    "鲜虾猪肉烧卖",
+    "Shumai de cerdo y camarones"
+  ],
+  "Five-spice edamame": [
+    "五香毛豆",
+    "Edamame a las cinco especias"
+  ],
+  "Water spinach stir-fry": [
+    "蒜蓉空心菜",
+    "Espinaca de agua salteada"
+  ],
+  "Chinese broccoli with oyster sauce": [
+    "蚝油芥蓝",
+    "Brócoli chino con salsa de ostras"
+  ],
+  "Dry-pot cauliflower": [
+    "干锅花菜",
+    "Coliflor estilo olla seca"
+  ],
+  "Shrimp and egg stir-fry": [
+    "虾仁炒蛋",
+    "Huevos salteados con camarones"
+  ],
+  "Egg and pickled chili stir-fry": [
+    "剁椒炒鸡蛋",
+    "Huevos salteados con chile encurtido"
+  ],
+  "King oyster mushrooms with garlic sauce": [
+    "鱼香杏鲍菇",
+    "Setas de cardo con salsa de ajo"
+  ],
+  "Eggplant with garlic sauce": [
+    "鱼香茄子",
+    "Berenjena con salsa de ajo"
+  ],
+  "Tiger-skin peppers": [
+    "虎皮青椒",
+    "Pimientos de piel de tigre"
+  ],
+  "Scallion tofu": [
+    "小葱拌豆腐",
+    "Tofu con cebolleta"
+  ],
+  "Kung pao chicken": [
+    "宫保鸡丁",
+    "Pollo kung pao"
+  ],
+  "Black pepper beef": [
+    "黑椒牛柳",
+    "Ternera a la pimienta negra"
+  ],
+  "Sichuan shredded pork with garlic sauce": [
+    "鱼香肉丝",
+    "Cerdo en tiras con salsa de ajo"
+  ],
+  "Peking shredded pork": [
+    "京酱肉丝",
+    "Cerdo en tiras con salsa de judías dulces"
+  ],
+  "Moo shu pork": [
+    "木须肉",
+    "Cerdo moo shu"
+  ],
+  "Twice-cooked pork": [
+    "回锅肉",
+    "Cerdo cocinado dos veces"
+  ],
+  "Cumin lamb stir-fry": [
+    "孜然羊肉",
+    "Cordero salteado con comino"
+  ],
+  "Chicken and mushroom stir-fry": [
+    "香菇炒鸡",
+    "Pollo salteado con setas"
+  ],
+  "Beef with Chinese broccoli": [
+    "芥蓝炒牛肉",
+    "Ternera con brócoli chino"
+  ],
+  "Shrimp and broccoli": [
+    "西兰花炒虾仁",
+    "Camarones con brócoli"
+  ],
+  "Stir-fried napa cabbage": [
+    "清炒大白菜",
+    "Col china salteada"
+  ],
+  "Braised chicken wings": [
+    "红烧鸡翅",
+    "Alitas de pollo estofadas"
+  ],
+  "Braised beef with daikon": [
+    "萝卜炖牛肉",
+    "Ternera estofada con rábano daikon"
+  ],
+  "Soy sauce chicken": [
+    "豉油鸡",
+    "Pollo en salsa de soja"
+  ],
+  "Three-cup chicken": [
+    "三杯鸡",
+    "Pollo de las tres tazas"
+  ],
+  "Red-cooked pork belly": [
+    "红烧肉",
+    "Panceta de cerdo estofada en salsa roja"
+  ],
+  "Lion's head meatballs": [
+    "狮子头",
+    "Albóndigas cabeza de león"
+  ],
+  "Braised beef shank": [
+    "酱牛肉",
+    "Jarrete de ternera estofado"
+  ],
+  "Sichuan braised tofu": [
+    "家常豆腐",
+    "Tofu estofado de Sichuan"
+  ],
+  "Glass noodles with napa cabbage": [
+    "白菜炖粉条",
+    "Fideos de cristal con col china"
+  ],
+  "Oyster sauce chicken": [
+    "蚝油鸡",
+    "Pollo con salsa de ostras"
+  ],
+  "Pork rib soup": [
+    "排骨汤",
+    "Sopa de costillas de cerdo"
+  ],
+  "Seaweed egg drop soup": [
+    "紫菜蛋花汤",
+    "Sopa de algas y huevo"
+  ],
+  "Chicken corn soup": [
+    "鸡茸玉米羹",
+    "Sopa de pollo y maíz"
+  ],
+  "Winter melon meatball soup": [
+    "冬瓜丸子汤",
+    "Sopa de melón de invierno y albóndigas"
+  ],
+  "Classic egg drop soup": [
+    "蛋花汤",
+    "Sopa clásica de huevo"
+  ],
+  "Tofu and dried shrimp soup": [
+    "虾皮豆腐汤",
+    "Sopa de tofu y camarones secos"
+  ],
+  "Pork wonton soup": [
+    "鲜肉馄饨汤",
+    "Sopa de wonton de cerdo"
+  ],
+  "Chicken meatball noodle soup": [
+    "鸡肉丸子面汤",
+    "Sopa de fideos y albóndigas de pollo"
+  ],
+  "Tomato egg noodle soup": [
+    "番茄鸡蛋面",
+    "Sopa de fideos con tomate y huevo"
+  ],
+  "Sichuan boiled fish": [
+    "水煮鱼",
+    "Pescado hervido de Sichuan"
+  ],
+  "Pan-fried tofu": [
+    "香煎豆腐",
+    "Tofu dorado a la sartén"
+  ],
+  "Pan-fried belt fish": [
+    "香煎带鱼",
+    "Pez sable a la sartén"
+  ],
+  "Scallion pork chops": [
+    "葱烧大排",
+    "Chuletas de cerdo con cebolleta"
+  ],
+  "Zucchini pancakes": [
+    "西葫芦鸡蛋饼",
+    "Tortitas de calabacín"
+  ],
+  "Chinese chive pockets": [
+    "韭菜盒子",
+    "Empanadillas de cebollino chino"
+  ],
+  "Pan-fried pork and chive dumplings": [
+    "韭菜猪肉锅贴",
+    "Empanadillas doradas de cerdo y cebollino"
+  ],
+  "Scallion pancakes": [
+    "葱油饼",
+    "Tortitas de cebolleta"
+  ],
+  "Tofu omelet": [
+    "豆腐煎蛋",
+    "Tortilla de tofu"
+  ],
+  "Northeast tiger salad": [
+    "东北老虎菜",
+    "Ensalada tigre del noreste de China"
+  ],
+  "Xinjiang tiger salad": [
+    "新疆老虎菜",
+    "Ensalada tigre de Xinjiang"
+  ],
+  "Silken tofu salad": [
+    "凉拌内酯豆腐",
+    "Ensalada de tofu sedoso"
+  ],
+  "Glass noodle salad": [
+    "凉拌粉丝",
+    "Ensalada de fideos de cristal"
+  ],
+  "Bang bang chicken": [
+    "棒棒鸡",
+    "Pollo bang bang"
+  ],
+  "Spinach and soybean salad": [
+    "菠菜黄豆凉拌菜",
+    "Ensalada de espinacas y soja"
+  ],
+  "Chicken mushroom congee": [
+    "香菇鸡肉粥",
+    "Congee de pollo y setas"
+  ],
+  "Clay pot rice": [
+    "煲仔饭",
+    "Arroz en cazuela de barro"
+  ],
+  "Yangzhou fried rice": [
+    "扬州炒饭",
+    "Arroz frito de Yangzhou"
+  ],
+  "Zha jiang mian": [
+    "炸酱面",
+    "Fideos con salsa de judías"
+  ],
+  "Scallion oil noodles": [
+    "葱油拌面",
+    "Fideos con aceite de cebolleta"
+  ],
+  "Dan dan noodles": [
+    "担担面",
+    "Fideos dan dan"
+  ],
+  "eggs": [
+    "鸡蛋",
+    "huevos"
+  ],
+  "water": [
+    "水",
+    "agua"
+  ],
+  "light soy sauce": [
+    "生抽",
+    "salsa de soja clara"
+  ],
+  "enoki mushrooms": [
+    "金针菇",
+    "setas enoki"
+  ],
+  "garlic": [
+    "大蒜",
+    "ajo"
+  ],
+  "chicken": [
+    "鸡肉",
+    "pollo"
+  ],
+  "shiitake mushrooms": [
+    "香菇",
+    "setas shiitake"
+  ],
+  "ginger": [
+    "姜",
+    "jengibre"
+  ],
+  "ground pork": [
+    "猪肉馅",
+    "carne de cerdo picada"
+  ],
+  "glutinous rice": [
+    "糯米",
+    "arroz glutinoso"
+  ],
+  "scallion": [
+    "葱",
+    "cebolleta"
+  ],
+  "napa cabbage": [
+    "大白菜",
+    "col china"
+  ],
+  "pork ribs": [
+    "排骨",
+    "costillas de cerdo"
+  ],
+  "fermented black beans": [
+    "豆豉",
+    "judías negras fermentadas"
+  ],
+  "shrimp": [
+    "虾",
+    "gamba"
+  ],
+  "glass noodles": [
+    "粉丝",
+    "fideos de cristal"
+  ],
+  "wonton wrappers": [
+    "馄饨皮",
+    "láminas de wonton"
+  ],
+  "edamame pods": [
+    "毛豆荚",
+    "vainas de soja verde"
+  ],
+  "star anise": [
+    "八角",
+    "anís estrellado"
+  ],
+  "Sichuan pepper": [
+    "花椒",
+    "pimienta de Sichuan"
+  ],
+  "water spinach": [
+    "空心菜",
+    "espinaca de agua"
+  ],
+  "neutral oil": [
+    "中性食用油",
+    "aceite de sabor neutro"
+  ],
+  "Chinese broccoli": [
+    "芥蓝",
+    "brócoli chino"
+  ],
+  "oyster sauce": [
+    "蚝油",
+    "salsa de ostras"
+  ],
+  "cauliflower": [
+    "菜花",
+    "coliflor"
+  ],
+  "pork belly": [
+    "五花肉",
+    "panceta de cerdo"
+  ],
+  "dried chili": [
+    "干辣椒",
+    "chile seco"
+  ],
+  "pickled chili": [
+    "剁椒",
+    "chile encurtido"
+  ],
+  "king oyster mushrooms": [
+    "杏鲍菇",
+    "setas de cardo"
+  ],
+  "black vinegar": [
+    "黑醋",
+    "vinagre negro"
+  ],
+  "soy sauce": [
+    "酱油",
+    "salsa de soja"
+  ],
+  "eggplant": [
+    "茄子",
+    "berenjena"
+  ],
+  "doubanjiang": [
+    "豆瓣酱",
+    "pasta picante de habas"
+  ],
+  "green pepper": [
+    "青椒",
+    "pimiento verde"
+  ],
+  "tofu": [
+    "豆腐",
+    "tofu"
+  ],
+  "sesame oil": [
+    "芝麻油",
+    "aceite de sésamo"
+  ],
+  "peanuts": [
+    "花生",
+    "cacahuetes"
+  ],
+  "beef": [
+    "牛肉",
+    "carne de res"
+  ],
+  "onion": [
+    "洋葱",
+    "cebolla"
+  ],
+  "black pepper": [
+    "黑胡椒",
+    "pimienta negra"
+  ],
+  "pork": [
+    "猪肉",
+    "carne de cerdo"
+  ],
+  "wood ear mushrooms": [
+    "木耳",
+    "setas de oreja de madera"
+  ],
+  "carrot": [
+    "胡萝卜",
+    "zanahoria"
+  ],
+  "sweet bean sauce": [
+    "甜面酱",
+    "salsa de judías dulces"
+  ],
+  "cucumber": [
+    "黄瓜",
+    "pepino"
+  ],
+  "lamb": [
+    "羊羔肉",
+    "cordero"
+  ],
+  "cumin": [
+    "孜然",
+    "comino"
+  ],
+  "coriander": [
+    "芫荽",
+    "cilantro"
+  ],
+  "broccoli": [
+    "西兰花",
+    "brócoli"
+  ],
+  "chicken wings": [
+    "鸡翅",
+    "alitas de pollo"
+  ],
+  "daikon": [
+    "白萝卜",
+    "rábano blanco japonés"
+  ],
+  "basil": [
+    "罗勒",
+    "albahaca"
+  ],
+  "rice wine": [
+    "米酒",
+    "vino de arroz"
+  ],
+  "beef shank": [
+    "牛腱肉",
+    "jarrete de ternera"
+  ],
+  "firm tofu": [
+    "老豆腐",
+    "tofu firme"
+  ],
+  "corn": [
+    "玉米",
+    "maíz"
+  ],
+  "nori": [
+    "海苔",
+    "alga nori"
+  ],
+  "dried shrimp": [
+    "虾米",
+    "gambas secas"
+  ],
+  "winter melon": [
+    "冬瓜",
+    "melón de invierno"
+  ],
+  "tomato": [
+    "番茄",
+    "tomate"
+  ],
+  "ground chicken": [
+    "鸡肉末",
+    "pollo picado"
+  ],
+  "noodles": [
+    "面条",
+    "fideos"
+  ],
+  "bok choy": [
+    "小白菜",
+    "pak choi"
+  ],
+  "white fish": [
+    "白肉鱼",
+    "pescado blanco"
+  ],
+  "soybean sprouts": [
+    "黄豆芽",
+    "brotes de soja"
+  ],
+  "sesame seeds": [
+    "芝麻",
+    "semillas de sésamo"
+  ],
+  "belt fish": [
+    "带鱼",
+    "pez sable"
+  ],
+  "Shaoxing wine": [
+    "绍兴酒",
+    "vino de Shaoxing"
+  ],
+  "pork chops": [
+    "猪排",
+    "chuletas de cerdo"
+  ],
+  "zucchini": [
+    "西葫芦",
+    "calabacín"
+  ],
+  "flour": [
+    "面粉",
+    "harina"
+  ],
+  "Chinese chives": [
+    "韭菜",
+    "cebollino chino"
+  ],
+  "dumpling wrappers": [
+    "饺子皮",
+    "obleas para empanadillas"
+  ],
+  "silken tofu": [
+    "内酯豆腐",
+    "tofu sedoso"
+  ],
+  "sesame paste": [
+    "芝麻酱",
+    "pasta de sésamo"
+  ],
+  "chili oil": [
+    "辣椒油",
+    "aceite de chile"
+  ],
+  "spinach": [
+    "菠菜",
+    "espinaca"
+  ],
+  "soybeans": [
+    "黄豆",
+    "soja"
+  ],
+  "rice": [
+    "大米",
+    "arroz"
+  ],
+  "Chinese sausage": [
+    "腊肠",
+    "salchicha china"
+  ],
+  "peas": [
+    "豌豆",
+    "guisantes"
+  ],
+  "preserved mustard greens": [
+    "芽菜",
+    "hojas de mostaza conservadas"
+  ],
+  "garlic sprouts": [
+    "蒜苗",
+    "brotes de ajo"
+  ]
+}

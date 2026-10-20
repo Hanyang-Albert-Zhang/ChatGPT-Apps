@@ -1,0 +1,12 @@
+[
+ {"name":"Ski ergometer","group":"Conditioning","motion":"rower","type":"cardio","cue":"Stand tall, hinge slightly and drive the handles down. Return smoothly; start with easy resistance."},
+ {"name":"Sled push","group":"Full body","motion":"carry","type":"interval","cue":"Use a light sled, brace your trunk and take short steps. Keep your back neutral and stop if traction is unsafe."},
+ {"name":"Sled pull","group":"Full body","motion":"row","type":"interval","cue":"Use a clear rope lane and a manageable sled load. Brace, pull steadily and avoid wrapping the rope around your hands."},
+ {"name":"Wall ball squat throw","group":"Full body","motion":"squatpress","type":"interval","cue":"Use a light ball and a suitable clear target. Squat comfortably, stand and toss; catch softly before the next repetition."},
+ {"name":"Barbell back squat","group":"Legs","motion":"squat","type":"strength","cue":"Use rack safeties and a practiced light load. Brace, squat within control and stand without bouncing."},
+ {"name":"Barbell bench press","group":"Chest","motion":"press","type":"strength","cue":"Use safeties or a spotter. Keep feet planted, wrists stacked and lower the bar under control."},
+ {"name":"Barbell deadlift","group":"Posterior chain","motion":"hinge","type":"strength","cue":"Set the bar close, brace and stand by extending hips and knees together. Lower under control; do not grind through lost position."},
+ {"name":"Rowing machine intervals","group":"Conditioning","motion":"rower","type":"cardio","cue":"Push with legs, lean slightly and pull. Recover arms, body, then legs; reduce the pace during easy intervals."},
+ {"name":"Brisk walk","group":"Conditioning","motion":"run","type":"cardio","cue":"Walk at a comfortable, conversational pace. Use a stable surface and adjust speed to your balance."},
+ {"name":"Stationary cycling","group":"Conditioning","motion":"bike","type":"cardio","cue":"Adjust the seat for a slight knee bend at the bottom. Pedal smoothly, keeping the easy intervals genuinely easy."}
+]

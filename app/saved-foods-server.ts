@@ -1,0 +1,4 @@
+
+import {getDb} from '../db';import {records} from '../db/schema';
+export const foodKey=(name:string)=>name.trim().toLocaleLowerCase('en-US').replace(/\s+/g,' ');
+export async function savedFoodMutation(userId:string,p:any){const key=foodKey(p.description||p.name),hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(key)))).map(x=>x.toString(16).padStart(2,'0')).join('');const payload={name:p.description||p.name,mealName:p.name,...Object.fromEntries(['calories','carbs','protein','fiber','fat'].map(k=>[k,Number(p[k])||0])),description:p.description||'',sources:p.sources||[],updatedAt:Date.now()};return {query:getDb().insert(records).values({id:userId+':food:'+hash,userId,kind:'savedFood',date:new Date().toISOString().slice(0,10),payload:JSON.stringify(payload)}).onConflictDoUpdate({target:records.id,set:{payload:JSON.stringify(payload)}})};}

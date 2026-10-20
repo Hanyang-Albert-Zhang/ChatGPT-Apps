@@ -1,0 +1,56 @@
+import fs from 'node:fs/promises';
+const evidence=JSON.parse(await fs.readFile('scripts/english-expansion-source-evidence.json','utf8'));
+const candidates={
+'Chickpea spinach stew':'https://plantpoweredmetrony.org/recipes/chickpea-spinach-stew/',
+'Quinoa chickpea salad':'https://cookieandkate.com/best-quinoa-salad-recipe/',
+'Barley roasted vegetable bowl':'https://www.forkintheroad.co/roasted-vegetable-barley-bowl/',
+'Pumpkin white bean soup':'https://huskynutritionsport-education.media.uconn.edu/wp-content/uploads/sites/3627/2023/04/pumpkin-white-bean-soup-2024.pdf',
+'Carrot lentil soup':'https://www.bbcgoodfood.com/recipes/spiced-carrot-lentil-soup',
+'Pea mint soup':'https://www.bbcgoodfoodme.com/recipes/pea-and-mint-soup/',
+'Lentil stuffed eggplant':'https://minimalistbaker.com/lentil-stuffed-eggplant/',
+'Roasted cauliflower tahini':'https://www.themediterraneandish.com/roasted-cauliflower/',
+'Beet lentil bowl':'https://www.feastingathome.com/beet-lentil-salad/',
+'Chickpea cucumber pita':'https://www.themediterraneandish.com/chickpea-salad/',
+'Butter bean tomato bake':'https://www.themediterraneandish.com/gigantes-plaki-greek-giant-beans/',
+'Roasted squash lentil salad':'https://www.bbcgoodfood.com/recipes/squash-lentil-salad',
+'White bean herb spread':'https://www.loveandlemons.com/white-bean-dip/',
+'Lentil shepherd’s pie':'https://minimalistbaker.com/1-hour-vegan-shepherds-pie/',
+'Spinach ricotta whole-grain pasta':'https://www.bbcgoodfood.com/recipes/spinach-ricotta-pasta',
+'Black bean sweet potato chili':'https://www.eatingwell.com/recipe/250222/sweet-potato-black-bean-chili/',
+'Broccoli cheddar frittata':'https://cookieandkate.com/best-frittata-recipe/',
+'Savory oat bowl':'https://www.loveandlemons.com/savory-oatmeal/',
+'Greek lentil soup':'https://www.themediterraneandish.com/red-lentil-soup-recipe/',
+'Gigantes plaki':'https://www.themediterraneandish.com/gigantes-plaki-greek-giant-beans/',
+'Revithada':'https://www.mygreekdish.com/recipe/greek-chickpea-soup-recipe-revithia/',
+'Fakes salad':'https://www.themediterraneandish.com/mediterranean-lentil-salad/',
+'Horiatiki':'https://www.themediterraneandish.com/traditional-greek-salad-recipe/',
+'Loubieh bi zeit':'https://www.simplyleb.com/recipe/loubieh-bi-zeit/',
+'Ribollita':'https://www.themediterraneandish.com/ribollita-recipe/',
+'Pasta e ceci':'https://www.themediterraneandish.com/pasta-e-ceci/',
+'Pasta e fagioli':'https://www.themediterraneandish.com/pasta-fagioli-recipe/',
+'Three-bean chili':'https://cookieandkate.com/vegetarian-chili-recipe/',
+'Quinoa harvest bowl':'https://www.loveandlemons.com/buddha-bowl-recipe/',
+'Wild rice mushroom pilaf':'https://www.wellplated.com/wild-rice-pilaf/',
+'Brown rice black bean bowl':'https://www.loveandlemons.com/burrito-bowl/',
+'Apple cinnamon oatmeal':'https://www.loveandlemons.com/oatmeal/',
+'Sweet potato black bean bake':'https://www.wellplated.com/sweet-potato-black-bean-quinoa-bake/',
+'Roasted Brussels sprouts':'https://www.loveandlemons.com/roasted-brussels-sprouts/',
+'Roasted broccoli':'https://www.loveandlemons.com/roasted-broccoli/',
+'Roasted root vegetables':'https://www.loveandlemons.com/roasted-root-vegetables/',
+'Garlic bok choy':'https://thewoksoflife.com/stir-fried-bok-choy-recipe/',
+'Smashed cucumber salad':'https://thewoksoflife.com/smashed-asian-cucumber-salad/',
+'Garlic broccoli':'https://thewoksoflife.com/broccoli-with-garlic-sauce/',
+'Shiitake bok choy':'https://thewoksoflife.com/braised-chinese-mushrooms-bok-choy/',
+'Steamed eggplant':'https://thewoksoflife.com/steamed-eggplant-hunan/',
+'Bitter melon with egg':'https://thewoksoflife.com/bitter-melon-with-eggs/',
+'Chinese chive and egg':'https://thewoksoflife.com/chinese-chives-eggs/',
+'Steamed fish with ginger':'https://thewoksoflife.com/cantonese-steamed-fish/',
+'Yudofu':'https://www.justonecookbook.com/hot-tofu-yudofu/',
+'Shishito peppers':'https://www.justonecookbook.com/blistered-shishito-peppers/',
+'Pla neung manao':'https://hot-thai-kitchen.com/steamed-fish-lime/'};
+let index=0;const entries=Object.entries(candidates);const failed=[];
+await Promise.all(Array.from({length:5},async()=>{while(index<entries.length){const[name,url]=entries[index++];try{const r=await fetch(url,{signal:AbortSignal.timeout(20000)});const body=await r.text();const title=body.match(/<title[^>]*>([^<]+)<\/title>/i)?.[1]||'';if(!r.ok||(!/recipeIngredient|recipeInstructions|Ingredients|ingredients/.test(body)&&!url.endsWith('.pdf')))throw Error(r.status+' '+title);evidence[name]={url:r.url,title,checkedAt:'2026-10-19',sourceKind:'variation'};}catch(e){failed.push([name,e.message]);}}}));
+await fs.writeFile('scripts/english-expansion-source-evidence.json',JSON.stringify(evidence,null,2));
+const file='app/diet-expansion-english.json',out=JSON.parse(await fs.readFile(file,'utf8'));
+for(const r of Object.values(out).flat())if(evidence[r.name]){r.recipeSource=evidence[r.name].url;r.sourceKind=evidence[r.name].sourceKind||'variation';}
+await fs.writeFile(file,JSON.stringify(out,null,2)+'\n');console.log('Sources',Object.values(out).flat().filter(r=>r.recipeSource).length,'/120; Failed:',failed);

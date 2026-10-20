@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';import {moduleUrl} from './load-app-module.mjs';
+const {challengeDefinitions,challengesFor,badgeRewards}=await import(await moduleUrl('challenges'));
+const {rewardsFor}=await import(await moduleUrl('rewards'));const {seedyTipPosition}=await import(await moduleUrl('seedy-gesture'));
+assert.equal(challengeDefinitions.length,70);assert.equal(new Set(challengeDefinitions.map(b=>b.id)).size,70);assert.deepEqual(badgeRewards,[300,1000,3000,10000,30000]);
+const row=(kind,date,payload)=>({kind,date,payload});const byId=rows=>Object.fromEntries(challengesFor(rows).map(b=>[b.id,b]));
+const types=['run','walk','stairmaster','elliptical','bike','rowing'];const cardio=types.map(cardioType=>row('workout','2026-10-01',{movementType:'cardio',cardioType,miles:1}));cardio.push(row('workout','2026-10-01',{movementType:'strength',name:'Bench press',miles:100}));assert.equal(byId(cardio)['first-miles'].value,6);assert(byId(cardio)['first-miles'].earned);
+const meals=Array.from({length:7},()=>row('meal','2026-10-01',{}));assert(byId(meals)['meal-count-7'].earned);assert.equal(byId(meals)['food-week'].earned,false);
+const weights=Array.from({length:7},(_,i)=>row('dailyWeight','2026-10-'+String(1+i).padStart(2,'0'),{weightKg:78.05}));let badges=byId(weights);assert(badges['weight-count-7'].earned);assert(badges['weight-streak-7'].earned);assert.equal(badges['weight-count-30'].earned,false);assert.equal(byId([...weights,weights[0]])['weight-count-7'].value,7);assert.equal(byId(weights.slice(1))['weight-streak-7'].earned,false);assert.equal(rewardsFor(weights).badgeXp,1600);assert.equal(rewardsFor(weights.slice(1)).badgeXp,300);
+for(const width of [390,724,1280])for(const top of [64,300,600]){const anchor={left:width-61,top,width:70,height:78},p=seedyTipPosition(anchor,width,844,150);assert(p.left>=12);assert(p.left+p.width<=anchor.left-9);assert(p.top>=64);assert(p.top+150<=844-(width<=850?86:12));}
+const free=seedyTipPosition({left:10,top:100,width:100,height:128},390,844,150);assert(free.left>=120);
+console.log('PASS: 70 badges, level XP, all cardio types, entry vs streak counts, one weight per date, XP reversal, responsive tip geometry.');

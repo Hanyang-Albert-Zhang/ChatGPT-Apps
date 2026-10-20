@@ -1,0 +1,21 @@
+import assert from 'node:assert/strict';
+const base=new URL(process.env.SEEDIVA_TEST_URL||'http://127.0.0.1:8787');
+assert(['127.0.0.1','localhost','[::1]'].includes(base.hostname),'Synthetic auth tests must run against loopback only.');
+const run=crypto.randomUUID().slice(0,8),make=(suffix,email)=>({id:`local-community-${run}-${suffix}`,email:email||`${run}-${suffix}@example.test`,name:`Fixture ${suffix}`}),a=make('a'),b=make('b'),outsider=make('outsider'),admin=make('admin','hanyang.zhang@alumni.wfu.edu');
+async function request(path,user,body,expected=200){const headers={};if(user)Object.assign(headers,{'oai-authenticated-user-id':user.id,'oai-authenticated-user-email':user.email,'oai-authenticated-user-full-name':encodeURIComponent(user.name),'oai-authenticated-user-full-name-encoding':'percent-encoded-utf-8'});if(body)Object.assign(headers,{'Content-Type':'application/json',Origin:base.origin});const r=await fetch(new URL(path,base),{method:body?'POST':'GET',headers,body:body?JSON.stringify(body):undefined}),text=await r.text();assert.equal(r.status,expected,`${path} expected ${expected}; received ${r.status}: ${text.slice(0,400)}`);return JSON.parse(text);}
+await request('/api/admin',null,undefined,403);await request('/api/admin',a,undefined,403);await request('/api/admin',a,{action:'account',id:b.id,status:'Needs review',note:'forged'},403);await request('/api/feedback',null,undefined,401);
+for(const u of [a,b,outsider,admin])await request('/api/account',u);
+const fa=await request('/api/feedback',a,{category:'Feature request',message:`Feedback A ${run}: please improve the app.`,userId:b.id});const fb=await request('/api/feedback',b,{category:'Bug report',message:`Feedback B ${run}: a local test bug.`});
+let own=await request('/api/feedback',a);assert(own.feedback.some(x=>x.id===fa.id));assert(!own.feedback.some(x=>x.id===fb.id),'Other users feedback must remain private');
+await request('/api/feedback',a,{category:'Feature request',message:'too short'},400);
+let center=await request('/api/admin',admin);assert(center.feedback.some(x=>x.id===fa.id)&&center.feedback.some(x=>x.id===fb.id));assert(center.accounts.some(x=>x.id===a.id));assert(!JSON.stringify(center).includes('calories'),'Admin response must not expose health payloads');
+await request('/api/admin',admin,{action:'feedback',id:fa.id,status:'Reviewing'});own=await request('/api/feedback',a);assert.equal(own.feedback.find(x=>x.id===fa.id).status,'Reviewing');
+await request('/api/admin',admin,{action:'account',id:a.id,status:'Support needed',note:'Local support fixture'});center=await request('/api/admin',admin);assert.equal(center.accounts.find(x=>x.id===a.id).status,'Support needed');
+let board=await request('/api/social?view=leaderboard',a);assert([a,b,outsider,admin].every(u=>board.leaderboard.some(x=>x.id===u.id))); 
+const invite=await request('/api/inbox',a,{action:'create',contacts:[b.email],title:'Local friendship test',isGroup:false});board=await request('/api/social?view=leaderboard',a);assert(board.leaderboard.some(x=>x.id===outsider.id));
+const token=new URL(invite.invitations[0].url).hash.split('invite=')[1];await request('/api/inbox',b,{action:'accept',token});
+board=await request('/api/social?view=leaderboard',a);assert.equal(new Set(board.leaderboard.map(x=>x.rank)).size,board.leaderboard.length);
+const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());await request('/api/records',b,{kind:'meal',date:today,payload:{name:'Private fixture meal',meal:'Lunch',calories:123,carbs:1,protein:2,fiber:3,fat:4}});
+board=await request('/api/social?view=leaderboard',a);assert([a,b,outsider].every(u=>board.leaderboard.some(x=>x.id===u.id)));assert(board.leaderboard.find(x=>x.id===b.id).xp>board.leaderboard.find(x=>x.id===a.id).xp);assert(!JSON.stringify(board).includes('Private fixture meal'));assert(!JSON.stringify(board).includes('calories'));
+await request('/api/inbox',a,{action:'leave',threadId:invite.threadId,block:true});board=await request('/api/social?view=leaderboard',a);assert([a,b,outsider].every(u=>board.leaderboard.some(x=>x.id===u.id))); 
+console.log('Global community API tests passed: admin authorization, feedback ownership/status, safe directory support, accepted-friend and block isolation, aggregate-only XP ranking.');

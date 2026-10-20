@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {moduleUrl} from './load-app-module.mjs';
+const {nutritionTotals,parseFoodInput,foodClauses}=await import(await moduleUrl('food-lookup'));
+const {mealForTime}=await import(await moduleUrl('fitness'));
+for(const [time,expected] of [['06:59','Snack'],['07:00','Breakfast'],['10:59','Breakfast'],['11:00','Lunch'],['14:59','Lunch'],['15:00','Snack'],['15:59','Snack'],['16:00','Dinner'],['21:59','Dinner'],['22:00','Snack'],['00:00','Snack']])assert.equal(mealForTime(new Date('2026-10-15T'+time+':00-04:00')),expected,time);
+assert.equal(mealForTime(new Date('2026-12-01T12:00:00Z')),'Breakfast');
+const recipes=JSON.parse(await fs.readFile(new URL('../app/recipe-references.json',import.meta.url),'utf8'));
+assert.equal(recipes.length,429);assert.equal(new Set(recipes.map(r=>r.url)).size,429);
+assert(recipes.every(r=>r.url.startsWith('https://foodakl.com/')||r.url.startsWith('https://ai-mealplan.com/')));
+assert(recipes.every(r=>r.perServing?.calories>0||r.per100?.calories>0));
+const beef=recipes.find(r=>r.url==='https://ai-mealplan.com/beef-and-broccoli');assert.equal(beef.perServing.calories,420);
+const egg={id:'egg',name:'Boiled egg',source:'Test reference',url:'https://example.test',per100:{calories:155,protein:12.6,carbs:1.1,fat:10.6,fiber:0}};
+const total=nutritionTotals([{products:[beef],selected:0,servings:'2',grams:'100'},{products:[egg],selected:0,servings:'1',grams:'50'}]);assert.equal(total.calories,917.5);assert.equal(total.protein,78.3);assert.equal(total.fiber,'','Unknown recipe fiber must not become zero');
+assert.equal(nutritionTotals([{products:[beef],selected:-1,servings:'2',grams:'100'}]).calories,'');
+assert.equal(parseFoodInput('2 servings beef and broccoli').count,2);assert.equal(parseFoodInput('2 servings beef and broccoli').query,'beef and broccoli');
+assert.deepEqual(foodClauses('2 servings beef and broccoli, 100g rice'),['2 servings beef and broccoli','100g rice']);
+console.log('PASS: Eastern meal-time boundaries including winter offset; 429 attributed recipe references; serving vs gram scaling; unknown fiber stays blank; explicit recipe confirmation.');

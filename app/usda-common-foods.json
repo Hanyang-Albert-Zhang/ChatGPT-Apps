@@ -1,0 +1,92 @@
+[
+  {
+    "alias": "banana",
+    "id": "2709224",
+    "name": "Banana, raw",
+    "source": "USDA reference · retrieved Oct 12, 2026",
+    "url": "https://fdc.nal.usda.gov/food-details/2709224/nutrients",
+    "per100": {
+      "calories": 97,
+      "carbs": 22.71,
+      "protein": 0.74,
+      "fiber": 1.7,
+      "fat": 0.28
+    },
+    "servingGrams": 118,
+    "servingLabel": "1 medium banana"
+  },
+  {
+    "alias": "apple",
+    "id": "2709215",
+    "name": "Apple, raw",
+    "source": "USDA reference · retrieved Oct 12, 2026",
+    "url": "https://fdc.nal.usda.gov/food-details/2709215/nutrients",
+    "per100": {
+      "calories": 61,
+      "carbs": 14.8,
+      "protein": 0.17,
+      "fiber": 2.1,
+      "fat": 0.15
+    },
+    "servingGrams": 182,
+    "servingLabel": "1 medium apple"
+  },
+  {
+    "alias": "chicken breast",
+    "id": "2706090",
+    "name": "Chicken fillet, grilled",
+    "source": "USDA reference · retrieved Oct 12, 2026",
+    "url": "https://fdc.nal.usda.gov/food-details/2706090/nutrients",
+    "per100": {
+      "calories": 151,
+      "carbs": 2.36,
+      "protein": 22.31,
+      "fiber": 0,
+      "fat": 5.81
+    }
+  },
+  {
+    "alias": "cooked rice",
+    "id": "2708422",
+    "name": "Rice, white, cooked, glutinous",
+    "source": "USDA reference · retrieved Oct 12, 2026",
+    "url": "https://fdc.nal.usda.gov/food-details/2708422/nutrients",
+    "per100": {
+      "calories": 96,
+      "carbs": 20.97,
+      "protein": 2.01,
+      "fiber": 1,
+      "fat": 0.19
+    }
+  },
+  {
+    "alias": "oatmeal",
+    "id": "2708380",
+    "name": "Oatmeal, NFS",
+    "source": "USDA reference · retrieved Oct 12, 2026",
+    "url": "https://fdc.nal.usda.gov/food-details/2708380/nutrients",
+    "per100": {
+      "calories": 76,
+      "carbs": 11.17,
+      "protein": 2.18,
+      "fiber": 1.7,
+      "fat": 2.63
+    }
+  },
+  {
+    "alias": "boiled egg",
+    "id": "173424",
+    "name": "Hard boiled egg, whole",
+    "source": "USDA web reference · MyFoodData",
+    "url": "https://tools.myfooddata.com/nutrition-facts/173424/100g",
+    "per100": {
+      "calories": 155,
+      "carbs": 1.12,
+      "protein": 12.58,
+      "fiber": 0,
+      "fat": 10.61
+    },
+    "servingGrams": 50,
+    "servingLabel": "1 large egg"
+  }
+]

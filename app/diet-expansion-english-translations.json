@@ -1,0 +1,834 @@
+{
+  "Chickpea spinach stew": [
+    "鹰嘴豆菠菜炖菜",
+    "Guiso de garbanzos y espinacas"
+  ],
+  "chickpeas": [
+    "鹰嘴豆",
+    "garbanzos"
+  ],
+  "spinach": [
+    "菠菜",
+    "espinaca"
+  ],
+  "tomato": [
+    "番茄",
+    "tomate"
+  ],
+  "onion": [
+    "洋葱",
+    "cebolla"
+  ],
+  "White bean mushroom skillet": [
+    "白豆蘑菇煎锅菜",
+    "Judías blancas y setas a la sartén"
+  ],
+  "white beans": [
+    "白豆",
+    "judías blancas"
+  ],
+  "mushrooms": [
+    "蘑菇",
+    "setas"
+  ],
+  "garlic": [
+    "大蒜",
+    "ajo"
+  ],
+  "parsley": [
+    "欧芹",
+    "perejil"
+  ],
+  "Lentil walnut salad": [
+    "扁豆核桃沙拉",
+    "Ensalada de lentejas y nueces"
+  ],
+  "lentils": [
+    "扁豆",
+    "lentejas"
+  ],
+  "walnuts": [
+    "核桃",
+    "nueces"
+  ],
+  "carrot": [
+    "胡萝卜",
+    "zanahoria"
+  ],
+  "lemon": [
+    "柠檬",
+    "limón"
+  ],
+  "Quinoa chickpea salad": [
+    "藜麦鹰嘴豆沙拉",
+    "Ensalada de quinoa y garbanzos"
+  ],
+  "quinoa": [
+    "藜麦",
+    "quinoa"
+  ],
+  "cucumber": [
+    "黄瓜",
+    "pepino"
+  ],
+  "Barley roasted vegetable bowl": [
+    "大麦烤蔬菜碗",
+    "Cuenco de cebada y verduras asadas"
+  ],
+  "barley": [
+    "大麦",
+    "cebada"
+  ],
+  "squash": [
+    "南瓜",
+    "calabaza"
+  ],
+  "Farro mushroom pilaf": [
+    "法罗麦蘑菇饭",
+    "Farro con setas"
+  ],
+  "farro": [
+    "法罗麦",
+    "farro"
+  ],
+  "Pumpkin white bean soup": [
+    "南瓜白豆汤",
+    "Sopa de calabaza y judías blancas"
+  ],
+  "pumpkin": [
+    "南瓜",
+    "calabaza"
+  ],
+  "vegetable broth": [
+    "蔬菜高汤",
+    "caldo de verduras"
+  ],
+  "Carrot lentil soup": [
+    "胡萝卜扁豆汤",
+    "Sopa de zanahoria y lentejas"
+  ],
+  "red lentils": [
+    "红扁豆",
+    "lentejas rojas"
+  ],
+  "ginger": [
+    "姜",
+    "jengibre"
+  ],
+  "Pea mint soup": [
+    "豌豆薄荷汤",
+    "Sopa de guisantes y menta"
+  ],
+  "peas": [
+    "豌豆",
+    "guisantes"
+  ],
+  "potato": [
+    "土豆",
+    "patata"
+  ],
+  "mint": [
+    "薄荷",
+    "menta"
+  ],
+  "Mushroom barley soup": [
+    "蘑菇大麦汤",
+    "Sopa de setas y cebada"
+  ],
+  "Stuffed zucchini": [
+    "酿西葫芦",
+    "Calabacín relleno"
+  ],
+  "zucchini": [
+    "西葫芦",
+    "calabacín"
+  ],
+  "bulgur": [
+    "布格麦",
+    "bulgur"
+  ],
+  "Lentil stuffed eggplant": [
+    "扁豆酿茄子",
+    "Berenjena rellena de lentejas"
+  ],
+  "eggplant": [
+    "茄子",
+    "berenjena"
+  ],
+  "Swiss chard white beans": [
+    "瑞士甜菜白豆",
+    "Acelgas con judías blancas"
+  ],
+  "Swiss chard": [
+    "瑞士甜菜",
+    "acelgas"
+  ],
+  "Roasted cauliflower tahini": [
+    "芝麻酱烤花菜",
+    "Coliflor asada con tahini"
+  ],
+  "cauliflower": [
+    "菜花",
+    "coliflor"
+  ],
+  "tahini": [
+    "芝麻酱",
+    "tahini"
+  ],
+  "Beet lentil bowl": [
+    "甜菜扁豆碗",
+    "Cuenco de remolacha y lentejas"
+  ],
+  "beetroot": [
+    "甜菜根",
+    "remolacha"
+  ],
+  "arugula": [
+    "芝麻菜",
+    "rúcula"
+  ],
+  "feta": [
+    "菲达奶酪",
+    "feta"
+  ],
+  "Chickpea cucumber pita": [
+    "鹰嘴豆黄瓜皮塔饼",
+    "Pita de garbanzos y pepino"
+  ],
+  "whole-wheat pita": [
+    "全麦皮塔饼",
+    "pan pita integral"
+  ],
+  "yogurt": [
+    "酸奶",
+    "yogur"
+  ],
+  "Butter bean tomato bake": [
+    "番茄烤大白豆",
+    "Judías manteca al horno con tomate"
+  ],
+  "butter beans": [
+    "利马大白豆",
+    "judías manteca"
+  ],
+  "Roasted squash lentil salad": [
+    "烤南瓜扁豆沙拉",
+    "Ensalada de calabaza asada y lentejas"
+  ],
+  "pumpkin seeds": [
+    "南瓜籽",
+    "semillas de calabaza"
+  ],
+  "White bean herb spread": [
+    "白豆香草抹酱",
+    "Crema de judías blancas y hierbas"
+  ],
+  "olive oil": [
+    "橄榄油",
+    "aceite de oliva"
+  ],
+  "Roasted carrot lentil dip": [
+    "烤胡萝卜扁豆蘸酱",
+    "Crema de zanahoria asada y lentejas"
+  ],
+  "Lentil shepherd’s pie": [
+    "扁豆牧羊人派",
+    "Pastel de lentejas con puré de patata"
+  ],
+  "Spinach ricotta whole-grain pasta": [
+    "菠菜乳清奶酪全谷意面",
+    "Pasta integral con espinacas y ricota"
+  ],
+  "whole-wheat pasta": [
+    "全麦意面",
+    "pasta integral de trigo"
+  ],
+  "ricotta": [
+    "里科塔奶酪",
+    "ricota"
+  ],
+  "Broccoli pea pasta": [
+    "西兰花豌豆意面",
+    "Pasta con brócoli y guisantes"
+  ],
+  "broccoli": [
+    "西兰花",
+    "brócoli"
+  ],
+  "Lentil tomato pasta": [
+    "扁豆番茄意面",
+    "Pasta con lentejas y tomate"
+  ],
+  "Black bean sweet potato chili": [
+    "黑豆红薯辣炖菜",
+    "Guiso picante de judías negras y boniato"
+  ],
+  "black beans": [
+    "黑豆",
+    "frijoles negros"
+  ],
+  "sweet potato": [
+    "红薯",
+    "batata"
+  ],
+  "cumin": [
+    "孜然",
+    "comino"
+  ],
+  "Portobello bean bake": [
+    "烤褐菇豆子",
+    "Portobellos y judías al horno"
+  ],
+  "portobello mushrooms": [
+    "褐菇",
+    "setas portobello"
+  ],
+  "mozzarella": [
+    "马苏里拉奶酪",
+    "mozzarella"
+  ],
+  "Broccoli cheddar frittata": [
+    "西兰花切达奶酪烘蛋",
+    "Tortilla de brócoli y queso cheddar"
+  ],
+  "eggs": [
+    "鸡蛋",
+    "huevos"
+  ],
+  "cheddar": [
+    "切达奶酪",
+    "queso cheddar"
+  ],
+  "Egg and avocado toast": [
+    "鸡蛋牛油果吐司",
+    "Tostada de huevo y aguacate"
+  ],
+  "whole-grain bread": [
+    "全谷物面包",
+    "pan integral"
+  ],
+  "egg": [
+    "鸡蛋",
+    "huevo"
+  ],
+  "avocado": [
+    "牛油果",
+    "aguacate"
+  ],
+  "Savory oat bowl": [
+    "咸味燕麦碗",
+    "Cuenco salado de avena"
+  ],
+  "oats": [
+    "燕麦",
+    "avena"
+  ],
+  "Greek lentil soup": [
+    "希腊扁豆汤",
+    "Sopa griega de lentejas"
+  ],
+  "Fasolada": [
+    "希腊白豆汤",
+    "Sopa griega de judías blancas"
+  ],
+  "celery": [
+    "芹菜",
+    "apio"
+  ],
+  "Gigantes plaki": [
+    "希腊烤大白豆",
+    "Judías gigantes al horno"
+  ],
+  "giant beans": [
+    "大白豆",
+    "judiones"
+  ],
+  "Revithada": [
+    "希腊慢炖鹰嘴豆",
+    "Garbanzos guisados griegos"
+  ],
+  "Fakes salad": [
+    "希腊扁豆沙拉",
+    "Ensalada griega de lentejas"
+  ],
+  "Horiatiki": [
+    "希腊乡村沙拉",
+    "Ensalada griega tradicional"
+  ],
+  "pepper": [
+    "甜椒",
+    "pimiento"
+  ],
+  "olives": [
+    "橄榄",
+    "aceitunas"
+  ],
+  "Spanakorizo": [
+    "菠菜米饭",
+    "Arroz con espinacas griego"
+  ],
+  "rice": [
+    "大米",
+    "arroz"
+  ],
+  "dill": [
+    "莳萝",
+    "eneldo"
+  ],
+  "Briam": [
+    "希腊烤杂蔬",
+    "Verduras al horno griegas"
+  ],
+  "Horta vrasta": [
+    "水煮绿叶菜",
+    "Verduras de hoja hervidas"
+  ],
+  "leafy greens": [
+    "绿叶菜",
+    "verduras de hoja"
+  ],
+  "Fasolakia lathera": [
+    "橄榄油炖四季豆",
+    "Judías verdes guisadas con aceite de oliva"
+  ],
+  "green beans": [
+    "四季豆",
+    "judías verdes"
+  ],
+  "Tabbouleh": [
+    "中东欧芹碎麦沙拉",
+    "Ensalada tabulé"
+  ],
+  "Fattoush": [
+    "中东脆饼沙拉",
+    "Ensalada fattoush"
+  ],
+  "lettuce": [
+    "生菜",
+    "lechuga"
+  ],
+  "radish": [
+    "萝卜",
+    "rábano"
+  ],
+  "pita": [
+    "皮塔饼",
+    "pan de pita"
+  ],
+  "sumac": [
+    "漆树果香料",
+    "zumaque"
+  ],
+  "Hummus": [
+    "鹰嘴豆泥",
+    "Puré de garbanzos"
+  ],
+  "Baba ganoush": [
+    "烤茄子芝麻酱泥",
+    "Puré de berenjena con tahini"
+  ],
+  "Mujaddara": [
+    "中东扁豆洋葱饭",
+    "Arroz con lentejas y cebolla mujaddara"
+  ],
+  "Loubieh bi zeit": [
+    "橄榄油炖四季豆",
+    "Judías verdes en aceite de oliva"
+  ],
+  "Shorbat adas": [
+    "中东扁豆汤",
+    "Sopa de lentejas de Oriente Medio"
+  ],
+  "Ribollita": [
+    "托斯卡纳蔬菜面包汤",
+    "Sopa toscana de verduras y pan"
+  ],
+  "kale": [
+    "羽衣甘蓝",
+    "col rizada"
+  ],
+  "cabbage": [
+    "卷心菜",
+    "col"
+  ],
+  "Minestrone": [
+    "意大利蔬菜汤",
+    "Sopa minestrone"
+  ],
+  "beans": [
+    "豆类",
+    "frijoles"
+  ],
+  "Pasta e ceci": [
+    "鹰嘴豆意面",
+    "Pasta con garbanzos"
+  ],
+  "pasta": [
+    "意大利面",
+    "pasta"
+  ],
+  "rosemary": [
+    "迷迭香",
+    "romero"
+  ],
+  "Pasta e fagioli": [
+    "豆子意面",
+    "Pasta con judías"
+  ],
+  "Three-bean chili": [
+    "三豆辣炖菜",
+    "Guiso picante de tres judías"
+  ],
+  "kidney beans": [
+    "红腰豆",
+    "frijoles rojos"
+  ],
+  "pinto beans": [
+    "花斑豆",
+    "frijoles pintos"
+  ],
+  "chili powder": [
+    "辣椒粉",
+    "chile en polvo"
+  ],
+  "Black bean soup": [
+    "黑豆汤",
+    "Sopa de judías negras"
+  ],
+  "Split pea soup": [
+    "豌豆瓣汤",
+    "Sopa de guisantes partidos"
+  ],
+  "split peas": [
+    "豌豆瓣",
+    "guisantes partidos"
+  ],
+  "Vegetable barley soup": [
+    "蔬菜大麦汤",
+    "Sopa de verduras y cebada"
+  ],
+  "Lentil vegetable soup": [
+    "扁豆蔬菜汤",
+    "Sopa de lentejas y verduras"
+  ],
+  "White bean kale soup": [
+    "白豆羽衣甘蓝汤",
+    "Sopa de judías blancas y col rizada"
+  ],
+  "Corn and bean salad": [
+    "玉米豆子沙拉",
+    "Ensalada de maíz y judías"
+  ],
+  "corn": [
+    "玉米",
+    "maíz"
+  ],
+  "lime": [
+    "青柠",
+    "lima"
+  ],
+  "Quinoa harvest bowl": [
+    "丰收藜麦碗",
+    "Cuenco de quinoa de la cosecha"
+  ],
+  "Farro vegetable bowl": [
+    "法罗麦蔬菜碗",
+    "Cuenco de farro y verduras"
+  ],
+  "Wild rice mushroom pilaf": [
+    "野米蘑菇饭",
+    "Arroz silvestre con setas"
+  ],
+  "wild rice": [
+    "菰米",
+    "arroz silvestre"
+  ],
+  "Brown rice black bean bowl": [
+    "糙米黑豆碗",
+    "Cuenco de arroz integral y judías negras"
+  ],
+  "brown rice": [
+    "糙米",
+    "arroz integral"
+  ],
+  "Oatmeal with berries": [
+    "浆果燕麦粥",
+    "Gachas de avena con frutos rojos"
+  ],
+  "rolled oats": [
+    "压片燕麦",
+    "copos de avena"
+  ],
+  "milk": [
+    "牛奶",
+    "leche"
+  ],
+  "berries": [
+    "浆果",
+    "bayas"
+  ],
+  "Apple cinnamon oatmeal": [
+    "苹果肉桂燕麦粥",
+    "Avena con manzana y canela"
+  ],
+  "apple": [
+    "苹果",
+    "manzana"
+  ],
+  "cinnamon": [
+    "肉桂",
+    "canela"
+  ],
+  "Pear walnut porridge": [
+    "梨核桃粥",
+    "Gachas de pera y nueces"
+  ],
+  "pear": [
+    "梨",
+    "pera"
+  ],
+  "Overnight chia oats": [
+    "隔夜奇亚籽燕麦",
+    "Avena nocturna con chía"
+  ],
+  "chia seeds": [
+    "奇亚籽",
+    "semillas de chía"
+  ],
+  "Sweet potato black bean bake": [
+    "烤红薯黑豆",
+    "Boniato y judías negras al horno"
+  ],
+  "Roasted Brussels sprouts": [
+    "烤抱子甘蓝",
+    "Coles de Bruselas asadas"
+  ],
+  "Brussels sprouts": [
+    "抱子甘蓝",
+    "coles de Bruselas"
+  ],
+  "black pepper": [
+    "黑胡椒",
+    "pimienta negra"
+  ],
+  "Roasted broccoli": [
+    "烤西兰花",
+    "Brócoli asado"
+  ],
+  "Roasted root vegetables": [
+    "烤根茎蔬菜",
+    "Hortalizas de raíz asadas"
+  ],
+  "parsnip": [
+    "欧洲防风根",
+    "chirivía"
+  ],
+  "thyme": [
+    "百里香",
+    "tomillo"
+  ],
+  "Green beans almondine": [
+    "杏仁四季豆",
+    "Judías verdes con almendras"
+  ],
+  "almonds": [
+    "杏仁",
+    "almendras"
+  ],
+  "Garlic bok choy": [
+    "蒜蓉小白菜",
+    "Pak choi al ajo"
+  ],
+  "bok choy": [
+    "小白菜",
+    "pak choi"
+  ],
+  "neutral oil": [
+    "中性食用油",
+    "aceite de sabor neutro"
+  ],
+  "light soy sauce": [
+    "生抽",
+    "salsa de soja clara"
+  ],
+  "Smashed cucumber salad": [
+    "拍黄瓜",
+    "Ensalada de pepino machacado"
+  ],
+  "rice vinegar": [
+    "米醋",
+    "vinagre de arroz"
+  ],
+  "sesame oil": [
+    "芝麻油",
+    "aceite de sésamo"
+  ],
+  "Garlic broccoli": [
+    "蒜蓉西兰花",
+    "Brócoli al ajo"
+  ],
+  "Shiitake bok choy": [
+    "香菇青菜",
+    "Pak choi con shiitake"
+  ],
+  "shiitake mushrooms": [
+    "香菇",
+    "setas shiitake"
+  ],
+  "soy sauce": [
+    "酱油",
+    "salsa de soja"
+  ],
+  "Steamed eggplant": [
+    "蒜蓉蒸茄子",
+    "Berenjena al vapor"
+  ],
+  "black vinegar": [
+    "黑醋",
+    "vinagre negro"
+  ],
+  "Dry-fried green beans": [
+    "干煸四季豆",
+    "Judías verdes salteadas en seco"
+  ],
+  "ground pork": [
+    "猪肉馅",
+    "carne de cerdo picada"
+  ],
+  "Sichuan pepper": [
+    "花椒",
+    "pimienta de Sichuan"
+  ],
+  "Bitter melon with egg": [
+    "苦瓜炒蛋",
+    "Melón amargo con huevo"
+  ],
+  "bitter melon": [
+    "苦瓜",
+    "melón amargo"
+  ],
+  "Chinese chive and egg": [
+    "韭菜炒蛋",
+    "Cebollino chino con huevo"
+  ],
+  "Chinese chives": [
+    "韭菜",
+    "cebollino chino"
+  ],
+  "Steamed fish with ginger": [
+    "姜丝蒸鱼",
+    "Pescado al vapor con jengibre"
+  ],
+  "white fish": [
+    "白肉鱼",
+    "pescado blanco"
+  ],
+  "scallion": [
+    "葱",
+    "cebolleta"
+  ],
+  "Hiyayakko": [
+    "日式凉豆腐",
+    "Tofu frío japonés"
+  ],
+  "silken tofu": [
+    "内酯豆腐",
+    "tofu sedoso"
+  ],
+  "bonito flakes": [
+    "柴鱼片",
+    "copos de bonito"
+  ],
+  "Yudofu": [
+    "汤豆腐",
+    "Tofu en caldo caliente"
+  ],
+  "tofu": [
+    "豆腐",
+    "tofu"
+  ],
+  "kombu": [
+    "昆布",
+    "alga kombu"
+  ],
+  "napa cabbage": [
+    "大白菜",
+    "col china"
+  ],
+  "Sunomono": [
+    "日式醋拌菜",
+    "Ensalada japonesa al vinagre"
+  ],
+  "wakame": [
+    "裙带菜",
+    "wakame"
+  ],
+  "sesame seeds": [
+    "芝麻",
+    "semillas de sésamo"
+  ],
+  "Chawanmushi": [
+    "日式茶碗蒸",
+    "Flan salado japonés al vapor"
+  ],
+  "dashi": [
+    "日式高汤",
+    "caldo japonés"
+  ],
+  "shrimp": [
+    "虾",
+    "gamba"
+  ],
+  "Saba shioyaki": [
+    "盐烤鲭鱼",
+    "Caballa a la sal"
+  ],
+  "mackerel": [
+    "鲭鱼",
+    "caballa"
+  ],
+  "daikon": [
+    "白萝卜",
+    "rábano blanco japonés"
+  ],
+  "pinch of salt": [
+    "少许盐",
+    "una pizca de sal"
+  ],
+  "Salmon shioyaki": [
+    "盐烤三文鱼",
+    "Salmón a la sal"
+  ],
+  "salmon": [
+    "三文鱼",
+    "salmón"
+  ],
+  "Shishito peppers": [
+    "炒狮子唐椒",
+    "Pimientos japoneses salteados"
+  ],
+  "shishito peppers": [
+    "狮子唐椒",
+    "pimientos japoneses"
+  ],
+  "Pla neung manao": [
+    "青柠蒸鱼",
+    "Pescado al vapor con lima"
+  ],
+  "chili": [
+    "辣椒",
+    "chile"
+  ],
+  "coriander": [
+    "芫荽",
+    "cilantro"
+  ],
+  "low-fat milk": [
+    "低脂牛奶",
+    "leche baja en grasa"
+  ],
+  "reduced-sodium cheddar": [
+    "减钠切达奶酪",
+    "queso cheddar reducido en sodio"
+  ]
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "page": "Home",
+    "target": ".page-heading",
+    "title": "Your daily overview",
+    "detail": "Home brings together your health rating, daily nutrition, movement and morning weight check-in. Open the health rating to see what contributes to it.",
+    "audience": "all"
+  },
+  {
+    "page": "Goals",
+    "target": ".content>.card",
+    "title": "Set your goals",
+    "detail": "Choose your calorie target, nutrition preferences, training goal and session length. These settings shape your nutrition targets and training plan.",
+    "audience": "all"
+  },
+  {
+    "page": "Food diary",
+    "target": ".diary-list",
+    "title": "Log and review meals",
+    "detail": "Describe food with a quantity, choose a database match and review the nutrition values. Meal names stay separate. You can attach a photo, paste nutrition information and log today or an earlier date. New descriptions become searchable after saving.",
+    "audience": "all"
+  },
+  {
+    "page": "Nutrition advice",
+    "target": ".diet-collection-controls",
+    "title": "Explore recipes",
+    "detail": "Choose a cuisine or eating style, filter by cooking method and search dishes or ingredients. Recipe cards open cooking outlines, photos, videos and links to full publisher recipes. Collections follow your selected language.",
+    "audience": "all"
+  },
+  {
+    "page": "Training plan",
+    "target": ".plan-toolbar",
+    "title": "Train and log movement",
+    "detail": "Customize your goals, browse the plan and open exercise demonstrations. Log strength sets, repetitions and load, or cardio duration, distance and stairmaster floors. Search the exercise library or enter your own movement.",
+    "audience": "all"
+  },
+  {
+    "page": "Custom training plan",
+    "target": ".content>.card",
+    "title": "Plan your own training",
+    "detail": "Build a weekly or monthly workout calendar. Add exercises and check off completed workouts to put them in your exercise history and calculate their XP.",
+    "audience": "all"
+  },
+  {
+    "page": "Nutrition report",
+    "target": ".report-toolbar",
+    "title": "Review nutrition and weight",
+    "detail": "Switch report ranges, inspect meal photos and follow weight trends. Use the pencil to correct meals or dates. Export CSV, download a report or share a snapshot. Weight supports kg or lb with two decimal places.",
+    "audience": "all"
+  },
+  {
+    "page": "Workout report",
+    "target": ".report-toolbar",
+    "title": "Review workout progress",
+    "detail": "Compare training charts and browse workout history. Filter entries, edit an exercise or its date, and export or share reports. Corrections recalculate the related totals and XP.",
+    "audience": "all"
+  },
+  {
+    "page": "Body Measurements",
+    "target": ".page-heading",
+    "title": "Track body measurements",
+    "detail": "Record weekly body measurements and follow the history and trend charts. Use the edit controls to correct a previous check-in.",
+    "audience": "all"
+  },
+  {
+    "page": "Trophies",
+    "target": ".friends-leaderboard",
+    "title": "Explore trophies and rankings",
+    "detail": "Choose your achievement showcase, explore 70 badges and open the Trophy Journey. The global leaderboard links to member trophies. Weekly top-three bonuses and unlimited Peak progression add more milestones.",
+    "audience": "all"
+  },
+  {
+    "page": "Inbox",
+    "target": ".inbox-intro",
+    "title": "Connect with friends",
+    "detail": "Use Send message on a friend card to open a private chat. Create a group with accepted friends, add friends from Members, and share reports or trophy snapshots inside conversations.",
+    "audience": "all"
+  },
+  {
+    "page": "Inbox",
+    "target": ".inbox-challenges",
+    "title": "Join group challenges",
+    "detail": "Choose from 30 fitness and 30 diet challenges. Each group can have one open challenge. Joining is optional, and the first acceptance opens 24-hour enrollment. Different groups can run challenges at the same time.",
+    "audience": "all"
+  },
+  {
+    "page": "Account",
+    "target": ".account-profile",
+    "title": "Personalize your account",
+    "detail": "Change your name, avatar and preferred language here. Account also provides sign-out controls. Your selected language applies to navigation, guides and searchable catalogs.",
+    "audience": "all"
+  },
+  {
+    "page": "Home",
+    "target": ".topbar-actions",
+    "title": "Ask Seedy for help",
+    "detail": "Open Seedy for shortcuts to app features. Drag the side companion to reposition it; tips stay beside it and rotate through the selected guidance.",
+    "audience": "all"
+  },
+  {
+    "page": "Trophies",
+    "target": ".page-heading",
+    "title": "Encourage a friend",
+    "detail": "Open Punch reminders to send encouragement to accepted friends. Review received reminders and manage phone notifications from the reminder panel.",
+    "audience": "all"
+  },
+  {
+    "page": "Inbox",
+    "target": ".feedback-panel",
+    "title": "Help improve Seediva",
+    "detail": "Use the feedback form to suggest a feature, describe an improvement or report a bug. Choose a feedback type and explain what happened. Feedback is private to you and site administrators.",
+    "audience": "all"
+  }
+]

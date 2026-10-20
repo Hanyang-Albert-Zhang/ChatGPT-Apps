@@ -1,0 +1,4 @@
+import fs from 'node:fs/promises';
+const root=new URL('../',import.meta.url),d=JSON.parse(await fs.readFile(new URL('app/diet-expansion-spanish.json',root),'utf8')),recipes=d.flatMap(c=>c.recipes),out=[];
+let i=0;await Promise.all(Array.from({length:5},async()=>{while(i<recipes.length){const r=recipes[i++];try{const p=await fetch(r.recipeSource,{signal:AbortSignal.timeout(18000)}),html=await p.text();out.push({id:r.id,name:r.name,url:r.recipeSource,status:p.status,title:html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]?.replace(/&#\d+;/g,' ')||'',hasRecipe:/"@type"\s*:\s*"Recipe"/.test(html)});}catch(e){out.push({id:r.id,name:r.name,error:e.message});}}}));
+await fs.writeFile(new URL('scripts/spanish-expansion-source-audit.json',root),JSON.stringify(out,null,2));console.log(JSON.stringify(out.filter(x=>x.status!==200),null,2));

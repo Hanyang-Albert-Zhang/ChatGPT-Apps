@@ -1,0 +1,2090 @@
+{
+  "Weekly leaderboard reward": [
+    "每周排行榜奖励",
+    "Recompensa semanal de la clasificación"
+  ],
+  "Close leaderboard reward": [
+    "关闭排行榜奖励",
+    "Cerrar recompensa de la clasificación"
+  ],
+  "Congratulations on ranking {rank} in the global leaderboard! Keep logging your meals and exercise and staying on track with your lifestyle goals!": [
+    "恭喜你在全球排行榜中获得{rank}！继续记录饮食和运动，坚持实现你的健康生活目标！",
+    "¡Enhorabuena por conseguir el puesto {rank} en la clasificación global! ¡Sigue registrando tus comidas y ejercicio y avanzando hacia tus objetivos de vida saludable!"
+  ],
+  "Could not dismiss this reward.": [
+    "无法关闭此奖励提示。",
+    "No se pudo cerrar esta recompensa."
+  ],
+  "Week ending": [
+    "本周截止日期",
+    "Semana que termina el"
+  ],
+  "Eastern time": [
+    "美国东部时间",
+    "Hora del este de Estados Unidos"
+  ],
+  "Keep going!": [
+    "继续加油！",
+    "¡Sigue así!"
+  ],
+  "Global leaderboard": [
+    "全球排行榜",
+    "Clasificación global"
+  ],
+  "All registered members, ranked by total XP. Ties use account registration order.": [
+    "所有注册成员按总经验值排名。经验值相同时，按账户注册先后排序。",
+    "Todos los miembros registrados, ordenados por experiencia total. Los empates se resuelven por orden de registro de la cuenta."
+  ],
+  "Sunday at 11:59 PM Eastern: 1st +1,000 XP · 2nd +500 XP · 3rd +250 XP. Rankings refresh while you use the app.": [
+    "美国东部时间每周日晚上11:59结算：第1名奖励1,000经验值，第2名奖励500经验值，第3名奖励250经验值。使用应用时，排行榜会自动刷新。",
+    "Cada domingo a las 23:59, hora del este: 1.º +1.000 XP · 2.º +500 XP · 3.º +250 XP. La clasificación se actualiza mientras usas la aplicación."
+  ],
+  "Rank {rank} medal": [
+    "第{rank}名奖牌",
+    "Medalla del puesto {rank}"
+  ],
+  "Loading rankings…": [
+    "正在加载排名…",
+    "Cargando clasificación…"
+  ],
+  "Chat members": [
+    "聊天成员",
+    "Miembros del chat"
+  ],
+  "Close members": [
+    "关闭成员列表",
+    "Cerrar miembros"
+  ],
+  "Visit accepted members’ trophy profiles.": [
+    "查看已加入成员的奖杯主页。",
+    "Visita los perfiles de trofeos de los miembros que ya se han unido."
+  ],
+  "Member": [
+    "成员",
+    "Miembro"
+  ],
+  "Invited": [
+    "已邀请",
+    "Invitado"
+  ],
+  "New invite link": [
+    "生成新的邀请链接",
+    "Nuevo enlace de invitación"
+  ],
+  "Add friends": [
+    "添加好友",
+    "Añadir amigos"
+  ],
+  "Add existing friends": [
+    "添加现有好友",
+    "Añadir amigos existentes"
+  ],
+  "Group settings": [
+    "群聊设置",
+    "Ajustes del grupo"
+  ],
+  "Group icon & friends": [
+    "群聊图标与好友",
+    "Icono y amigos del grupo"
+  ],
+  "Start a group with friends": [
+    "与好友创建群聊",
+    "Crear un grupo con amigos"
+  ],
+  "Close friend group": [
+    "关闭好友群聊设置",
+    "Cerrar grupo de amigos"
+  ],
+  "Choose a group icon": [
+    "选择群聊图标",
+    "Elegir un icono de grupo"
+  ],
+  "Choose friends": [
+    "选择好友",
+    "Elegir amigos"
+  ],
+  "No additional accepted friends available.": [
+    "没有其他已建立联系的好友可添加。",
+    "No hay más amigos con una conexión aceptada disponibles."
+  ],
+  "Selected friends join this group immediately. No email invitation is sent.": [
+    "所选好友会立即加入此群聊，不会发送电子邮件邀请。",
+    "Los amigos seleccionados se unen al grupo de inmediato. No se envía ninguna invitación por correo electrónico."
+  ],
+  "Selected friends join immediately using your existing Inbox connections. This creates a new conversation; private chat history stays in the original chats. Challenge enrollment remains optional.": [
+    "所选好友会通过收件箱中现有的好友关系立即加入。此操作会新建群聊，原有私聊记录仍保留在原聊天中。是否报名挑战由各成员自行决定。",
+    "Los amigos seleccionados se unen de inmediato mediante tus conexiones existentes de la bandeja de entrada. Se crea una conversación nueva; el historial privado permanece en los chats originales. La inscripción en los retos sigue siendo opcional."
+  ],
+  "Add selected friends": [
+    "添加所选好友",
+    "Añadir amigos seleccionados"
+  ],
+  "Save group": [
+    "保存群聊",
+    "Guardar grupo"
+  ],
+  "Create group": [
+    "创建群聊",
+    "Crear grupo"
+  ],
+  "Group icon": [
+    "群聊图标",
+    "Icono del grupo"
+  ],
+  "Challenge group": [
+    "挑战所属群聊",
+    "Grupo del reto"
+  ],
+  "Start Challenge": [
+    "发起挑战",
+    "Iniciar reto"
+  ],
+  "Your accepted Inbox connections. Send a message to keep in touch.": [
+    "你在收件箱中已建立联系的好友。发送消息，保持联系。",
+    "Tus conexiones aceptadas de la bandeja de entrada. Envía un mensaje para mantener el contacto."
+  ],
+  "Send message →": [
+    "发送消息 →",
+    "Enviar mensaje →"
+  ],
+  "Send message": [
+    "发送消息",
+    "Enviar mensaje"
+  ],
+  "← Back to leaderboard": [
+    "← 返回排行榜",
+    "← Volver a la clasificación"
+  ],
+  "Loading trophy profile…": [
+    "正在加载奖杯主页…",
+    "Cargando perfil de trofeos…"
+  ],
+  "Public trophy profile · levels, XP and earned badges.": [
+    "公开奖杯主页：等级、经验值和已获得的徽章。",
+    "Perfil público de trofeos: niveles, experiencia e insignias obtenidas."
+  ],
+  "Trophy profile unavailable.": [
+    "无法查看此奖杯主页。",
+    "El perfil de trofeos no está disponible."
+  ],
+  "Group challenge final progress and XP snapshot": [
+    "群聊挑战最终进度与经验值快照",
+    "Resumen final del progreso y la experiencia del reto de grupo"
+  ],
+  "Choose from 30 fitness and 30 diet challenges. Each category has 20 seven-day and 10 thirty-day options. Joining is optional.": [
+    "可从30项健身挑战和30项饮食挑战中选择。每类包含20项七天挑战和10项三十天挑战，是否加入由你自行决定。",
+    "Elige entre 30 retos de ejercicio y 30 de alimentación. Cada categoría incluye 20 opciones de siete días y 10 de treinta días. Participar es opcional."
+  ],
+  "Awaiting first acceptance": [
+    "等待首位成员接受",
+    "Esperando la primera aceptación"
+  ],
+  "Enrollment open": [
+    "开放报名中",
+    "Inscripción abierta"
+  ],
+  "The first acceptance starts the 24-hour admission countdown.": [
+    "首位成员接受后，开始24小时的报名倒计时。",
+    "La primera aceptación inicia la cuenta atrás de 24 horas para inscribirse."
+  ],
+  "Enrollment locked.": [
+    "报名已截止。",
+    "La inscripción está cerrada."
+  ],
+  "Accept challenge": [
+    "接受挑战",
+    "Aceptar reto"
+  ],
+  "You joined": [
+    "你已加入",
+    "Ya te has unido"
+  ],
+  "Everyone can finish": [
+    "所有人均可完成",
+    "Todos pueden completar el reto"
+  ],
+  "First-finisher race": [
+    "首位完成者竞赛",
+    "Carrera por ser el primero"
+  ],
+  "Choose group challenge": [
+    "选择群聊挑战",
+    "Elegir reto de grupo"
+  ],
+  "Choose a group challenge": [
+    "选择一项群聊挑战",
+    "Elegir un reto de grupo"
+  ],
+  "Close challenge catalog": [
+    "关闭挑战目录",
+    "Cerrar catálogo de retos"
+  ],
+  "Search challenges": [
+    "搜索挑战",
+    "Buscar retos"
+  ],
+  "Miles, fiber, minutes…": [
+    "里程、纤维、分钟数…",
+    "Millas, fibra, minutos…"
+  ],
+  "Starting…": [
+    "正在发起…",
+    "Iniciando…"
+  ],
+  "Send challenge invitation to group": [
+    "向群聊发送挑战邀请",
+    "Enviar invitación al reto al grupo"
+  ],
+  "Withdrawn": [
+    "已退出",
+    "Retirado"
+  ],
+  "Winner": [
+    "获胜者",
+    "Ganador"
+  ],
+  "participation": [
+    "参与奖励",
+    "participación"
+  ],
+  "Reward unavailable.": [
+    "此奖励不可用。",
+    "La recompensa no está disponible."
+  ],
+  "Could not load the global leaderboard.": [
+    "无法加载全球排行榜。",
+    "No se pudo cargar la clasificación global."
+  ],
+  "Choose an accepted friend.": [
+    "请选择一位已建立联系的好友。",
+    "Elige un amigo con una conexión aceptada."
+  ],
+  "Only an active member can add friends; group settings are creator-only.": [
+    "仅已加入的成员可以添加好友；群聊设置仅限创建者修改。",
+    "Solo los miembros activos pueden añadir amigos; únicamente el creador puede cambiar los ajustes del grupo."
+  ],
+  "Choose accepted friends only.": [
+    "请选择已建立联系的好友。",
+    "Elige solo amigos con una conexión aceptada."
+  ],
+  "A group supports up to 20 people.": [
+    "每个群聊最多可有20人。",
+    "Un grupo admite hasta 20 personas."
+  ],
+  "These people cannot join the same group because of a block.": [
+    "由于存在屏蔽关系，这些用户无法加入同一群聊。",
+    "Estas personas no pueden unirse al mismo grupo debido a un bloqueo."
+  ],
+  "Try creating more groups tomorrow.": [
+    "请明天再创建更多群聊。",
+    "Intenta crear más grupos mañana."
+  ],
+  "Check your group name and friends.": [
+    "请检查群聊名称和所选好友。",
+    "Revisa el nombre del grupo y los amigos seleccionados."
+  ],
+  "Could not update the group.": [
+    "无法更新群聊。",
+    "No se pudo actualizar el grupo."
+  ],
+  "Group unavailable.": [
+    "此群聊不可用。",
+    "El grupo no está disponible."
+  ],
+  "Could not load challenges.": [
+    "无法加载挑战。",
+    "No se pudieron cargar los retos."
+  ],
+  "Choose a challenge from the catalog.": [
+    "请从目录中选择一项挑战。",
+    "Elige un reto del catálogo."
+  ],
+  "Finish the current challenge first. Each group can have one open challenge.": [
+    "请先完成当前挑战。每个群聊同时只能有一项未结束的挑战。",
+    "Termina primero el reto actual. Cada grupo solo puede tener un reto abierto a la vez."
+  ],
+  "You can start up to five challenges per day.": [
+    "每天最多可以发起五项挑战。",
+    "Puedes iniciar hasta cinco retos al día."
+  ],
+  "Challenge unavailable.": [
+    "此挑战不可用。",
+    "El reto no está disponible."
+  ],
+  "Enrollment is locked.": [
+    "报名已截止。",
+    "La inscripción está cerrada."
+  ],
+  "Check the challenge selection.": [
+    "请检查所选挑战。",
+    "Revisa el reto seleccionado."
+  ],
+  "Could not update the challenge.": [
+    "无法更新挑战。",
+    "No se pudo actualizar el reto."
+  ],
+  "Group member added.": [
+    "已添加群聊成员。",
+    "Miembro añadido al grupo."
+  ],
+  "e.g. Weekend runners": [
+    "例如：周末跑步小队",
+    "p. ej., Corredores de fin de semana"
+  ],
+  "Five Cardio Miles Together": [
+    "一起完成五英里有氧运动",
+    "Cinco millas de cardio juntos"
+  ],
+  "Twenty Floors Together": [
+    "一起攀登二十层",
+    "Veinte pisos juntos"
+  ],
+  "Four Weight Check-ins": [
+    "四次体重记录",
+    "Cuatro registros de peso"
+  ],
+  "Twenty Weight Check-ins": [
+    "二十次体重记录",
+    "Veinte registros de peso"
+  ],
+  "cardio miles": [
+    "英里有氧运动距离",
+    "millas de cardio"
+  ],
+  "stairmaster floors": [
+    "层爬楼机楼层",
+    "pisos en la máquina de escaleras"
+  ],
+  "weight check-in days": [
+    "天体重记录",
+    "días con registro de peso"
+  ],
+  "Run": [
+    "跑步",
+    "Carrera"
+  ],
+  "Dumbbell": [
+    "哑铃",
+    "Mancuerna"
+  ],
+  "Exercise": [
+    "运动",
+    "Ejercicio"
+  ],
+  "Plate": [
+    "餐盘",
+    "Plato"
+  ],
+  "Vegetables": [
+    "蔬菜",
+    "Verduras"
+  ],
+  "Leaf": [
+    "叶子",
+    "Hoja"
+  ],
+  "Flame": [
+    "火焰",
+    "Llama"
+  ],
+  "Trophy": [
+    "奖杯",
+    "Trofeo"
+  ],
+  "Smile": [
+    "微笑",
+    "Sonrisa"
+  ],
+  "Laugh": [
+    "大笑",
+    "Risa"
+  ],
+  "Heart": [
+    "爱心",
+    "Corazón"
+  ],
+  "Sun": [
+    "太阳",
+    "Sol"
+  ],
+  " enrolled · Joining shares your challenge totals with this group.": [
+    "人已报名；加入后，你的挑战统计数据将与此群聊共享。",
+    " inscritos · Al unirte, compartes tus totales del reto con este grupo."
+  ],
+  "Enrollment locked. ": [
+    "报名已截止。",
+    "La inscripción está cerrada. "
+  ],
+  " started this group with existing Seediva friends.": [
+    "与现有的Seediva好友创建了此群聊。",
+    " creó este grupo con amigos existentes de Seediva."
+  ],
+  " added existing Seediva friends to this group.": [
+    "将现有的Seediva好友添加到了此群聊。",
+    " añadió amigos existentes de Seediva a este grupo."
+  ],
+  " group icon": [
+    "群聊图标",
+    " icono de grupo"
+  ],
+  "7 days at 25 g fiber in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成7天每日记录至少25克纤维。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "7 días con al menos 25 g de fibra registrada en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "30 days at 25 g fiber in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成30天每日记录至少25克纤维。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "30 días con al menos 25 g de fibra registrada en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "7 food-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成7天饮食记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "7 días con registro de comidas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "30 food-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成30天饮食记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "30 días con registro de comidas en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "7 days with food and exercise in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成7天同时记录饮食和运动。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "7 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "7 days logging protein in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成7天蛋白质记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "7 días con registro de proteínas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "100 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成100克纤维记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "100 g de fibra registrada en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "600 g fiber logged in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成600克纤维记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "600 g de fibra registrada en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "10 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成10种不同的食物名称记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "10 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "100 food entries in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成100次餐食记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "100 registros de comidas en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "10 running miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成10英里跑步距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "10 millas de carrera en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "100 reps each: bench, squat, deadlift in 7 days. First finisher earns +500 XP. Other accepted entrants earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成100次，卧推、深蹲和硬拉分别达到。首位完成者获得500经验值。其他已接受挑战的参与者可获得50经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "100 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 7 días. El primer participante que complete el reto gana +500 XP. Los demás participantes que hayan aceptado ganan +50 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "26.2 running miles in 7 days. First finisher earns +500 XP. Other accepted entrants earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成26.2英里跑步距离。首位完成者获得500经验值。其他已接受挑战的参与者可获得50经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "26.2 millas de carrera en 7 días. El primer participante que complete el reto gana +500 XP. Los demás participantes que hayan aceptado ganan +50 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "78.6 running / walking miles in 30 days. First finisher earns +2000 XP. Other accepted entrants earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成78.6英里跑步与步行距离。首位完成者获得2000经验值。其他已接受挑战的参与者可获得200经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "78.6 millas de carrera y caminata en 30 días. El primer participante que complete el reto gana +2000 XP. Los demás participantes que hayan aceptado ganan +200 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "1200 exercise minutes in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成1200分钟运动。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "1200 minutos de ejercicio en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 running / walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成20英里跑步与步行距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 millas de carrera y caminata en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "150 exercise minutes in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成150分钟运动。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "150 minutos de ejercicio en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "7 exercise-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成7天运动记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "7 días con registro de ejercicio en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "100 strength sets in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成100组力量训练。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "100 series de fuerza en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "50 running miles in 30 days. First finisher earns +2000 XP. Other accepted entrants earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成50英里跑步距离。首位完成者获得2000经验值。其他已接受挑战的参与者可获得200经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "50 millas de carrera en 30 días. El primer participante que complete el reto gana +2000 XP. Los demás participantes que hayan aceptado ganan +200 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "15 walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成15英里步行距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "15 millas de caminata en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "50 cycling miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成50英里骑行距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "50 millas en bicicleta en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "200 cycling miles in 30 days. First finisher earns +2000 XP. Other accepted entrants earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成200英里骑行距离。首位完成者获得2000经验值。其他已接受挑战的参与者可获得200经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "200 millas en bicicleta en 30 días. El primer participante que complete el reto gana +2000 XP. Los demás participantes que hayan aceptado ganan +200 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "100 running / walking miles in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成100英里跑步与步行距离。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "100 millas de carrera y caminata en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "500 reps each: bench, squat, deadlift in 30 days. First finisher earns +2000 XP. Other accepted entrants earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成500次，卧推、深蹲和硬拉分别达到。首位完成者获得2000经验值。其他已接受挑战的参与者可获得200经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "500 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 30 días. El primer participante que complete el reto gana +2000 XP. Los demás participantes que hayan aceptado ganan +200 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "10 different exercise names in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成10种不同的动作名称。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "10 nombres distintos de ejercicios en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "300 exercise minutes in 7 days. First finisher earns +500 XP. Other accepted entrants earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成300分钟运动。首位完成者获得500经验值。其他已接受挑战的参与者可获得50经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "300 minutos de ejercicio en 7 días. El primer participante que complete el reto gana +500 XP. Los demás participantes que hayan aceptado ganan +50 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 exercise-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成20天运动记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 días con registro de ejercicio en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "50 strength sets in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成50组力量训练。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "50 series de fuerza en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 running / walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5英里跑步与步行距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 millas de carrera y caminata en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "3 exercise-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成3天运动记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "3 días con registro de ejercicio en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "60 exercise minutes in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成60分钟运动。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "60 minutos de ejercicio en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5英里步行距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 millas de caminata en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 cardio miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5英里有氧运动距离。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 millas de cardio en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 stairmaster floors in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成20层爬楼机楼层。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 pisos en la máquina de escaleras en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 strength sets in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成20组力量训练。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 series de fuerza en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 different exercise names in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5种不同的动作名称。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 nombres distintos de ejercicios en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "4 weight check-in days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成4天体重记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "4 días con registro de peso en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "600 exercise minutes in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成600分钟运动。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "600 minutos de ejercicio en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 weight check-in days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成20天体重记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 días con registro de peso en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 food-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5天饮食记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 días con registro de comidas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "3 food-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成3天饮食记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "3 días con registro de comidas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "3 days logging protein in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成3天蛋白质记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "3 días con registro de proteínas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 days logging protein in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5天蛋白质记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 días con registro de proteínas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "50 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成50克纤维记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "50 g de fibra registrada en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "75 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成75克纤维记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "75 g de fibra registrada en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "150 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成150克纤维记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "150 g de fibra registrada en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5种不同的食物名称记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "7 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成7种不同的食物名称记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "7 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "12 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成12种不同的食物名称记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "12 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "10 food entries in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成10次餐食记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "10 registros de comidas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "14 food entries in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成14次餐食记录。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "14 registros de comidas en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "3 days with food and exercise in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成3天同时记录饮食和运动。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "3 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "5 days with food and exercise in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "7天内完成5天同时记录饮食和运动。每位完成者获得500经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "5 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto gana +500 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 food-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成20天饮食记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 días con registro de comidas en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 days logging protein in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成20天蛋白质记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 días con registro de proteínas en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "300 g fiber logged in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成300克纤维记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "300 g de fibra registrada en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "20 different food names logged in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成20种不同的食物名称记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "20 nombres distintos de alimentos registrados en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "60 food entries in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成60次餐食记录。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "60 registros de comidas en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "12 days with food and exercise in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "30天内完成12天同时记录饮食和运动。每位完成者获得2000经验值。首位成员接受后开放24小时报名。报名截止时开始计算挑战时长。只有在挑战期间新提交的记录才会计入。挑战结束时发放奖励并发布最终快照。",
+    "12 días con alimentación y ejercicio registrados en 30 días. Cada participante que complete el reto gana +2000 XP. La primera aceptación abre un plazo de inscripción de 24 horas. El reto empieza cuando se cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican cuando termina el reto."
+  ],
+  "· Eastern time": [
+    "· 美国东部时间",
+    "· Hora del este"
+  ],
+  "· Level": [
+    "· 等级",
+    "· Nivel"
+  ],
+  "Members": [
+    "成员",
+    "Miembros"
+  ],
+  "View trophies": [
+    "查看奖杯",
+    "Ver trofeos"
+  ],
+  "Invite more people": [
+    "邀请更多成员",
+    "Invitar a más personas"
+  ],
+  "Only accepted members can read messages. Invitations expire after seven days.": [
+    "只有已接受邀请的成员可以阅读消息。邀请在七天后失效。",
+    "Solo los miembros que hayan aceptado pueden leer los mensajes. Las invitaciones caducan a los siete días."
+  ],
+  "Group name": [
+    "群聊名称",
+    "Nombre del grupo"
+  ],
+  "Group challenges": [
+    "群聊挑战",
+    "Retos de grupo"
+  ],
+  "enrolled · Joining shares your challenge totals with this group.": [
+    "人已报名；加入后，你的挑战统计数据将与此群聊共享。",
+    "inscritos · Al unirte, compartes tus totales del reto con este grupo."
+  ],
+  "Bench": [
+    "卧推",
+    "Press de banca"
+  ],
+  "· Squat": [
+    "· 深蹲",
+    "· Sentadillas"
+  ],
+  "· Deadlift": [
+    "· 硬拉",
+    "· Peso muerto"
+  ],
+  "reps": [
+    "次",
+    "repeticiones"
+  ],
+  "Category": [
+    "类别",
+    "Categoría"
+  ],
+  "All": [
+    "全部",
+    "Todos"
+  ],
+  "days ·": [
+    "天 ·",
+    "días ·"
+  ],
+  "Ends ": [
+    "结束时间：",
+    "Termina el "
+  ],
+  "Join by ": [
+    "报名截止：",
+    "Inscríbete antes del "
+  ],
+  " left": [
+    " 剩余",
+    " restantes"
+  ],
+  "Finished": [
+    "已结束",
+    "Finalizado"
+  ],
+  "In progress": [
+    "进行中",
+    "En curso"
+  ],
+  "You": [
+    "你",
+    "Tú"
+  ],
+  " (you)": [
+    "（你）",
+    " (tú)"
+  ],
+  "total XP": [
+    "总经验值",
+    "XP totales"
+  ],
+  "challenge badges earned": [
+    "枚挑战徽章已获得",
+    "insignias de retos obtenidas"
+  ],
+  "Achievement showcase": [
+    "成就展示",
+    "Vitrina de logros"
+  ],
+  "Earned badges": [
+    "已获得的徽章",
+    "Insignias obtenidas"
+  ],
+  "No showcase badges selected yet.": [
+    "尚未选择展示徽章。",
+    "Todavía no se han seleccionado insignias para la vitrina."
+  ],
+  "Run group icon": [
+    "跑步群聊图标",
+    "Icono de grupo: Carrera"
+  ],
+  "Dumbbell group icon": [
+    "哑铃群聊图标",
+    "Icono de grupo: Mancuerna"
+  ],
+  "Exercise group icon": [
+    "运动群聊图标",
+    "Icono de grupo: Ejercicio"
+  ],
+  "Plate group icon": [
+    "餐盘群聊图标",
+    "Icono de grupo: Plato"
+  ],
+  "Vegetables group icon": [
+    "蔬菜群聊图标",
+    "Icono de grupo: Verduras"
+  ],
+  "Leaf group icon": [
+    "叶子群聊图标",
+    "Icono de grupo: Hoja"
+  ],
+  "Flame group icon": [
+    "火焰群聊图标",
+    "Icono de grupo: Llama"
+  ],
+  "Trophy group icon": [
+    "奖杯群聊图标",
+    "Icono de grupo: Trofeo"
+  ],
+  "Smile group icon": [
+    "微笑群聊图标",
+    "Icono de grupo: Sonrisa"
+  ],
+  "Laugh group icon": [
+    "大笑群聊图标",
+    "Icono de grupo: Risa"
+  ],
+  "Heart group icon": [
+    "爱心群聊图标",
+    "Icono de grupo: Corazón"
+  ],
+  "Sun group icon": [
+    "太阳群聊图标",
+    "Icono de grupo: Sol"
+  ],
+  "friend": [
+    "好友",
+    "amigo"
+  ],
+  "Maximum Strength combines your best logged bench press, squat and deadlift loads. Miles include all recorded cardio.": [
+    "最大力量为卧推、深蹲和硬拉的最佳记录负重之和。里程包含所有已记录的有氧运动。",
+    "La fuerza máxima suma las mejores cargas registradas de press de banca, sentadilla y peso muerto. La distancia incluye todo el cardio registrado."
+  ],
+  "Add": [
+    "添加",
+    "Añadir"
+  ],
+  "Edit": [
+    "编辑",
+    "Editar"
+  ],
+  "Delete": [
+    "删除",
+    "Eliminar"
+  ],
+  "Peak": [
+    "巅峰",
+    "Cumbre"
+  ],
+  "Peak Unlimited": [
+    "巅峰无上限",
+    "Cumbre sin límites"
+  ],
+  "Rank {rank} trophy": [
+    "第 {rank} 名奖杯",
+    "Trofeo del puesto {rank}"
+  ],
+  "Peak Unlimited unlocked. Keep progressing by 50,000 XP per Peak.": [
+    "已解锁巅峰无上限。每增加50,000经验值，就能晋升一个巅峰等级。",
+    "Cumbre sin límites desbloqueada. Sigue avanzando 50.000 XP por cada Cumbre."
+  ],
+  "After Level 27 at 1,000,000 XP, unlock unlimited Peak progression. Peak 1 starts at 1,050,000 XP. Each additional Peak requires another 50,000 cumulative XP. There is no final Peak.": [
+    "达到第27级、累计1,000,000经验值后，解锁无上限的巅峰进阶。巅峰1从1,050,000经验值开始，此后每累计增加50,000经验值，晋升一个巅峰等级。巅峰没有终点。",
+    "Al alcanzar el nivel 27 con 1.000.000 XP, desbloqueas la progresión ilimitada Cumbre. Cumbre 1 comienza en 1.050.000 XP. Cada Cumbre adicional requiere otros 50.000 XP acumulados. No hay una Cumbre final."
+  ],
+  "Thresholds are cumulative. Correcting or deleting logs recalculates XP and progression.": [
+    "门槛采用累计经验值。修改或删除记录会重新计算经验值与进阶状态。",
+    "Los requisitos son de XP acumulados. Corregir o eliminar registros recalcula los XP y la progresión."
+  ],
+  "Peak icons now show a crowned mountain. Explore the Trophy Journey.": [
+    "巅峰图标现在是一座戴王冠的山。快来查看奖杯进阶。",
+    "Los iconos Cumbre ahora muestran una montaña coronada. Explora la trayectoria de trofeos."
+  ],
+  "Badge levels award 300, 1,000, 3,000, 10,000 and 30,000 XP.": [
+    "五个徽章等级分别奖励300、1,000、3,000、10,000和30,000经验值。",
+    "Los cinco niveles de insignias otorgan 300, 1.000, 3.000, 10.000 y 30.000 XP."
+  ],
+  "Reach Level 27 at one million XP, then keep climbing through unlimited Peaks.": [
+    "累计一百万经验值达到27级，此后可继续挑战无上限的巅峰。",
+    "Alcanza el nivel 27 con un millón de XP y sigue ascendiendo por Cumbres sin límite."
+  ],
+  "Peak 1 starts at 1,050,000 XP. Each additional Peak takes another 50,000 XP.": [
+    "巅峰1从1,050,000经验值开始，此后每增加50,000经验值晋升一级巅峰。",
+    "Cumbre 1 comienza en 1.050.000 XP. Cada Cumbre adicional requiere otros 50.000 XP."
+  ],
+  "The global leaderboard shows every registered member. Tap a name to view trophies.": [
+    "全球排行榜展示所有注册成员。点击姓名即可查看奖杯。",
+    "La clasificación global muestra a todos los miembros registrados. Toca un nombre para ver sus trofeos."
+  ],
+  "The top three global ranks earn weekly XP bonuses on Sunday night Eastern time.": [
+    "全球排行榜前三名会在美国东部时间周日晚获得每周经验值奖励。",
+    "Los tres primeros puestos globales reciben XP adicionales cada domingo por la noche, hora del este."
+  ],
+  "Start a group challenge: choose from 30 fitness and 30 diet options.": [
+    "发起群聊挑战：可从30项健身挑战和30项饮食挑战中选择。",
+    "Inicia un reto de grupo: elige entre 30 opciones de ejercicio y 30 de alimentación."
+  ],
+  "Each group can have one open challenge. Different groups can run challenges together.": [
+    "每个群聊可有一项进行中的挑战，不同群聊可同时开展挑战。",
+    "Cada grupo puede tener un reto abierto. Distintos grupos pueden celebrar retos al mismo tiempo."
+  ],
+  "Thirty-day challenges award 2,000 XP to qualifying finishers.": [
+    "符合完成条件的30天挑战参与者可获得2,000经验值。",
+    "Los retos de treinta días otorgan 2.000 XP a quienes cumplen los requisitos."
+  ],
+  "Group members can add their existing friends without sending invitation emails.": [
+    "群聊成员可以直接添加已有好友，无需发送邀请邮件。",
+    "Los miembros de un grupo pueden añadir a sus amigos existentes sin enviar correos de invitación."
+  ],
+  "Tap Send message on a friend card to open your private conversation.": [
+    "点击好友卡片上的发送消息，即可打开私聊。",
+    "Toca Enviar mensaje en la tarjeta de un amigo para abrir vuestra conversación privada."
+  ],
+  "Administrators can choose up to 50 Seedy tips for the site. Each selected tip appears before the cycle repeats.": [
+    "管理员可为网站选择最多50条Seedy提示。每条已选提示都会在一轮中出现一次，再开始下一轮。",
+    "Los administradores pueden elegir hasta 50 consejos de Seedy. Todos los elegidos aparecen antes de repetir el ciclo."
+  ],
+  "The super admin manages administrator roles. Check your account if your access changes.": [
+    "超级管理员负责管理管理员角色。权限变更时，可查看账户信息。",
+    "El superadministrador gestiona los roles de administrador. Revisa tu cuenta si cambia tu acceso."
+  ],
+  "Describe your food and its portion to look up editable nutrition estimates.": [
+    "描述食物及其份量，即可查询可编辑的营养估算值。",
+    "Describe el alimento y la porción para consultar estimaciones nutricionales editables."
+  ],
+  "Meal names and food descriptions stay separate. New descriptions become searchable only after saving.": [
+    "餐食名称与描述保持独立。新描述只有保存后才会加入可搜索目录。",
+    "El nombre y la descripción de la comida permanecen separados. Las descripciones nuevas se pueden buscar solo después de guardarlas."
+  ],
+  "No food match? Use Google search, then paste and review the nutrition numbers.": [
+    "没有匹配的食物？使用Google搜索，再粘贴并核对营养数值。",
+    "¿No encuentras un alimento? Busca en Google y después pega y revisa los valores nutricionales."
+  ],
+  "Attach a meal photo and open it later from your nutrition report.": [
+    "为餐食添加照片，之后可在营养报告中打开查看。",
+    "Adjunta una foto de la comida y ábrela después desde el informe nutricional."
+  ],
+  "Edit a food or exercise entry to correct its log date to today or an earlier date.": [
+    "编辑饮食或运动记录，可将记录日期改为今天或之前的日期。",
+    "Edita una comida o un ejercicio para corregir la fecha al día de hoy o a una fecha anterior."
+  ],
+  "Explore 100 Chinese home dishes when using Simplified Chinese.": [
+    "使用简体中文时，可探索100道中式家常菜。",
+    "Explora 100 platos caseros chinos al usar chino simplificado."
+  ],
+  "English recipe collections include Mediterranean, balanced, vegetarian, vegan, DASH and keto dishes.": [
+    "英文食谱系列包括地中海、均衡饮食、素食、纯素、得舒和生酮菜肴。",
+    "Las colecciones en inglés incluyen platos mediterráneos, equilibrados, vegetarianos, veganos, DASH y cetogénicos."
+  ],
+  "Spanish recipe collections include Mexican, Peruvian, Ecuadorian, Brazilian and Puerto Rican dishes.": [
+    "西班牙语食谱系列包括墨西哥、秘鲁、厄瓜多尔、巴西和波多黎各菜肴。",
+    "Las colecciones en español incluyen platos mexicanos, peruanos, ecuatorianos, brasileños y puertorriqueños."
+  ],
+  "Open a recipe for its cooking outline, publisher reference and video.": [
+    "打开食谱，即可查看烹饪提纲、原作者食谱链接和视频。",
+    "Abre una receta para ver el esquema de preparación, la fuente original y el vídeo."
+  ],
+  "Search exercises by name, muscle group or equipment when logging a workout.": [
+    "记录训练时，可按名称、肌群或器械搜索动作。",
+    "Busca ejercicios por nombre, grupo muscular o equipo al registrar un entrenamiento."
+  ],
+  "Record stairmaster floors, cardio distance and workout minutes for more progress insights.": [
+    "记录爬楼机楼层、有氧运动距离和训练分钟数，了解更多进展。",
+    "Registra pisos de escaladora, distancia de cardio y minutos de entrenamiento para conocer tus avances."
+  ],
+  "Use the pencil in workout history to correct an exercise entry.": [
+    "使用训练历史中的铅笔按钮修改运动记录。",
+    "Usa el lápiz del historial de entrenamientos para corregir un ejercicio."
+  ],
+  "Check off a completed planned workout to add it to your exercise history.": [
+    "勾选已完成的计划训练，即可将其加入运动历史。",
+    "Marca un entrenamiento planificado como completado para añadirlo a tu historial."
+  ],
+  "Body measurements help you follow weekly changes alongside your weight trend.": [
+    "身体围度记录可帮助你结合体重趋势观察每周变化。",
+    "Las medidas corporales te ayudan a seguir los cambios semanales junto con la tendencia del peso."
+  ],
+  "Compare nutrition and workout reports over 7, 28, 90 days or a full year.": [
+    "按7天、28天、90天或一整年查看营养与训练报告。",
+    "Compara informes de nutrición y ejercicio de 7, 28 o 90 días, o de un año completo."
+  ],
+  "Use Punch reminders to encourage a friend to keep moving.": [
+    "使用运动提醒，鼓励好友保持运动。",
+    "Usa los recordatorios de ánimo para animar a un amigo a seguir moviéndose."
+  ],
+  "Change your app language in Account. Navigation and searchable catalogs follow your selection.": [
+    "在账户中更改应用语言，导航与可搜索目录会跟随你的选择。",
+    "Cambia el idioma en Cuenta. La navegación y los catálogos de búsqueda seguirán tu elección."
+  ],
+  "Seedy tip conversations": [
+    "Seedy提示会话",
+    "Conversaciones de consejos de Seedy"
+  ],
+  "Select 1–50 tips. Seedy shows one tip per minute while the app is visible. Every selected tip appears before a new cycle starts. Signed-in users keep their rotation across pages and devices.": [
+    "选择1至50条提示。应用页面可见时，Seedy每分钟展示一条。所有已选提示展示完毕后才会开始下一轮。登录用户的轮播进度会跨页面和设备保留。",
+    "Selecciona de 1 a 50 consejos. Seedy muestra uno por minuto mientras la aplicación está visible. Todos los elegidos aparecen antes de empezar otro ciclo. Los usuarios con sesión iniciada conservan la rotación entre páginas y dispositivos."
+  ],
+  "Number of tips": [
+    "提示数量",
+    "Número de consejos"
+  ],
+  "Find a tip": [
+    "查找提示",
+    "Buscar un consejo"
+  ],
+  "Search features or navigation tips": [
+    "搜索功能或导航提示",
+    "Buscar consejos de funciones o navegación"
+  ],
+  "Select all 50 tips": [
+    "选择全部50条提示",
+    "Seleccionar los 50 consejos"
+  ],
+  "Use default 20 tips": [
+    "使用默认20条提示",
+    "Usar los 20 consejos predeterminados"
+  ],
+  "selected": [
+    "已选择",
+    "seleccionados"
+  ],
+  "Tip preview": [
+    "提示预览",
+    "Vista previa del consejo"
+  ],
+  "Next preview": [
+    "预览下一条",
+    "Vista previa siguiente"
+  ],
+  "Save Seedy tips": [
+    "保存Seedy提示",
+    "Guardar consejos de Seedy"
+  ],
+  "Seedy tips saved. The selection applies to all users.": [
+    "Seedy提示已保存，此选择适用于所有用户。",
+    "Consejos de Seedy guardados. La selección se aplica a todos los usuarios."
+  ],
+  "Could not load Seedy tips.": [
+    "无法加载Seedy提示。",
+    "No se pudieron cargar los consejos de Seedy."
+  ],
+  "Choose 1–50 different tips from the catalog.": [
+    "请从目录中选择1至50条不同提示。",
+    "Elige de 1 a 50 consejos distintos del catálogo."
+  ],
+  "Could not save Seedy tips.": [
+    "无法保存Seedy提示。",
+    "No se pudieron guardar los consejos de Seedy."
+  ],
+  "Could not load the next Seedy tip.": [
+    "无法加载下一条Seedy提示。",
+    "No se pudo cargar el siguiente consejo de Seedy."
+  ],
+  "Administrator roles": [
+    "管理员角色",
+    "Roles de administrador"
+  ],
+  "Only the super admin can promote or demote administrators. The super admin role cannot be removed.": [
+    "只有超级管理员可以授予或撤销管理员角色。超级管理员角色不可移除。",
+    "Solo el superadministrador puede conceder o retirar roles de administrador. El rol de superadministrador no se puede eliminar."
+  ],
+  "Current administrators": [
+    "当前管理员",
+    "Administradores actuales"
+  ],
+  "Super admin": [
+    "超级管理员",
+    "Superadministrador"
+  ],
+  "Administrator": [
+    "管理员",
+    "Administrador"
+  ],
+  "Choose registered account": [
+    "选择已注册账户",
+    "Elegir una cuenta registrada"
+  ],
+  "Account role": [
+    "账户角色",
+    "Rol de la cuenta"
+  ],
+  "User": [
+    "普通用户",
+    "Usuario"
+  ],
+  "Save account role": [
+    "保存账户角色",
+    "Guardar rol de la cuenta"
+  ],
+  "Remove admin role": [
+    "撤销管理员角色",
+    "Retirar rol de administrador"
+  ],
+  "Administrator role updated. Access refreshes within 30 seconds or when the user returns to the app.": [
+    "管理员角色已更新。权限会在30秒内或用户返回应用时刷新。",
+    "Rol de administrador actualizado. El acceso se actualiza en 30 segundos o cuando el usuario vuelve a la aplicación."
+  ],
+  "Only the super admin can change administrator roles.": [
+    "只有超级管理员可以更改管理员角色。",
+    "Solo el superadministrador puede cambiar los roles de administrador."
+  ],
+  "Choose a registered account.": [
+    "请选择已注册账户。",
+    "Elige una cuenta registrada."
+  ],
+  "The super admin role cannot be changed.": [
+    "超级管理员角色不可更改。",
+    "No se puede cambiar el rol de superadministrador."
+  ],
+  "Only the super admin can change administrator access.": [
+    "只有超级管理员可以更改管理员的访问权限。",
+    "Solo el superadministrador puede cambiar el acceso de un administrador."
+  ],
+  "Latest updates": [
+    "最新更新",
+    "Últimas novedades"
+  ],
+  "Navigation": [
+    "导航",
+    "Navegación"
+  ],
+  "Training": [
+    "训练",
+    "Entrenamiento"
+  ],
+  "Progress": [
+    "进展",
+    "Progreso"
+  ],
+  "Social": [
+    "社交",
+    "Comunidad"
+  ],
+  "Food": [
+    "饮食",
+    "Alimentación"
+  ],
+  "Your daily overview": [
+    "每日概览",
+    "Tu resumen diario"
+  ],
+  "Set your goals": [
+    "设置目标",
+    "Establece tus objetivos"
+  ],
+  "Log and review meals": [
+    "记录并核对餐食",
+    "Registra y revisa comidas"
+  ],
+  "Explore recipes": [
+    "探索食谱",
+    "Explora recetas"
+  ],
+  "Train and log movement": [
+    "训练并记录运动",
+    "Entrena y registra movimiento"
+  ],
+  "Plan your own training": [
+    "规划自己的训练",
+    "Planifica tu entrenamiento"
+  ],
+  "Review nutrition and weight": [
+    "查看营养与体重",
+    "Revisa nutrición y peso"
+  ],
+  "Review workout progress": [
+    "查看训练进展",
+    "Revisa tu progreso físico"
+  ],
+  "Track body measurements": [
+    "跟踪身体围度",
+    "Sigue tus medidas corporales"
+  ],
+  "Explore trophies and rankings": [
+    "探索奖杯与排名",
+    "Explora trofeos y clasificaciones"
+  ],
+  "Connect with friends": [
+    "与好友联系",
+    "Conecta con amigos"
+  ],
+  "Join group challenges": [
+    "参加群聊挑战",
+    "Participa en retos de grupo"
+  ],
+  "Personalize your account": [
+    "个性化账户",
+    "Personaliza tu cuenta"
+  ],
+  "Ask Seedy for help": [
+    "向Seedy寻求帮助",
+    "Pide ayuda a Seedy"
+  ],
+  "Manage Seedy tips": [
+    "管理Seedy提示",
+    "Gestiona consejos de Seedy"
+  ],
+  "Manage administrator roles": [
+    "管理管理员角色",
+    "Gestiona roles de administrador"
+  ],
+  "Home brings together your health rating, daily nutrition, movement and morning weight check-in. Open the health rating to see what contributes to it.": [
+    "首页汇总健康评分、每日营养、运动和晨起体重记录。打开健康评分，即可查看各项组成。",
+    "Inicio reúne tu valoración de salud, nutrición diaria, movimiento y registro matinal de peso. Abre la valoración para ver sus componentes."
+  ],
+  "Choose your calorie target, nutrition preferences, training goal and session length. These settings shape your nutrition targets and training plan.": [
+    "设置热量目标、饮食偏好、训练目标和训练时长。这些设置决定营养目标与训练计划。",
+    "Elige tu objetivo calórico, preferencias alimentarias, objetivo de entrenamiento y duración. Estos ajustes definen tus metas nutricionales y tu plan de entrenamiento."
+  ],
+  "Describe food with a quantity, choose a database match and review the nutrition values. Meal names stay separate. You can attach a photo, paste nutrition information and log today or an earlier date. New descriptions become searchable after saving.": [
+    "按数量描述食物，选择数据库匹配项并核对营养值。餐食名称与描述保持独立。可附照片、粘贴营养信息，并记录今天或过去的日期。新描述保存后才会加入可搜索目录。",
+    "Describe el alimento con su cantidad, elige una coincidencia de la base de datos y revisa los valores. El nombre permanece separado. Puedes adjuntar una foto, pegar información nutricional y registrar hoy o una fecha anterior. Las descripciones nuevas se pueden buscar después de guardarlas."
+  ],
+  "Choose a cuisine or eating style, filter by cooking method and search dishes or ingredients. Recipe cards open cooking outlines, photos, videos and links to full publisher recipes. Collections follow your selected language.": [
+    "选择菜系或饮食方式，按烹饪方法筛选，并搜索菜品或食材。打开食谱卡片可查看烹饪提纲、图片、视频及原作者完整食谱链接。食谱系列会跟随所选语言。",
+    "Elige una cocina o estilo de alimentación, filtra por técnica y busca platos o ingredientes. Las tarjetas abren esquemas de preparación, fotos, vídeos y enlaces a recetas completas. Las colecciones siguen el idioma elegido."
+  ],
+  "Customize your goals, browse the plan and open exercise demonstrations. Log strength sets, repetitions and load, or cardio duration, distance and stairmaster floors. Search the exercise library or enter your own movement.": [
+    "自定义目标、浏览计划并打开动作示范。记录力量训练的组数、次数与负重，或记录有氧运动的时长、距离和爬楼机楼层。可搜索动作库，也可输入自己的动作。",
+    "Personaliza tus objetivos, revisa el plan y abre demostraciones. Registra series, repeticiones y carga, o duración de cardio, distancia y pisos de escaladora. Busca en la biblioteca o introduce tu propio ejercicio."
+  ],
+  "Build a weekly or monthly workout calendar. Add exercises and check off completed workouts to put them in your exercise history and calculate their XP.": [
+    "建立按周或按月的训练日历。添加动作并勾选已完成训练，即可将其加入运动历史并计算经验值。",
+    "Crea un calendario semanal o mensual. Añade ejercicios y marca los entrenamientos completados para incorporarlos al historial y calcular sus XP."
+  ],
+  "Switch report ranges, inspect meal photos and follow weight trends. Use the pencil to correct meals or dates. Export CSV, download a report or share a snapshot. Weight supports kg or lb with two decimal places.": [
+    "切换报告范围、查看餐食照片并跟踪体重趋势。使用铅笔按钮修改餐食或日期。可导出表格、下载报告或分享快照。体重支持公斤或磅，并保留两位小数。",
+    "Cambia el período, revisa fotos y sigue la tendencia del peso. Usa el lápiz para corregir comidas o fechas. Exporta CSV, descarga un informe o comparte una instantánea. El peso admite kg o lb con dos decimales."
+  ],
+  "Compare training charts and browse workout history. Filter entries, edit an exercise or its date, and export or share reports. Corrections recalculate the related totals and XP.": [
+    "比较训练图表并浏览运动历史。可筛选记录、编辑动作或日期，并导出或分享报告。修改后会重新计算相关总数与经验值。",
+    "Compara gráficos y revisa el historial. Filtra registros, edita un ejercicio o su fecha y exporta o comparte informes. Las correcciones recalculan los totales y los XP relacionados."
+  ],
+  "Record weekly body measurements and follow the history and trend charts. Use the edit controls to correct a previous check-in.": [
+    "记录每周身体围度，并查看历史与趋势图。使用编辑按钮可修正过去的记录。",
+    "Registra medidas corporales semanales y sigue el historial y los gráficos. Usa los controles de edición para corregir un registro anterior."
+  ],
+  "Choose your achievement showcase, explore 70 badges and open the Trophy Journey. The global leaderboard links to member trophies. Weekly top-three bonuses and unlimited Peak progression add more milestones.": [
+    "选择成就展示、探索70枚徽章，并打开奖杯进阶。全球排行榜可进入成员奖杯页面。每周前三名奖励与无上限巅峰进阶带来更多里程碑。",
+    "Elige tu escaparate de logros, explora 70 insignias y abre la trayectoria de trofeos. La clasificación global enlaza a los trofeos de los miembros. Los premios semanales y la progresión Cumbre sin límite añaden nuevas metas."
+  ],
+  "Use Send message on a friend card to open a private chat. Create a group with accepted friends, add friends from Members, and share reports or trophy snapshots inside conversations.": [
+    "在好友卡片上点击发送消息即可打开私聊。可与已接受的好友创建群聊、从成员列表添加好友，并在对话中分享报告或奖杯快照。",
+    "Usa Enviar mensaje en una tarjeta para abrir un chat privado. Crea grupos con amigos aceptados, añade amigos desde Miembros y comparte informes o instantáneas de trofeos en las conversaciones."
+  ],
+  "Choose from 30 fitness and 30 diet challenges. Each group can have one open challenge. Joining is optional, and the first acceptance opens 24-hour enrollment. Different groups can run challenges at the same time.": [
+    "可从30项健身和30项饮食挑战中选择。每个群聊可有一项进行中的挑战，参加完全自愿。首次接受后开放24小时报名，不同群聊可同时开展挑战。",
+    "Elige entre 30 retos de ejercicio y 30 de alimentación. Cada grupo puede tener uno abierto. Participar es opcional y la primera aceptación abre 24 horas de inscripción. Distintos grupos pueden celebrar retos a la vez."
+  ],
+  "Change your name, avatar and preferred language here. Account also provides sign-out controls. Your selected language applies to navigation, guides and searchable catalogs.": [
+    "在这里更改名称、头像和首选语言，也可退出登录。所选语言适用于导航、指南和可搜索目录。",
+    "Cambia aquí tu nombre, avatar e idioma preferido. Cuenta también permite cerrar sesión. El idioma elegido se aplica a la navegación, las guías y los catálogos de búsqueda."
+  ],
+  "Open Seedy for shortcuts to app features. Drag the side companion to reposition it; tips stay beside it. Leave feedback below Explore all features, or use the feedback form in Inbox.": [
+    "打开Seedy可使用应用功能快捷入口。拖动侧边伙伴即可调整位置，提示会跟随显示。在探索全部功能下方提交反馈，或使用收件箱内的反馈表单。",
+    "Abre Seedy para acceder a las funciones. Arrastra el compañero lateral para cambiar su posición; los consejos lo acompañan. Envía comentarios debajo de Explorar todas las funciones o usa el formulario de la bandeja de entrada."
+  ],
+  "As an administrator, select 1–50 Seedy tips, filter the catalog and preview your choices before saving. The shared selection rotates once per minute without repeating until the cycle finishes.": [
+    "作为管理员，可选择1至50条Seedy提示，筛选目录并预览后保存。此共享选择每分钟轮播一条，整轮结束后才会重复。",
+    "Como administrador, selecciona entre 1 y 50 consejos, filtra el catálogo y comprueba la vista previa antes de guardar. La selección compartida rota uno por minuto sin repetir hasta completar el ciclo."
+  ],
+  "As the super admin, promote or demote registered users and manage existing administrators. The super admin role is protected and cannot be removed.": [
+    "作为超级管理员，可授予或撤销已注册用户的管理员角色，并管理现有管理员。超级管理员角色受到保护，不可移除。",
+    "Como superadministrador, concede o retira roles a usuarios registrados y gestiona a los administradores actuales. El rol de superadministrador está protegido y no se puede eliminar."
+  ],
+  "Choose your language": [
+    "选择你的语言",
+    "Elige tu idioma"
+  ],
+  "Start tutorial": [
+    "开始教程",
+    "Comenzar tutorial"
+  ],
+  "Your app, step by step": [
+    "一步步了解你的应用",
+    "Tu aplicación, paso a paso"
+  ],
+  "This guide appears after signing in, for both new and returning users. Skip exits the entire tutorial.": [
+    "新用户与老用户登录后都会看到此指南。跳过将退出整个教程。",
+    "Esta guía aparece al iniciar sesión, tanto para usuarios nuevos como habituales. Omitir cierra todo el tutorial."
+  ],
+  "Finish tutorial": [
+    "完成教程",
+    "Terminar tutorial"
+  ],
+  "APP WALKTHROUGH": [
+    "应用使用指南",
+    "GUÍA DE LA APLICACIÓN"
+  ],
+  "Could not save your language. Please retry, or skip the tutorial.": [
+    "无法保存语言。请重试，或跳过教程。",
+    "No se pudo guardar tu idioma. Inténtalo de nuevo u omite el tutorial."
+  ],
+  "Tutorial progress": [
+    "教程进度",
+    "Progreso del tutorial"
+  ],
+  "Replay tutorial": [
+    "重新观看教程",
+    "Repetir tutorial"
+  ],
+  "lb / in": [
+    "磅 / 英寸",
+    "lb / pulg."
+  ],
+  "Your workouts": [
+    "你保存的训练",
+    "Tus entrenamientos"
+  ],
+  "Community exercise names": [
+    "社区动作名称",
+    "Nombres de ejercicios de la comunidad"
+  ],
+  "Squat on a Padded Stool (Male)": [
+    "软垫凳深蹲（男性）",
+    "Sentadilla sobre taburete acolchado (hombre)"
+  ],
+  "colorados": [
+    "红豆",
+    "rojos"
+  ],
+  "HYROX conditioning": [
+    "HYROX 综合体能",
+    "Acondicionamiento HYROX"
+  ],
+  "1RM strength practice": [
+    "1RM 力量技术练习",
+    "Práctica de fuerza para 1RM"
+  ],
+  "HIIT conditioning": [
+    "HIIT 间歇体能",
+    "Acondicionamiento HIIT"
+  ],
+  "Mobility & balance": [
+    "活动度与平衡",
+    "Movilidad y equilibrio"
+  ],
+  "Scaled running and functional stations inspired by the official HYROX format. Practice carries, sleds, rowing, lunges and wall balls across the week; this is not a full race simulation.": [
+    "参考 HYROX 官方赛制安排适量跑步和功能性站点。本周练习负重行走、雪橇、划船、弓步和墙球，不是完整赛事模拟。",
+    "Carrera y estaciones funcionales adaptadas al formato oficial HYROX. Practica transportes, trineo, remo, zancadas y balón a la pared durante la semana; no es una simulación completa."
+  ],
+  "Submaximal squat, bench press and deadlift practice for experienced lifters. Choose your own working load, use safeties and a spotter, and leave two repetitions in reserve. No automatic maximal attempts.": [
+    "供有经验训练者练习次极限深蹲、卧推和硬拉。自行选择训练负重，使用安全架和保护者，并保留两次余力。不会自动安排极限试举。",
+    "Práctica submáxima de sentadilla, press de banca y peso muerto para personas con experiencia. Elige la carga, usa seguros y supervisión y deja dos repeticiones en reserva. No se programan intentos máximos automáticos."
+  ],
+  "Two interval days alternate with easy aerobic work, strength and recovery. Work intervals are controlled, not all-out sprints. Build an aerobic base first and choose a low-impact option when needed.": [
+    "每周两天间歇训练，与轻松有氧、力量和恢复交替。工作间歇保持可控，不做全力冲刺。先建立有氧基础，需要时选择低冲击动作。",
+    "Dos días de intervalos alternan con cardio suave, fuerza y recuperación. Los esfuerzos son controlados, sin esprints máximos. Desarrolla primero una base aeróbica y elige opciones de bajo impacto cuando sea necesario."
+  ],
+  "Controlled range of motion, supported balance, postural strength and comfortable walking. Use nearby support and progress movement control before resistance.": [
+    "练习可控活动范围、有支撑的平衡、姿势力量和舒适步行。使用身旁支撑物，先提高动作控制，再增加阻力。",
+    "Rango de movimiento controlado, equilibrio con apoyo, fuerza postural y marcha cómoda. Usa un apoyo cercano y mejora el control antes de añadir resistencia."
+  ],
+  "Run and ski stations": [
+    "跑步与滑雪机站点",
+    "Estaciones de carrera y esquí"
+  ],
+  "Sled and lunge strength": [
+    "雪橇与弓步力量",
+    "Fuerza de trineo y zancadas"
+  ],
+  "Easy hybrid technique": [
+    "轻松综合技术",
+    "Técnica híbrida suave"
+  ],
+  "Run and row stations": [
+    "跑步与划船站点",
+    "Estaciones de carrera y remo"
+  ],
+  "Station strength and control": [
+    "站点力量与控制",
+    "Fuerza y control por estaciones"
+  ],
+  "Scaled hybrid circuit": [
+    "适量综合循环",
+    "Circuito híbrido adaptado"
+  ],
+  "Bench press practice": [
+    "卧推技术练习",
+    "Práctica de press de banca"
+  ],
+  "Squat practice": [
+    "深蹲技术练习",
+    "Práctica de sentadilla"
+  ],
+  "Active recovery and bracing": [
+    "主动恢复与躯干稳定",
+    "Recuperación activa y estabilidad del tronco"
+  ],
+  "Deadlift practice": [
+    "硬拉技术练习",
+    "Práctica de peso muerto"
+  ],
+  "Press technique and assistance": [
+    "推举技术与辅助训练",
+    "Técnica de press y accesorios"
+  ],
+  "Lower-body assistance": [
+    "下肢辅助训练",
+    "Accesorios del tren inferior"
+  ],
+  "Cycling intervals": [
+    "自行车间歇",
+    "Intervalos de bicicleta"
+  ],
+  "Strength between intervals": [
+    "间歇之间的力量训练",
+    "Fuerza entre sesiones de intervalos"
+  ],
+  "Easy aerobic recovery": [
+    "轻松有氧恢复",
+    "Recuperación aeróbica suave"
+  ],
+  "Rowing intervals": [
+    "划船间歇",
+    "Intervalos de remo"
+  ],
+  "Full-body support strength": [
+    "全身辅助力量",
+    "Fuerza de apoyo de todo el cuerpo"
+  ],
+  "Easy movement and mobility": [
+    "轻松运动与活动度",
+    "Movimiento suave y movilidad"
+  ],
+  "Posture and supported balance": [
+    "姿势与支撑平衡",
+    "Postura y equilibrio con apoyo"
+  ],
+  "Hip and ankle control": [
+    "髋踝控制",
+    "Control de cadera y tobillo"
+  ],
+  "Upper-body mobility": [
+    "上肢活动度",
+    "Movilidad del tren superior"
+  ],
+  "Walking and gait practice": [
+    "步行与步态练习",
+    "Práctica de marcha"
+  ],
+  "Controlled full-body strength": [
+    "全身控制力量",
+    "Fuerza corporal controlada"
+  ],
+  "Comfortable mobility flow": [
+    "舒适活动度串联",
+    "Secuencia cómoda de movilidad"
+  ],
+  "Ski ergometer": [
+    "滑雪测功机",
+    "Ergómetro de esquí"
+  ],
+  "Sled push": [
+    "推雪橇",
+    "Empuje de trineo"
+  ],
+  "Sled pull": [
+    "拉雪橇",
+    "Arrastre de trineo"
+  ],
+  "Wall ball squat throw": [
+    "深蹲墙球投掷",
+    "Sentadilla con lanzamiento de balón a la pared"
+  ],
+  "Barbell back squat": [
+    "杠铃背蹲",
+    "Sentadilla trasera con barra"
+  ],
+  "Barbell bench press": [
+    "杠铃卧推",
+    "Press de banca con barra"
+  ],
+  "Barbell deadlift": [
+    "杠铃硬拉",
+    "Peso muerto con barra"
+  ],
+  "Rowing machine intervals": [
+    "划船机间歇",
+    "Intervalos en máquina de remo"
+  ],
+  "Brisk walk": [
+    "快走",
+    "Caminata rápida"
+  ],
+  "Stationary cycling": [
+    "固定自行车骑行",
+    "Ciclismo estático"
+  ],
+  "Stand tall, hinge slightly and drive the handles down. Return smoothly; start with easy resistance.": [
+    "站直，髋部微屈，向下拉动把手。平稳还原，从轻阻力开始。",
+    "Mantente erguido, flexiona ligeramente la cadera y lleva las asas hacia abajo. Regresa suavemente y empieza con poca resistencia."
+  ],
+  "Use a light sled, brace your trunk and take short steps. Keep your back neutral and stop if traction is unsafe.": [
+    "使用轻负重雪橇，收紧躯干并小步前进。保持背部中立，地面打滑时停止。",
+    "Usa un trineo ligero, estabiliza el tronco y da pasos cortos. Mantén la espalda neutra y detente si pierdes tracción."
+  ],
+  "Use a clear rope lane and a manageable sled load. Brace, pull steadily and avoid wrapping the rope around your hands.": [
+    "确保绳索通道畅通并使用可控负重。稳定躯干，平稳拉动，不要将绳索缠绕在手上。",
+    "Despeja la zona de la cuerda y usa una carga manejable. Estabiliza el tronco, tira de forma constante y no enrolles la cuerda en las manos."
+  ],
+  "Use a light ball and a suitable clear target. Squat comfortably, stand and toss; catch softly before the next repetition.": [
+    "选择轻球及合适且无障碍的目标。舒适下蹲，站起投球，轻柔接球后再继续。",
+    "Usa un balón ligero y un objetivo adecuado y despejado. Haz una sentadilla cómoda, levántate y lanza; recibe suavemente antes de repetir."
+  ],
+  "Use rack safeties and a practiced light load. Brace, squat within control and stand without bouncing.": [
+    "使用安全架及熟悉的轻负重。收紧躯干，控制下蹲，平稳站起，不借反弹。",
+    "Usa los seguros del soporte y una carga ligera conocida. Estabiliza el tronco, baja con control y sube sin rebotar."
+  ],
+  "Use safeties or a spotter. Keep feet planted, wrists stacked and lower the bar under control.": [
+    "使用安全架或保护者。双脚踩稳，手腕保持稳定，控制杠铃下降。",
+    "Usa seguros o un ayudante. Apoya los pies, alinea las muñecas y baja la barra con control."
+  ],
+  "Set the bar close, brace and stand by extending hips and knees together. Lower under control; do not grind through lost position.": [
+    "让杠铃靠近身体，收紧躯干，髋膝同步伸展站起。控制下降，姿势失稳时不要强行完成。",
+    "Coloca la barra cerca, estabiliza el tronco y extiende cadera y rodillas a la vez. Baja con control; detente si pierdes la posición."
+  ],
+  "Push with legs, lean slightly and pull. Recover arms, body, then legs; reduce the pace during easy intervals.": [
+    "腿部蹬伸，身体微倾后拉动把手。按手臂、躯干、腿部顺序还原，轻松间歇时降低速度。",
+    "Empuja con las piernas, inclínate ligeramente y tira. Recupera brazos, tronco y piernas; baja el ritmo en los intervalos suaves."
+  ],
+  "Walk at a comfortable, conversational pace. Use a stable surface and adjust speed to your balance.": [
+    "以能交谈的舒适速度步行。选择平稳地面，按平衡能力调整速度。",
+    "Camina a un ritmo cómodo que permita conversar. Usa una superficie estable y ajusta la velocidad a tu equilibrio."
+  ],
+  "Adjust the seat for a slight knee bend at the bottom. Pedal smoothly, keeping the easy intervals genuinely easy.": [
+    "调整座椅，使踏板最低处膝盖略屈。平稳踩踏，轻松间歇时真正降低强度。",
+    "Ajusta el sillín para mantener una ligera flexión de rodilla abajo. Pedalea con suavidad y mantén suaves los intervalos de recuperación."
+  ],
+  "Move comfortably and keep breathing.": [
+    "舒适活动并保持呼吸。",
+    "Muévete con comodidad y sigue respirando."
+  ],
+  "Submaximal technique sets. Choose a practiced load and stop with two repetitions in reserve; use safeties or a spotter.": [
+    "次极限技术组：选择熟悉的负重，保留两次余力，并使用安全架或保护者。",
+    "Series técnicas submáximas. Usa una carga conocida y deja dos repeticiones en reserva; utiliza seguros o un ayudante."
+  ],
+  "Controlled intervals: 20 seconds work, 40 seconds easy. Recover longer if form or breathing is not ready.": [
+    "可控间歇：运动20秒，轻松恢复40秒。姿势或呼吸未恢复时，延长休息。",
+    "Intervalos controlados: 20 segundos de trabajo y 40 suaves. Amplía la recuperación si la técnica o respiración aún no están listas."
+  ],
+  "Unload week: easy technique, fewer sets and lighter resistance. No maximal or all-out efforts.": [
+    "卸载周：轻松练习技术，减少组数与阻力，不做极限或全力动作。",
+    "Semana de descarga: técnica suave, menos series y menor resistencia. Sin esfuerzos máximos."
+  ],
+  "Scaled station practice. Keep transitions controlled and take recovery before the next station.": [
+    "按能力练习站点，控制转换节奏，恢复后再进入下一站。",
+    "Práctica adaptada por estaciones. Controla las transiciones y recupérate antes de pasar a la siguiente."
+  ],
+  "Use nearby support, move slowly and stay within a comfortable range.": [
+    "使用身旁支撑物，缓慢移动，保持舒适活动范围。",
+    "Usa un apoyo cercano, muévete despacio y mantén un rango cómodo."
+  ],
+  "Conversational effort or controlled strength work. Leave recovery before the next hard session.": [
+    "保持能交谈的强度或可控力量训练，充分恢复后再进行高强度训练。",
+    "Esfuerzo que permita conversar o fuerza controlada. Recupérate antes de la siguiente sesión intensa."
+  ],
+  "HYROX official race format": [
+    "HYROX 官方赛制",
+    "Formato oficial de competición HYROX"
+  ],
+  "ACE interval training evidence": [
+    "ACE 间歇训练研究",
+    "Evidencia de ACE sobre intervalos"
+  ],
+  "WHO adult activity and balance guidance": [
+    "世界卫生组织成人运动与平衡指南",
+    "Guía de la OMS sobre actividad y equilibrio en adultos"
+  ],
+  "Workout chart metric": [
+    "训练图表指标",
+    "Métrica del gráfico de entrenamiento"
+  ],
+  "Entries": [
+    "记录数",
+    "Registros"
+  ],
+  "Days with workouts but no recorded duration show entry markers. Switch to Entries to see every logged workout; minutes are not estimated.": [
+    "有训练但未记录时长的日期会显示记录标记。切换到记录数可查看所有训练记录；不会估算分钟数。",
+    "Los días con entrenamientos sin duración muestran marcadores de registros. Cambia a Registros para ver todos los entrenamientos; no se estiman minutos."
+  ],
+  "This guide opens once after you sign in. Reloading or reopening an active session does not restart it. Skip exits the entire tutorial.": [
+    "登录后，此指南只打开一次。刷新或重新打开仍处于登录状态的会话不会再次启动。跳过将退出整个教程。",
+    "Esta guía se abre una vez al iniciar sesión. Recargar o reabrir una sesión activa no la reinicia. Omitir cierra todo el tutorial."
+  ],
+  "Open Seedy for shortcuts to app features. Drag the side companion to reposition it; tips stay beside it and rotate through the selected guidance.": [
+    "打开 Seedy 可快速进入各项功能。拖动侧边伙伴调整位置，提示会跟随它并轮流显示已选指导。",
+    "Abre Seedy para acceder a las funciones. Arrastra al compañero lateral para moverlo; los consejos permanecen a su lado y recorren la selección."
+  ],
+  "Encourage a friend": [
+    "鼓励好友",
+    "Anima a una amistad"
+  ],
+  "Open Punch reminders to send encouragement to accepted friends. Review received reminders and manage phone notifications from the reminder panel.": [
+    "打开运动提醒，向已添加的好友发送鼓励。在提醒面板查看收到的提醒并管理手机通知。",
+    "Abre los recordatorios para animar a tus amistades aceptadas. Revisa los recibidos y gestiona las notificaciones del teléfono desde ese panel."
+  ],
+  "Help improve Seediva": [
+    "帮助改进 Seediva",
+    "Ayuda a mejorar Seediva"
+  ],
+  "Use the feedback form to suggest a feature, describe an improvement or report a bug. Choose a feedback type and explain what happened. Feedback is private to you and site administrators.": [
+    "通过反馈表建议功能、提出改进或报告问题。选择反馈类型并说明情况。反馈仅你和网站管理员可见。",
+    "Usa el formulario para proponer funciones, mejoras o informar de errores. Elige el tipo y explica lo ocurrido. Solo tú y la administración podéis ver los comentarios."
+  ],
+  "Not recorded": [
+    "未记录",
+    "Sin registrar"
+  ],
+  "entry": [
+    "条记录",
+    "registro"
+  ],
+  "entries": [
+    "条记录",
+    "registros"
+  ],
+  "Wall slide": [
+    "靠墙滑臂",
+    "Deslizamiento de brazos en pared"
+  ],
+  "Slide forearms up a wall without shrugging or arching.": [
+    "前臂沿墙上滑，避免耸肩或腰部过度伸展。",
+    "Desliza los antebrazos por la pared sin encoger los hombros ni arquearte."
+  ],
+  "Adductor rock-back": [
+    "内收肌后坐活动",
+    "Balanceo de aductores"
+  ],
+  "On hands and one knee, extend the other leg sideways; shift hips back gently.": [
+    "双手和单膝支撑，另一腿向侧方伸直，轻轻向后坐髋。",
+    "Apoya las manos y una rodilla, extiende la otra pierna al lado y lleva la cadera atrás suavemente."
+  ],
+  "Wrist circles": [
+    "手腕绕环",
+    "Círculos de muñeca"
+  ],
+  "Circle relaxed wrists slowly in each direction.": [
+    "放松手腕，向两个方向缓慢绕环。",
+    "Haz círculos lentos con las muñecas relajadas en ambos sentidos."
+  ],
+  "World’s greatest stretch": [
+    "弓步转体动态伸展",
+    "Estiramiento global con zancada"
+  ],
+  "Use a comfortable long lunge, support one hand and rotate the chest gently toward the front leg.": [
+    "舒适地做长弓步，一手支撑，胸部轻轻向前腿方向旋转。",
+    "Adopta una zancada cómoda, apoya una mano y gira el pecho suavemente hacia la pierna delantera."
+  ],
+  "Scapular push-up": [
+    "肩胛俯卧撑",
+    "Flexión escapular"
+  ],
+  "Keep elbows straight; let shoulder blades glide together and apart. Elevate hands on a bench if needed.": [
+    "保持肘部伸直，肩胛骨缓慢靠拢和分开；需要时双手支撑长凳。",
+    "Mantén los codos rectos y mueve las escápulas hacia dentro y fuera; eleva las manos en un banco si hace falta."
+  ],
+  "Dynamic hamstring sweep": [
+    "动态腘绳肌扫地",
+    "Barrido dinámico de isquiotibiales"
+  ],
+  "Place one heel forward, soften the other knee and hinge gently; alternate without bouncing.": [
+    "一脚脚跟向前点地，另一膝微屈，轻轻屈髋；交替进行，不弹震。",
+    "Adelanta un talón, flexiona un poco la otra rodilla e inclínate desde la cadera; alterna sin rebotes."
+  ],
+  "Standing trunk side bend": [
+    "站姿躯干侧屈",
+    "Inclinación lateral de tronco"
+  ],
+  "Reach one arm overhead and lean slightly sideways without twisting.": [
+    "一臂举过头，身体轻微侧屈，不扭转。",
+    "Eleva un brazo e inclina el tronco ligeramente al lado sin girar."
+  ],
+  "Standing quadriceps mobilization": [
+    "站姿股四头肌活动",
+    "Movilidad de cuádriceps de pie"
+  ],
+  "Use the wall for balance, bend one knee and bring the heel toward the seat gently; release and alternate.": [
+    "扶墙保持平衡，一膝弯曲，脚跟轻轻靠近臀部；放松后换边。",
+    "Apóyate en la pared, flexiona una rodilla y acerca el talón al glúteo suavemente; suelta y alterna."
+  ],
+  "Cable Pallof press": [
+    "绳索帕洛夫推",
+    "Press Pallof en polea"
+  ],
+  "Set one FTX pulley at chest height; stand sideways, brace and press the handle straight forward without rotating.": [
+    "将一侧FTX滑轮调至胸高，侧身站立，收紧核心，向前推手柄且不旋转。",
+    "Ajusta una polea FTX al pecho, colócate de lado y empuja el agarre al frente sin girar el tronco."
+  ],
+  "Reverse crunch": [
+    "反向卷腹",
+    "Crunch inverso"
+  ],
+  "Lie on your back, knees bent; curl the pelvis slightly upward without swinging the legs.": [
+    "仰卧屈膝，骨盆轻轻上卷，避免摆动双腿。",
+    "Túmbate con las rodillas flexionadas y eleva un poco la pelvis sin balancear las piernas."
+  ],
+  "Cable wood chop": [
+    "绳索伐木转体",
+    "Leñador en polea"
+  ],
+  "Use a light high pulley; move the handle diagonally down with controlled trunk rotation and soft knees.": [
+    "使用轻重量高位滑轮，膝微屈，控制躯干旋转，手柄沿对角线下拉。",
+    "Con una polea alta y ligera, lleva el agarre en diagonal hacia abajo con rotación controlada y rodillas suaves."
+  ],
+  "Supine heel tap": [
+    "仰卧交替脚跟点地",
+    "Toque de talón en supino"
+  ],
+  "Lie on your back with hips and knees bent; lower one heel to the floor while keeping ribs quiet.": [
+    "仰卧屈髋屈膝，交替将脚跟轻点地面，保持肋骨稳定。",
+    "Túmbate con caderas y rodillas flexionadas; baja un talón al suelo sin mover las costillas."
+  ],
+  "Dumbbell suitcase hold": [
+    "哑铃单侧提握",
+    "Sujeción unilateral con mancuerna"
+  ],
+  "Hold one light dumbbell at your side, stand tall and resist leaning; switch sides halfway.": [
+    "一侧手持轻哑铃，站直并避免侧倾；中途换边。",
+    "Sujeta una mancuerna ligera a un lado y mantente erguido sin inclinarte; cambia a mitad del tiempo."
+  ],
+  "Bent-knee fallout": [
+    "仰卧屈膝外展",
+    "Apertura de rodilla en supino"
+  ],
+  "Lie with knees bent and feet down; let one knee open a little while the pelvis stays still.": [
+    "仰卧屈膝，双脚着地，一膝缓慢向外打开，保持骨盆不动。",
+    "Túmbate con rodillas flexionadas y pies apoyados; abre un poco una rodilla sin mover la pelvis."
+  ],
+  "Bear hover": [
+    "熊式悬停",
+    "Suspensión de oso"
+  ],
+  "From hands and knees, brace and lift knees slightly; keep the back quiet and breathe.": [
+    "四点跪姿收紧核心，膝盖微微离地，背部稳定并保持呼吸。",
+    "Desde cuadrupedia, activa el abdomen y eleva un poco las rodillas; mantén la espalda estable y respira."
+  ],
+  "Standing cable lift": [
+    "站姿绳索斜上提",
+    "Elevación diagonal en polea"
+  ],
+  "Use a light low pulley and both hands; lift diagonally across the body without leaning back.": [
+    "使用轻重量低位滑轮，双手沿身体对角线向上提，不后仰。",
+    "Usa una polea baja ligera con ambas manos y eleva en diagonal sin inclinarte hacia atrás."
+  ],
+  "Seated knee tuck": [
+    "坐姿收膝",
+    "Encogimiento de rodillas sentado"
+  ],
+  "Sit securely on the bench, hold its edges and draw knees toward the trunk without rounding forcefully.": [
+    "稳坐长凳，双手扶凳边，将双膝收向躯干，不用力弓背。",
+    "Siéntate firme en el banco, sujeta los bordes y acerca las rodillas al tronco sin encorvarte con fuerza."
+  ],
+  "Modified curl-up": [
+    "改良卷腹",
+    "Curl-up modificado"
+  ],
+  "Keep one knee bent and hands under the low back; lift head and shoulders slightly as one unit.": [
+    "一膝弯曲，双手置于下背部，头肩作为整体微微抬起。",
+    "Flexiona una rodilla y coloca las manos bajo la zona lumbar; eleva un poco cabeza y hombros como una unidad."
+  ],
+  "Dumbbell deadlift": [
+    "哑铃硬拉",
+    "Peso muerto con mancuernas"
+  ],
+  "Keep dumbbells close, hinge at the hips and stand tall without rounding the back.": [
+    "哑铃靠近身体，屈髋后站直，避免弓背。",
+    "Mantén las mancuernas cerca, flexiona las caderas y ponte de pie sin redondear la espalda."
+  ],
+  "Dumbbell suitcase carry": [
+    "哑铃单侧提行",
+    "Paseo unilateral con mancuerna"
+  ],
+  "Carry one dumbbell with short indoor steps; stay upright and switch hands halfway.": [
+    "单手提哑铃，在室内小步行走，保持直立，中途换手。",
+    "Camina dentro con pasos cortos y una mancuerna a un lado; mantente erguido y cambia de mano a mitad."
+  ],
+  "Cable standing row": [
+    "站姿绳索划船",
+    "Remo de pie en polea"
+  ],
+  "Set FTX handles near waist height; pull toward the ribs without leaning backward.": [
+    "将FTX手柄调至腰部附近，向肋部拉，不后仰。",
+    "Ajusta los agarres FTX cerca de la cintura y tira hacia las costillas sin inclinarte atrás."
+  ],
+  "Cable chest press": [
+    "站姿绳索推胸",
+    "Press de pecho en polea"
+  ],
+  "Use chest-height FTX pulleys, a stable split stance and press forward with control.": [
+    "FTX滑轮调至胸高，前后脚站稳，控制向前推。",
+    "Usa poleas FTX al pecho, una postura dividida estable y empuja al frente con control."
+  ],
+  "Cable fly": [
+    "站姿绳索夹胸",
+    "Apertura en polea"
+  ],
+  "Set both FTX pulleys near shoulder height; bring soft arms together without overstretching.": [
+    "双侧FTX滑轮调至肩高附近，肘微屈，双臂合拢，避免过度拉伸。",
+    "Coloca ambas poleas FTX cerca de los hombros y junta los brazos con codos suaves sin estirar en exceso."
+  ],
+  "Cable triceps pressdown": [
+    "绳索肱三头肌下压",
+    "Extensión de tríceps en polea"
+  ],
+  "Use a high FTX pulley; keep elbows beside the ribs and straighten the arms without swinging.": [
+    "使用FTX高位滑轮，肘贴肋部，伸直手臂，不摆动。",
+    "Usa una polea alta FTX, mantén los codos junto al cuerpo y extiende sin balancearte."
+  ],
+  "Cable biceps curl": [
+    "绳索肱二头肌弯举",
+    "Curl de bíceps en polea"
+  ],
+  "Use low FTX handles; curl with upper arms still and lower slowly.": [
+    "使用FTX低位手柄，上臂不动，弯举后缓慢放下。",
+    "Usa agarres bajos FTX y flexiona los codos sin mover los brazos; baja despacio."
+  ],
+  "Cable face pull": [
+    "绳索面拉",
+    "Tirón a la cara en polea"
+  ],
+  "Use a light high pulley and rope; pull toward eye level without shrugging.": [
+    "使用轻重量高位滑轮和绳柄，拉向眼部高度，不耸肩。",
+    "Con polea alta ligera y cuerda, tira hacia los ojos sin encoger los hombros."
+  ],
+  "Half-kneeling cable pulldown": [
+    "半跪姿绳索下拉",
+    "Jalón en polea en media rodilla"
+  ],
+  "Face a high FTX pulley in half-kneeling; pull one handle toward the ribs while staying tall.": [
+    "半跪面向FTX高位滑轮，躯干直立，将单手柄拉向肋部。",
+    "De media rodilla frente a una polea alta FTX, tira de un agarre hacia las costillas manteniéndote erguido."
+  ],
+  "Cable pull-through": [
+    "绳索胯下拉",
+    "Pull-through en polea"
+  ],
+  "Face away from a low FTX pulley, hinge gently and stand by driving through the hips.": [
+    "背对FTX低位滑轮，轻轻屈髋，再用髋部发力站直。",
+    "De espaldas a una polea baja FTX, flexiona la cadera y vuelve a erguirte impulsando desde ella."
+  ],
+  "Cable split-stance press": [
+    "分腿站姿单臂绳索推",
+    "Press unilateral en polea con postura dividida"
+  ],
+  "Set one FTX handle at chest height; use a split stance and press one arm forward while resisting rotation.": [
+    "单侧FTX手柄调至胸高，前后脚站立，单臂前推并抵抗旋转。",
+    "Coloca un agarre FTX al pecho y empuja con un brazo desde una postura dividida sin girar el tronco."
+  ],
+  "Incline cable lateral raise": [
+    "上斜凳绳索侧平举",
+    "Elevación lateral inclinada en polea"
+  ],
+  "Use a light low FTX pulley beside an incline bench; support the torso and raise the arm only to a comfortable height.": [
+    "上斜凳旁使用FTX轻重量低位滑轮，支撑躯干，将手臂抬至舒适高度。",
+    "Usa una polea baja ligera FTX junto a un banco inclinado, apoya el torso y eleva el brazo hasta una altura cómoda."
+  ],
+  "Treadmill run / walk": [
+    "跑步机跑走交替",
+    "Carrera y caminata en cinta"
+  ],
+  "Stay indoors on the treadmill. Use the safety clip and choose a conversational walking or running pace.": [
+    "在室内跑步机上训练，使用安全夹，选择能交谈的走或跑速度。",
+    "Entrena en cinta dentro del gimnasio; usa el clip de seguridad y un ritmo que permita conversar."
+  ],
+  "Elliptical intervals": [
+    "椭圆机间歇",
+    "Intervalos en elíptica"
+  ],
+  "Keep smooth strides; alternate controlled efforts with easy recovery and avoid leaning on the handles.": [
+    "步幅平顺，控制用力与轻松恢复交替，不倚靠手柄。",
+    "Mantén zancadas suaves y alterna esfuerzos controlados con recuperación fácil sin apoyarte en exceso."
+  ],
+  "Stairmaster steady climb": [
+    "登阶机稳定爬阶",
+    "Subida continua en escaladora"
+  ],
+  "Use full-foot contact and a steady manageable pace; keep hands light on the rails.": [
+    "全脚掌踩踏，节奏稳定且适度，双手轻扶扶手。",
+    "Apoya todo el pie, mantén un ritmo cómodo y sujeta las barandillas con suavidad."
+  ],
+  "Apartment gym: dumbbells 5–50 lb per hand, bench, treadmill, elliptical, rower, Stairmaster and Inspire Fitness FTX cables.": [
+    "公寓健身房：每手5–50磅哑铃、长凳、跑步机、椭圆机、划船机、登阶机和Inspire Fitness FTX绳索训练器。",
+    "Gimnasio del edificio: mancuernas de 5–50 lb por mano, banco, cinta, elíptica, remo, escaladora y poleas Inspire Fitness FTX."
+  ],
+  "Indoor HYROX-inspired conditioning adapted to this gym: treadmill, rower, dumbbell carries, lunges and cable stations. Cable and dumbbell substitutions do not replicate race sleds, ski erg or wall balls.": [
+    "适合本健身房的室内HYROX风格体能：跑步机、划船机、哑铃提行、弓步和绳索训练。绳索与哑铃替代动作并不等同于比赛的雪橇、滑雪测功机或药球项目。",
+    "Acondicionamiento interior inspirado en HYROX adaptado a este gimnasio: cinta, remo, paseos con mancuernas, zancadas y poleas. Las sustituciones no reproducen los trineos, el ergómetro de esquí ni los lanzamientos de balón de la carrera."
+  ],
+  "Submaximal dumbbell press, squat and hinge practice within 5–50 lb per hand. This apartment route builds strength technique; it does not test or estimate a barbell one-repetition maximum.": [
+    "每手5–50磅范围内进行次最大哑铃推举、深蹲和髋铰链练习。本公寓训练路线用于建立力量技术，不测试或估算杠铃单次最大重量。",
+    "Práctica submáxima de press, sentadilla y bisagra con mancuernas de 5–50 lb por mano. Esta ruta mejora la técnica de fuerza; no prueba ni estima una repetición máxima con barra."
+  ],
+  "Easy preparation; stay comfortable and leave energy for the main session.": [
+    "轻松准备，保持舒适，为主训练保留体力。",
+    "Preparación suave; mantente cómodo y reserva energía para la sesión principal."
+  ],
+  "Brace gently and keep breathing. Shorten the set before form changes.": [
+    "轻轻收紧核心并保持呼吸；动作变形前结束该组。",
+    "Activa suavemente el abdomen y respira. Acorta la serie antes de perder la técnica."
+  ],
+  "Optional easy recovery. Use body weight and a comfortable range.": [
+    "可选轻松恢复，使用自身体重和舒适活动范围。",
+    "Recuperación suave opcional. Usa el peso corporal y un rango cómodo."
+  ],
+  "Unload week: use lighter resistance, fewer sets and an easy pace.": [
+    "卸载周：减轻阻力、减少组数并保持轻松节奏。",
+    "Semana de descarga: usa menos resistencia, menos series y un ritmo suave."
+  ],
+  "FTX: secure the pulley height and handles before starting. Choose the stack setting yourself; cable resistance is not a per-hand dumbbell weight.": [
+    "FTX：开始前固定滑轮高度和手柄。自行选择配重档位；绳索阻力不是每手哑铃重量。",
+    "FTX: fija la altura de poleas y los agarres antes de empezar. Elige tú la carga de la pila; no equivale al peso de una mancuerna por mano."
+  ],
+  "Submaximal technique work; stop with two repetitions in reserve. Do not test a maximum.": [
+    "次最大技术练习，保留两次重复余力，不测试最大重量。",
+    "Trabajo técnico submáximo; termina con dos repeticiones en reserva. No pruebes un máximo."
+  ],
+  "Controlled intervals: 20 seconds work, 40 seconds easy. Reduce speed before form changes.": [
+    "控制间歇：用力20秒、轻松40秒。动作变形前降低速度。",
+    "Intervalos controlados: 20 segundos de trabajo y 40 suaves. Reduce la velocidad antes de perder la técnica."
+  ],
+  "Use controlled repetitions and leave about two repetitions in reserve.": [
+    "控制动作节奏，并保留约两次重复余力。",
+    "Haz repeticiones controladas y deja unas dos en reserva."
+  ],
+  "Choose an exercise using this apartment gym’s equipment.": [
+    "请选择使用本公寓健身房器材的动作。",
+    "Elige un ejercicio con el equipo de este gimnasio."
+  ],
+  "Choose Swap exercise for apartment-compatible movements; session swaps reset when you change dates or goals.": [
+    "点击替换动作，选择适合公寓器材的训练；日期或目标改变时，临时替换会重置。",
+    "Elige Cambiar ejercicio para movimientos compatibles con este gimnasio; los cambios se reinician al cambiar la fecha o el objetivo."
+  ],
+  "Main lifts can repeat for practice. Mobility, easy warm-ups and core finishers each use seven distinct daily slots before repeating.": [
+    "主训练动作可重复以练习技术。活动度、轻松热身和核心收尾各有七个不同的每日组合，七天后才重复。",
+    "Los ejercicios principales pueden repetirse para practicar. La movilidad, el calentamiento suave y los finales de core tienen siete turnos diarios distintos antes de repetirse."
+  ],
+  "Treadmill and cable stations": [
+    "跑步机与绳索站点",
+    "Estaciones de cinta y poleas"
+  ],
+  "Cable and lunge strength": [
+    "绳索与弓步力量",
+    "Fuerza en polea y zancadas"
+  ],
+  "Treadmill and row stations": [
+    "跑步机与划船站点",
+    "Estaciones de cinta y remo"
+  ],
+  "Dumbbell press practice": [
+    "哑铃推举练习",
+    "Práctica de press con mancuernas"
+  ],
+  "Dumbbell squat practice": [
+    "哑铃深蹲练习",
+    "Práctica de sentadilla con mancuernas"
+  ],
+  "Dumbbell hinge practice": [
+    "哑铃髋铰链练习",
+    "Práctica de bisagra con mancuernas"
+  ],
+  "Dumbbells (5–50 lb per hand)": [
+    "哑铃（每手5–50磅）",
+    "Mancuernas (5–50 lb por mano)"
+  ],
+  "Seediva apartment gym": [
+    "Seediva公寓健身房",
+    "Gimnasio del edificio Seediva"
+  ],
+  "Coach movement tutorials": [
+    "教练动作教学",
+    "Tutoriales de movimiento de entrenadores"
+  ],
+  "Coaching selected for your goal appears first. These are supplementary movement tutorials; follow the equipment and intensity written in your plan. Original video speech and captions depend on the publisher.": [
+    "优先显示适合目标的教学。这些是补充动作教程；请遵循计划中注明的器材和强度。原视频语音和字幕由发布者提供。",
+    "Primero se muestran los tutoriales afines a tu objetivo. Son guías complementarias; sigue el equipo y la intensidad de tu plan. El idioma y los subtítulos del video original dependen del editor."
+  ],
+  "Dumbbell hinge technique": [
+    "哑铃髋铰链技术",
+    "Técnica de bisagra con mancuernas"
+  ],
+  "Plank coaching": [
+    "平板支撑教学",
+    "Técnica de plancha"
+  ],
+  "Preparation and movement control": [
+    "准备活动与动作控制",
+    "Preparación y control del movimiento"
+  ],
+  "Full-body dynamic mobility": [
+    "全身动态活动度",
+    "Movilidad dinámica de cuerpo completo"
+  ],
+  "Single-arm cable pulldown": [
+    "单臂绳索下拉",
+    "Jalón unilateral en polea"
+  ],
+  "Wall slides and shoulder control": [
+    "靠墙滑臂与肩部控制",
+    "Deslizamientos en pared y control del hombro"
+  ],
+  "Watch tutorial": [
+    "观看教学",
+    "Ver tutorial"
+  ],
+  "Close tutorial": [
+    "关闭教学",
+    "Cerrar tutorial"
+  ],
+  "Open original tutorial ↗": [
+    "打开原始教程 ↗",
+    "Abrir tutorial original ↗"
+  ],
+  "More from this coach ↗": [
+    "更多该教练的内容 ↗",
+    "Más de este entrenador ↗"
+  ],
+  "If an embedded player is unavailable, use the original tutorial link. Instagram may require signing in to Instagram.": [
+    "若嵌入播放器不可用，请使用原始教程链接。Instagram可能需要登录。",
+    "Si el reproductor no está disponible, usa el enlace original. Instagram puede pedir que inicies sesión."
+  ],
+  "Inspire Fitness FTX setup and manual ↗": [
+    "Inspire Fitness FTX安装与使用手册 ↗",
+    "Configuración y manual de Inspire Fitness FTX ↗"
+  ],
+  "Original instructor media; open the source if playback is unavailable.": [
+    "原作者演示；若无法播放，请打开来源。",
+    "Contenido del instructor original; abre la fuente si no se reproduce."
+  ],
+  "Human demo:": [
+    "真人演示：",
+    "Demostración:"
+  ],
+  "Original demonstration ↗": [
+    "原始演示 ↗",
+    "Demostración original ↗"
+  ],
+  "Indoor equipment tutorials": [
+    "室内器材教学",
+    "Tutoriales de equipo interior"
+  ],
+  "Apartment-compatible exercises": [
+    "适合公寓器材的动作",
+    "Ejercicios compatibles con este gimnasio"
+  ],
+  "Hold one dumbbell close to chest. Sit between hips and stand tall.": [
+    "将一只哑铃抱在胸前，髋部下坐后站直。",
+    "Sujeta una mancuerna junto al pecho, baja entre las caderas y vuelve a erguirte."
+  ],
+  "This movement is already in this session.": [
+    "本次训练已包含此动作。",
+    "Este movimiento ya está en esta sesión."
+  ],
+  "This preparation or core movement was scheduled within the previous six days. Choose another movement.": [
+    "过去六天已安排此准备或核心动作，请选择其他动作。",
+    "Este movimiento de preparación o core se programó en los seis días anteriores. Elige otro."
+  ],
+  "Related coaching tutorial": [
+    "相关动作教学",
+    "Tutorial complementario"
+  ],
+  "This is a related movement lesson; use the written cue for this exact variation.": [
+    "这是相关动作课程；具体变式请遵循文字提示。",
+    "Es una lección relacionada; sigue la indicación escrita para esta variante concreta."
+  ],
+  ". The duration sets the exercise count and number of sets. Choose Swap exercise for apartment-compatible movements; session swaps reset when you change dates or goals.": [
+    "。训练时长决定动作数量和组数。点击替换动作，选择适合公寓器材的训练；更改日期或目标时，临时替换会重置。",
+    ". La duración determina la cantidad de ejercicios y series. Elige Cambiar ejercicio para movimientos compatibles con este gimnasio; los cambios se reinician al cambiar la fecha o el objetivo."
+  ],
+  "The time budget includes rests and transitions. Keep new movements light until practiced. Main lifts can repeat for practice. Mobility, easy warm-ups and core finishers each use seven distinct daily slots before repeating. Demos load when visible; source-hosted players may need a tap to play.": [
+    "时间预算包含休息和过渡。新动作先用轻重量练习。主训练动作可重复以练习技术。活动度、轻松热身和核心收尾各有七个不同的每日组合，七天后才重复。演示在可见时加载；来源播放器可能需要点击播放。",
+    "El tiempo incluye descansos y transiciones. Practica los movimientos nuevos con poca carga. Los ejercicios principales pueden repetirse para practicar. La movilidad, el calentamiento suave y los finales de core tienen siete turnos diarios distintos antes de repetirse. Los videos se cargan al estar visibles; puede que debas tocarlos para reproducirlos."
+  ],
+  "Inspire Fitness FTX": [
+    "Inspire Fitness FTX",
+    "Inspire Fitness FTX"
+  ],
+  "demonstration": [
+    "演示",
+    "demostración"
+  ],
+  "ACE Fitness": [
+    "ACE Fitness",
+    "ACE Fitness"
+  ]
+}

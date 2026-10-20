@@ -1,0 +1,1258 @@
+{
+  "Fitness": [
+    "健身",
+    "Actividad física"
+  ],
+  "Diet": [
+    "饮食",
+    "Alimentación"
+  ],
+  "Fiber Focus Week": [
+    "膳食纤维关注周",
+    "Semana de atención a la fibra"
+  ],
+  "30-Day Fiber Streak": [
+    "30天纤维连续记录",
+    "Racha de fibra de 30 días"
+  ],
+  "Mindful Diary Week": [
+    "用心饮食记录周",
+    "Semana de diario consciente"
+  ],
+  "Mindful Diary Month": [
+    "用心饮食记录月",
+    "Mes de diario consciente"
+  ],
+  "Balanced Week": [
+    "饮食运动记录周",
+    "Semana de alimentación y ejercicio"
+  ],
+  "Protein Tracking Week": [
+    "蛋白质记录周",
+    "Semana de registro de proteínas"
+  ],
+  "Fiber Hundred": [
+    "百克纤维记录",
+    "Cien gramos de fibra registrada"
+  ],
+  "Fiber Month Builder": [
+    "纤维积累月",
+    "Mes de constancia con la fibra"
+  ],
+  "Food Variety Week": [
+    "饮食名称多样记录周",
+    "Semana de variedad de alimentos registrados"
+  ],
+  "Hundred Meal Entries": [
+    "百次餐食记录",
+    "Cien registros de comidas"
+  ],
+  "Run Ten Together": [
+    "一起跑十英里",
+    "Diez millas de carrera en compañía"
+  ],
+  "Big 3 Hundred Race": [
+    "三大力量动作百次赛",
+    "Reto de cien repeticiones de los tres básicos"
+  ],
+  "Marathon Week Race": [
+    "马拉松距离周赛",
+    "Reto semanal de distancia de maratón"
+  ],
+  "Ultra Marathon Month": [
+    "超马距离月赛",
+    "Reto mensual de ultramaratón"
+  ],
+  "1,200 Minute Month": [
+    "1200分钟运动月",
+    "Mes de 1200 minutos de ejercicio"
+  ],
+  "Twenty Miles Together": [
+    "一起走跑二十英里",
+    "Veinte millas de carrera y caminata en compañía"
+  ],
+  "150 Minute Week": [
+    "150分钟运动周",
+    "Semana de 150 minutos de ejercicio"
+  ],
+  "Seven Days of Movement": [
+    "七天运动记录",
+    "Siete días de movimiento"
+  ],
+  "Century of Strength Sets": [
+    "百组力量训练月",
+    "Mes de cien series de fuerza"
+  ],
+  "Fifty Mile Month Race": [
+    "五十英里跑步月赛",
+    "Reto mensual de cincuenta millas de carrera"
+  ],
+  "Walk Fifteen Together": [
+    "一起步行十五英里",
+    "Quince millas de caminata en compañía"
+  ],
+  "Fifty Mile Ride Week": [
+    "五十英里骑行周",
+    "Semana de cincuenta millas en bicicleta"
+  ],
+  "Two Hundred Mile Ride Race": [
+    "二百英里骑行月赛",
+    "Reto de doscientas millas en bicicleta"
+  ],
+  "Hundred Mile Month": [
+    "百英里走跑月",
+    "Mes de cien millas de carrera y caminata"
+  ],
+  "Big 3 Five Hundred Race": [
+    "三大力量动作五百次赛",
+    "Reto de quinientas repeticiones de los tres básicos"
+  ],
+  "Movement Explorer Week": [
+    "运动探索周",
+    "Semana de exploración del movimiento"
+  ],
+  "300 Minute Week Race": [
+    "300分钟运动周赛",
+    "Reto semanal de 300 minutos de ejercicio"
+  ],
+  "Twenty Active Days": [
+    "二十天运动记录",
+    "Veinte días activos"
+  ],
+  "Fifty Set Week": [
+    "五十组力量训练周",
+    "Semana de cincuenta series de fuerza"
+  ],
+  "First Five Together": [
+    "一起完成最初五英里",
+    "Las primeras cinco millas en compañía"
+  ],
+  "Three Movement Days": [
+    "三天运动记录",
+    "Tres días de movimiento"
+  ],
+  "Sixty Minute Starter Week": [
+    "六十分钟起步周",
+    "Semana inicial de sesenta minutos"
+  ],
+  "Five Mile Walking Week": [
+    "五英里步行周",
+    "Semana de cinco millas de caminata"
+  ],
+  "Three Mile Running Week": [
+    "三英里跑步周",
+    "Semana de tres millas de carrera"
+  ],
+  "Ten Mile Cycling Week": [
+    "十英里骑行周",
+    "Semana de diez millas en bicicleta"
+  ],
+  "Twenty Strength Sets": [
+    "二十组力量训练",
+    "Veinte series de fuerza"
+  ],
+  "Five Exercise Explorer": [
+    "五种动作探索",
+    "Explora cinco ejercicios"
+  ],
+  "Four Movement Days": [
+    "四天运动记录",
+    "Cuatro días de movimiento"
+  ],
+  "Six Hundred Minute Month": [
+    "六百分钟运动月",
+    "Mes de seiscientos minutos de ejercicio"
+  ],
+  "Twelve Active Days": [
+    "十二天运动记录",
+    "Doce días activos"
+  ],
+  "Five Diary Days": [
+    "五天饮食记录",
+    "Cinco días de diario de comidas"
+  ],
+  "Three Diary Days": [
+    "三天饮食记录",
+    "Tres días de diario de comidas"
+  ],
+  "Three Protein Tracking Days": [
+    "三天蛋白质记录",
+    "Tres días de registro de proteínas"
+  ],
+  "Five Protein Tracking Days": [
+    "五天蛋白质记录",
+    "Cinco días de registro de proteínas"
+  ],
+  "Fiber Fifty Week": [
+    "五十克纤维记录周",
+    "Semana de cincuenta gramos de fibra registrada"
+  ],
+  "Fiber Seventy-Five Week": [
+    "七十五克纤维记录周",
+    "Semana de setenta y cinco gramos de fibra registrada"
+  ],
+  "Fiber One-Fifty Week": [
+    "一百五十克纤维记录周",
+    "Semana de ciento cincuenta gramos de fibra registrada"
+  ],
+  "Five Food Names Week": [
+    "五种食物名称记录周",
+    "Semana de cinco nombres de alimentos"
+  ],
+  "Seven Food Names Week": [
+    "七种食物名称记录周",
+    "Semana de siete nombres de alimentos"
+  ],
+  "Twelve Food Names Week": [
+    "十二种食物名称记录周",
+    "Semana de doce nombres de alimentos"
+  ],
+  "Ten Meal Entries Week": [
+    "十次餐食记录周",
+    "Semana de diez registros de comidas"
+  ],
+  "Fourteen Meal Entries Week": [
+    "十四次餐食记录周",
+    "Semana de catorce registros de comidas"
+  ],
+  "Three Connected Days": [
+    "三天饮食运动双记录",
+    "Tres días de alimentación y ejercicio registrados"
+  ],
+  "Five Connected Days": [
+    "五天饮食运动双记录",
+    "Cinco días de alimentación y ejercicio registrados"
+  ],
+  "Twenty Diary Days": [
+    "二十天饮食记录",
+    "Veinte días de diario de comidas"
+  ],
+  "Twenty Protein Tracking Days": [
+    "二十天蛋白质记录",
+    "Veinte días de registro de proteínas"
+  ],
+  "Fiber Three Hundred Month": [
+    "三百克纤维记录月",
+    "Mes de trescientos gramos de fibra registrada"
+  ],
+  "Twenty Food Names Month": [
+    "二十种食物名称记录月",
+    "Mes de veinte nombres de alimentos"
+  ],
+  "Sixty Meal Entries Month": [
+    "六十次餐食记录月",
+    "Mes de sesenta registros de comidas"
+  ],
+  "Twelve Connected Days": [
+    "十二天饮食运动双记录",
+    "Doce días de alimentación y ejercicio registrados"
+  ],
+  "days at 25 g fiber": [
+    "天每日记录至少25克纤维",
+    "días con al menos 25 g de fibra registrada"
+  ],
+  "food-log days": [
+    "天饮食记录",
+    "días con registro de comidas"
+  ],
+  "days with food and exercise": [
+    "天同时记录饮食和运动",
+    "días con alimentación y ejercicio registrados"
+  ],
+  "days logging protein": [
+    "天蛋白质记录",
+    "días con registro de proteínas"
+  ],
+  "g fiber logged": [
+    "克纤维记录",
+    "g de fibra registrada"
+  ],
+  "different food names logged": [
+    "种不同的食物名称记录",
+    "nombres distintos de alimentos registrados"
+  ],
+  "food entries": [
+    "次餐食记录",
+    "registros de comidas"
+  ],
+  "running miles": [
+    "英里跑步距离",
+    "millas de carrera"
+  ],
+  "reps each: bench, squat, deadlift": [
+    "次，卧推、深蹲和硬拉分别达到",
+    "repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto"
+  ],
+  "running / walking miles": [
+    "英里跑步与步行距离",
+    "millas de carrera y caminata"
+  ],
+  "exercise minutes": [
+    "分钟运动",
+    "minutos de ejercicio"
+  ],
+  "exercise-log days": [
+    "天运动记录",
+    "días con registro de ejercicio"
+  ],
+  "strength sets": [
+    "组力量训练",
+    "series de fuerza"
+  ],
+  "walking miles": [
+    "英里步行距离",
+    "millas de caminata"
+  ],
+  "cycling miles": [
+    "英里骑行距离",
+    "millas en bicicleta"
+  ],
+  "different exercise names": [
+    "种不同的动作名称",
+    "nombres distintos de ejercicios"
+  ],
+  "Every finisher earns": [
+    "每位完成者获得",
+    "Cada participante que complete el reto recibe"
+  ],
+  "First finisher earns": [
+    "首位完成者获得",
+    "La primera persona que complete el reto recibe"
+  ],
+  "First acceptance opens 24-hour enrollment.": [
+    "首位成员接受后开启24小时报名。",
+    "La primera aceptación abre una inscripción de 24 horas."
+  ],
+  "The clock starts when enrollment closes.": [
+    "报名结束后开始计时。",
+    "El plazo empieza cuando cierra la inscripción."
+  ],
+  "Only new logs submitted during the challenge count.": [
+    "仅计入挑战期间新提交的记录。",
+    "Solo cuentan los registros nuevos enviados durante el reto."
+  ],
+  "Rewards and the final snapshot are posted when the challenge ends.": [
+    "挑战结束时发放奖励并发布最终结果。",
+    "Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "Choose an optional challenge that fits your ability and routine. These goals are not medical advice or a prescribed training or eating plan.": [
+    "请选择适合自身能力和日常安排的自愿挑战。这些目标并非医疗建议，也不是规定的训练或饮食方案。",
+    "Elige un reto opcional que se adapte a tu capacidad y rutina. Estos objetivos no son consejos médicos ni un plan de entrenamiento o alimentación prescrito."
+  ],
+  "Increase fiber gradually and adapt the goal to your needs.": [
+    "逐步增加纤维摄入，并根据自身需要调整目标。",
+    "Aumenta la fibra de forma gradual y adapta el objetivo a tus necesidades."
+  ],
+  "7 days at 25 g fiber in 7 days.": [
+    "在7天内完成7天每日记录至少25克纤维。",
+    "7 días con al menos 25 g de fibra registrada en 7 días."
+  ],
+  "Every finisher earns +500 XP.": [
+    "每位完成者获得 +500 XP。",
+    "Cada participante que complete el reto recibe +500 XP."
+  ],
+  "7 days at 25 g fiber in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天每日记录至少25克纤维。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con al menos 25 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "Other entrants with progress earn +50 XP.": [
+    "其他有进度的参与者获得 +50 XP。",
+    "Las demás personas participantes con progreso reciben +50 XP."
+  ],
+  "7 days at 25 g fiber in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天每日记录至少25克纤维。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con al menos 25 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "30 days at 25 g fiber in 30 days.": [
+    "在30天内完成30天每日记录至少25克纤维。",
+    "30 días con al menos 25 g de fibra registrada en 30 días."
+  ],
+  "Every finisher earns +2000 XP.": [
+    "每位完成者获得 +2000 XP。",
+    "Cada participante que complete el reto recibe +2000 XP."
+  ],
+  "30 days at 25 g fiber in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天每日记录至少25克纤维。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con al menos 25 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "Other entrants with progress earn +200 XP.": [
+    "其他有进度的参与者获得 +200 XP。",
+    "Las demás personas participantes con progreso reciben +200 XP."
+  ],
+  "30 days at 25 g fiber in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天每日记录至少25克纤维。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con al menos 25 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "Every finisher earns +1000 XP.": [
+    "每位完成者获得 +1000 XP。",
+    "Cada participante que complete el reto recibe +1000 XP."
+  ],
+  "30 days at 25 g fiber in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天每日记录至少25克纤维。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con al menos 25 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "30 days at 25 g fiber in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天每日记录至少25克纤维。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con al menos 25 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 food-log days in 7 days.": [
+    "在7天内完成7天饮食记录。",
+    "7 días con registro de comidas en 7 días."
+  ],
+  "7 food-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天饮食记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con registro de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 food-log days in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天饮食记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con registro de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "30 food-log days in 30 days.": [
+    "在30天内完成30天饮食记录。",
+    "30 días con registro de comidas en 30 días."
+  ],
+  "30 food-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天饮食记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "30 food-log days in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天饮食记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "30 food-log days in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天饮食记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "30 food-log days in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成30天饮食记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "30 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 days with food and exercise in 7 days.": [
+    "在7天内完成7天同时记录饮食和运动。",
+    "7 días con alimentación y ejercicio registrados en 7 días."
+  ],
+  "7 days with food and exercise in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天同时记录饮食和运动。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 days with food and exercise in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天同时记录饮食和运动。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 days logging protein in 7 days.": [
+    "在7天内完成7天蛋白质记录。",
+    "7 días con registro de proteínas en 7 días."
+  ],
+  "7 days logging protein in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天蛋白质记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con registro de proteínas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 days logging protein in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天蛋白质记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con registro de proteínas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 g fiber logged in 7 days.": [
+    "在7天内完成100克纤维记录。",
+    "100 g de fibra registrada en 7 días."
+  ],
+  "100 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成100克纤维记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 g fiber logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成100克纤维记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 g fiber logged in 30 days.": [
+    "在30天内完成600克纤维记录。",
+    "600 g de fibra registrada en 30 días."
+  ],
+  "600 g fiber logged in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600克纤维记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 g fiber logged in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600克纤维记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 g fiber logged in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600克纤维记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 g fiber logged in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600克纤维记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 different food names logged in 7 days.": [
+    "在7天内完成10种不同的食物名称记录。",
+    "10 nombres distintos de alimentos registrados en 7 días."
+  ],
+  "10 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10种不同的食物名称记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 different food names logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10种不同的食物名称记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 food entries in 30 days.": [
+    "在30天内完成100次餐食记录。",
+    "100 registros de comidas en 30 días."
+  ],
+  "100 food entries in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100次餐食记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 registros de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 food entries in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100次餐食记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 registros de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 food entries in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100次餐食记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 registros de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 food entries in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100次餐食记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 registros de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 running miles in 7 days.": [
+    "在7天内完成10英里跑步距离。",
+    "10 millas de carrera en 7 días."
+  ],
+  "10 running miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10英里跑步距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 millas de carrera en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 running miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10英里跑步距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 millas de carrera en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 reps each: bench, squat, deadlift in 7 days.": [
+    "在7天内完成100次，卧推、深蹲和硬拉分别达到。",
+    "100 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 7 días."
+  ],
+  "First finisher earns +500 XP.": [
+    "首位完成者获得 +500 XP。",
+    "La primera persona que complete el reto recibe +500 XP."
+  ],
+  "100 reps each: bench, squat, deadlift in 7 days. First finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成100次，卧推、深蹲和硬拉分别达到。首位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 7 días. La primera persona que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 reps each: bench, squat, deadlift in 7 days. First finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成100次，卧推、深蹲和硬拉分别达到。首位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 7 días. La primera persona que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "26.2 running miles in 7 days.": [
+    "在7天内完成26.2英里跑步距离。",
+    "26.2 millas de carrera en 7 días."
+  ],
+  "26.2 running miles in 7 days. First finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成26.2英里跑步距离。首位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "26.2 millas de carrera en 7 días. La primera persona que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "26.2 running miles in 7 days. First finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成26.2英里跑步距离。首位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "26.2 millas de carrera en 7 días. La primera persona que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "78.6 running / walking miles in 30 days.": [
+    "在30天内完成78.6英里跑步与步行距离。",
+    "78.6 millas de carrera y caminata en 30 días."
+  ],
+  "First finisher earns +2000 XP.": [
+    "首位完成者获得 +2000 XP。",
+    "La primera persona que complete el reto recibe +2000 XP."
+  ],
+  "78.6 running / walking miles in 30 days. First finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成78.6英里跑步与步行距离。首位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "78.6 millas de carrera y caminata en 30 días. La primera persona que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "78.6 running / walking miles in 30 days. First finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成78.6英里跑步与步行距离。首位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "78.6 millas de carrera y caminata en 30 días. La primera persona que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "First finisher earns +1000 XP.": [
+    "首位完成者获得 +1000 XP。",
+    "La primera persona que complete el reto recibe +1000 XP."
+  ],
+  "78.6 running / walking miles in 30 days. First finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成78.6英里跑步与步行距离。首位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "78.6 millas de carrera y caminata en 30 días. La primera persona que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "78.6 running / walking miles in 30 days. First finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成78.6英里跑步与步行距离。首位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "78.6 millas de carrera y caminata en 30 días. La primera persona que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "1200 exercise minutes in 30 days.": [
+    "在30天内完成1200分钟运动。",
+    "1200 minutos de ejercicio en 30 días."
+  ],
+  "1200 exercise minutes in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成1200分钟运动。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "1200 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "1200 exercise minutes in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成1200分钟运动。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "1200 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "1200 exercise minutes in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成1200分钟运动。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "1200 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "1200 exercise minutes in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成1200分钟运动。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "1200 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 running / walking miles in 7 days.": [
+    "在7天内完成20英里跑步与步行距离。",
+    "20 millas de carrera y caminata en 7 días."
+  ],
+  "20 running / walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成20英里跑步与步行距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 millas de carrera y caminata en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 running / walking miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成20英里跑步与步行距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 millas de carrera y caminata en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "150 exercise minutes in 7 days.": [
+    "在7天内完成150分钟运动。",
+    "150 minutos de ejercicio en 7 días."
+  ],
+  "150 exercise minutes in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成150分钟运动。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "150 minutos de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "150 exercise minutes in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成150分钟运动。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "150 minutos de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 exercise-log days in 7 days.": [
+    "在7天内完成7天运动记录。",
+    "7 días con registro de ejercicio en 7 días."
+  ],
+  "7 exercise-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天运动记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con registro de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 exercise-log days in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7天运动记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 días con registro de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 strength sets in 30 days.": [
+    "在30天内完成100组力量训练。",
+    "100 series de fuerza en 30 días."
+  ],
+  "100 strength sets in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100组力量训练。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 series de fuerza en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 strength sets in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100组力量训练。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 series de fuerza en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 strength sets in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100组力量训练。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 series de fuerza en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 strength sets in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100组力量训练。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 series de fuerza en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 running miles in 30 days.": [
+    "在30天内完成50英里跑步距离。",
+    "50 millas de carrera en 30 días."
+  ],
+  "50 running miles in 30 days. First finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成50英里跑步距离。首位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 millas de carrera en 30 días. La primera persona que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 running miles in 30 days. First finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成50英里跑步距离。首位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 millas de carrera en 30 días. La primera persona que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 running miles in 30 days. First finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成50英里跑步距离。首位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 millas de carrera en 30 días. La primera persona que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 running miles in 30 days. First finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成50英里跑步距离。首位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 millas de carrera en 30 días. La primera persona que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "15 walking miles in 7 days.": [
+    "在7天内完成15英里步行距离。",
+    "15 millas de caminata en 7 días."
+  ],
+  "15 walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成15英里步行距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "15 millas de caminata en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "15 walking miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成15英里步行距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "15 millas de caminata en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 cycling miles in 7 days.": [
+    "在7天内完成50英里骑行距离。",
+    "50 millas en bicicleta en 7 días."
+  ],
+  "50 cycling miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成50英里骑行距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 millas en bicicleta en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 cycling miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成50英里骑行距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 millas en bicicleta en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "200 cycling miles in 30 days.": [
+    "在30天内完成200英里骑行距离。",
+    "200 millas en bicicleta en 30 días."
+  ],
+  "200 cycling miles in 30 days. First finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成200英里骑行距离。首位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "200 millas en bicicleta en 30 días. La primera persona que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "200 cycling miles in 30 days. First finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成200英里骑行距离。首位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "200 millas en bicicleta en 30 días. La primera persona que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "200 cycling miles in 30 days. First finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成200英里骑行距离。首位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "200 millas en bicicleta en 30 días. La primera persona que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "200 cycling miles in 30 days. First finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成200英里骑行距离。首位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "200 millas en bicicleta en 30 días. La primera persona que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 running / walking miles in 30 days.": [
+    "在30天内完成100英里跑步与步行距离。",
+    "100 millas de carrera y caminata en 30 días."
+  ],
+  "100 running / walking miles in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100英里跑步与步行距离。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 millas de carrera y caminata en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 running / walking miles in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100英里跑步与步行距离。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 millas de carrera y caminata en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 running / walking miles in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100英里跑步与步行距离。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 millas de carrera y caminata en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "100 running / walking miles in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成100英里跑步与步行距离。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "100 millas de carrera y caminata en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "500 reps each: bench, squat, deadlift in 30 days.": [
+    "在30天内完成500次，卧推、深蹲和硬拉分别达到。",
+    "500 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 30 días."
+  ],
+  "500 reps each: bench, squat, deadlift in 30 days. First finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成500次，卧推、深蹲和硬拉分别达到。首位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "500 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 30 días. La primera persona que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "500 reps each: bench, squat, deadlift in 30 days. First finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成500次，卧推、深蹲和硬拉分别达到。首位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "500 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 30 días. La primera persona que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "500 reps each: bench, squat, deadlift in 30 days. First finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成500次，卧推、深蹲和硬拉分别达到。首位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "500 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 30 días. La primera persona que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "500 reps each: bench, squat, deadlift in 30 days. First finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成500次，卧推、深蹲和硬拉分别达到。首位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "500 repeticiones de cada ejercicio: press de banca, sentadilla y peso muerto en 30 días. La primera persona que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 different exercise names in 7 days.": [
+    "在7天内完成10种不同的动作名称。",
+    "10 nombres distintos de ejercicios en 7 días."
+  ],
+  "10 different exercise names in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10种不同的动作名称。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 nombres distintos de ejercicios en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 different exercise names in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10种不同的动作名称。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 nombres distintos de ejercicios en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "300 exercise minutes in 7 days.": [
+    "在7天内完成300分钟运动。",
+    "300 minutos de ejercicio en 7 días."
+  ],
+  "300 exercise minutes in 7 days. First finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成300分钟运动。首位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "300 minutos de ejercicio en 7 días. La primera persona que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "300 exercise minutes in 7 days. First finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成300分钟运动。首位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "300 minutos de ejercicio en 7 días. La primera persona que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 exercise-log days in 30 days.": [
+    "在30天内完成20天运动记录。",
+    "20 días con registro de ejercicio en 30 días."
+  ],
+  "20 exercise-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天运动记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 exercise-log days in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天运动记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 exercise-log days in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天运动记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 exercise-log days in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天运动记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 strength sets in 7 days.": [
+    "在7天内完成50组力量训练。",
+    "50 series de fuerza en 7 días."
+  ],
+  "50 strength sets in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成50组力量训练。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 series de fuerza en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 strength sets in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成50组力量训练。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 series de fuerza en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 running / walking miles in 7 days.": [
+    "在7天内完成5英里跑步与步行距离。",
+    "5 millas de carrera y caminata en 7 días."
+  ],
+  "5 running / walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5英里跑步与步行距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 millas de carrera y caminata en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 running / walking miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5英里跑步与步行距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 millas de carrera y caminata en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 exercise-log days in 7 days.": [
+    "在7天内完成3天运动记录。",
+    "3 días con registro de ejercicio en 7 días."
+  ],
+  "3 exercise-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天运动记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con registro de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 exercise-log days in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天运动记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con registro de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "60 exercise minutes in 7 days.": [
+    "在7天内完成60分钟运动。",
+    "60 minutos de ejercicio en 7 días."
+  ],
+  "60 exercise minutes in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成60分钟运动。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "60 minutos de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "60 exercise minutes in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成60分钟运动。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "60 minutos de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 walking miles in 7 days.": [
+    "在7天内完成5英里步行距离。",
+    "5 millas de caminata en 7 días."
+  ],
+  "5 walking miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5英里步行距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 millas de caminata en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 walking miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5英里步行距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 millas de caminata en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 running miles in 7 days.": [
+    "在7天内完成3英里跑步距离。",
+    "3 millas de carrera en 7 días."
+  ],
+  "3 running miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3英里跑步距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 millas de carrera en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 running miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3英里跑步距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 millas de carrera en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 cycling miles in 7 days.": [
+    "在7天内完成10英里骑行距离。",
+    "10 millas en bicicleta en 7 días."
+  ],
+  "10 cycling miles in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10英里骑行距离。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 millas en bicicleta en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 cycling miles in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10英里骑行距离。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 millas en bicicleta en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 strength sets in 7 days.": [
+    "在7天内完成20组力量训练。",
+    "20 series de fuerza en 7 días."
+  ],
+  "20 strength sets in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成20组力量训练。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 series de fuerza en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 strength sets in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成20组力量训练。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 series de fuerza en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 different exercise names in 7 days.": [
+    "在7天内完成5种不同的动作名称。",
+    "5 nombres distintos de ejercicios en 7 días."
+  ],
+  "5 different exercise names in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5种不同的动作名称。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 nombres distintos de ejercicios en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 different exercise names in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5种不同的动作名称。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 nombres distintos de ejercicios en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "4 exercise-log days in 7 days.": [
+    "在7天内完成4天运动记录。",
+    "4 días con registro de ejercicio en 7 días."
+  ],
+  "4 exercise-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成4天运动记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "4 días con registro de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "4 exercise-log days in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成4天运动记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "4 días con registro de ejercicio en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 exercise minutes in 30 days.": [
+    "在30天内完成600分钟运动。",
+    "600 minutos de ejercicio en 30 días."
+  ],
+  "600 exercise minutes in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600分钟运动。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 exercise minutes in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600分钟运动。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 exercise minutes in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600分钟运动。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "600 exercise minutes in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成600分钟运动。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "600 minutos de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 exercise-log days in 30 days.": [
+    "在30天内完成12天运动记录。",
+    "12 días con registro de ejercicio en 30 días."
+  ],
+  "12 exercise-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天运动记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 exercise-log days in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天运动记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 exercise-log days in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天运动记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 exercise-log days in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天运动记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con registro de ejercicio en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 food-log days in 7 days.": [
+    "在7天内完成5天饮食记录。",
+    "5 días con registro de comidas en 7 días."
+  ],
+  "5 food-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5天饮食记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 días con registro de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 food-log days in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5天饮食记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 días con registro de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 food-log days in 7 days.": [
+    "在7天内完成3天饮食记录。",
+    "3 días con registro de comidas en 7 días."
+  ],
+  "3 food-log days in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天饮食记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con registro de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 food-log days in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天饮食记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con registro de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 days logging protein in 7 days.": [
+    "在7天内完成3天蛋白质记录。",
+    "3 días con registro de proteínas en 7 días."
+  ],
+  "3 days logging protein in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天蛋白质记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con registro de proteínas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 days logging protein in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天蛋白质记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con registro de proteínas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 days logging protein in 7 days.": [
+    "在7天内完成5天蛋白质记录。",
+    "5 días con registro de proteínas en 7 días."
+  ],
+  "5 days logging protein in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5天蛋白质记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 días con registro de proteínas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 days logging protein in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5天蛋白质记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 días con registro de proteínas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 g fiber logged in 7 days.": [
+    "在7天内完成50克纤维记录。",
+    "50 g de fibra registrada en 7 días."
+  ],
+  "50 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成50克纤维记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "50 g fiber logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成50克纤维记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "50 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "75 g fiber logged in 7 days.": [
+    "在7天内完成75克纤维记录。",
+    "75 g de fibra registrada en 7 días."
+  ],
+  "75 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成75克纤维记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "75 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "75 g fiber logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成75克纤维记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "75 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "150 g fiber logged in 7 days.": [
+    "在7天内完成150克纤维记录。",
+    "150 g de fibra registrada en 7 días."
+  ],
+  "150 g fiber logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成150克纤维记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "150 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "150 g fiber logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成150克纤维记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "150 g de fibra registrada en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 different food names logged in 7 days.": [
+    "在7天内完成5种不同的食物名称记录。",
+    "5 nombres distintos de alimentos registrados en 7 días."
+  ],
+  "5 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5种不同的食物名称记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 different food names logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5种不同的食物名称记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 different food names logged in 7 days.": [
+    "在7天内完成7种不同的食物名称记录。",
+    "7 nombres distintos de alimentos registrados en 7 días."
+  ],
+  "7 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7种不同的食物名称记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "7 different food names logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成7种不同的食物名称记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "7 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 different food names logged in 7 days.": [
+    "在7天内完成12种不同的食物名称记录。",
+    "12 nombres distintos de alimentos registrados en 7 días."
+  ],
+  "12 different food names logged in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成12种不同的食物名称记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 different food names logged in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成12种不同的食物名称记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 nombres distintos de alimentos registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 food entries in 7 days.": [
+    "在7天内完成10次餐食记录。",
+    "10 registros de comidas en 7 días."
+  ],
+  "10 food entries in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10次餐食记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 registros de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "10 food entries in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成10次餐食记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "10 registros de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "14 food entries in 7 days.": [
+    "在7天内完成14次餐食记录。",
+    "14 registros de comidas en 7 días."
+  ],
+  "14 food entries in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成14次餐食记录。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "14 registros de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "14 food entries in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成14次餐食记录。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "14 registros de comidas en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 days with food and exercise in 7 days.": [
+    "在7天内完成3天同时记录饮食和运动。",
+    "3 días con alimentación y ejercicio registrados en 7 días."
+  ],
+  "3 days with food and exercise in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天同时记录饮食和运动。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "3 days with food and exercise in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成3天同时记录饮食和运动。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "3 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 days with food and exercise in 7 days.": [
+    "在7天内完成5天同时记录饮食和运动。",
+    "5 días con alimentación y ejercicio registrados en 7 días."
+  ],
+  "5 days with food and exercise in 7 days. Every finisher earns +500 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5天同时记录饮食和运动。每位完成者获得 +500 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto recibe +500 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "5 days with food and exercise in 7 days. Every finisher earns +500 XP. Other entrants with progress earn +50 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在7天内完成5天同时记录饮食和运动。每位完成者获得 +500 XP。 其他有进度的参与者获得 +50 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "5 días con alimentación y ejercicio registrados en 7 días. Cada participante que complete el reto recibe +500 XP. Las demás personas participantes con progreso reciben +50 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 food-log days in 30 days.": [
+    "在30天内完成20天饮食记录。",
+    "20 días con registro de comidas en 30 días."
+  ],
+  "20 food-log days in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天饮食记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 food-log days in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天饮食记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 food-log days in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天饮食记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 food-log days in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天饮食记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 days logging protein in 30 days.": [
+    "在30天内完成20天蛋白质记录。",
+    "20 días con registro de proteínas en 30 días."
+  ],
+  "20 days logging protein in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天蛋白质记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de proteínas en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 days logging protein in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天蛋白质记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de proteínas en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 days logging protein in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天蛋白质记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de proteínas en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 days logging protein in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20天蛋白质记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 días con registro de proteínas en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "300 g fiber logged in 30 days.": [
+    "在30天内完成300克纤维记录。",
+    "300 g de fibra registrada en 30 días."
+  ],
+  "300 g fiber logged in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成300克纤维记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "300 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "300 g fiber logged in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成300克纤维记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "300 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "300 g fiber logged in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成300克纤维记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "300 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "300 g fiber logged in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成300克纤维记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "300 g de fibra registrada en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 different food names logged in 30 days.": [
+    "在30天内完成20种不同的食物名称记录。",
+    "20 nombres distintos de alimentos registrados en 30 días."
+  ],
+  "20 different food names logged in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20种不同的食物名称记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 nombres distintos de alimentos registrados en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 different food names logged in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20种不同的食物名称记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 nombres distintos de alimentos registrados en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 different food names logged in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20种不同的食物名称记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 nombres distintos de alimentos registrados en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "20 different food names logged in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成20种不同的食物名称记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "20 nombres distintos de alimentos registrados en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "60 food entries in 30 days.": [
+    "在30天内完成60次餐食记录。",
+    "60 registros de comidas en 30 días."
+  ],
+  "60 food entries in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成60次餐食记录。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "60 registros de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "60 food entries in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成60次餐食记录。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "60 registros de comidas en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "60 food entries in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成60次餐食记录。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "60 registros de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "60 food entries in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成60次餐食记录。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "60 registros de comidas en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 days with food and exercise in 30 days.": [
+    "在30天内完成12天同时记录饮食和运动。",
+    "12 días con alimentación y ejercicio registrados en 30 días."
+  ],
+  "12 days with food and exercise in 30 days. Every finisher earns +2000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天同时记录饮食和运动。每位完成者获得 +2000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con alimentación y ejercicio registrados en 30 días. Cada participante que complete el reto recibe +2000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 days with food and exercise in 30 days. Every finisher earns +2000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天同时记录饮食和运动。每位完成者获得 +2000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con alimentación y ejercicio registrados en 30 días. Cada participante que complete el reto recibe +2000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 days with food and exercise in 30 days. Every finisher earns +1000 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天同时记录饮食和运动。每位完成者获得 +1000 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con alimentación y ejercicio registrados en 30 días. Cada participante que complete el reto recibe +1000 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ],
+  "12 days with food and exercise in 30 days. Every finisher earns +1000 XP. Other entrants with progress earn +200 XP. First acceptance opens 24-hour enrollment. The clock starts when enrollment closes. Only new logs submitted during the challenge count. Rewards and the final snapshot are posted when the challenge ends.": [
+    "在30天内完成12天同时记录饮食和运动。每位完成者获得 +1000 XP。 其他有进度的参与者获得 +200 XP。 首位成员接受后开启24小时报名。报名结束后开始计时。仅计入挑战期间新提交的记录。挑战结束时发放奖励并发布最终结果。",
+    "12 días con alimentación y ejercicio registrados en 30 días. Cada participante que complete el reto recibe +1000 XP. Las demás personas participantes con progreso reciben +200 XP. La primera aceptación abre una inscripción de 24 horas. El plazo empieza cuando cierra la inscripción. Solo cuentan los registros nuevos enviados durante el reto. Las recompensas y el resumen final se publican al terminar el reto."
+  ]
+}

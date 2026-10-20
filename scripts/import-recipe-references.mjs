@@ -1,0 +1,24 @@
+import fs from 'node:fs/promises';
+const root='https://ai-mealplan.com';
+const get=async url=>{const r=await fetch(url,{signal:AbortSignal.timeout(20000)});if(!r.ok)throw Error(r.status+' '+url);return r.text();};
+const decode=s=>s.replace(/&amp;/g,'&').replace(/&#39;|&apos;/g,"'").replace(/&quot;/g,'"').replace(/&nbsp;/g,' ');
+const urls=new Set(),pages=new Set([root+'/recipes']);
+const index=await get(root+'/recipes');
+for(const m of index.matchAll(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)){try{const collect=v=>{if(Array.isArray(v))v.forEach(collect);else if(v&&typeof v==='object'){if(v['@type']==='ItemList')for(const x of v.itemListElement||[])if(typeof x.url==='string'&&x.url.startsWith(root+'/'))urls.add(x.url);Object.values(v).forEach(collect);}};collect(JSON.parse(m[1]));}catch{}}
+const foodDirectory=await get('https://foodakl.com/kitchens/');const kitchens=[...new Set([...foodDirectory.matchAll(/href="(\/kitchens\/[^"?#]+\/)"/g)].map(m=>m[1]))];
+let kitchenNext=0;await Promise.all(Array.from({length:3},async()=>{while(kitchenNext<kitchens.length){const path=kitchens[kitchenNext++];try{const h=await get('https://foodakl.com'+path);for(const m of h.matchAll(/href="(\/dishes\/[^"?#]+\/)"/g))urls.add('https://foodakl.com'+m[1]);}catch{}}}));
+for(const m of index.matchAll(/href="([^"]+)"/g)){const u=new URL(decode(m[1]),root);if(u.origin===root&&/^\/recipes\//.test(u.pathname)&&!u.search)urls.add(u.href);}
+try{const sitemap=await get(root+'/sitemap.xml');for(const m of sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)){const u=decode(m[1]);if(u.startsWith(root+'/recipes/'))urls.add(u);else if(/sitemap.*xml$/.test(u))pages.add(u);}}catch{}
+for(const page of [...pages].filter(p=>p.endsWith('.xml')).slice(0,12)){try{const html=await get(page);for(const m of html.matchAll(/<loc>([^<]+)<\/loc>/g)){const u=decode(m[1]);if(u.startsWith(root+'/recipes/'))urls.add(u);}}catch{}}
+for(const page of ['https://foodakl.com/dishes/','https://foodakl.com/sitemap.xml']){try{const h=await get(page);for(const m of h.matchAll(/(?:href="|<loc>)(?:https:\/\/foodakl.com)?(\/dishes\/[^"<#?]+\/)/g))urls.add('https://foodakl.com'+m[1]);}catch{}}
+const products=[],missing=[],errors=[];let next=0;const list=[...urls].slice(0,1500);
+function visit(value,out=[]){if(Array.isArray(value))for(const v of value)visit(v,out);else if(value&&typeof value==='object'){if([].concat(value['@type']||[]).includes('Recipe'))out.push(value);if(value['@graph'])visit(value['@graph'],out);}return out;}
+const number=v=>{const n=String(v??'').match(/[\d,.]+/);return n?Number(n[0].replaceAll(',','')):null;};
+await Promise.all(Array.from({length:3},async()=>{while(next<list.length){const url=list[next++];try{const html=await get(url);const recipes=[];for(const m of html.matchAll(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)){try{visit(JSON.parse(m[1]),recipes);}catch{}}
+const r=recipes.find(r=>r.nutrition);if(!r){missing.push(url);continue;}const n=r.nutrition,perServing={calories:number(n.calories),protein:number(n.proteinContent),carbs:number(n.carbohydrateContent),fat:number(n.fatContent),fiber:number(n.fiberContent)};
+if(perServing.calories===null){missing.push(url);continue;}const weight=String(n.servingSize||'').match(/^(\d+(?:\.\d+)?)\s*g(?:rams?)?$/i),servingLabel=decode(String(n.servingSize||'1 recipe serving'));
+products.push({id:'recipe:'+new URL(url).pathname,name:decode(r.name||''),source:(url.includes('foodakl.com')?'Foodakl':'AI Meal Planner')+' · recipe nutrition estimate',url,description:String(r.recipeCuisine||'')+' · '+String(r.recipeCategory||'Recipe')+' · Nutrition estimate for '+servingLabel+'. Confirm the recipe ingredients and your serving.',aliases:typeof r.keywords==='string'?r.keywords.slice(0,500):'',per100:weight?Object.fromEntries(Object.entries(perServing).map(([k,v])=>[k,v===null?null:Math.round(v/Number(weight[1])*10000)/100])):{},...(weight?{servingGrams:Number(weight[1]),servingLabel}:{perServing,servingLabel})});
+}catch(e){errors.push({url,error:e.message});}}}));
+products.sort((a,b)=>a.name.localeCompare(b.name));await fs.writeFile(new URL('../app/recipe-references.json',import.meta.url),JSON.stringify(products,null,2)+'\n');
+let foodakl;try{await get('https://foodakl.com/kitchens/');foodakl='Public recipe schemas imported; missing fiber remains blank';}catch(e){foodakl=e.message;}
+await fs.writeFile(new URL('../recipe-import-report.json',import.meta.url),JSON.stringify({source:root+'/recipes',kitchens:kitchens.length,checked:list.length,imported:products.length,missingNutrition:missing,errors,foodakl,importedAt:new Date().toISOString()},null,2)+'\n');console.log(JSON.stringify({kitchens:kitchens.length,checked:list.length,imported:products.length,missingNutrition:missing.length,errors:errors.length,foodakl}));

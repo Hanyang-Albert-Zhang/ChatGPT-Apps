@@ -1,0 +1,2012 @@
+{
+  "mediterranean": [
+    {
+      "id": "mediterranean-31",
+      "name": "Chickpea spinach stew",
+      "ingredients": [
+        "chickpeas",
+        "spinach",
+        "tomato",
+        "onion"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "chickpeas",
+        "spinach"
+      ],
+      "recipeSource": "https://plantpoweredmetrony.org/recipes/chickpea-spinach-stew/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-32",
+      "name": "White bean mushroom skillet",
+      "ingredients": [
+        "white beans",
+        "mushrooms",
+        "garlic",
+        "parsley"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "white beans"
+      ],
+      "recipeSource": "https://whitemaplelane.com/recipes/creamy-herbed-white-bean-and-mushroom-skillet/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-33",
+      "name": "Lentil walnut salad",
+      "ingredients": [
+        "lentils",
+        "walnuts",
+        "carrot",
+        "parsley",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "lentils",
+        "walnuts",
+        "carrot"
+      ],
+      "recipeSource": "https://www.mayazbites.com/post/mediterranean-diet-walnuts-thyme-lentil-salad-recipe",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-34",
+      "name": "Quinoa chickpea salad",
+      "ingredients": [
+        "quinoa",
+        "chickpeas",
+        "cucumber",
+        "tomato",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "quinoa",
+        "chickpeas"
+      ],
+      "recipeSource": "https://cookieandkate.com/best-quinoa-salad-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-35",
+      "name": "Barley roasted vegetable bowl",
+      "ingredients": [
+        "barley",
+        "carrot",
+        "squash",
+        "chickpeas"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "barley",
+        "carrot",
+        "squash",
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.forkintheroad.co/roasted-vegetable-barley-bowl/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-36",
+      "name": "Farro mushroom pilaf",
+      "ingredients": [
+        "farro",
+        "mushrooms",
+        "onion",
+        "parsley"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "farro"
+      ],
+      "recipeSource": "https://evergreenkitchen.ca/farro-pilaf/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-37",
+      "name": "Pumpkin white bean soup",
+      "ingredients": [
+        "pumpkin",
+        "white beans",
+        "onion",
+        "vegetable broth"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans"
+      ],
+      "recipeSource": "https://cookeatlivelove.com/healthy-pumpkin-soup-recipe-with-white-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-38",
+      "name": "Carrot lentil soup",
+      "ingredients": [
+        "carrot",
+        "red lentils",
+        "ginger",
+        "vegetable broth"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "carrot",
+        "red lentils"
+      ],
+      "recipeSource": "https://www.bbcgoodfood.com/recipes/spiced-carrot-lentil-soup",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-39",
+      "name": "Pea mint soup",
+      "ingredients": [
+        "peas",
+        "potato",
+        "onion",
+        "mint"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "peas"
+      ],
+      "recipeSource": "https://www.bbcgoodfoodme.com/recipes/pea-and-mint-soup/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-40",
+      "name": "Mushroom barley soup",
+      "ingredients": [
+        "mushrooms",
+        "barley",
+        "carrot",
+        "onion"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "barley",
+        "carrot"
+      ],
+      "recipeSource": "https://thecookingfoodie.com/recipe/mushroom-barley-soup-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-41",
+      "name": "Stuffed zucchini",
+      "ingredients": [
+        "zucchini",
+        "bulgur",
+        "chickpeas",
+        "tomato"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "bulgur",
+        "chickpeas"
+      ],
+      "recipeSource": "https://chefjeanpierre.com/recipes/stuffed-zucchini/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-42",
+      "name": "Lentil stuffed eggplant",
+      "ingredients": [
+        "eggplant",
+        "lentils",
+        "tomato",
+        "onion"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "eggplant",
+        "lentils"
+      ],
+      "recipeSource": "https://minimalistbaker.com/moroccan-lentil-stuffed-eggplant/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-43",
+      "name": "Swiss chard white beans",
+      "ingredients": [
+        "Swiss chard",
+        "white beans",
+        "garlic",
+        "lemon"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "white beans"
+      ],
+      "recipeSource": "https://mayihavethatrecipe.com/swiss-chard-and-cannellini-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-44",
+      "name": "Roasted cauliflower tahini",
+      "ingredients": [
+        "cauliflower",
+        "tahini",
+        "lemon",
+        "parsley"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "cauliflower"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/roasted-cauliflower-steaks-with-harissa-and-chermoula/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-45",
+      "name": "Beet lentil bowl",
+      "ingredients": [
+        "beetroot",
+        "lentils",
+        "arugula",
+        "feta",
+        "walnuts"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "beetroot",
+        "lentils",
+        "walnuts"
+      ],
+      "recipeSource": "https://www.lentils.org/recipe/beet-lentil-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-46",
+      "name": "Chickpea cucumber pita",
+      "ingredients": [
+        "chickpeas",
+        "cucumber",
+        "whole-wheat pita",
+        "yogurt"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/chickpea-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-47",
+      "name": "Butter bean tomato bake",
+      "ingredients": [
+        "butter beans",
+        "tomato",
+        "spinach",
+        "feta"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "butter beans",
+        "spinach"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/gigantes-plaki-greek-giant-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-48",
+      "name": "Roasted squash lentil salad",
+      "ingredients": [
+        "squash",
+        "lentils",
+        "arugula",
+        "pumpkin seeds"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "squash",
+        "lentils"
+      ],
+      "recipeSource": "https://www.bbcgoodfood.com/recipes/squash-lentil-salad",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-49",
+      "name": "White bean herb spread",
+      "ingredients": [
+        "white beans",
+        "lemon",
+        "parsley",
+        "olive oil"
+      ],
+      "method": "dip",
+      "fiberFoods": [
+        "white beans"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/white-bean-dip/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "mediterranean-50",
+      "name": "Roasted carrot lentil dip",
+      "ingredients": [
+        "carrot",
+        "red lentils",
+        "tahini",
+        "lemon"
+      ],
+      "method": "dip",
+      "fiberFoods": [
+        "carrot",
+        "red lentils"
+      ],
+      "recipeSource": "https://www.hamiltonhealthsciences.ca/share/curried-carrot-and-lentil-dip/",
+      "sourceKind": "variation"
+    }
+  ],
+  "american": [
+    {
+      "id": "american-31",
+      "name": "Lentil shepherd’s pie",
+      "ingredients": [
+        "lentils",
+        "carrot",
+        "peas",
+        "potato",
+        "onion"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "lentils",
+        "carrot",
+        "peas"
+      ],
+      "recipeSource": "https://minimalistbaker.com/1-hour-vegan-shepherds-pie/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-32",
+      "name": "White bean mushroom skillet",
+      "ingredients": [
+        "white beans",
+        "mushrooms",
+        "garlic",
+        "parsley"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "white beans"
+      ],
+      "recipeSource": "https://whitemaplelane.com/recipes/creamy-herbed-white-bean-and-mushroom-skillet/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-33",
+      "name": "Lentil walnut salad",
+      "ingredients": [
+        "lentils",
+        "walnuts",
+        "carrot",
+        "parsley",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "lentils",
+        "walnuts",
+        "carrot"
+      ],
+      "recipeSource": "https://www.mayazbites.com/post/mediterranean-diet-walnuts-thyme-lentil-salad-recipe",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-34",
+      "name": "Quinoa chickpea salad",
+      "ingredients": [
+        "quinoa",
+        "chickpeas",
+        "cucumber",
+        "tomato",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "quinoa",
+        "chickpeas"
+      ],
+      "recipeSource": "https://cookieandkate.com/best-quinoa-salad-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-35",
+      "name": "Barley roasted vegetable bowl",
+      "ingredients": [
+        "barley",
+        "carrot",
+        "squash",
+        "chickpeas"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "barley",
+        "carrot",
+        "squash",
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.forkintheroad.co/roasted-vegetable-barley-bowl/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-36",
+      "name": "Farro mushroom pilaf",
+      "ingredients": [
+        "farro",
+        "mushrooms",
+        "onion",
+        "parsley"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "farro"
+      ],
+      "recipeSource": "https://evergreenkitchen.ca/farro-pilaf/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-37",
+      "name": "Spinach ricotta whole-grain pasta",
+      "ingredients": [
+        "whole-wheat pasta",
+        "spinach",
+        "ricotta",
+        "garlic"
+      ],
+      "method": "noodle",
+      "fiberFoods": [
+        "spinach"
+      ],
+      "recipeSource": "https://www.budgetbytes.com/easy-spinach-ricotta-pasta/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-38",
+      "name": "Broccoli pea pasta",
+      "ingredients": [
+        "whole-wheat pasta",
+        "broccoli",
+        "peas",
+        "olive oil"
+      ],
+      "method": "noodle",
+      "fiberFoods": [
+        "broccoli",
+        "peas"
+      ],
+      "recipeSource": "https://www.flavourstreat.com/broccoli-peas-pasta/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-39",
+      "name": "Lentil tomato pasta",
+      "ingredients": [
+        "whole-wheat pasta",
+        "lentils",
+        "tomato",
+        "onion"
+      ],
+      "method": "noodle",
+      "fiberFoods": [
+        "lentils"
+      ],
+      "recipeSource": "https://www.thefullhelping.com/lentil-tomato-pasta-stew/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-40",
+      "name": "Black bean sweet potato chili",
+      "ingredients": [
+        "black beans",
+        "sweet potato",
+        "tomato",
+        "cumin"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "black beans",
+        "sweet potato"
+      ],
+      "recipeSource": "https://www.eatingwell.com/recipe/250222/sweet-potato-black-bean-chili/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-41",
+      "name": "Pumpkin white bean soup",
+      "ingredients": [
+        "pumpkin",
+        "white beans",
+        "onion",
+        "vegetable broth"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans"
+      ],
+      "recipeSource": "https://cookeatlivelove.com/healthy-pumpkin-soup-recipe-with-white-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-42",
+      "name": "Carrot lentil soup",
+      "ingredients": [
+        "carrot",
+        "red lentils",
+        "ginger",
+        "vegetable broth"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "carrot",
+        "red lentils"
+      ],
+      "recipeSource": "https://www.bbcgoodfood.com/recipes/spiced-carrot-lentil-soup",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-43",
+      "name": "Pea mint soup",
+      "ingredients": [
+        "peas",
+        "potato",
+        "onion",
+        "mint"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "peas"
+      ],
+      "recipeSource": "https://www.bbcgoodfoodme.com/recipes/pea-and-mint-soup/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-44",
+      "name": "Mushroom barley soup",
+      "ingredients": [
+        "mushrooms",
+        "barley",
+        "carrot",
+        "onion"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "barley",
+        "carrot"
+      ],
+      "recipeSource": "https://thecookingfoodie.com/recipe/mushroom-barley-soup-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-45",
+      "name": "Stuffed zucchini",
+      "ingredients": [
+        "zucchini",
+        "bulgur",
+        "chickpeas",
+        "tomato"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "bulgur",
+        "chickpeas"
+      ],
+      "recipeSource": "https://chefjeanpierre.com/recipes/stuffed-zucchini/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-46",
+      "name": "Portobello bean bake",
+      "ingredients": [
+        "portobello mushrooms",
+        "white beans",
+        "spinach",
+        "mozzarella"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "white beans",
+        "spinach"
+      ],
+      "recipeSource": "https://plantsnotplastic.com/stuffed-portobello-mushrooms/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-47",
+      "name": "Broccoli cheddar frittata",
+      "ingredients": [
+        "eggs",
+        "broccoli",
+        "onion",
+        "cheddar"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "broccoli"
+      ],
+      "recipeSource": "https://cookieandkate.com/best-frittata-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-48",
+      "name": "Egg and avocado toast",
+      "ingredients": [
+        "whole-grain bread",
+        "egg",
+        "avocado",
+        "tomato"
+      ],
+      "method": "grain",
+      "fiberFoods": [],
+      "recipeSource": "https://feelgoodfoodie.net/recipe/avocado-toast-with-egg-3-ways/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-49",
+      "name": "Savory oat bowl",
+      "ingredients": [
+        "oats",
+        "mushrooms",
+        "spinach",
+        "egg"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "oats",
+        "spinach"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/savory-oatmeal/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "american-50",
+      "name": "Roasted squash lentil salad",
+      "ingredients": [
+        "squash",
+        "lentils",
+        "arugula",
+        "pumpkin seeds"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "squash",
+        "lentils"
+      ],
+      "recipeSource": "https://www.bbcgoodfood.com/recipes/squash-lentil-salad",
+      "sourceKind": "variation"
+    }
+  ],
+  "vegetarian": [
+    {
+      "id": "vegetarian-31",
+      "name": "Greek lentil soup",
+      "ingredients": [
+        "lentils",
+        "tomato",
+        "carrot",
+        "onion",
+        "olive oil"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "lentils",
+        "carrot"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/red-lentil-soup-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-32",
+      "name": "Fasolada",
+      "ingredients": [
+        "white beans",
+        "carrot",
+        "celery",
+        "tomato",
+        "olive oil"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans",
+        "carrot"
+      ],
+      "recipeSource": "https://www.dimitrasdishes.com/fasolada-in-30-minutes-express-greek-white-bean-soup/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-33",
+      "name": "Gigantes plaki",
+      "ingredients": [
+        "giant beans",
+        "tomato",
+        "onion",
+        "parsley",
+        "olive oil"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "giant beans"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/gigantes-plaki-greek-giant-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-34",
+      "name": "Revithada",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.mygreekdish.com/recipe/greek-chickpea-soup-recipe-revithia/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-35",
+      "name": "Fakes salad",
+      "ingredients": [
+        "lentils",
+        "tomato",
+        "cucumber",
+        "parsley",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "lentils"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/french-lentil-salad-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-36",
+      "name": "Horiatiki",
+      "ingredients": [
+        "tomato",
+        "cucumber",
+        "pepper",
+        "olives",
+        "feta"
+      ],
+      "method": "salad",
+      "fiberFoods": [],
+      "recipeSource": "https://www.themediterraneandish.com/traditional-greek-salad-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-37",
+      "name": "Spanakorizo",
+      "ingredients": [
+        "spinach",
+        "rice",
+        "dill",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "spinach",
+        "rice"
+      ],
+      "recipeSource": "https://www.dimitrasdishes.com/spanakorizo-greek-spinach-rice/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-38",
+      "name": "Briam",
+      "ingredients": [
+        "zucchini",
+        "eggplant",
+        "potato",
+        "tomato",
+        "olive oil"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "eggplant"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/briam-greek-roasted-vegetables/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-39",
+      "name": "Horta vrasta",
+      "ingredients": [
+        "leafy greens",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "steam",
+      "fiberFoods": [
+        "leafy greens"
+      ],
+      "recipeSource": "https://foragerchef.com/horta/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-40",
+      "name": "Fasolakia lathera",
+      "ingredients": [
+        "green beans",
+        "tomato",
+        "onion",
+        "olive oil"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "green beans"
+      ],
+      "recipeSource": "https://satyamskitchen.com/recipe/fasolakia",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-41",
+      "name": "Tabbouleh",
+      "ingredients": [
+        "parsley",
+        "bulgur",
+        "tomato",
+        "mint",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "bulgur"
+      ],
+      "recipeSource": "https://www.marthastewart.com/978424/tabbouleh",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-42",
+      "name": "Fattoush",
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "cucumber",
+        "radish",
+        "pita",
+        "sumac"
+      ],
+      "method": "salad",
+      "fiberFoods": [],
+      "recipeSource": "https://feelgoodfoodie.net/recipe/lebanese-fattoush-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-43",
+      "name": "Hummus",
+      "ingredients": [
+        "chickpeas",
+        "tahini",
+        "lemon",
+        "garlic"
+      ],
+      "method": "dip",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://rainbowplantlife.com/how-to-make-amazing-hummus-at-home/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-44",
+      "name": "Baba ganoush",
+      "ingredients": [
+        "eggplant",
+        "tahini",
+        "lemon",
+        "garlic"
+      ],
+      "method": "dip",
+      "fiberFoods": [
+        "eggplant"
+      ],
+      "recipeSource": "https://thecookingfoodie.com/recipe/the-best-baba-ganoush-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-45",
+      "name": "Mujaddara",
+      "ingredients": [
+        "lentils",
+        "rice",
+        "onion",
+        "cumin"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "lentils",
+        "rice"
+      ],
+      "recipeSource": "https://waleedasadi.com/p/palestinian-mujaddara-with-crispy",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-46",
+      "name": "Loubieh bi zeit",
+      "ingredients": [
+        "green beans",
+        "tomato",
+        "onion",
+        "olive oil"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "green beans"
+      ],
+      "recipeSource": "https://www.linsfood.com/loubieh-bi-zeit-fasolia/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-47",
+      "name": "Shorbat adas",
+      "ingredients": [
+        "red lentils",
+        "onion",
+        "carrot",
+        "cumin",
+        "lemon"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "red lentils",
+        "carrot"
+      ],
+      "recipeSource": "https://thehintofrosemary.com/shorbat-adas/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-48",
+      "name": "Ribollita",
+      "ingredients": [
+        "white beans",
+        "kale",
+        "cabbage",
+        "whole-grain bread",
+        "tomato"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans",
+        "cabbage"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/ribollita-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-49",
+      "name": "Minestrone",
+      "ingredients": [
+        "beans",
+        "zucchini",
+        "carrot",
+        "tomato",
+        "whole-wheat pasta"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "beans",
+        "carrot"
+      ],
+      "recipeSource": "https://chefjeanpierre.com/recipes/appetizers/minestrone-soup-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegetarian-50",
+      "name": "Pasta e ceci",
+      "ingredients": [
+        "chickpeas",
+        "pasta",
+        "tomato",
+        "rosemary"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/pasta-e-ceci-pasta-with-chickpeas/",
+      "sourceKind": "variation"
+    }
+  ],
+  "vegan": [
+    {
+      "id": "vegan-31",
+      "name": "Greek lentil soup",
+      "ingredients": [
+        "lentils",
+        "tomato",
+        "carrot",
+        "onion",
+        "olive oil"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "lentils",
+        "carrot"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/red-lentil-soup-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-32",
+      "name": "Fasolada",
+      "ingredients": [
+        "white beans",
+        "carrot",
+        "celery",
+        "tomato",
+        "olive oil"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans",
+        "carrot"
+      ],
+      "recipeSource": "https://www.dimitrasdishes.com/fasolada-in-30-minutes-express-greek-white-bean-soup/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-33",
+      "name": "Gigantes plaki",
+      "ingredients": [
+        "giant beans",
+        "tomato",
+        "onion",
+        "parsley",
+        "olive oil"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "giant beans"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/gigantes-plaki-greek-giant-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-34",
+      "name": "Revithada",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.mygreekdish.com/recipe/greek-chickpea-soup-recipe-revithia/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-35",
+      "name": "Fakes salad",
+      "ingredients": [
+        "lentils",
+        "tomato",
+        "cucumber",
+        "parsley",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "lentils"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/french-lentil-salad-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-36",
+      "name": "Spanakorizo",
+      "ingredients": [
+        "spinach",
+        "rice",
+        "dill",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "spinach",
+        "rice"
+      ],
+      "recipeSource": "https://www.dimitrasdishes.com/spanakorizo-greek-spinach-rice/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-37",
+      "name": "Briam",
+      "ingredients": [
+        "zucchini",
+        "eggplant",
+        "potato",
+        "tomato",
+        "olive oil"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "eggplant"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/briam-greek-roasted-vegetables/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-38",
+      "name": "Horta vrasta",
+      "ingredients": [
+        "leafy greens",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "steam",
+      "fiberFoods": [
+        "leafy greens"
+      ],
+      "recipeSource": "https://foragerchef.com/horta/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-39",
+      "name": "Fasolakia lathera",
+      "ingredients": [
+        "green beans",
+        "tomato",
+        "onion",
+        "olive oil"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "green beans"
+      ],
+      "recipeSource": "https://satyamskitchen.com/recipe/fasolakia",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-40",
+      "name": "Tabbouleh",
+      "ingredients": [
+        "parsley",
+        "bulgur",
+        "tomato",
+        "mint",
+        "lemon"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "bulgur"
+      ],
+      "recipeSource": "https://www.marthastewart.com/978424/tabbouleh",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-41",
+      "name": "Fattoush",
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "cucumber",
+        "radish",
+        "pita",
+        "sumac"
+      ],
+      "method": "salad",
+      "fiberFoods": [],
+      "recipeSource": "https://feelgoodfoodie.net/recipe/lebanese-fattoush-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-42",
+      "name": "Hummus",
+      "ingredients": [
+        "chickpeas",
+        "tahini",
+        "lemon",
+        "garlic"
+      ],
+      "method": "dip",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://rainbowplantlife.com/how-to-make-amazing-hummus-at-home/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-43",
+      "name": "Baba ganoush",
+      "ingredients": [
+        "eggplant",
+        "tahini",
+        "lemon",
+        "garlic"
+      ],
+      "method": "dip",
+      "fiberFoods": [
+        "eggplant"
+      ],
+      "recipeSource": "https://thecookingfoodie.com/recipe/the-best-baba-ganoush-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-44",
+      "name": "Mujaddara",
+      "ingredients": [
+        "lentils",
+        "rice",
+        "onion",
+        "cumin"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "lentils",
+        "rice"
+      ],
+      "recipeSource": "https://waleedasadi.com/p/palestinian-mujaddara-with-crispy",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-45",
+      "name": "Loubieh bi zeit",
+      "ingredients": [
+        "green beans",
+        "tomato",
+        "onion",
+        "olive oil"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "green beans"
+      ],
+      "recipeSource": "https://www.linsfood.com/loubieh-bi-zeit-fasolia/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-46",
+      "name": "Shorbat adas",
+      "ingredients": [
+        "red lentils",
+        "onion",
+        "carrot",
+        "cumin",
+        "lemon"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "red lentils",
+        "carrot"
+      ],
+      "recipeSource": "https://thehintofrosemary.com/shorbat-adas/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-47",
+      "name": "Ribollita",
+      "ingredients": [
+        "white beans",
+        "kale",
+        "cabbage",
+        "whole-grain bread",
+        "tomato"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans",
+        "cabbage"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/ribollita-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-48",
+      "name": "Minestrone",
+      "ingredients": [
+        "beans",
+        "zucchini",
+        "carrot",
+        "tomato",
+        "whole-wheat pasta"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "beans",
+        "carrot"
+      ],
+      "recipeSource": "https://chefjeanpierre.com/recipes/appetizers/minestrone-soup-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-49",
+      "name": "Pasta e ceci",
+      "ingredients": [
+        "chickpeas",
+        "pasta",
+        "tomato",
+        "rosemary"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/pasta-e-ceci-pasta-with-chickpeas/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "vegan-50",
+      "name": "Pasta e fagioli",
+      "ingredients": [
+        "beans",
+        "pasta",
+        "celery",
+        "tomato"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "beans"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/vegetarian-pasta-fagioli-recipe/",
+      "sourceKind": "variation"
+    }
+  ],
+  "dash": [
+    {
+      "id": "dash-31",
+      "name": "Three-bean chili",
+      "ingredients": [
+        "kidney beans",
+        "black beans",
+        "pinto beans",
+        "tomato",
+        "chili powder"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "kidney beans",
+        "black beans",
+        "pinto beans"
+      ],
+      "recipeSource": "https://cookieandkate.com/vegetarian-chili-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-32",
+      "name": "Black bean soup",
+      "ingredients": [
+        "black beans",
+        "onion",
+        "carrot",
+        "cumin",
+        "tomato"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "black beans",
+        "carrot"
+      ],
+      "recipeSource": "https://preppykitchen.com/black-bean-soup/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-33",
+      "name": "Split pea soup",
+      "ingredients": [
+        "split peas",
+        "carrot",
+        "celery",
+        "onion"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "split peas",
+        "carrot"
+      ],
+      "recipeSource": "https://www.foodnetwork.com/recipes/ina-garten/parkers-split-pea-soup-recipe-1916855?soc=youtube",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-34",
+      "name": "Vegetable barley soup",
+      "ingredients": [
+        "barley",
+        "carrot",
+        "celery",
+        "tomato",
+        "green beans"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "barley",
+        "carrot",
+        "green beans"
+      ],
+      "recipeSource": "https://www.forkinthekitchen.com/vegetable-barley-soup/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-35",
+      "name": "Lentil vegetable soup",
+      "ingredients": [
+        "lentils",
+        "carrot",
+        "spinach",
+        "tomato",
+        "onion"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "lentils",
+        "carrot",
+        "spinach"
+      ],
+      "recipeSource": "https://www.foodnetwork.com/recipes/ina-garten/lentil-vegetable-soup-recipe-1948822?soc=youtube",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-36",
+      "name": "White bean kale soup",
+      "ingredients": [
+        "white beans",
+        "kale",
+        "carrot",
+        "onion"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "white beans",
+        "carrot"
+      ],
+      "recipeSource": "https://rainbowplantlife.com/creamy-white-bean-soup-with-kale-and-gremolata/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-37",
+      "name": "Corn and bean salad",
+      "ingredients": [
+        "corn",
+        "black beans",
+        "tomato",
+        "pepper",
+        "lime"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "corn",
+        "black beans"
+      ],
+      "recipeSource": "https://thestayathomechef.com/black-bean-and-corn-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-38",
+      "name": "Quinoa harvest bowl",
+      "ingredients": [
+        "quinoa",
+        "squash",
+        "kale",
+        "chickpeas",
+        "pumpkin seeds"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "quinoa",
+        "squash",
+        "chickpeas"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/buddha-bowl-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-39",
+      "name": "Farro vegetable bowl",
+      "ingredients": [
+        "farro",
+        "broccoli",
+        "carrot",
+        "white beans",
+        "lemon"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "farro",
+        "broccoli",
+        "carrot",
+        "white beans"
+      ],
+      "recipeSource": "https://culinaryginger.com/warm-farro-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-40",
+      "name": "Wild rice mushroom pilaf",
+      "ingredients": [
+        "wild rice",
+        "mushrooms",
+        "onion",
+        "celery"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "wild rice"
+      ],
+      "recipeSource": "https://www.wellplated.com/wild-rice-pilaf/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-41",
+      "name": "Brown rice black bean bowl",
+      "ingredients": [
+        "brown rice",
+        "black beans",
+        "lettuce",
+        "tomato",
+        "avocado"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "brown rice",
+        "black beans"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/burrito-bowl/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-42",
+      "name": "Oatmeal with berries",
+      "ingredients": [
+        "rolled oats",
+        "low-fat milk",
+        "berries",
+        "walnuts"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "rolled oats",
+        "berries",
+        "walnuts"
+      ],
+      "recipeSource": "https://downshiftology.com/recipes/berry-baked-oatmeal/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-43",
+      "name": "Apple cinnamon oatmeal",
+      "ingredients": [
+        "rolled oats",
+        "apple",
+        "cinnamon",
+        "low-fat milk"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "rolled oats",
+        "apple"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/oatmeal-breakfast-bars/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-44",
+      "name": "Pear walnut porridge",
+      "ingredients": [
+        "rolled oats",
+        "pear",
+        "walnuts",
+        "low-fat milk"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "rolled oats",
+        "pear",
+        "walnuts"
+      ],
+      "recipeSource": "https://glucosesmartkitchen.com/recipes/pear-ginger-walnut-oatmeal/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-45",
+      "name": "Overnight chia oats",
+      "ingredients": [
+        "oats",
+        "chia seeds",
+        "low-fat milk",
+        "berries"
+      ],
+      "method": "grain",
+      "fiberFoods": [
+        "oats",
+        "chia seeds",
+        "berries"
+      ],
+      "recipeSource": "https://theartisticcook.com/overnight-rolled-oats/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-46",
+      "name": "Sweet potato black bean bake",
+      "ingredients": [
+        "sweet potato",
+        "black beans",
+        "tomato",
+        "reduced-sodium cheddar"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "sweet potato",
+        "black beans"
+      ],
+      "recipeSource": "https://www.lazycatkitchen.com/sweet-potato-black-bean-bake/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-47",
+      "name": "Roasted Brussels sprouts",
+      "ingredients": [
+        "Brussels sprouts",
+        "olive oil",
+        "black pepper"
+      ],
+      "method": "roast",
+      "fiberFoods": [],
+      "recipeSource": "https://www.loveandlemons.com/roasted-brussels-sprouts/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-48",
+      "name": "Roasted broccoli",
+      "ingredients": [
+        "broccoli",
+        "olive oil",
+        "garlic",
+        "lemon"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "broccoli"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/roasted-broccoli/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-49",
+      "name": "Roasted root vegetables",
+      "ingredients": [
+        "carrot",
+        "beetroot",
+        "parsnip",
+        "olive oil",
+        "thyme"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "carrot",
+        "beetroot"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/roasted-root-vegetables/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "dash-50",
+      "name": "Green beans almondine",
+      "ingredients": [
+        "green beans",
+        "almonds",
+        "lemon",
+        "olive oil"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "green beans",
+        "almonds"
+      ],
+      "recipeSource": "https://natashaskitchen.com/green-beans-with-almonds-and-butter/",
+      "sourceKind": "variation"
+    }
+  ],
+  "keto": [
+    {
+      "id": "keto-31",
+      "name": "Garlic bok choy",
+      "ingredients": [
+        "bok choy",
+        "garlic",
+        "neutral oil",
+        "light soy sauce"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "bok choy"
+      ],
+      "recipeSource": "https://thewoksoflife.com/garlic-baby-bok-choy/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-32",
+      "name": "Smashed cucumber salad",
+      "ingredients": [
+        "cucumber",
+        "garlic",
+        "rice vinegar",
+        "sesame oil"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "rice vinegar"
+      ],
+      "recipeSource": "https://thewoksoflife.com/smashed-asian-cucumber-salad/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-33",
+      "name": "Garlic broccoli",
+      "ingredients": [
+        "broccoli",
+        "garlic",
+        "neutral oil",
+        "light soy sauce"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "broccoli"
+      ],
+      "recipeSource": "https://iheartumami.com/broccoli-with-garlic-sauce/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-34",
+      "name": "Shiitake bok choy",
+      "ingredients": [
+        "shiitake mushrooms",
+        "bok choy",
+        "ginger",
+        "soy sauce"
+      ],
+      "method": "braise",
+      "fiberFoods": [
+        "bok choy"
+      ],
+      "recipeSource": "https://thewoksoflife.com/braised-chinese-mushrooms-bok-choy/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-35",
+      "name": "Steamed eggplant",
+      "ingredients": [
+        "eggplant",
+        "garlic",
+        "black vinegar",
+        "light soy sauce"
+      ],
+      "method": "steam",
+      "fiberFoods": [
+        "eggplant"
+      ],
+      "recipeSource": "https://thewoksoflife.com/steamed-chinese-eggplant-spicy/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-36",
+      "name": "Dry-fried green beans",
+      "ingredients": [
+        "green beans",
+        "ground pork",
+        "garlic",
+        "Sichuan pepper"
+      ],
+      "method": "stir",
+      "fiberFoods": [
+        "green beans"
+      ],
+      "recipeSource": "https://omnivorescookbook.com/szechuan-dry-fried-green-beans/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-37",
+      "name": "Bitter melon with egg",
+      "ingredients": [
+        "bitter melon",
+        "eggs",
+        "garlic",
+        "neutral oil"
+      ],
+      "method": "stir",
+      "fiberFoods": [],
+      "recipeSource": "https://omnivorescookbook.com/bitter-melon-with-eggs/"
+    },
+    {
+      "id": "keto-38",
+      "name": "Chinese chive and egg",
+      "ingredients": [
+        "Chinese chives",
+        "eggs",
+        "neutral oil"
+      ],
+      "method": "stir",
+      "fiberFoods": [],
+      "recipeSource": "https://thewoksoflife.com/chinese-chives-eggs/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-39",
+      "name": "Steamed fish with ginger",
+      "ingredients": [
+        "white fish",
+        "ginger",
+        "scallion",
+        "light soy sauce"
+      ],
+      "method": "steam",
+      "fiberFoods": [],
+      "recipeSource": "https://thewoksoflife.com/cantonese-steamed-fish/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-40",
+      "name": "Hiyayakko",
+      "ingredients": [
+        "silken tofu",
+        "ginger",
+        "scallion",
+        "bonito flakes"
+      ],
+      "method": "salad",
+      "fiberFoods": [],
+      "recipeSource": "https://sudachirecipes.com/hiyayakko-101/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-41",
+      "name": "Yudofu",
+      "ingredients": [
+        "tofu",
+        "kombu",
+        "napa cabbage",
+        "shiitake mushrooms"
+      ],
+      "method": "soup",
+      "fiberFoods": [
+        "napa cabbage"
+      ],
+      "recipeSource": "https://www.justonecookbook.com/hot-tofu-yudofu/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-42",
+      "name": "Sunomono",
+      "ingredients": [
+        "cucumber",
+        "wakame",
+        "rice vinegar",
+        "sesame seeds"
+      ],
+      "method": "salad",
+      "fiberFoods": [
+        "rice vinegar"
+      ],
+      "recipeSource": "https://www.justonecookbook.com/sunomono-with-cucumber-and-wakame/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-43",
+      "name": "Chawanmushi",
+      "ingredients": [
+        "eggs",
+        "dashi",
+        "shiitake mushrooms",
+        "shrimp"
+      ],
+      "method": "steam",
+      "fiberFoods": [],
+      "recipeSource": "https://cookanyday.com/collections/recipes/products/dave-changs-chawanmushi",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-44",
+      "name": "Saba shioyaki",
+      "ingredients": [
+        "mackerel",
+        "lemon",
+        "daikon",
+        "pinch of salt"
+      ],
+      "method": "roast",
+      "fiberFoods": [],
+      "recipeSource": "https://japanesecooking101.com/saba-shioyaki-recipe-grilled-mackerel/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-45",
+      "name": "Salmon shioyaki",
+      "ingredients": [
+        "salmon",
+        "lemon",
+        "pinch of salt"
+      ],
+      "method": "roast",
+      "fiberFoods": [],
+      "recipeSource": "https://paqupeljapan.com/recipes/japanese-style-salt-grilled-salmon",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-46",
+      "name": "Shishito peppers",
+      "ingredients": [
+        "shishito peppers",
+        "neutral oil",
+        "bonito flakes"
+      ],
+      "method": "stir",
+      "fiberFoods": [],
+      "recipeSource": "https://www.justonecookbook.com/blistered-shishito-peppers/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-47",
+      "name": "Pla neung manao",
+      "ingredients": [
+        "white fish",
+        "lime",
+        "garlic",
+        "chili",
+        "coriander"
+      ],
+      "method": "steam",
+      "fiberFoods": [],
+      "recipeSource": "https://tastythais.com/thai-steamed-fish-with-lime/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-48",
+      "name": "Broccoli cheddar frittata",
+      "ingredients": [
+        "eggs",
+        "broccoli",
+        "onion",
+        "cheddar"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "broccoli"
+      ],
+      "recipeSource": "https://cookieandkate.com/best-frittata-recipe/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-49",
+      "name": "Roasted cauliflower tahini",
+      "ingredients": [
+        "cauliflower",
+        "tahini",
+        "lemon",
+        "parsley"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "cauliflower"
+      ],
+      "recipeSource": "https://www.themediterraneandish.com/roasted-cauliflower-steaks-with-harissa-and-chermoula/",
+      "sourceKind": "variation"
+    },
+    {
+      "id": "keto-50",
+      "name": "Roasted broccoli",
+      "ingredients": [
+        "broccoli",
+        "olive oil",
+        "garlic",
+        "lemon"
+      ],
+      "method": "roast",
+      "fiberFoods": [
+        "broccoli"
+      ],
+      "recipeSource": "https://www.loveandlemons.com/roasted-broccoli/",
+      "sourceKind": "variation"
+    }
+  ]
+}

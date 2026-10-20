@@ -1,0 +1,1083 @@
+{
+  "Dumbbell bench press": {
+    "file": "/exercises/human/75.mp4",
+    "source": "https://wger.de/media/exercise-video/75/080c799b-8afd-4130-8d72-9cef0cd79f54.MOV",
+    "page": "https://wger.de/en/exercise/75/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 75,
+    "poster": "/exercises/human/75.jpg"
+  },
+  "Incline dumbbell press": {
+    "file": "/exercises/human/537.mp4",
+    "source": "https://wger.de/media/exercise-video/537/b9c937e9-daeb-42a9-be8e-7a77e368478c.MOV",
+    "page": "https://wger.de/en/exercise/537/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 537,
+    "poster": "/exercises/human/537.jpg"
+  },
+  "Dumbbell biceps curl": {
+    "file": "/exercises/human/92.mp4",
+    "source": "https://wger.de/media/exercise-video/92/8bfb917c-3d0d-49b9-8073-5d7e01c1b894.MOV",
+    "page": "https://wger.de/en/exercise/92/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 92,
+    "poster": "/exercises/human/92.jpg"
+  },
+  "Alternating dumbbell curl": {
+    "file": "/exercises/human/92.mp4",
+    "source": "https://wger.de/media/exercise-video/92/8bfb917c-3d0d-49b9-8073-5d7e01c1b894.MOV",
+    "page": "https://wger.de/en/exercise/92/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 92,
+    "poster": "/exercises/human/92.jpg"
+  },
+  "Hammer curl": {
+    "file": "/exercises/human/272.mp4",
+    "source": "https://wger.de/media/exercise-video/272/df069052-2173-4f24-855f-a0eebe729f24.MOV",
+    "page": "https://wger.de/en/exercise/272/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 272,
+    "poster": "/exercises/human/272.jpg"
+  },
+  "Dumbbell lateral raise": {
+    "file": "/exercises/human/348.mp4",
+    "source": "https://wger.de/media/exercise-video/348/de69928a-8a35-4096-821c-1f46de5e0e03.MOV",
+    "page": "https://wger.de/en/exercise/348/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 348,
+    "poster": "/exercises/human/348.jpg"
+  },
+  "Dumbbell triceps kickback": {
+    "file": "/exercises/human/655.mp4",
+    "source": "https://wger.de/media/exercise-video/655/2d88a05b-bde3-4026-bfbf-524c11068dc5.MOV",
+    "page": "https://wger.de/en/exercise/655/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 655,
+    "poster": "/exercises/human/655.jpg"
+  },
+  "Overhead triceps extension": {
+    "file": "/exercises/human/211.mp4",
+    "source": "https://wger.de/media/exercise-video/211/85f6eb25-a76c-409e-9af9-497794ac0dfb.MOV",
+    "page": "https://wger.de/en/exercise/211/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 211,
+    "poster": "/exercises/human/211.jpg"
+  },
+  "Lying dumbbell triceps extension": {
+    "file": "/exercises/human/245.mp4",
+    "source": "https://wger.de/media/exercise-video/245/c253303e-9160-4f1f-b4fe-daf1e6c8661d.MOV",
+    "page": "https://wger.de/en/exercise/245/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 245,
+    "poster": "/exercises/human/245.jpg"
+  },
+  "Dumbbell overhead press": {
+    "file": "/exercises/human/567.mp4",
+    "source": "https://wger.de/media/exercise-video/567/64f33c19-1d96-4b7c-af17-6c6a4941c614.MOV",
+    "page": "https://wger.de/en/exercise/567/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 567,
+    "poster": "/exercises/human/567.jpg"
+  },
+  "Dumbbell split squat": {
+    "file": "/exercises/human/205.mp4",
+    "source": "https://wger.de/media/exercise-video/205/c167ac34-ddbc-4e1b-8edf-1192e9d00e22.MOV",
+    "page": "https://wger.de/en/exercise/205/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 205,
+    "poster": "/exercises/human/205.jpg"
+  },
+  "Walking dumbbell lunge": {
+    "file": "/exercises/human/206.mp4",
+    "source": "https://wger.de/media/exercise-video/206/47a65c45-6fd1-4181-b71a-3a6c882e516b.MOV",
+    "page": "https://wger.de/en/exercise/206/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Five-second excerpt, resized to 480px, muted and encoded as H.264 loop.",
+    "wgerId": 206,
+    "poster": "/exercises/human/206.jpg"
+  },
+  "Dumbbell chest fly": {
+    "youtubeId": "Nhvz9EzdJ4U",
+    "page": "https://www.youtube.com/watch?v=Nhvz9EzdJ4U",
+    "source": "https://www.youtube.com/watch?v=Nhvz9EzdJ4U",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do A Dumbbell Chest Fly",
+    "embedVerified": true
+  },
+  "Shoulder circles": {
+    "youtubeId": "xBl8xP1z8WA",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=xBl8xP1z8WA",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Arm Circles - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Leg swings": {
+    "youtubeId": "AK3ALBgaEt0",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=AK3ALBgaEt0",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Leg Swings - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Gentle marching": {
+    "youtubeId": "Kj9VY3Weo7E",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Kj9VY3Weo7E",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Standing Leg Marches - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Standing hip abduction": {
+    "youtubeId": "OUlp12cbo9M",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=OUlp12cbo9M",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Hip Abduction - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Glute bridge": {
+    "youtubeId": "Abx9afBLIMg",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Abx9afBLIMg",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Bridges - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Bird dog": {
+    "youtubeId": "GCMWp6iBXwU",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=GCMWp6iBXwU",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Bird Dogs - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Step-up": {
+    "youtubeId": "jjrx91yLQqY",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=jjrx91yLQqY",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Step Ups - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Hip flexor mobility": {
+    "youtubeId": "L7TcljYzPdo",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=L7TcljYzPdo",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Hip Flexor Stretch - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Dumbbell front raise": {
+    "youtubeId": "rYWGdfnPFSM",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=rYWGdfnPFSM",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Front Arm Raise - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Single-leg Romanian deadlift": {
+    "youtubeId": "-u5puJP8BtA",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=-u5puJP8BtA",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Single Leg Romanian Dead Lift RDL - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Seated trunk rotation": {
+    "youtubeId": "auLx9m6PGOM",
+    "page": "https://med.psu.edu/departments-faculty/cancer-institute/oncology-nutrition-exercise-one-group/exercise-videos",
+    "author": "Penn State Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=auLx9m6PGOM",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Spinal Twist - Moving through Cancer – Penn State College of Medicine",
+    "embedVerified": true
+  },
+  "Dead bug": {
+    "youtubeId": "bxn9FBrt4-A",
+    "page": "https://www.nasm.org/resource-center/exercise-library/dead-bug",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=bxn9FBrt4-A",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Dead Bug | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Goblet squat": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/26e0c126-dfbc-43fa-8577-82b41b75e52c?autoplay=false&loop=false&muted=true&preload=true",
+    "page": "https://workoutguru.fit/exercises/dumbbell-goblet-squat-video-exercise-guide-tips-176012/",
+    "source": "https://workoutguru.fit/exercises/dumbbell-goblet-squat-video-exercise-guide-tips-176012/",
+    "author": "WorkoutGuru",
+    "name": "Dumbbell Goblet Squat"
+  },
+  "Dumbbell Romanian deadlift": {
+    "youtubeId": "QFbZevA7dps",
+    "page": "https://www.nasm.org/resource-center/exercise-library/dumbbell-romanian-deadlift",
+    "guide": "https://www.youtube.com/watch?v=QFbZevA7dps",
+    "author": "NASM",
+    "indoor": true
+  },
+  "Side plank": {
+    "youtubeId": "44ND4bOB-T0",
+    "page": "https://www.nasm.org/resource-center/exercise-library/side-plank",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=44ND4bOB-T0",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Side Plank  | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Kettlebell deadlift": {
+    "youtubeId": "LnIMaf-XOpM",
+    "page": "https://www.nasm.org/resource-center/exercise-library/kettlebell-deadlift",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=LnIMaf-XOpM",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Kettlebell Deadlift  | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Push-up": {
+    "youtubeId": "WDIpL0pjun0",
+    "page": "https://www.nasm.org/resource-center/exercise-library/push-up",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=WDIpL0pjun0",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Push-Up | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Incline push-up": {
+    "youtubeId": "-9S9gdRwwak",
+    "page": "https://www.youtube.com/watch?v=-9S9gdRwwak",
+    "source": "https://www.youtube.com/watch?v=-9S9gdRwwak",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "author": "Horton Barbell",
+    "title": "Incline Push ups (Exercise Library)",
+    "embedVerified": true
+  },
+  "Dumbbell floor press": {
+    "youtubeId": "T0Y3OBF1bNI",
+    "page": "https://www.youtube.com/watch?v=T0Y3OBF1bNI",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=T0Y3OBF1bNI",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do A Dumbbell Floor Press",
+    "embedVerified": true
+  },
+  "Dumbbell squeeze press": {
+    "youtubeId": "Aq_wwRslKas",
+    "page": "https://www.youtube.com/watch?v=Aq_wwRslKas",
+    "author": "Testosterone Nation",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Aq_wwRslKas",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Dumbbell Squeeze Press",
+    "embedVerified": true
+  },
+  "Concentration curl": {
+    "youtubeId": "0AUGkch3tzc",
+    "page": "https://www.youtube.com/watch?v=0AUGkch3tzc",
+    "author": "Howcast",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=0AUGkch3tzc",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to Do a Concentration Curl | Arm Workout",
+    "embedVerified": true
+  },
+  "Seated dumbbell curl": {
+    "youtubeId": "Q7waGOXmo8I",
+    "page": "https://www.youtube.com/watch?v=Q7waGOXmo8I",
+    "author": "BPI Sports",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Q7waGOXmo8I",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Seated Dumbbell Curl Exercise - The Proper Lift - BPI Sports",
+    "embedVerified": true
+  },
+  "Incline dumbbell curl": {
+    "youtubeId": "F5CCxCnGN54",
+    "page": "https://www.youtube.com/watch?v=F5CCxCnGN54",
+    "author": "Alay Shah",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=F5CCxCnGN54",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do the Incline Dumbbell Curl Correctly | Biceps Workout",
+    "embedVerified": true
+  },
+  "Chest-supported dumbbell row": {
+    "youtubeId": "_b6ch2nIchk",
+    "page": "https://www.youtube.com/watch?v=_b6ch2nIchk",
+    "author": "Fit Father Project - Fitness For Busy Fathers",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=_b6ch2nIchk",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do The Chest Supported Dumbbell Row Correctly - Proper Form, Sets & Reps Tutorial",
+    "embedVerified": true
+  },
+  "Bent-over two-dumbbell row": {
+    "youtubeId": "--gDUDFKx6Q",
+    "page": "https://www.youtube.com/watch?v=--gDUDFKx6Q",
+    "author": "Bodybuilding.com",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=--gDUDFKx6Q",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Bent Over Two Dumbbell Row - Back Exercise - Bodybuilding.com",
+    "embedVerified": true
+  },
+  "Dumbbell pullover": {
+    "youtubeId": "Ydpy886udzo",
+    "page": "https://www.youtube.com/watch?v=Ydpy886udzo",
+    "author": "Buff Dudes",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Ydpy886udzo",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to Perform Dumbbell Pullovers - Chest Exercise",
+    "embedVerified": true
+  },
+  "Close-grip incline push-up": {
+    "youtubeId": "VMlt1kWMw_M",
+    "page": "https://www.youtube.com/watch?v=VMlt1kWMw_M",
+    "author": "Prepare For Performance",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=VMlt1kWMw_M",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Incline Close Grip Push Up",
+    "embedVerified": true
+  },
+  "Dumbbell shrug": {
+    "youtubeId": "JEnhFC1AtHw",
+    "page": "https://www.youtube.com/watch?v=JEnhFC1AtHw",
+    "author": "BPI Sports",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=JEnhFC1AtHw",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Dumbbell Shrug - The Proper Lift - BPI Sports",
+    "embedVerified": true
+  },
+  "Sumo goblet squat": {
+    "youtubeId": "R0I3kN0wo9w",
+    "page": "https://www.youtube.com/watch?v=R0I3kN0wo9w",
+    "author": "TrainFTW",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=R0I3kN0wo9w",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Sumo Goblet Squat (Wide Stance)",
+    "embedVerified": true
+  },
+  "Single-leg glute bridge": {
+    "youtubeId": "_K_di6h2-Wg",
+    "page": "https://www.youtube.com/watch?v=_K_di6h2-Wg",
+    "author": "Well+Good",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=_K_di6h2-Wg",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Single-Leg Glute Bridge | The Right Way | Well+Good",
+    "embedVerified": true
+  },
+  "Side-lying hip abduction": {
+    "youtubeId": "i2r_o6JRdyU",
+    "page": "https://www.youtube.com/watch?v=i2r_o6JRdyU",
+    "author": "Physical Therapy Nation",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=i2r_o6JRdyU",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to Perform Hip Abduction in Side-lying",
+    "embedVerified": true
+  },
+  "Wall sit": {
+    "youtubeId": "y-wV4Venusw",
+    "page": "https://www.youtube.com/watch?v=y-wV4Venusw",
+    "author": "ScottHermanFitness",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=y-wV4Venusw",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To: Wall-Sit",
+    "embedVerified": true
+  },
+  "Kettlebell suitcase carry": {
+    "youtubeId": "iq5D5SU2Oq4",
+    "page": "https://www.youtube.com/watch?v=iq5D5SU2Oq4",
+    "author": "OriGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=iq5D5SU2Oq4",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do Kettlebell Suitcase Carry | Exercise Demo",
+    "embedVerified": true
+  },
+  "Dumbbell row": {
+    "youtubeId": "dFzUjzfih7k",
+    "page": "https://www.youtube.com/watch?v=dFzUjzfih7k",
+    "author": "Max Euceda",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=dFzUjzfih7k",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do the SINGLE ARM DUMBBELL ROW! | 2 Minute Tutorial",
+    "embedVerified": true
+  },
+  "Bodyweight squat": {
+    "youtubeId": "UYbsgiiZgao",
+    "page": "https://www.youtube.com/watch?v=UYbsgiiZgao",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=UYbsgiiZgao",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Prisoner Squat  | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Reverse lunge": {
+    "youtubeId": "xrPteyQLGAo",
+    "page": "https://www.youtube.com/watch?v=xrPteyQLGAo",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=xrPteyQLGAo",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Reverse Lunge",
+    "embedVerified": true
+  },
+  "Plank": {
+    "youtubeId": "Vdcy7VrRluA",
+    "author": "ACE Fitness",
+    "page": "https://www.acefitness.org/resources/everyone/exercise-library/video/",
+    "guide": "https://www.youtube.com/watch?v=Vdcy7VrRluA",
+    "indoor": true
+  },
+  "High knees": {
+    "youtubeId": "sTvekaq6vOU",
+    "page": "https://www.youtube.com/watch?v=sTvekaq6vOU",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=sTvekaq6vOU",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do High Knees",
+    "embedVerified": true
+  },
+  "Jumping jacks": {
+    "youtubeId": "uLVt6u15L98",
+    "page": "https://www.youtube.com/watch?v=uLVt6u15L98",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=uLVt6u15L98",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Jumping Jack  | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Run / walk": {
+    "youtubeId": "65_LMjoYFaI",
+    "page": "https://www.youtube.com/watch?v=65_LMjoYFaI",
+    "source": "https://www.youtube.com/watch?v=65_LMjoYFaI",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "author": "The Running Channel",
+    "title": "Running and Walking | HOW TO Use The Run Walk Run Method by Jeff Galloway",
+    "embedVerified": true
+  },
+  "Standing calf raise": {
+    "youtubeId": "Dgf9hougTdc",
+    "page": "https://www.youtube.com/watch?v=Dgf9hougTdc",
+    "author": "Conditioned by Kelly Tekin",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Dgf9hougTdc",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Standing BW Calf Raise",
+    "embedVerified": true
+  },
+  "Dumbbell thruster": {
+    "youtubeId": "M5gEwLTtWbg",
+    "page": "https://www.youtube.com/watch?v=M5gEwLTtWbg",
+    "author": "CrossFit",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=M5gEwLTtWbg",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "The Dumbbell Thruster",
+    "embedVerified": true
+  },
+  "Mountain climber": {
+    "youtubeId": "nmwgirgXLYM",
+    "page": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+    "author": "Howcast",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to Do a Mountain Climber | Boot Camp Workout",
+    "embedVerified": true
+  },
+  "Farmer carry": {
+    "youtubeId": "7mzKcADa46c",
+    "page": "https://www.youtube.com/watch?v=7mzKcADa46c",
+    "author": "Lift With Michelle - Exercise Form Tutorials",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=7mzKcADa46c",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Dumbbell Farmer Carry Exercise Tutorial | Farmers Carry Compound Exercise",
+    "embedVerified": true
+  },
+  "Hip circles": {
+    "youtubeId": "jUft857xWzw",
+    "page": "https://www.youtube.com/watch?v=jUft857xWzw",
+    "author": "TimesHealth+",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=jUft857xWzw",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Hip Circles Exercise | Warm Up for Hips & Lower Back | TimesHealth+",
+    "embedVerified": true
+  },
+  "Walking knee hugs": {
+    "youtubeId": "V8axC7jpD7U",
+    "guide": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "page": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "author": "Dr. John Rusin",
+    "related": true,
+    "indoor": true
+  },
+  "Treadmill warm-up": {
+    "youtubeId": "HxsFneJFM2c",
+    "page": "https://www.youtube.com/watch?v=HxsFneJFM2c",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=HxsFneJFM2c",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Use The Treadmill",
+    "embedVerified": true
+  },
+  "Rowing machine warm-up": {
+    "youtubeId": "zQ82RYIFLN8",
+    "page": "https://www.youtube.com/watch?v=zQ82RYIFLN8",
+    "author": "Concept2 Australia",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=zQ82RYIFLN8",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Correct Rowing Technique",
+    "embedVerified": true
+  },
+  "Elliptical trainer warm-up": {
+    "youtubeId": "yISC2qwdh9I",
+    "page": "https://www.youtube.com/watch?v=yISC2qwdh9I",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=yISC2qwdh9I",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Use The Cross Trainer",
+    "embedVerified": true
+  },
+  "Stairmaster warm-up": {
+    "youtubeId": "rEyzjPgf1uA",
+    "page": "https://www.youtube.com/watch?v=rEyzjPgf1uA",
+    "source": "https://www.youtube.com/watch?v=rEyzjPgf1uA",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "author": "Refined Body Fitness",
+    "title": "Stair Climber - Exercise Demonstration by Refined Body Fitness",
+    "embedVerified": true
+  },
+  "Chest opener": {
+    "youtubeId": "crnw1IKWNZY",
+    "page": "https://www.youtube.com/watch?v=crnw1IKWNZY",
+    "author": "St. Peter's Health",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=crnw1IKWNZY",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Standing Chest Opener",
+    "embedVerified": true
+  },
+  "Cat–cow": {
+    "youtubeId": "PGDnZ-sCC_o",
+    "page": "https://www.youtube.com/watch?v=PGDnZ-sCC_o",
+    "author": "Doctor O'Donovan",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=PGDnZ-sCC_o",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Do This 1 Stretch Daily to Improve Back Mobility (Cat Cow Explained)",
+    "embedVerified": true
+  },
+  "Ankle circles": {
+    "youtubeId": "mzTQGYGI0Ng",
+    "page": "https://www.youtube.com/watch?v=mzTQGYGI0Ng",
+    "author": "AskDoctorJo",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=mzTQGYGI0Ng",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Ankle Circles - Ask Doctor Jo",
+    "embedVerified": true
+  },
+  "Thoracic rotation": {
+    "youtubeId": "XwYRaloCdr8",
+    "page": "https://www.youtube.com/watch?v=XwYRaloCdr8",
+    "author": "Physical Therapy First",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=XwYRaloCdr8",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Thoracic   Open Book Stretch",
+    "embedVerified": true
+  },
+  "Seated hamstring mobility": {
+    "youtubeId": "BdstmvL4Mik",
+    "page": "https://www.youtube.com/watch?v=BdstmvL4Mik",
+    "author": "National University Hospital (NUH) Singapore",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=BdstmvL4Mik",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "NUH Physiotherapy - Hamstring stretch in sitting",
+    "embedVerified": true
+  },
+  "Child’s pose breathing": {
+    "youtubeId": "_ZX_zTOBgp8",
+    "page": "https://www.youtube.com/watch?v=_ZX_zTOBgp8",
+    "author": "National Academy of Sports Medicine (NASM)",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=_ZX_zTOBgp8",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do a Child's Pose Stretch | Proper Form & Technique | NASM",
+    "embedVerified": true
+  },
+  "Supported heel-to-toe walk": {
+    "youtubeId": "z_GKdFf3qv4",
+    "page": "https://www.youtube.com/watch?v=z_GKdFf3qv4",
+    "author": "National Institute on Aging",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=z_GKdFf3qv4",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Heel-to-Toe Walk Balance Exercise for Older Adults",
+    "embedVerified": true
+  },
+  "Prone Y raise": {
+    "youtubeId": "w1AWGKubE5U",
+    "page": "https://www.youtube.com/watch?v=w1AWGKubE5U",
+    "author": "Performance Course",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=w1AWGKubE5U",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Prone Y Raise",
+    "embedVerified": true
+  },
+  "Seated dumbbell shoulder press": {
+    "youtubeId": "rO_iEImwHyo",
+    "page": "https://www.youtube.com/watch?v=rO_iEImwHyo",
+    "author": "Max Euceda",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=rO_iEImwHyo",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How to do the SEATED DUMBBELL SHOULDER PRESS! | 2 Minute Tutorial",
+    "embedVerified": true
+  },
+  "Lateral lunge": {
+    "youtubeId": "apsp_uuXZTU",
+    "page": "https://www.youtube.com/watch?v=apsp_uuXZTU",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=apsp_uuXZTU",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do Lateral Lunges (Side Lunges)",
+    "embedVerified": true
+  },
+  "Bodyweight good morning": {
+    "youtubeId": "Kdeq15AvUVU",
+    "page": "https://www.youtube.com/watch?v=Kdeq15AvUVU",
+    "author": "PLT4M",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=Kdeq15AvUVU",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Bodyweight Good Morning",
+    "embedVerified": true
+  },
+  "Step jack": {
+    "youtubeId": "VQBwQFpEWgo",
+    "page": "https://www.youtube.com/watch?v=VQBwQFpEWgo",
+    "source": "https://www.youtube.com/watch?v=VQBwQFpEWgo",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "author": "Lorenzo Serra - Fitness e Allenamento",
+    "title": "Jumping Jack a basso impatto",
+    "embedVerified": true
+  },
+  "Alternating reverse lunge to knee drive": {
+    "youtubeId": "pa3fq5cLeAA",
+    "page": "https://www.youtube.com/watch?v=pa3fq5cLeAA",
+    "author": "E3 Rehab Exercise Library",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=pa3fq5cLeAA",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Reverse Lunge to Knee Drive",
+    "embedVerified": true
+  },
+  "Dumbbell squat to calf raise": {
+    "youtubeId": "_qZbZtnzync",
+    "page": "https://www.youtube.com/watch?v=_qZbZtnzync",
+    "author": "Live Lean TV Daily Exercises",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=_qZbZtnzync",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do A DUMBBELL TOP SQUAT TO CALF RAISE | Exercise Demonstration Video and Guide",
+    "embedVerified": true
+  },
+  "Kettlebell sumo deadlift": {
+    "youtubeId": "hvh0noctALM",
+    "page": "https://www.youtube.com/watch?v=hvh0noctALM",
+    "author": "ashleybordenfitness",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=hvh0noctALM",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Kettlebell sumo deadlift",
+    "embedVerified": true
+  },
+  "Dumbbell alternating overhead press": {
+    "youtubeId": "jZfal3KVPDw",
+    "page": "https://www.youtube.com/watch?v=jZfal3KVPDw",
+    "author": "OriGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=jZfal3KVPDw",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Do Standing Alternating Dumbbell Press | Exercise Demo",
+    "embedVerified": true
+  },
+  "Standing punch interval": {
+    "youtubeId": "8MDswjSBMRw",
+    "page": "https://www.youtube.com/watch?v=8MDswjSBMRw",
+    "source": "https://www.youtube.com/watch?v=8MDswjSBMRw",
+    "author": "VISSCO",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Fitness Exercise: Standing punches - Level 2 - Visit comfortmypain.com now to bounce back & get fit.",
+    "embedVerified": true
+  },
+  "Lateral step-over": {
+    "youtubeId": "IO78Iy9kRaU",
+    "page": "https://www.youtube.com/watch?v=IO78Iy9kRaU",
+    "source": "https://www.youtube.com/watch?v=IO78Iy9kRaU",
+    "author": "Alyssa Kuhn, Arthritis Adventure",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Lateral step overs for arthritis relief | Dr Alyssa Kuhn",
+    "embedVerified": true
+  },
+  "Dumbbell reverse fly": {
+    "file": "/exercises/human/82.mp4",
+    "poster": "/exercises/human/82.jpg",
+    "source": "https://wger.de/media/exercise-video/82/28b53647-27e7-47cf-8852-2ee666c8b628.MOV",
+    "page": "https://wger.de/en/exercise/82/view/",
+    "author": "Goulart",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "wgerId": 82,
+    "changes": "Five-second excerpt, resized, muted and encoded as H.264 loop."
+  },
+  "Wrist circles": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/49d936b0-cf98-4395-be66-b4a282cdde5c?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/wrist-circles-video-exercise-guide-tips-142812/",
+    "guide": "https://workoutguru.fit/exercises/wrist-circles-video-exercise-guide-tips-142812/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Standing quadriceps mobilization": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/78e65bb5-6145-4540-b5f6-87b02789c734?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/standing-quadriceps-stretch-video-exercise-guide-tips-105912/",
+    "guide": "https://workoutguru.fit/exercises/standing-quadriceps-stretch-video-exercise-guide-tips-105912/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable Pallof press": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/0b7a30b1-2619-43f5-b8de-5e94c48adab7?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-horizontal-pallof-press-video-exercise-guide-tips-120212/",
+    "guide": "https://workoutguru.fit/exercises/cable-horizontal-pallof-press-video-exercise-guide-tips-120212/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Reverse crunch": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/0d5f81fb-602b-4f0e-b4a3-e71739d4eb46?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/reverse-crunch-video-exercise-guide-tips-087212/",
+    "guide": "https://workoutguru.fit/exercises/reverse-crunch-video-exercise-guide-tips-087212/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Bear hover": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/af91c0e8-6e51-4bff-9f3e-128013590a3a?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/bear-plank-video-exercise-guide-tips-417012/",
+    "guide": "https://workoutguru.fit/exercises/bear-plank-video-exercise-guide-tips-417012/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Seated knee tuck": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/9c5631e6-19ff-4fba-9721-1e6eda81dfd3?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/sitting-knee-tuck-on-a-padded-stool-video-exercise-guide-tips-647212/",
+    "guide": "https://workoutguru.fit/exercises/sitting-knee-tuck-on-a-padded-stool-video-exercise-guide-tips-647212/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable standing row": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/3b8367bd-dafe-44bf-9047-b2599009b168?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-standing-row-video-exercise-guide-tips-509012/",
+    "guide": "https://workoutguru.fit/exercises/cable-standing-row-video-exercise-guide-tips-509012/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable chest press": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/602e56e3-876d-4aa9-9e6c-29f8afa94c52?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-standing-chest-press-video-exercise-guide-tips-335912/",
+    "guide": "https://workoutguru.fit/exercises/cable-standing-chest-press-video-exercise-guide-tips-335912/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable biceps curl": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/8a36ef53-f44b-4e1e-815b-9820037f0dc1?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-curl-video-exercise-guide-tips-086812/",
+    "guide": "https://workoutguru.fit/exercises/cable-curl-video-exercise-guide-tips-086812/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable pull-through": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/9f6fc6ec-d917-4f07-8fdc-f7fb19e69b35?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-pull-through-video-exercise-guide-tips-120612/",
+    "guide": "https://workoutguru.fit/exercises/cable-pull-through-video-exercise-guide-tips-120612/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Half-kneeling cable pulldown": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/6404beba-f17f-40dd-ab82-67333853420a?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-kneeling-one-arm-lat-pulldown-video-exercise-guide-tips-494812/",
+    "guide": "https://workoutguru.fit/exercises/cable-kneeling-one-arm-lat-pulldown-video-exercise-guide-tips-494812/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Standing cable lift": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/8f710f06-1363-4d79-849d-19176ceffcb8?autoplay=false&muted=true",
+    "page": "https://workoutguru.fit/exercises/cable-standing-lift-video-exercise-guide-tips-023012/",
+    "guide": "https://workoutguru.fit/exercises/cable-standing-lift-video-exercise-guide-tips-023012/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "World’s greatest stretch": {
+    "youtubeId": "aiN-2yAIkec",
+    "page": "https://www.youtube.com/watch?v=aiN-2yAIkec",
+    "guide": "https://www.youtube.com/watch?v=aiN-2yAIkec",
+    "author": "Squat University",
+    "indoor": true
+  },
+  "Incline cable lateral raise": {
+    "youtubeId": "Cr7VaOh0Yks",
+    "page": "https://archive.t-nation.com/training/tip-incline-cable-lateral-raise/",
+    "guide": "https://www.youtube.com/watch?v=Cr7VaOh0Yks",
+    "author": "Paul Carter · Lift-Run-Bang / T Nation",
+    "indoor": true
+  },
+  "Treadmill run / walk": {
+    "youtubeId": "HxsFneJFM2c",
+    "page": "https://www.youtube.com/watch?v=HxsFneJFM2c",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=HxsFneJFM2c",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Use The Treadmill",
+    "embedVerified": true,
+    "indoor": true
+  },
+  "Elliptical intervals": {
+    "youtubeId": "yISC2qwdh9I",
+    "page": "https://www.youtube.com/watch?v=yISC2qwdh9I",
+    "author": "PureGym",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=yISC2qwdh9I",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "How To Use The Cross Trainer",
+    "embedVerified": true,
+    "indoor": true
+  },
+  "Stairmaster steady climb": {
+    "youtubeId": "rEyzjPgf1uA",
+    "page": "https://www.youtube.com/watch?v=rEyzjPgf1uA",
+    "source": "https://www.youtube.com/watch?v=rEyzjPgf1uA",
+    "provider": "YouTube",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "author": "Refined Body Fitness",
+    "title": "Stair Climber - Exercise Demonstration by Refined Body Fitness",
+    "embedVerified": true,
+    "indoor": true
+  },
+  "Rowing machine intervals": {
+    "youtubeId": "zQ82RYIFLN8",
+    "page": "https://www.youtube.com/watch?v=zQ82RYIFLN8",
+    "author": "Concept2 Australia",
+    "provider": "YouTube",
+    "source": "https://www.youtube.com/watch?v=zQ82RYIFLN8",
+    "changes": "Original instructor video embedded through the official YouTube player; loops on completion. No footage copied or altered.",
+    "title": "Correct Rowing Technique",
+    "embedVerified": true,
+    "indoor": true
+  },
+  "Wall slide": {
+    "youtubeId": "oMSVe7PWJ3o",
+    "author": "Prehab",
+    "page": "https://theprehabguys.com/blog/serratus-anterior-exercises/",
+    "guide": "https://www.youtube.com/watch?v=oMSVe7PWJ3o",
+    "indoor": true
+  },
+  "Scapular push-up": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/9e523844-75e6-4376-8dae-c614177013ee?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/scapula-push-up-video-exercise-guide-tips-302112/",
+    "indoor": true,
+    "author": "WorkoutGuru",
+    "page": "https://workoutguru.fit/exercises/scapula-push-up-video-exercise-guide-tips-302112/"
+  },
+  "Standing trunk side bend": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/c0bb4a29-8610-4ef7-b25b-9e89a8117eca?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/standing-side-bend-female-video-exercise-guide-tips-325312/",
+    "page": "https://workoutguru.fit/exercises/standing-side-bend-female-video-exercise-guide-tips-325312/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable wood chop": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/9313689d-a3a3-477a-9996-915b9d27eadd?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/cable-twist-up-down-video-exercise-guide-tips-086212/",
+    "page": "https://workoutguru.fit/exercises/cable-twist-up-down-video-exercise-guide-tips-086212/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Dumbbell deadlift": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/5bdf88dc-f960-4166-9872-203dbe65dac9?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/dumbbell-deadlift-video-exercise-guide-tips-030012/",
+    "page": "https://workoutguru.fit/exercises/dumbbell-deadlift-video-exercise-guide-tips-030012/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Dumbbell suitcase carry": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/0493d84f-c402-44c1-a41a-e26fa95b6ca6?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/dumbbell-suitcase-carry-video-exercise-guide-tips-291012/",
+    "page": "https://workoutguru.fit/exercises/dumbbell-suitcase-carry-video-exercise-guide-tips-291012/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable fly": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/ff365a67-fd88-49b9-bf71-b718a3ec58ba?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/cable-standing-fly-video-exercise-guide-tips-022712/",
+    "page": "https://workoutguru.fit/exercises/cable-standing-fly-video-exercise-guide-tips-022712/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable triceps pressdown": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/64b4310e-02a8-426f-817a-392c6de50a6a?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/cable-pushdown-with-rope-attachment-video-exercise-guide-tips-020012/",
+    "page": "https://workoutguru.fit/exercises/cable-pushdown-with-rope-attachment-video-exercise-guide-tips-020012/",
+    "author": "WorkoutGuru",
+    "indoor": true
+  },
+  "Cable face pull": {
+    "youtubeId": "eTCBSFlCJ_s",
+    "guide": "https://www.youtube.com/watch?v=eTCBSFlCJ_s",
+    "page": "https://www.youtube.com/watch?v=eTCBSFlCJ_s",
+    "author": "NASM",
+    "indoor": true
+  },
+  "Modified curl-up": {
+    "youtubeId": "Woz8RYQnbhU",
+    "guide": "https://www.youtube.com/watch?v=Woz8RYQnbhU",
+    "page": "https://www.youtube.com/watch?v=Woz8RYQnbhU",
+    "author": "Squat University",
+    "indoor": true
+  },
+  "Adductor rock-back": {
+    "embedUrl": "https://iframe.mediadelivery.net/embed/161665/efe4f66a-025a-4636-93d4-c3bea1e29c9f?autoplay=false&muted=true",
+    "guide": "https://workoutguru.fit/exercises/kneeling-adductor-backward-stretch-male-video-exercise-guide-tips-670912/",
+    "indoor": true,
+    "author": "WorkoutGuru",
+    "page": "https://workoutguru.fit/exercises/kneeling-adductor-backward-stretch-male-video-exercise-guide-tips-670912/"
+  },
+  "Dynamic hamstring sweep": {
+    "youtubeId": "V8axC7jpD7U",
+    "guide": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "page": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "author": "Dr. John Rusin",
+    "related": true,
+    "indoor": true
+  },
+  "Supine heel tap": {
+    "youtubeId": "xmyq2e7jiso",
+    "guide": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "page": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "author": "Dr. John Rusin",
+    "related": true,
+    "indoor": true
+  },
+  "Bent-knee fallout": {
+    "youtubeId": "xmyq2e7jiso",
+    "guide": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "page": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "author": "Dr. John Rusin",
+    "related": true,
+    "indoor": true
+  },
+  "Dumbbell suitcase hold": {
+    "youtubeId": "xmyq2e7jiso",
+    "guide": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "page": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "author": "Dr. John Rusin",
+    "related": true,
+    "indoor": true
+  },
+  "Cable split-stance press": {
+    "page": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/",
+    "indoor": true,
+    "related": true,
+    "author": "Dr. John Rusin",
+    "youtubeId": "e6HL6U458Ts",
+    "guide": "https://drjohnrusin.com/the-perfect-10-minute-warm-up/"
+  }
+}
